@@ -10,7 +10,7 @@ Black-and-white, environment-first illustrated panels. Concise prose. Choices wi
 
 ## Status
 
-**Agreement demo (M0.5).** The prologue, *The Greywater*, is playable end to end with placeholder art: 7 scenes, 432 paths, 9 outcomes, all tested. Start with the docs:
+**Agreement demo (M0.5).** Play it: **https://qtval.github.io/deadweight/** — the prologue, *The Greywater*, is playable end to end with placeholder art: 7 scenes, 432 paths, 9 outcomes, all tested. Start with the docs:
 
 | Doc | What it is |
 |-----|-----------|

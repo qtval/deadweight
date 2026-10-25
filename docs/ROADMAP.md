@@ -24,7 +24,7 @@ Repo, tooling, and a reader that runs.
 - [x] Tag parser for `# panel:` `# title:` `# know:` `# remember:` `# end:`
 - [x] Story test (`tools/test-story.mjs`) and browser test (`tools/test-e2e.mjs`)
 - [x] GitHub Actions written: CI on every push; deploy to GitHub Pages on `main`
-- [ ] GitHub repo created and pushed; CI green on GitHub; Pages link live
+- [x] GitHub repo created and pushed; CI green on GitHub; Pages link live: https://qtval.github.io/deadweight/
 - [x] `CLAUDE.md` working method committed
 
 **Exit test:** a stranger opens the Pages link on a phone and plays the prologue demo.
@@ -141,3 +141,4 @@ Combat systems, inventory, character creator beyond name/pronouns, voice acting,
 | 2026-10-25 | Tight scope: 2–3 h, 6 chapters, 5 endings, ~180 panels | Finishable by one person |
 | 2026-10-25 | Web (Vite + TS) + ink/inkjs + Capacitor 8 | Writer-friendly story format; web build wraps unchanged |
 | 2026-10-25 | GPT-Image-2 for panels, hand-curated, uniformly post-processed | Consistency comes from the processing step and fixed location prompts |
+| 2026-10-25 | Repo public at qtval/deadweight; Claude GitHub app on all repos | Free Pages demo link; any new repo works with no extra setup |
