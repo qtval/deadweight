@@ -56,16 +56,16 @@ Everything the writing needs before writing.
 - [ ] Lock `art/prompts/STYLE.md` after a 12-image comparison sheet
 - [ ] Location prompts for ch0–1 locations (Greywater, the road, Stint)
 - [ ] `gen-panel.mjs` (API) and `process-panel.mjs` working; `check-panels` in CI
-- [ ] ~35 processed panels placed for ch0–1
+- [ ] ~40 processed panels placed for ch0–1
 - [ ] Panel crossfade, subtle pan, blurred placeholder loading
 - [ ] `art/LOG.csv` started
 
-**Exit test:** ch0–1 played with final-quality art; a side-by-side of all 35 panels reads as one artist's work.
+**Exit test:** ch0–1 played with final-quality art; a side-by-side of all ~40 panels reads as one artist's work.
 
 ## M4 — Chapters 2–3 (≈3 weeks)
 
 - [ ] ch02 (Hanging Wood) and ch03 (Barrow Hill) written and implemented; midpoint turn works
-- [ ] Panels for ch2–3 (~60)
+- [ ] Panels for ch2–3 (~70)
 - [ ] First audio: 6–8 ambient loops, a handful of stingers; captions for audio in settings
 - [ ] Save migration table in place; old saves survive content changes
 
@@ -75,7 +75,7 @@ Everything the writing needs before writing.
 
 - [ ] ch04 (Saint Weir) and ch05 (Vellmouth); all five endings and their variations
 - [ ] Epilogue: Ballad vs Account, two-column layout
-- [ ] Panels for ch4–5 and endings (~60); the final 180 placed
+- [ ] Panels for ch4–5 and endings (~70); all ~180 placed
 - [ ] Full-run fuzz: every ending reached by the fuzzer; no unreachable knots
 
 **Exit test:** two full playthroughs by outside players end in different endings and both players can say what they paid for theirs.
