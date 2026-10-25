@@ -7,7 +7,11 @@ import "./style.css";
 // Assets
 const panelFiles = import.meta.glob("../assets/panels/*.{svg,webp,png,jpg}", { eager: true, query: "?url", import: "default" }) as Record<string, string>;
 const panels: Record<string, string> = {};
-for (const [path, url] of Object.entries(panelFiles)) panels[path.split("/").pop()!.replace(/\.\w+$/, "")] = url;
+// A real panel (webp/png/jpg) always wins over its SVG placeholder.
+for (const [path, url] of Object.entries(panelFiles)) {
+  const id = path.split("/").pop()!.replace(/\.\w+$/, "");
+  if (!panels[id] || !path.endsWith(".svg")) panels[id] = url;
+}
 
 const WHO: Record<string, { name: string }> = {
   aubric: { name: "Sir Aubric Dane" },

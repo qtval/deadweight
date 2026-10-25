@@ -5,7 +5,7 @@ The art is the most expensive thing in the game by volume and the easiest thing 
 ## The look
 
 - **Full-screen portrait panels**, one clean image per story beat. Generated at the model's portrait size, delivered at **1080×1920** (9:16) with a **3:4 safe area** in the center so phones with other ratios and the desktop window crop, not stretch.
-- **Black and white only.** Ink, charcoal, dry brush, cross-hatching. Heavy grain. Deep blacks, paper whites, few mid-greys.
+- **Black and white plus one amber accent.** Ink, charcoal, dry brush, cross-hatching, heavy grain, deep blacks. The only colour is amber, and only for real light sources (lanterns, fire, a low sun) and the faint glow they cast. The Lantern's light is the visual motif: amber is alive while he is; after the Greywater it only comes from other people's lamps and dawns. Each chapter's prompt file states its "amber arc".
 - **Environment-first.** The place is the subject: rain, fog, mud, smoke, worn timber, drowned stone, severe architecture. Where people appear they are **small (under ~15% of frame), distant, silhouetted, from behind, or cropped** — a hand, a boot, a shape under a cloak.
 - **Faces are rare.** A face may appear at most once per chapter, never the player's, and never clearly enough to need to match a previous one.
 - **No text of any kind** in images. No signs, no runes, no lettering, no UI. (Say it twice in every prompt; GPT-Image-2 is *good* at text, which is the problem.)
@@ -52,9 +52,11 @@ ch02_hangingwood_gibbets_dusk, 2, ch02_s04, hangingwood, ch02_hangingwood_road_d
 
 ## Generation → curation → processing
 
-1. **Generate** 2–4 candidates (API script `tools/gen-panel.mjs`, reading the shot list; or ChatGPT for one-offs).
+**Current workflow (decided 2026-10-25): the ChatGPT app, semi-automated.** Claude writes `art/prompts/<chapter>.md` and publishes it as a prompt-pack page (`tools/make-prompt-pack.mjs`) with a style-setup message and one copy-button prompt per panel. The owner pastes them into one ChatGPT chat and saves the images in `Pictures\Deadweight` on their PC (any file names). Claude picks them up through the linked computer, identifies each panel by looking at it, processes, tests and pushes. Automating the ChatGPT app itself is not used: it is against OpenAI's terms and slow. If volume makes this tedious, the API path below (a GitHub Action with an `OPENAI_API_KEY` secret) replaces the manual step without changing anything else.
+
+1. **Generate** 1–3 candidates per panel in ChatGPT from the prompt pack (or later, via the API).
 2. **Curate** by hand into `art/candidates/<panel_id>/`; pick one; note why in the shot list (this gets fast).
-3. **Process** every picked image with the same script (`tools/process-panel.mjs`, using `sharp`): convert to true grayscale, normalize levels to the same black/white points, add the same grain layer, the same slight vignette, resize to 1080×1920, export **WebP** (quality ~80) plus a tiny blurred placeholder. This step is what makes 180 images from different sessions look like one artist.
+3. **Process** every picked image with `tools/process-panel.mjs <panel_id>=<image>` (uses `sharp`): crop to 1080×1920 from the centre, **enforce the palette** (every pixel becomes neutral grey except amber light, which is pulled to one fixed amber, so stray colours from ChatGPT disappear), normalise black/white points, add the same grain and vignette, export **WebP** (quality 82). It removes the panel's SVG placeholder and logs provenance to `art/LOG.csv`. This step is what makes 180 images from different sessions look like one artist.
 4. **Place** into `public/panels/<panel_id>.webp`. Commit the prompt, model, date and candidate choice into `art/LOG.csv`.
 
 ## Rights and disclosure
@@ -68,4 +70,4 @@ ch02_hangingwood_gibbets_dusk, 2, ch02_s04, hangingwood, ch02_hangingwood_road_d
 
 - Character sprites, portraits, expressions. (Deliberately.)
 - Animation beyond subtle parallax/pan and crossfades done in CSS.
-- Color. If a single color is ever used, it is one accent (blood, a lantern) and it is a decision made once for the whole game in M3.
+- Any colour other than the amber light accent.
