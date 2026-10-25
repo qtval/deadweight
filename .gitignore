@@ -1,7 +1,10 @@
 node_modules/
 dist/
+dist-single/
 .vite/
 art/candidates/
+reports/screens/
+reports/story-paths.json
 *.log
 .DS_Store
 .env

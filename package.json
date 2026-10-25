@@ -1,0 +1,24 @@
+{
+  "name": "deadweight",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "npm run story && vite",
+    "story": "node tools/compile-ink.mjs",
+    "test:story": "npm run story && node tools/test-story.mjs",
+    "build": "npm run test:story && tsc --noEmit && vite build",
+    "build:single": "npm run test:story && vite build --mode single",
+    "test:e2e": "node tools/test-e2e.mjs",
+    "test": "npm run build && npm run test:e2e",
+    "panels:placeholder": "python3 tools/make-placeholders.py"
+  },
+  "dependencies": {
+    "inkjs": "^2.4.0"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2",
+    "vite": "^8.3.5",
+    "vite-plugin-singlefile": "^2.3.4"
+  }
+}

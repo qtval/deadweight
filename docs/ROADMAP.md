@@ -1,6 +1,6 @@
 # Roadmap
 
-Nine milestones. Each has an **exit test** — the milestone is done when the test passes, not when the tasks are ticked. Durations are rough, for one person working part-time with AI tooling; they are there to spot drift, not to be hit.
+Ten milestones. Each has an **exit test** — the milestone is done when the test passes, not when the tasks are ticked. Every milestone also has the same **testing gate** (`docs/TESTING.md`): story test green on every path, browser playthroughs green, reports in the handoff, and for content milestones a story-lock playtest with people. Durations are rough, for one person working part-time with AI tooling; they are there to spot drift, not to be hit.
 
 Guiding rules (carried over from the previous project because they were right):
 - World and consequence before dialogue polish.
@@ -9,22 +9,37 @@ Guiding rules (carried over from the previous project because they were right):
 - Original work only.
 - **Web first, Android last.** No mobile work before M7.
 - No scope expansion without writing it down here first.
+- **Every iteration ends with testing.** No task is ticked until `npm test` passes.
 
 ---
 
 ## M0 — Foundation (≈1 week)
 
-Repo, tooling, and an empty reader that runs.
+Repo, tooling, and a reader that runs.
 
-- [x] Planning docs: VISION, WRITING_GUIDE, ART_PIPELINE, TECH, ROADMAP
-- [ ] Decide title, protagonist name/pronoun approach (player-chosen recommended)
-- [ ] Vite + TypeScript project; `npm run dev` shows a title screen
-- [ ] inkjs + `tools/compile-ink.mjs`; a 5-node test story plays end to end
-- [ ] Tag parser for `# panel:` `# ambient:` `# remember:` `# day:`
-- [ ] GitHub Actions: typecheck + ink compile on push; deploy to GitHub Pages on `main`
-- [ ] `CLAUDE.md` working method committed
+- [x] Planning docs: VISION, WRITING_GUIDE, ART_PIPELINE, TECH, ROADMAP, TESTING
+- [ ] Decide title, protagonist name/pronoun approach (player-chosen recommended; the demo uses a fixed "Wren")
+- [x] Vite + TypeScript project; `npm run dev` shows a title screen
+- [x] inkjs + `tools/compile-ink.mjs`; the prologue demo plays end to end
+- [x] Tag parser for `# panel:` `# title:` `# know:` `# remember:` `# end:`
+- [x] Story test (`tools/test-story.mjs`) and browser test (`tools/test-e2e.mjs`)
+- [x] GitHub Actions written: CI on every push; deploy to GitHub Pages on `main`
+- [ ] GitHub repo created and pushed; CI green on GitHub; Pages link live
+- [x] `CLAUDE.md` working method committed
 
-**Exit test:** a stranger opens the Pages link on a phone and plays the 5-node test story with a placeholder panel.
+**Exit test:** a stranger opens the Pages link on a phone and plays the prologue demo.
+
+## M0.5 — Agreement demo (now)
+
+A playable prologue to agree on tone, writing, UI, systems and testing before M1 commits to the full beat sheet.
+
+- [x] Prologue "The Greywater" in ink: 7 scenes, 432 paths, 9 outcomes, 4 remember-lines
+- [x] Reader: chapter card, panel crossfade, tap-to-continue, choices, journal (Travelers / Ballad / Road / Settings), autosave, end screen with recap and ballad
+- [x] Procedural placeholder panels (stand-ins for GPT-Image-2 art)
+- [x] Tests green: story 432/432 paths, browser 36/36 checks
+- [ ] **Owner verdict** on: premise, tone and prose, UI, the journal and remember-lines, the art direction, and the testing reports
+
+**Exit test:** the owner says "yes, build this" — or lists what to change, and the changes are made and re-tested.
 
 ## M1 — Story bible and beat sheet (≈2 weeks)
 

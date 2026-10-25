@@ -9,7 +9,7 @@
 | Narrative | **ink** (inkle's scripting language), compiled with **inkjs** (v2.4+, includes a JavaScript compiler — no .NET needed) | Writer-friendly branching with variables, conditionals, tunnels, and tags. Battle-tested in *80 Days*, *Heaven's Vault*, *Sorcery!*. Replaces hand-written JSON node graphs, which are where the previous project spent most of its effort. |
 | App | **Vite + TypeScript**, no UI framework | A visual novel reader is a few hundred lines: a panel, a text box, a choice list, a menu. A framework adds build weight and nothing else. TypeScript catches the save-format and tag-parsing bugs. |
 | Styling | Plain CSS, custom properties, `prefers-reduced-motion` / `prefers-color-scheme` aware | Portrait-first layout; desktop simply shows the phone-shaped column centered. |
-| Panels | WebP + blurred placeholders, lazy-loaded per chapter | Keeps the first load small; 180 panels at ~150 KB ≈ 27 MB total, loaded as needed. |
+| Panels | `assets/panels/`, imported by Vite (WebP final, SVG placeholders now), lazy-loaded per chapter | Keeps the first load small; 180 panels at ~150 KB ≈ 27 MB total, loaded as needed. |
 | Audio | Howler.js (or plain Web Audio) for ambient loops and stingers | Small, handles mobile autoplay rules. No voice acting. |
 | Saves | `localStorage` behind a tiny storage interface; export/import as JSON | Same interface is swapped to Capacitor Preferences/Filesystem in M7 without touching game code. |
 | Hosting (web) | **GitHub Pages** via Actions | Free, automatic on push to `main`. Playtesters get a link. |
@@ -26,7 +26,8 @@ deadweight/
 ├── story/
 │   ├── main.ink              # includes the chapters
 │   ├── ch00_greywater.ink … ch05_vellmouth.ink
-│   ├── systems.ink           # variables, relationship functions, ballad text
+│   ├── systems.ink           # variables, recap(), ballad()
+│   ├── GLOSSARY.json         # every proper noun; the story test enforces it
 │   ├── BEATS.md              # the beat sheet (one scene template per scene)
 │   └── VOICE.md              # 10 reference paragraphs in the final voice
 ├── art/
@@ -35,10 +36,11 @@ deadweight/
 │   ├── SHOTLIST.csv
 │   ├── LOG.csv               # provenance for every shipped panel
 │   └── candidates/           # not committed (gitignored); curated picks move to public/
-├── public/
-│   ├── panels/               # processed WebP panels
+├── assets/
+│   ├── panels/               # processed panels (SVG placeholders now, WebP later)
 │   └── audio/
 ├── src/
+│   ├── generated/            # story.json + story-stats.json, written by the tools (not hand-edited)
 │   ├── main.ts               # boot, routing between title / game / menu
 │   ├── reader.ts             # drives inkjs: continue, choices, tag handling
 │   ├── tags.ts               # parses # panel: / # sfx: / # music: / # recap: / # remember:
@@ -46,13 +48,15 @@ deadweight/
 │   ├── save.ts               # storage interface + localStorage impl
 │   └── ballad.ts             # renders Isolde's ballad from state
 ├── tools/
-│   ├── compile-ink.mjs       # ink → public/story.json
-│   ├── fuzz-story.mjs        # walks every choice N times, reports dead ends / unreachable knots
-│   ├── check-panels.mjs      # every # panel: tag has a processed file and vice versa
+│   ├── compile-ink.mjs       # ink → src/generated/story.json
+│   ├── test-story.mjs        # plays EVERY path; see docs/TESTING.md
+│   ├── test-e2e.mjs          # browser playthroughs at phone size
+│   ├── make-placeholders.py  # procedural placeholder panels
 │   ├── gen-panel.mjs         # GPT-Image-2 API batch generation from SHOTLIST.csv
 │   └── process-panel.mjs     # grayscale / levels / grain / resize / WebP
-├── tests/                    # unit tests (tags, save migration, ballad) + Playwright
-└── .github/workflows/        # ci.yml, deploy-pages.yml
+├── tests/story-spec.mjs      # what the story must do: scene order, outcomes, invariants, remember-lines
+├── reports/                  # test reports (generated)
+└── .github/workflows/        # ci.yml, pages.yml
 ```
 
 ## How ink carries the game
@@ -75,10 +79,9 @@ deadweight/
 - **The Ballad** is an ink stitch per chapter that writes the verse from current flags; the app just renders what ink returns.
 - **Saves** store the inkjs story state JSON plus a schema version; a migration table handles old saves after content changes.
 
-## The two checks that matter
+## Testing
 
-1. **`fuzz-story`**: loads the compiled story, plays it a few thousand times choosing randomly (and a few hundred times choosing each option index deterministically), and fails on any dead end, any knot never reached, any unhandled divert, or any run exceeding a node budget. Runs on every push.
-2. **`check-panels`**: cross-references every `# panel:` tag with `public/panels/` and the shot list. Missing panels fail the build after M3 (warn before).
+See `docs/TESTING.md`. In short: `tools/test-story.mjs` plays every path exhaustively (the prologue has 432) and checks logic, reachability, consequences and writing rules; `tools/test-e2e.mjs` plays real routes in a phone-sized browser. If the full game's path count grows too large for exhaustive play, the story test switches to exhaustive-per-chapter (seeded from each chapter's possible entry states) plus random whole-game runs.
 
 ## Performance targets (web, mid-range Android phone in Chrome)
 
