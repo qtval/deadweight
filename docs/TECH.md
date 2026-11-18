@@ -81,7 +81,7 @@ deadweight/
 
 ## Testing
 
-See `docs/TESTING.md`. In short: `tools/test-story.mjs` plays every path exhaustively (the prologue has 432) and checks logic, reachability, consequences and writing rules; `tools/test-e2e.mjs` plays real routes in a phone-sized browser. If the full game's path count grows too large for exhaustive play, the story test switches to exhaustive-per-chapter (seeded from each chapter's possible entry states) plus random whole-game runs.
+See `docs/TESTING.md`. In short: `tools/test-story.mjs` plays every path exhaustively (the prologue has 1728) and checks logic, reachability, consequences and writing rules; `tools/test-e2e.mjs` plays real routes in a phone-sized browser. If the full game's path count grows too large for exhaustive play, the story test switches to exhaustive-per-chapter (seeded from each chapter's possible entry states) plus random whole-game runs.
 
 ## Performance targets (web, mid-range Android phone in Chrome)
 

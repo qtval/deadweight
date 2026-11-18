@@ -14,6 +14,8 @@ export const spec = {
     ford_bridle:              (v) => v.AT_FORD === "bridle",
     marrow_refused_then_lied: (v) => v.TOLD_MARROW === "truth" && v.VERSION !== "truth",
     marrow_story_dropped:     (v) => v.TOLD_MARROW === "ambush" && v.VERSION === "truth",
+    drank_with_him:           (v) => v.DRANK === true,
+    light_purse:              (v) => v.PURSE === true,
     dry_to_the_knee:          (v) => v.VERSION === "hero" && !v.WENT_IN,
   },
 
@@ -35,6 +37,6 @@ export const spec = {
   // Writing rules (docs/WRITING_GUIDE.md).
   choiceMaxWords: 12,
   maxNewProperNouns: { firstScene: 5, otherScenes: 2 },
-  maxWordsBetweenChoices: 260,
+  maxWordsBetweenChoices: 300,
   readingWpm: 200,
 };

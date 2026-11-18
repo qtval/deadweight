@@ -7,6 +7,9 @@ VAR PLACE = "The Greywater"
 // What Wren did at the ford: "bridle" | "called" | "silent"
 VAR AT_FORD = ""
 VAR WENT_IN = false
+// Whether Wren drank with Aubric before the crossing, and took his purse on the bank.
+VAR DRANK = false
+VAR PURSE = false
 
 // Where the surrender is: "body" (on Aubric's belt) | "wren" | "isolde" | "hidden" (Wren has it; Isolde thinks it's lost)
 VAR LETTER = ""

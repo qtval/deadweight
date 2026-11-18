@@ -27,9 +27,9 @@ const check = (name, pass, detail = "") => { results.push({ name, pass: !!pass, 
 
 // Choice plans: index to pick at each decision, in order. "last" = last option.
 const ROUTES = {
-  "first options": { plan: [0, 0, 0, 0, 0, 0, 0], expectText: ["Marrow remembers you took his bridle."], expectRecap: "you took his bridle" },
-  "last options": { plan: ["last", "last", "last", "last", "last", "last"], expectText: [], expectRecap: "you said nothing" },
-  "secret letter, false hero": { plan: [2, 1, 0, 0, 1, 2, 2], expectText: ["Isolde remembers you were dry to the knee."], expectRecap: "believes the river took it" },
+  "first options": { plan: [0, 0, 0, 0, 0, 0, 0, 0, 0], expectText: ["Marrow remembers you took his bridle.", "Marrow remembers the wine on your breath.", "Marrow remembers the purse was gone."], expectRecap: "you took his bridle" },
+  "last options": { plan: ["last", "last", "last", "last", "last", "last", "last", "last"], expectText: [], expectRecap: "you said nothing" },
+  "secret letter, false hero": { plan: [1, 2, 1, 1, 0, 0, 1, 2, 2], expectText: ["Isolde remembers you were dry to the knee."], expectRecap: "believes the river took it" },
 };
 
 const browser = await chromium.launch();
@@ -130,11 +130,11 @@ for (const [name, r] of Object.entries(ROUTES)) {
     let found = false;
     for (let s = 0; s < 30 && !found; s++) {
       const t = await page.locator(".box").innerText();
-      if (t.includes("Take the case")) found = true;
+      if (t.includes("Go into the river")) found = true;
       else if (await page.locator(".choice").count()) break;
       else await page.locator('[data-testid="stage"]').click({ position: { x: 195, y: 500 } });
     }
-    check("[save] resumes at the same point in the story (the letter decision)", found);
+    check("[save] resumes at the same point in the story (the river decision)", found);
     const days = await page.locator('[data-testid="days"]').innerText();
     check("[save] day counter restored", days.includes("9"), days);
     await page.screenshot({ path: join(shots, "bank-choice.png") });

@@ -33,12 +33,13 @@ Repo, tooling, and a reader that runs.
 
 A playable prologue to agree on tone, writing, UI, systems and testing before M1 commits to the full beat sheet.
 
-- [x] Prologue "The Greywater" in ink: 7 scenes, 432 paths, 9 outcomes, 4 remember-lines
+- [x] Prologue "The Greywater" in ink: 7 scenes, 1728 paths, 9 outcomes, 6 remember-lines
+- [x] Prologue rewritten for voice (2026-11-18): first-person Wren, two new choices (the wine, the purse); craft rules added to WRITING_GUIDE
 - [x] Reader: chapter card, panel crossfade, tap-to-continue, choices, journal (Travelers / Ballad / Road / Settings), autosave, end screen with recap and ballad
 - [x] Procedural placeholder panels (stand-ins for GPT-Image-2 art)
 - [x] Art direction revised: B&W ink + amber light accent; prompt pack for the 7 prologue panels; `process-panel.mjs` palette/levels/grain pipeline
 - [ ] 7 prologue panels generated in ChatGPT, processed and in the game
-- [x] Tests green: story 432/432 paths, browser 36/36 checks
+- [x] Tests green: story 1728/1728 paths, browser 38/38 checks
 - [ ] **Owner verdict** on: premise, tone and prose, UI, the journal and remember-lines, the art direction, and the testing reports
 
 **Exit test:** the owner says "yes, build this" — or lists what to change, and the changes are made and re-tested.
@@ -146,3 +147,5 @@ Combat systems, inventory, character creator beyond name/pronouns, voice acting,
 | 2026-10-25 | Repo public at qtval/deadweight; Claude GitHub app on all repos | Free Pages demo link; any new repo works with no extra setup |
 | 2026-10-25 | Art: B&W ink plus amber for light sources only | Owner found pure B&W placeholders too dull; amber gives the Lantern a visual motif |
 | 2026-10-25 | Panels made in the ChatGPT app from a prompt pack, saved to Pictures\\Deadweight, processed by Claude | Owner's choice: uses the existing subscription; API stays the fallback for volume |
+| 2026-11-18 | Narration changed from close third to first-person Wren, past tense; UI text stays "you" | Owner: the demo lacked the First Law feel. A compromised narrator's voice is the core of it, and third person without pronouns read flat |
+| 2026-11-18 | Prologue gains two choices (drink with Aubric; take his purse); wall-of-text limit raised from 260 to 300 words | Choices that tempt and make the player complicit; the voice needs slightly more room |
