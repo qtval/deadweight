@@ -20,7 +20,7 @@ VAR TOLL = ""
 # panel: road_beech_wood_noon
 A mile short of Stint the road ran through a beech wood. The Marshal's riders had been through ahead of us and cut it to mud. There was a gibbet at the edge of the trees with nothing on it but the rope, and somebody had stolen the rope's end.
 Marrow turned the cart in under the beeches, where it couldn't be seen from the road.
-"He cannot arrive like that," she said. "That is a dead knight laid out for burial. I want a sick man in his shirt, under blankets. Wren knows the buckles."
+"He cannot arrive like that," said Isolde. "That is a dead knight laid out for burial. I want a sick man in his shirt, under blankets. Wren knows the buckles."
 I did know the buckles. There were thirty-one, and four laces, and a pin at the neck that stuck. I had done them up every morning for six years.
 Isolde untied the canvas. She had tied it herself at dawn, with a knot none of us knew, and she untied it with her back to me so I wouldn't learn it. We opened it up. He had been in it since dawn, in his plate, and the flies had found the way in before we did. He had gone stiff.{SELF == "peace": I had to get the sword out from under his hands first.}
 {SELF != "him":I was still wearing his gloves. I took them off to touch him.}
@@ -39,7 +39,7 @@ The neck and the shoulders and the breastplate were only buckles. Then there wer
 }
 It had to be me. Nobody else knew he couldn't bear a tight collar. And if Marrow had his arming coat off him she'd have gone through it for coin, and that wasn't right, not with him lying there. When she went to see to the horse I went through it myself, to be sure she hadn't. There was nothing.
 { DEED == "signed":
-    The paper in my own shirt crackled every time I bent. I bent as little as I could.
+    My promise, the one with his name on it, crackled in my shirt every time I bent. I bent as little as I could.
 }
 Then the armor lay in a heap with his badge on the breast of it, the lantern in blue enamel, and the three of us stood and looked at it. I had not eaten since yesterday noon, and I looked at it the way Marrow did.
 * [Sink it in the pond]
@@ -71,10 +71,10 @@ Without the plate he wasn't very big. He had a grey chest and a soft belly, and 
 # panel: stint_bridge_dusk
 They had every bell in Stint going, in no order. Under the bells there was another noise, and it was people.
 The bridge beyond the north gate was lined on both sides. There were children up on the wall of it, and a man with a drum, and a woman holding up a baby to see. When the cart came out from under the gate they saw his grey horse on its lead rein with the saddle empty, and the noise dropped. Then it came up louder. Somebody had worked out that he must be in the cart.
-{PLAN == "objected":I was under the cover with him, where Isolde had put me, and I saw it through the gap in the canvas.|I had the reins, and my hands were wet on them.}
+{ARMOUR == "cart":The plate knocked under him at every board of the bridge, and a man by the wheel shouted, "He's moving!" and people cheered that too. }{PLAN == "objected":I was under the cover with him, where Isolde had put me, and I saw it through the gap in the canvas.|I had the reins, and my hands were wet on them.}
 "One wave," said Isolde, not moving her mouth. "One, from inside the cart. Then you tell them he is resting."
 "Yes," I said. I thought I was going to be sick{LETTER == "wren" or LETTER == "hidden":, and the case under my shirt had slipped round to my back, where I couldn't get at it}.
-Six men were drawn up at the far end of the bridge in his colors. I knew all six. The one in front was Corporal Dobb, who had been with him twenty years and had taught me how to clean a horse's bit. The back of his left hand was shiny where it had been burned at the siege, and that was the hand he reached out with. He always took the bridle.
+Six men in his colors were waiting at the town end of the bridge, past the tollhouse. I knew all six. The one in front was Corporal Dobb, who had been with him twenty years and had taught me how to clean a horse's bit. The back of his left hand was shiny where it had been burned at the siege, and that was the hand he reached out with. He came down the bridge to meet us. He always took the bridle.
 "Six of his," said Marrow, from behind the cart. "They look under there, I'm off. You're not."
 They had started to shout for him to sit up.
 * [Wave his glove from the canvas. Let them shout for you.]
@@ -99,7 +99,7 @@ They had started to shout for him to sit up.
 "Since when?"
 "This morning." It had been last night. I had to keep hold of that: this morning.
 "Marsh one, then. He's had it before. He wants his feet rubbing for it, or he gets the cramps." He was already lifting the edge of the canvas. "Let's have them."
-His hand went in under the blanket, looking for the feet, and the whole bridge watched it go. In a moment he would have hold of a foot that had been cold since last night.
+His hand went in under the blanket, looking for the feet, and the whole bridge watched it go. In a moment he would have hold of a foot that had been cold since last night. I watched his face. I couldn't tell if he had found it.
 * [Knock his hand away. In front of his men.]
     ~ DOBB = "struck"
     I hit his hand. I hit it hard, on the burn, and he took it out from under the canvas and held it against his chest.
@@ -130,9 +130,9 @@ His hand went in under the blanket, looking for the feet, and the whole bridge w
 The tollhouse was built into the bridge, halfway over, and the cart had to stop at it like any other cart.
 Four horses stood at the rail outside it, with the Marshal's grey cloth over the saddles. Their riders were inside, at a bench against the wall, drinking out of the tollkeeper's jug. One of them had his boots up. None of them looked at us, the way you don't look at a thing you mean to look at later.
 The tollkeeper was a long man with a boil on the side of his neck that had come to a head. He had a book open on a slope and a pen behind his ear.
-"Cart's fourpence," he said. "What's in it?"
+"Cart's fourpence," he said. "And what's in it?"
 "The Lantern," I said.
-"I know who. I'm asking what. Sick or dead? Sick's a penny on the cart. Dead's sixpence a head, since the war. There was that many. I've to write the one or the other, and somebody puts their name."
+"I know who. I'm asking what. Sick or dead? Sick's a penny more. Dead's sixpence a head, since the war. There was that many. I've to write the one or the other, and somebody puts their name."
 "Sick," I said.
 "Sick." He wrote it slowly, breathing through his mouth. One cart. One sick man. He turned the book round on the slope and held out the pen.
 "Sergeant reads it through every night," he said, and tipped his head at the bench. "Likes to know who's crossed."
@@ -164,18 +164,18 @@ Marrow had come into the doorway behind me. Isolde stayed in the cart, where she
     On the bench the sergeant took the straw out of his mouth to listen, and put it back.
 - { TOLL != "ring":
     { PURSE:
-        I paid the fourpence out of the purse. He took it, and then he took hold of the purse itself by the strings and turned it to the light.
+        I paid the fivepence out of the purse. The tollkeeper took it, and then he took hold of the purse itself by the strings and turned it to the light.
         "I've changed coin out of that," he said. "That's his."
         "He gave it me to pay with."
         # remember: purse_at_toll :: The tollkeeper remembers whose purse it was.
         "Did he?" He let go. He liked a thing written down right, and he was deciding how to write it.
     - else:
-        I had no fourpence. I have never had fourpence. Marrow came off the doorpost and put four pennies on the slope, one at a time, out of his purse. "Four," she said to me. "{DEBT_MARROW:Price was doubled at the river. Now it's doubled and four.|That's the first.}"
+        I had no fivepence. I have never had fivepence. Marrow came off the doorpost and put five pennies on the slope, one at a time, out of the purse she'd cut off him. "Five," she said to me. "{DEBT_MARROW:Price was doubled at the river. Now it's doubled and five.|That's the first you owe me.}"
     }
 }
 He put the pen back behind his ear and didn't go on to the next cart. There wasn't one. He scratched beside the boil.
 "My girl's to be married tomorrow," he said. "Annis. He's had my ringers three days, practising for him. They're my ringers. I pay them. Would he spare them an hour in the morning, for the chapel? I'd not ask. Only he's a generous man. Everyone says it."
-He was asking me. I looked round for somebody else he might be asking. There was only Marrow, and the sergeant, who had got up off his bench.
+He was asking me. I looked round for somebody else he might be asking. There was only Marrow, and the sergeant.
 The sergeant put a hand on the back of my neck, friendly, the way you'd hold a pup to look at its teeth. "Marshal's in Stint tomorrow," he said. "He'll want to pay his respects. Make sure your master's awake."
 # end: ch01_preview
 -> END

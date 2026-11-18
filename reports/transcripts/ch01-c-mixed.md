@@ -7,7 +7,7 @@ A mile short of Stint the road ran through a beech wood. The Marshal's riders ha
 
 Marrow turned the cart in under the beeches, where it couldn't be seen from the road.
 
-"He cannot arrive like that," she said. "That is a dead knight laid out for burial. I want a sick man in his shirt, under blankets. Wren knows the buckles."
+"He cannot arrive like that," said Isolde. "That is a dead knight laid out for burial. I want a sick man in his shirt, under blankets. Wren knows the buckles."
 
 I did know the buckles. There were thirty-one, and four laces, and a pin at the neck that stuck. I had done them up every morning for six years.
 
@@ -29,7 +29,7 @@ The hole she had put under his arm had gone black round the edge. Isolde had me 
 
 It had to be me. Nobody else knew he couldn't bear a tight collar. And if Marrow had his arming coat off him she'd have gone through it for coin, and that wasn't right, not with him lying there. When she went to see to the horse I went through it myself, to be sure she hadn't. There was nothing.
 
-The paper in my own shirt crackled every time I bent. I bent as little as I could.
+My promise, the one with his name on it, crackled in my shirt every time I bent. I bent as little as I could.
 
 Then the armor lay in a heap with his badge on the breast of it, the lantern in blue enamel, and the three of us stood and looked at it. I had not eaten since yesterday noon, and I looked at it the way Marrow did.
 
@@ -61,7 +61,7 @@ I had the reins, and my hands were wet on them.
 
 "Yes," I said. I thought I was going to be sick.
 
-Six men were drawn up at the far end of the bridge in his colors. I knew all six. The one in front was Corporal Dobb, who had been with him twenty years and had taught me how to clean a horse's bit. The back of his left hand was shiny where it had been burned at the siege, and that was the hand he reached out with. He always took the bridle.
+Six men in his colors were waiting at the town end of the bridge, past the tollhouse. I knew all six. The one in front was Corporal Dobb, who had been with him twenty years and had taught me how to clean a horse's bit. The back of his left hand was shiny where it had been burned at the siege, and that was the hand he reached out with. He came down the bridge to meet us. He always took the bridle.
 
 "Six of his," said Marrow, from behind the cart. "They look under there, I'm off. You're not."
 
@@ -92,7 +92,7 @@ Corporal Dobb came on to the back of the cart. He put his burned hand flat on th
 
 "Marsh one, then. He's had it before. He wants his feet rubbing for it, or he gets the cramps." He was already lifting the edge of the canvas. "Let's have them."
 
-His hand went in under the blanket, looking for the feet, and the whole bridge watched it go. In a moment he would have hold of a foot that had been cold since last night.
+His hand went in under the blanket, looking for the feet, and the whole bridge watched it go. In a moment he would have hold of a foot that had been cold since last night. I watched his face. I couldn't tell if he had found it.
 
 **The game offers:**
 - Knock his hand away. In front of his men.
@@ -118,11 +118,11 @@ Four horses stood at the rail outside it, with the Marshal's grey cloth over the
 
 The tollkeeper was a long man with a boil on the side of his neck that had come to a head. He had a book open on a slope and a pen behind his ear.
 
-"Cart's fourpence," he said. "What's in it?"
+"Cart's fourpence," he said. "And what's in it?"
 
 "The Lantern," I said.
 
-"I know who. I'm asking what. Sick or dead? Sick's a penny on the cart. Dead's sixpence a head, since the war. There was that many. I've to write the one or the other, and somebody puts their name."
+"I know who. I'm asking what. Sick or dead? Sick's a penny more. Dead's sixpence a head, since the war. There was that many. I've to write the one or the other, and somebody puts their name."
 
 "Sick," I said.
 
@@ -150,7 +150,7 @@ He put the pen back behind his ear and didn't go on to the next cart. There wasn
 
 "My girl's to be married tomorrow," he said. "Annis. He's had my ringers three days, practising for him. They're my ringers. I pay them. Would he spare them an hour in the morning, for the chapel? I'd not ask. Only he's a generous man. Everyone says it."
 
-He was asking me. I looked round for somebody else he might be asking. There was only Marrow, and the sergeant, who had got up off his bench.
+He was asking me. I looked round for somebody else he might be asking. There was only Marrow, and the sergeant.
 
 The sergeant put a hand on the back of my neck, friendly, the way you'd hold a pup to look at its teeth. "Marshal's in Stint tomorrow," he said. "He'll want to pay his respects. Make sure your master's awake."
 
