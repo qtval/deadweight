@@ -54,8 +54,8 @@ He gathered the reins. Nobody was awake to stop him but me.
 He was to sign my paper tomorrow. In six years I had not seen him sign a thing for anybody who had crossed him the night before.
 
 **The game offers:**
-- **▶ Take his bridle and hold him back**  (chosen)
-- Shout across to Marrow to stop him
+- **▶ Grab his bridle. He'll hate you for it.**  (chosen)
+- Shout for Marrow. Let her be the one he blames.
 - Say nothing. Tomorrow he pays you.
 
 I caught the bridle. The horse tossed its head. Aubric leaned down, breathing wine, and unpicked my fingers one at a time, humming.
@@ -106,7 +106,7 @@ Six years' wages, which he had always been about to pay. His purse hung on his b
 
 **The game offers:**
 - Take your wages. Somebody will.
-- **▶ Leave it. You're no thief.**  (chosen)
+- **▶ Leave it on him.**  (chosen)
 
 I let it hang. I am not a thief. I weighed it in my hand first, only to be sure of that.
 
@@ -236,11 +236,11 @@ Isolde sat down on the cart step and held her satchel.
 
 "Then they sign quick."
 
-"They rise at the end of the month. Nine days. After that it is spring, and the war, and Marshal Sayle has it back. He has been paid for every year of it."
+"The council sits until the end of the month. Nine days. Then it goes home until spring, and in spring there is the war again, and Marshal Sayle has it back. He has been paid for every year of it."
 
 "Then we go back up," said Isolde. "The hill towns sign again, for somebody living."
 
-"Shut the gate behind him. Won't open it for you."
+"Hill towns shut their gate behind him," said Marrow. "Won't sign again for you."
 
 Isolde looked at the river for a while.
 
@@ -257,7 +257,7 @@ Isolde looked at the river for a while.
 
 "It's madness," I said. Somebody ought to say so. "He's dead. Anyone who lifts that canvas—"
 
-"That is quite right, and I am obliged to you," said Isolde. "So when they lift it, a squire must be found under there, nursing his master. You will ride in the back and hold his hand." To Marrow she said, "He thinks it is madness. He will say so, in Stint, to someone."
+"That is quite right, and I am obliged to you," said Isolde. "So when they lift it, a squire must be found under there, nursing his master. You will ride in the back and hold his hand." To Marrow she said, "The squire thinks it is madness. The squire will say so, in Stint, to someone."
 
 "He'll stink by day three," said Marrow.
 

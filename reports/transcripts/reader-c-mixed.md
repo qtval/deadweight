@@ -54,8 +54,8 @@ He gathered the reins. Nobody was awake to stop him but me.
 He was to sign my paper tomorrow. In six years I had not seen him sign a thing for anybody who had crossed him the night before.
 
 **The game offers:**
-- Take his bridle and hold him back
-- **▶ Shout across to Marrow to stop him**  (chosen)
+- Grab his bridle. He'll hate you for it.
+- **▶ Shout for Marrow. Let her be the one he blames.**  (chosen)
 - Say nothing. Tomorrow he pays you.
 
 "Marrow!" Most of it was lost in the noise of the water. Over the river the light stopped, then began to move along the far bank, looking for the shallow way back.
@@ -106,7 +106,7 @@ Six years' wages, which he had always been about to pay. His purse hung on his b
 
 **The game offers:**
 - Take your wages. Somebody will.
-- **▶ Leave it. You're no thief.**  (chosen)
+- **▶ Leave it on him.**  (chosen)
 
 I let it hang. I am not a thief. I weighed it in my hand first, only to be sure of that.
 
@@ -236,11 +236,11 @@ Isolde sat down on the cart step and held her satchel.
 
 "Then they sign quick."
 
-"They rise at the end of the month. Nine days. After that it is spring, and the war, and Marshal Sayle has it back. He has been paid for every year of it."
+"The council sits until the end of the month. Nine days. Then it goes home until spring, and in spring there is the war again, and Marshal Sayle has it back. He has been paid for every year of it."
 
 "Then we go back up," said Isolde. "The hill towns sign again, for somebody living."
 
-"Shut the gate behind him. Won't open it for you."
+"Hill towns shut their gate behind him," said Marrow. "Won't sign again for you."
 
 Isolde looked at the river for a while.
 
@@ -257,7 +257,7 @@ Isolde looked at the river for a while.
 
 "I'll do it," I said. It came out too quick, and she heard it.
 
-"How good of you," said Isolde. To Marrow she said, "He said yes very quickly. He will say yes as quickly to the Marshal's men."
+"How good of you," said Isolde. To Marrow she said, "The squire said yes very quickly. The squire will say yes as quickly to the Marshal's men."
 
 "He'll stink by day three," said Marrow.
 
@@ -317,7 +317,7 @@ Marrow took the knife away to take it, and bit it. I knelt there and watched her
 
 "Plate." She threw it back. "Ten, I said. Don't work on account."
 
-"Then he will have to be useful," said Isolde.
+"Then the squire will have to be useful," said Isolde.
 
 I thanked her. I thanked both of them.
 
@@ -331,7 +331,7 @@ Isolde worked the signet off his finger and put it in my hand, still wet. "You s
 
 Marrow moved to spit, and I had my arm up over my face before I knew it. Neither of them looked at me.
 
-"Arrow killed him, he'll want a hole," said Marrow.
+"Arrow wound, and the fever after," said Marrow. "He'll want a hole for it."
 
 "Under the arm," said Isolde. "Hold him still."
 

@@ -54,8 +54,8 @@ He gathered the reins. Nobody was awake to stop him but me.
 He was to sign my paper tomorrow. In six years I had not seen him sign a thing for anybody who had crossed him the night before.
 
 **The game offers:**
-- Take his bridle and hold him back
-- Shout across to Marrow to stop him
+- Grab his bridle. He'll hate you for it.
+- Shout for Marrow. Let her be the one he blames.
 - **▶ Say nothing. Tomorrow he pays you.**  (chosen)
 
 I said nothing. Corrected, he got twice as stubborn and three times as loud, and I was tired, and I wanted my bed.
@@ -104,7 +104,7 @@ Six years' wages, which he had always been about to pay. His purse hung on his b
 
 **The game offers:**
 - **▶ Take your wages. Somebody will.**  (chosen)
-- Leave it. You're no thief.
+- Leave it on him.
 
 I pulled off the gloves he had given me to do it, and put them on again after. The purse didn't come to six weeks.
 
@@ -224,11 +224,11 @@ Isolde sat down on the cart step and held her satchel.
 
 "Then they sign quick."
 
-"They rise at the end of the month. Nine days. After that it is spring, and the war, and Marshal Sayle has it back. He has been paid for every year of it."
+"The council sits until the end of the month. Nine days. Then it goes home until spring, and in spring there is the war again, and Marshal Sayle has it back. He has been paid for every year of it."
 
 "Then we go back up," said Isolde. "The hill towns sign again, for somebody living."
 
-"Shut the gate behind him. Won't open it for you."
+"Hill towns shut their gate behind him," said Marrow. "Won't sign again for you."
 
 Isolde looked at the river for a while.
 
@@ -249,9 +249,9 @@ Isolde looked at the river for a while.
 
 Isolde tore a strip from the foot of a page, wrote on her knee, and blew on it. "A place in a household in Vellmouth. Written down, this time."
 
-She knew about the promise. I had never told her about the promise. I took the paper anyway, and I did not tell her about the one in my pack.
+She knew about the promise. He must have told her, the way he told everyone. I took the paper anyway, and I did not tell her about the one in my pack.
 
-"He sold himself for a strip of paper," Isolde said to Marrow, not to me. "Someone will offer him two."
+"The squire sold out for a strip of paper," Isolde said to Marrow, not to me. "Someone will offer him two."
 
 "He'll stink by day three," said Marrow.
 

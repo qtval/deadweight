@@ -41,11 +41,11 @@ He pulled off his riding gloves, the good ones with the fleece inside, and dropp
 My mother washed shirts for the army and had spoken to him once. He had asked after her chest every winter since. It would have been easier to hate him if he had forgotten. I put the gloves on.
 He gathered the reins. Nobody was awake to stop him but me.
 He was to sign my paper tomorrow. In six years I had not seen him sign a thing for anybody who had crossed him the night before.
-* [Take his bridle and hold him back]
+* [Grab his bridle. He'll hate you for it.]
     ~ AT_FORD = "bridle"
     I caught the bridle. The horse tossed its head. Aubric leaned down, breathing wine, and unpicked my fingers one at a time, humming.
     "I talked ten years of war to death in an afternoon," he said. "I believe I can manage a stream. You're a good squire, Wren. But you are a squire." He had stopped humming. "We'll talk about that door another day."
-* [Shout across to Marrow to stop him]
+* [Shout for Marrow. Let her be the one he blames.]
     ~ AT_FORD = "called"
     "Marrow!" Most of it was lost in the noise of the water. Over the river the light stopped, then began to move along the far bank, looking for the shallow way back.
     Aubric laughed. "She can't hear you," he said, "and I won't. Fetching a hill woman to manage me. I shall remember that when we settle up, Wren." He said it kindly.
@@ -91,7 +91,7 @@ Six years' wages, which he had always been about to pay. His purse hung on his b
 * [Take your wages. Somebody will.]
     ~ PURSE = true
     I pulled off the gloves he had given me to do it, and put them on again after. The purse didn't come to six weeks.
-* [Leave it. You're no thief.]
+* [Leave it on him.]
     I let it hang. I am not a thief. I weighed it in my hand first, only to be sure of that.
 - My paper wanted his name, and he was past signing. {AT_FORD == "bridle":He had been going to talk about it another day. }Without him I was a laundress's child who could read.
 Then there was the letter.
@@ -264,10 +264,10 @@ Isolde sat down on the cart step and held her satchel.
 "Ride the paper south," said Marrow. "Leave him."
 "The council signs under his name," said Isolde. "The hill towns signed because he swore nobody would hang. A dead man's oath binds nobody."
 "Then they sign quick."
-"They rise at the end of the month. Nine days. After that it is spring, and the war, and Marshal Sayle has it back. He has been paid for every year of it."
+"The council sits until the end of the month. Nine days. Then it goes home until spring, and in spring there is the war again, and Marshal Sayle has it back. He has been paid for every year of it."
 # know: sayle :: Marshal Sayle, who has commanded the army for all ten years of the war. If the Lantern is known to be dead before the council signs, he will have the surrender thrown out.
 "Then we go back up," said Isolde. "The hill towns sign again, for somebody living."
-"Shut the gate behind him. Won't open it for you."
+"Hill towns shut their gate behind him," said Marrow. "Won't sign again for you."
 Isolde looked at the river for a while.
 "Then he is not dead. He has a fever. He rides under the canvas to Vellmouth, and the council signs at the door of his sickroom."
 "Three of us know," said Marrow.
@@ -276,19 +276,19 @@ Isolde looked at the river for a while.
     ~ PLAN = "agreed"
     ~ RING = true
     "I'll do it," I said. It came out too quick, and she heard it.
-    "How good of you," said Isolde. To Marrow she said, "He said yes very quickly. He will say yes as quickly to the Marshal's men."
+    "How good of you," said Isolde. To Marrow she said, "The squire said yes very quickly. The squire will say yes as quickly to the Marshal's men."
 * [Ask what's in it for you]
     ~ PLAN = "bargained"
     ~ ISOLDE_OWES = true
     "What do I get?" I said. My teeth were knocking together.
     "Hah," said Marrow.
     Isolde tore a strip from the foot of a page, wrote on her knee, and blew on it. "A place in a household in Vellmouth. Written down, this time."
-    She knew about the promise. I had never told her about the promise. I took the paper anyway, and I did not tell her about the one in my pack.
-    "He sold himself for a strip of paper," Isolde said to Marrow, not to me. "Someone will offer him two."
+    She knew about the promise. He must have told her, the way he told everyone. I took the paper anyway, and I did not tell her about the one in my pack.
+    "The squire sold out for a strip of paper," Isolde said to Marrow, not to me. "Someone will offer him two."
 * [Tell her it's madness]
     ~ PLAN = "objected"
     "It's madness," I said. Somebody ought to say so. "He's dead. Anyone who lifts that canvas—"
-    "That is quite right, and I am obliged to you," said Isolde. "So when they lift it, a squire must be found under there, nursing his master. You will ride in the back and hold his hand." To Marrow she said, "He thinks it is madness. He will say so, in Stint, to someone."
+    "That is quite right, and I am obliged to you," said Isolde. "So when they lift it, a squire must be found under there, nursing his master. You will ride in the back and hold his hand." To Marrow she said, "The squire thinks it is madness. The squire will say so, in Stint, to someone."
 - "He'll stink by day three," said Marrow.
 "Heroes do. We shall burn something."
 "And the guide that picked the ford?"
@@ -342,7 +342,7 @@ Isolde began to count silver onto his breastplate. I could not get a breath to g
     "Seven," said Isolde, and turned her purse out. Nothing else fell. She pulled a ring off her thumb and held it up.
     Marrow took the knife away to take it, and bit it. I knelt there and watched her bite it.
     "Plate." She threw it back. "Ten, I said. Don't work on account."
-    "Then he will have to be useful," said Isolde.
+    "Then the squire will have to be useful," said Isolde.
     I thanked her. I thanked both of them.
 - Isolde picked the coins up again. Marrow let go of my hair, and wiped her hand.
 I stayed where I was. I was crying, and nobody minded.
@@ -362,7 +362,7 @@ Marrow moved to spit, and I had my arm up over my face before I knew it. Neither
     I did think of it.{READ_BALLAD: I thought of the line through the verse.}
 }
 { VERSION == "ambush":
-    "Arrow killed him, he'll want a hole," said Marrow.
+    "Arrow wound, and the fever after," said Marrow. "He'll want a hole for it."
     "Under the arm," said Isolde. "Hold him still."
     I held his shoulders and looked at the alders while Marrow did it. It made a noise like a boot coming out of mud.
 }
