@@ -96,7 +96,7 @@ Then I thought about the letter, and the sums got worse.
 It was on the same belt, in an oilskin case: the surrender. The hill towns had signed it for him, on his word that nobody would hang. The council in Vellmouth, the capital, had to sign under his name within the month, and the month had nine days left. If they heard he was dead first, they would not sign for a dead man's word, and the war would start again in the spring.
 # know: letter :: The surrender, signed by the hill towns on Aubric's word. The council in Vellmouth, the capital, must sign it too within nine days, and must not learn he is dead first, or the war starts again.
 Out on the water, Marrow's light had turned.
-The case was dry. Somebody had to carry that for nine days, and the other two would have to keep whoever it was fed and breathing. But a squire caught with it, and no knight alive to carry it for, was a thief, and they hang those.
+The case was dry. With that in my shirt, nobody could leave me in a ditch for nine days. With that in my shirt and no knight, I was also a thief, and they hang thieves.
 The light was nearly on me.
 * [Take it. Whoever holds it gets kept alive.]
     ~ LETTER = "wren"
@@ -111,7 +111,7 @@ The light was nearly on me.
 # scene: s04_marrow
 # panel: greywater_marrow_wading
 Marrow came up out of the river with her lantern held high, and stopped when the light reached him.
-She put her ear to his mouth, too long. "He's breathing," she said. He wasn't. She sat back.
+She put her ear to his mouth, too long. "He's breathing," she said. She wanted him to be. Then she sat back, and didn't say it again.
 "That's my fee gone," she said.
 { AT_FORD == "called":
     "Heard you call," she said. "Didn't run. He wasn't going to listen to two of us either."
@@ -157,7 +157,7 @@ I didn't answer. Two people had seen him drown, and she would be safer if it wer
     ~ TOLD_MARROW = "wait"
     "Dawn," I said. "I'll decide at dawn."
     "Dawn's when the chronicler wakes up." Marrow jerked her head at the cart. "Decide before. Her kind don't ask what you saw. They tell you."
-    She came round the body and sat down against me, shoulder to shoulder, with the knife out across her knees. I didn't know if that was to keep me warm or to keep me there. I sat very still, in case it mattered which.
+    She came round the body with a length of cord off the cart, and tied my left wrist to her right, with a knot I couldn't see. "So you don't decide somewhere else," she said. Then she sat down against me with the knife across her knees. The cord was tight enough that my hand went cold.
 - { LETTER == "body":
     Her eyes went to the oilskin case on his belt. "That dry?"
     It was. She kept her hands on her knees.
@@ -192,7 +192,7 @@ It got light without any sun in it. Mist stood on the water, and the first fly f
 { TOLD_MARROW:
 - "ambush": I had sat by him all night{WENT_IN: in wet clothes}. Some time in the dark Marrow had thrown the horse blanket over me and called me an idiot for needing it.
 - "truth": I had sat by him all night{WENT_IN: in wet clothes}, holding my ear. It had stopped bleeding and started to beat. Marrow had the horse blanket round her own shoulders, and I had stopped shivering, which I knew was bad.
-- else: I had sat by him all night{WENT_IN: in wet clothes}, with Marrow against me and the knife across her knees. It was the only warm side I had.
+- else: I had sat by him all night{WENT_IN: in wet clothes}, tied to Marrow by the wrist, with her knife across her knees. I couldn't feel that hand. She cut the cord when the cart creaked, and not before.
 }
 He had begun to smell, or I had. There was piss in it, his or mine.
 Isolde Ferrant climbed down from the cart with ink on two fingers. She had slept through all of it.
@@ -270,10 +270,10 @@ Five times. The last time she made me say it with my hand on him.
 I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 "And what becomes of that paper," said Isolde, "if he is dead?"
 "The Marshal gets it," said Marrow.
-"Marshal Sayle has had ten years' living out of this war, and he has friends on the council," said Isolde. "He will call that paper a dead man's promise, and be so very sorry. So he is not dead yet. He {VERSION == "ambush":took an arrow from robbers and has a fever of it|has a fever}, and he rides in the cart until the council has signed."
+"Marshal Sayle has lived off this war for ten years," said Isolde. "He will call that paper a dead man's promise, and be so very sorry. So he is not dead yet. He {VERSION == "ambush":took an arrow from robbers and has a fever of it|has a fever}, and he rides in the cart until the council has signed."
 # know: sayle :: Marshal Sayle, who has commanded the army for all ten years of the war. If the Lantern is known to be dead before the council signs, he will have the surrender thrown out. He knows you can read.
-I had stood in front of Sayle once, holding a cloak. "Your squire reads," he had said, to Aubric, not to me. "I should see to that."
-"His own escort is in Stint, and the Marshal's riders are on this road," Isolde said. "None of them will take my word that he is alive in there, Wren. They will take his squire's. You carry out his pot. You say that he is sleeping. Well?"
+I knew Sayle. He had looked at me once, over Aubric's shoulder, the way you look at a thing you mean to have moved.
+"His own men are in Stint," Isolde said. "They will not take my word that he is alive in there, Wren. They will take yours. You carry out his pot. You say that he is sleeping. Well?"
 * [Say you'll do it]
     ~ PLAN = "agreed"
     ~ RING = true
@@ -294,7 +294,6 @@ I had stood in front of Sayle once, holding a cloak. "Your squire reads," he had
     I looked for something else to say, and there wasn't anything.
 - "Ride the paper south," said Marrow. "Leave him here."
 "The council will not sign for a rider. They will sign for him, or for the door of his sickroom."
-They went on like that across him. Nobody asked me. I watched the fly walk up his cheek and thought that I was the one who would be sitting next to him.
 "He'll stink by the third day," said Marrow.
 "Heroes do. We shall burn something."
 "And the guide who picked the ford?"

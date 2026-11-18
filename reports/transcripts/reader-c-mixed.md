@@ -114,7 +114,7 @@ It was on the same belt, in an oilskin case: the surrender. The hill towns had s
 
 Out on the water, Marrow's light had turned.
 
-The case was dry. Somebody had to carry that for nine days, and the other two would have to keep whoever it was fed and breathing. But a squire caught with it, and no knight alive to carry it for, was a thief, and they hang those.
+The case was dry. With that in my shirt, nobody could leave me in a ditch for nine days. With that in my shirt and no knight, I was also a thief, and they hang thieves.
 
 The light was nearly on me.
 
@@ -129,7 +129,7 @@ The buckle was stiff with cold, and my hands were worse. I got it open and pushe
 
 Marrow came up out of the river with her lantern held high, and stopped when the light reached him.
 
-She put her ear to his mouth, too long. "He's breathing," she said. He wasn't. She sat back.
+She put her ear to his mouth, too long. "He's breathing," she said. She wanted him to be. Then she sat back, and didn't say it again.
 
 "That's my fee gone," she said.
 
@@ -168,7 +168,7 @@ I didn't answer. Two people had seen him drown, and she would be safer if it wer
 
 "Dawn's when the chronicler wakes up." Marrow jerked her head at the cart. "Decide before. Her kind don't ask what you saw. They tell you."
 
-She came round the body and sat down against me, shoulder to shoulder, with the knife out across her knees. I didn't know if that was to keep me warm or to keep me there. I sat very still, in case it mattered which.
+She came round the body with a length of cord off the cart, and tied my left wrist to her right, with a knot I couldn't see. "So you don't decide somewhere else," she said. Then she sat down against me with the knife across her knees. The cord was tight enough that my hand went cold.
 
 Her eyes went to his belt, and the empty buckle. "Where's his letter?"
 
@@ -185,7 +185,7 @@ I opened my shirt far enough to show the oilskin. My fingers would hardly work t
 
 It got light without any sun in it. Mist stood on the water, and the first fly found him.
 
-I had sat by him all night in wet clothes, with Marrow against me and the knife across her knees. It was the only warm side I had.
+I had sat by him all night in wet clothes, tied to Marrow by the wrist, with her knife across her knees. I couldn't feel that hand. She cut the cord when the cart creaked, and not before.
 
 He had begun to smell, or I had. There was piss in it, his or mine.
 
@@ -230,11 +230,11 @@ I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 
 "The Marshal gets it," said Marrow.
 
-"Marshal Sayle has had ten years' living out of this war, and he has friends on the council," said Isolde. "He will call that paper a dead man's promise, and be so very sorry. So he is not dead yet. He took an arrow from robbers and has a fever of it, and he rides in the cart until the council has signed."
+"Marshal Sayle has lived off this war for ten years," said Isolde. "He will call that paper a dead man's promise, and be so very sorry. So he is not dead yet. He took an arrow from robbers and has a fever of it, and he rides in the cart until the council has signed."
 
-I had stood in front of Sayle once, holding a cloak. "Your squire reads," he had said, to Aubric, not to me. "I should see to that."
+I knew Sayle. He had looked at me once, over Aubric's shoulder, the way you look at a thing you mean to have moved.
 
-"His own escort is in Stint, and the Marshal's riders are on this road," Isolde said. "None of them will take my word that he is alive in there, Wren. They will take his squire's. You carry out his pot. You say that he is sleeping. Well?"
+"His own men are in Stint," Isolde said. "They will not take my word that he is alive in there, Wren. They will take yours. You carry out his pot. You say that he is sleeping. Well?"
 
 **The game offers:**
 - **▶ Say you'll do it**  (chosen)
@@ -248,8 +248,6 @@ I had stood in front of Sayle once, holding a cloak. "Your squire reads," he had
 "Ride the paper south," said Marrow. "Leave him here."
 
 "The council will not sign for a rider. They will sign for him, or for the door of his sickroom."
-
-They went on like that across him. Nobody asked me. I watched the fly walk up his cheek and thought that I was the one who would be sitting next to him.
 
 "He'll stink by the third day," said Marrow.
 
