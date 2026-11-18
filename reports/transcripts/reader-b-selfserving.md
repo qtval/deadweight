@@ -31,7 +31,7 @@ I drank. It was sweet and strong, and I had not eaten since noon, and I felt it 
 
 "There," he said.
 
-"I shall be modest," he said. 'Good people, I did nothing. A little talking.' Then I look at my boots. Do I look at my boots, Wren, or is that too much?"
+"I shall be modest," he said. "'Good people, I did nothing. A little talking.' Then I look at my boots. Do I look at my boots, Wren, or is that too much?"
 
 "The boots are good, Sir Aubric."
 
@@ -106,7 +106,7 @@ Six years' wages, which he had always been about to pay. His purse hung on his b
 
 I pulled off the gloves he had given me to do it, and put them on again after. The purse didn't come to six weeks.
 
-There was more. The room with the door was in my pack on the cart, four winters old, wanting his name. I could put his name there. But his name on a paper nobody had seen him sign, and him dead, was a rope. Without him I was a laundress's child who could read.
+There was more. My promise was in my pack on the cart, wanting his name. I could put it there myself. But his name on it, and him dead, would hang me. Without him I was a laundress's child who could read.
 
 Then I thought about the letter, and the sums got worse.
 
@@ -170,7 +170,7 @@ Her eyes went to his belt, and the empty buckle. "Where's his letter?"
 
 Marrow took hold of my shirt and opened it, not roughly, the way you'd open a sack to see what was in it. She looked at the oilskin. She did the lacing up again and patted it flat.
 
-"Lie to the chronicler all you want," she said. "Lie to me again and it costs you that paper and two fingers."
+"Lie to the chronicler all you want," she said. "Lie to me again and it costs you that letter and two fingers."
 
 
 * * *
@@ -191,7 +191,7 @@ She looked at the body. She sat down on the wet gravel in her good skirt, and go
 
 Nobody moved.
 
-"No. Of course." Then, in her ordinary voice: "Did anyone else see?"
+"No. Of course. Did anyone else see?"
 
 "Just us," said Marrow.
 
@@ -216,17 +216,23 @@ Isolde looked me over. I was mud to the knee and dry above it. The corner of her
 
 I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 
-"And what becomes of that paper," said Isolde, "if he is dead?"
+"And what becomes of the surrender," said Isolde, "if he is dead?"
 
 "The Marshal gets it," said Marrow.
 
-"Marshal Sayle has lived off this war for ten years," said Isolde. "He will call that paper a dead man's promise, and be so very sorry. So he is not dead yet. He has a fever, and he rides in the cart until the council has signed."
+"Marshal Sayle has lived off this war for ten years," said Isolde. "He will call it a dead man's promise, and be so very sorry. So he is not dead yet. He has a fever, and he rides in the cart until the council has signed."
 
-I nearly laughed. A man with a fever can still sign his name.
+"What would it cost," Isolde said to Marrow, "if the squire had gone into the river as well?"
 
-I knew Sayle. He had looked at me once, over Aubric's shoulder, the way you look at a thing you mean to have moved.
+Marrow had my hair in her fist and the knife under my jaw before I understood the question. "Ten," she said.
 
-"His own men are in Stint," Isolde said. "They will not take my word that he is alive in there, Wren. They will take yours. You carry out his pot. You say that he is sleeping. Well?"
+Isolde opened her purse and counted silver onto his breastplate. It rang. At seven she stopped and looked at me, and I felt my bladder go.
+
+"No," she said, and picked them up again. "His men are in Stint, and they know his squire's face. They will not take my word that he is alive in there. They will take yours, Wren. Well?"
+
+Marrow let go.
+
+I had wet myself, and I was still thinking it: a man with a fever can sign his name.
 
 **The game offers:**
 - Say you'll do it
@@ -283,7 +289,7 @@ Behind her, where only I could see, Marrow looked at my shirt and rubbed her fin
 
 * * *
 
-We wrapped him in the cart's canvas. It took all three of us to lift him. Marrow did the feet.
+We wrapped him in the cart's canvas. It took all three of us to lift him.
 
 I had the head, and had to shift my grip twice for my knee. I had carried his shield and his debts, and now I carried him. He was heavier, and he leaked.
 
@@ -329,7 +335,7 @@ Vellmouth was eight days off by cart, and we had eight.
 
 Then Isolde went behind the hedge, and left her pen standing in the inkhorn on the tailboard, a foot from my pack.
 
-I had the paper out before I knew I meant to. The room, the door, six years' wages, to his squire Wren. It wanted his name.
+I had my promise out of the pack and unfolded. The room, the door, six years' wages, to his squire Wren. It wanted his name.
 
 He would have signed it. He had said so last night, with his own mouth. It wasn't forging. It was finishing his sentence.
 

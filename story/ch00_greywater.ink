@@ -30,7 +30,7 @@ He had never once paid me, either. But he said it so warmly that I forgot to min
 * [Hand the skin back untouched]
     I handed it back. "One of us should be able to find the road," I said.
     "One of us is a horse," said Aubric, and slapped the animal's neck, and laughed until I was laughing as well.
-- "I shall be modest," he said. 'Good people, I did nothing. A little talking.' Then I look at my boots. Do I look at my boots, Wren, or is that too much?"
+- "I shall be modest," he said. "'Good people, I did nothing. A little talking.' Then I look at my boots. Do I look at my boots, Wren, or is that too much?"
 "The boots are good, Sir Aubric."
 "Then they shout 'The Lantern!' and I wave. Like this." He waved, and nearly came off the horse. "The third verse of my song doesn't scan, mind. I must have that mended before the bells. And you'll be paid, Wren. Every penny, the day we ride in. And the room. A room in my house in the capital, with a door on it. Remind me of the door. Bring me that paper of yours in Stint and I'll sign it."
 He had been promising me that room four years. It had not had a door before.
@@ -92,7 +92,7 @@ Six years' wages, which he had always been about to pay. His purse hung on his b
     I pulled off the gloves he had given me to do it, and put them on again after. The purse didn't come to six weeks.
 * [Leave the purse]
     I let it hang. I am not a thief. I weighed it in my hand first, only to be sure of that.
-- There was more. The room with the door was in my pack on the cart, four winters old, wanting his name. {AT_FORD == "bridle":He had been going to talk about it another day. }I could put his name there. But his name on a paper nobody had seen him sign, and him dead, was a rope. Without him I was a laundress's child who could read.
+- There was more. My promise was in my pack on the cart, wanting his name. {AT_FORD == "bridle":He had been going to talk about it another day. }I could put it there myself. But his name on it, and him dead, would hang me. Without him I was a laundress's child who could read.
 Then I thought about the letter, and the sums got worse.
 It was on the same belt, in an oilskin case: the surrender. The hill towns had signed it for him, on his word that nobody would hang. The council in Vellmouth, the capital, had to sign under his name within the month, and the month had nine days left. If they heard he was dead first, they would not sign for a dead man's word, and the war would start again in the spring.
 # know: letter :: The surrender, signed by the hill towns on Aubric's word. The council in Vellmouth, the capital, must sign it too within nine days, and must not learn he is dead first, or the war starts again.
@@ -181,7 +181,7 @@ I didn't answer. Two people had seen him drown, and she would be safer if it wer
     ~ TRUST_MARROW -= 1
     "Haven't seen it," I said.
     Marrow took hold of my shirt and opened it, not roughly, the way you'd open a sack to see what was in it. She looked at the oilskin. She did the lacing up again and patted it flat.
-    "Lie to the chronicler all you want," she said. "Lie to me again and it costs you that paper and two fingers."
+    "Lie to the chronicler all you want," she said. "Lie to me again and it costs you that letter and two fingers."
 - -> s05_dawn
 
 // ---------------------------------------------------------------
@@ -201,7 +201,7 @@ She was the Crown's chronicler, sent to write his ballad, and she had written mo
 She looked at the body. She sat down on the wet gravel in her good skirt, and got up again.
 "Wake him," she said.
 Nobody moved.
-"No. Of course." Then, in her ordinary voice: "Did anyone else see?"
+"No. Of course. Did anyone else see?"
 "Just us," said Marrow.
 Isolde turned to me. "Wren. Tell me how he died."
 * [Tell her the truth: he drowned, drunk]
@@ -251,14 +251,13 @@ Isolde turned to me. "Wren. Tell me how he died."
 
 = truth_told
 Isolde shut her eyes. "In a ford. Drunk."
-"And the guide, in this true one?" said Marrow.
-"Nobody will ever hear it," said Isolde. "Say this for me, Wren. He has a fever."
+"Nobody will ever hear that," said Isolde. "Say this for me, Wren. He has a fever."
 "He has a fever," I said.
 "Again, and look at me, not at him."
 Five times. The last time she made me say it with my hand on him.
 { TOLD_MARROW == "truth" && ELBOW != "told":
     "There's another true one," said Marrow. "Squire {WENT_IN:broke his nose for him|stood on the bank and watched him go}. Look at that ear."
-    Isolde looked at my ear{WENT_IN:, and at his nose}. "Then that is the one I shall write," she said, "if I am ever made to write a true one. Your name is in it, Wren. I shall keep it by me."
+    Isolde looked at my ear{WENT_IN:, and at his nose}. "Then that is the true one," she said. "Your name is in it, Wren. I shall keep it by me."
     ~ ISOLDE_SAW_NOSE = true
 }
 { ELBOW == "hidden" && TOLD_MARROW != "truth":
@@ -269,13 +268,16 @@ Five times. The last time she made me say it with my hand on him.
 = s05_plan
 "Close his mouth, Wren," said Isolde. "He looks surprised."
 I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
-"And what becomes of that paper," said Isolde, "if he is dead?"
+"And what becomes of the surrender," said Isolde, "if he is dead?"
 "The Marshal gets it," said Marrow.
-"Marshal Sayle has lived off this war for ten years," said Isolde. "He will call that paper a dead man's promise, and be so very sorry. So he is not dead yet. He {VERSION == "ambush":took an arrow from robbers and has a fever of it|has a fever}, and he rides in the cart until the council has signed."
-I nearly laughed. A man with a fever can still sign his name.
-# know: sayle :: Marshal Sayle, who has commanded the army for all ten years of the war. If the Lantern is known to be dead before the council signs, he will have the surrender thrown out. He knows you can read.
-I knew Sayle. He had looked at me once, over Aubric's shoulder, the way you look at a thing you mean to have moved.
-"His own men are in Stint," Isolde said. "They will not take my word that he is alive in there, Wren. They will take yours. You carry out his pot. You say that he is sleeping. Well?"
+"Marshal Sayle has lived off this war for ten years," said Isolde. "He will call it a dead man's promise, and be so very sorry. So he is not dead yet. He {VERSION == "ambush":took an arrow from robbers and has a fever of it|has a fever}, and he rides in the cart until the council has signed."
+# know: sayle :: Marshal Sayle, who has commanded the army for all ten years of the war. If the Lantern is known to be dead before the council signs, he will have the surrender thrown out.
+"What would it cost," Isolde said to Marrow, "if the squire had gone into the river as well?"
+Marrow had my hair in her fist and the knife under my jaw before I understood the question. "Ten," she said.
+Isolde opened her purse and counted silver onto his breastplate. It rang. At seven she stopped and looked at me, and I felt my bladder go.
+"No," she said, and picked them up again. "His men are in Stint, and they know his squire's face. They will not take my word that he is alive in there. They will take yours, Wren. Well?"
+Marrow let go.
+I had wet myself, and I was still thinking it: a man with a fever can sign his name.
 * [Say you'll do it]
     ~ PLAN = "agreed"
     ~ RING = true
@@ -293,7 +295,7 @@ I knew Sayle. He had looked at me once, over Aubric's shoulder, the way you look
     ~ PLAN = "objected"
     "It's madness," I said. Somebody had to say it, and then it would not have been my idea. "He's dead. Anyone who lifts that canvas—"
     "Quite right, and I am obliged to you." Isolde smiled at me. "So when they lift it, they must find somebody under there with him. A squire, nursing his master. You will ride in the back, Wren, under the canvas, and hold his hand."
-    I had what I wanted, and I was going under a canvas for it.
+    I had my sick man who could sign, and I was going under a canvas with him.
 - "Ride the paper south," said Marrow. "Leave him."
 "The council will not sign for a rider. They will sign for him, or for the door of his sickroom and a letter in his hand pushed under it. Wren will write that, as Wren has written them all. He never used a comma in his life until he had you, Wren."
 That I could write as him was the one thing I had to sell. She'd had it all along, for nothing.
@@ -309,7 +311,7 @@ That I could write as him was the one thing I had to sell. She'd had it all alon
 }
 { VERSION == "ambush":
     "If an arrow killed him, he'll want a hole," said Marrow.
-    "Under the arm," said Isolde, "where the plate doesn't cover. Wren, hold him still."
+    "Under the arm," said Isolde. "Wren, hold him still."
     I held his shoulders and looked at the alders while Marrow did it. It made a noise like a boot coming out of mud.
 }
 "Now. The surrender," said Isolde. "Where is it?"
@@ -323,10 +325,10 @@ She knelt and unbuckled the case herself, and checked the seal.
     ~ TRUST_ISOLDE += 1
     She tucked it into her satchel, beside the ballad. Let her be the one holding it. I had a paper of my own to think of.
     "Thank you, Wren," she said, as though I had given it to her.
-    "You're welcome," I said. I watched her do up the satchel strap, two buckles.
+    "You're welcome," I said. I watched her do up the satchel strap.
     "That's your neck she's got in there," said Marrow, not quietly.
 * [Hold out your hand. "I'm his squire. I carry it."]
-    Isolde looked at my hand. It wasn't steady. She thought about refusing. Then she looked at Marrow, who had a thumb in her belt beside the knife and was watching the case and not either of us.
+    Isolde looked at my hand. It wasn't steady. She did not move for a breath. Then she looked at Marrow, who had a thumb in her belt beside the knife and was watching the case and not either of us.
     Isolde put the case in my hand.
     ~ LETTER = "wren"
     ~ TRUST_ISOLDE -= 1
@@ -339,7 +341,6 @@ She knelt and unbuckled the case herself, and checked the seal.
     ~ TRUST_ISOLDE += 1
     I took the case out of my shirt and held it out. If it went wrong they would hang whoever was holding it, and I had a paper of my own to think of. Isolde checked the seal, didn't open it, and put it in her satchel beside the ballad.
     "Thank you, Wren," she said. My ribs felt cold where it had been.
-    I watched her do up the satchel strap. Two buckles.
     "That's your neck you just gave her," said Marrow, not quietly.
 * [Keep it. "I'll carry it. I was his squire."]
     ~ LETTER = "wren"
@@ -359,7 +360,7 @@ She knelt and unbuckled the case herself, and checked the seal.
 = s06_wrap
 # scene: s06_wrap
 # panel: greywater_wrapping
-We wrapped him in the cart's canvas. It took all three of us to lift him. Marrow did the feet.
+We wrapped him in the cart's canvas. It took all three of us to lift him.
 I had the head, and had to shift my grip twice for my {WENT_IN:elbow|knee}. I had carried his shield and his debts, and now I carried him. He was heavier, and he leaked.
 Before the canvas went over his hands, I saw my own. I was still wearing his gloves.
 * [Put the gloves back on his hands]
@@ -439,7 +440,7 @@ By full light we were on the road south to Stint and his bells, with the Lantern
 About noon she stopped over a lot of fresh hoofprints. "Marshal's riders," she said. "Going where we're going."
 Vellmouth was eight days off by cart, and we had eight.
 Then Isolde went behind the hedge, and left her pen standing in the inkhorn on the tailboard, a foot from my pack.
-I had the paper out before I knew I meant to. The room, the door, six years' wages, to his squire Wren. It wanted his name.{RING: His ring was no use without wax. A name only wants ink.}
+I had my promise out of the pack and unfolded. The room, the door, six years' wages, to his squire Wren. It wanted his name.{RING: His ring was no use without wax. A name only wants ink.}
 He would have signed it. He had said so last night, with his own mouth. It wasn't forging. It was finishing his sentence.
 * [Sign it now, in his hand]
     ~ DEED = "signed"
@@ -450,7 +451,7 @@ He would have signed it. He had said so last night, with his own mouth. It wasn'
     "You have ink on your thumb, Wren," said Isolde, climbing up. She did not ask how.
 * [Not here. In Vellmouth, with his seal and a witness]
     ~ DEED = "waiting"
-    I put it back. Not with her ink, and not on a cart. In Vellmouth, with his seal, and somebody respectable watching a sick man's hand move. I had waited four years. I could wait eight days. I counted them twice.
+    I put it back. Not with her ink, and not on a cart. In Vellmouth, with his seal, and somebody respectable watching a sick man's hand move. I had waited four years. I could wait eight days.
 - Somewhere ahead they would be ringing the bells for him. I caught myself hoping he would enjoy it. {DEED == "signed":He had signed a paper for me the day after he died, and it was drying against my ribs.|I needed him in a good temper. He had signing to do.}
 # end: ch00
 -> END

@@ -31,7 +31,7 @@ I handed it back. "One of us should be able to find the road," I said.
 
 "One of us is a horse," said Aubric, and slapped the animal's neck, and laughed until I was laughing as well.
 
-"I shall be modest," he said. 'Good people, I did nothing. A little talking.' Then I look at my boots. Do I look at my boots, Wren, or is that too much?"
+"I shall be modest," he said. "'Good people, I did nothing. A little talking.' Then I look at my boots. Do I look at my boots, Wren, or is that too much?"
 
 "The boots are good, Sir Aubric."
 
@@ -108,7 +108,7 @@ Six years' wages, which he had always been about to pay. His purse hung on his b
 
 I let it hang. I am not a thief. I weighed it in my hand first, only to be sure of that.
 
-There was more. The room with the door was in my pack on the cart, four winters old, wanting his name. He had been going to talk about it another day. I could put his name there. But his name on a paper nobody had seen him sign, and him dead, was a rope. Without him I was a laundress's child who could read.
+There was more. My promise was in my pack on the cart, wanting his name. He had been going to talk about it another day. I could put it there myself. But his name on it, and him dead, would hang me. Without him I was a laundress's child who could read.
 
 Then I thought about the letter, and the sums got worse.
 
@@ -197,7 +197,7 @@ She looked at the body. She sat down on the wet gravel in her good skirt, and go
 
 Nobody moved.
 
-"No. Of course." Then, in her ordinary voice: "Did anyone else see?"
+"No. Of course. Did anyone else see?"
 
 "Just us," said Marrow.
 
@@ -218,9 +218,7 @@ I left out my elbow. It had started to swell, and I kept that arm behind me.
 
 Isolde shut her eyes. "In a ford. Drunk."
 
-"And the guide, in this true one?" said Marrow.
-
-"Nobody will ever hear it," said Isolde. "Say this for me, Wren. He has a fever."
+"Nobody will ever hear that," said Isolde. "Say this for me, Wren. He has a fever."
 
 "He has a fever," I said.
 
@@ -230,23 +228,29 @@ Five times. The last time she made me say it with my hand on him.
 
 "There's another true one," said Marrow. "Squire broke his nose for him. Look at that ear."
 
-Isolde looked at my ear, and at his nose. "Then that is the one I shall write," she said, "if I am ever made to write a true one. Your name is in it, Wren. I shall keep it by me."
+Isolde looked at my ear, and at his nose. "Then that is the true one," she said. "Your name is in it, Wren. I shall keep it by me."
 
 "Close his mouth, Wren," said Isolde. "He looks surprised."
 
 I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 
-"And what becomes of that paper," said Isolde, "if he is dead?"
+"And what becomes of the surrender," said Isolde, "if he is dead?"
 
 "The Marshal gets it," said Marrow.
 
-"Marshal Sayle has lived off this war for ten years," said Isolde. "He will call that paper a dead man's promise, and be so very sorry. So he is not dead yet. He has a fever, and he rides in the cart until the council has signed."
+"Marshal Sayle has lived off this war for ten years," said Isolde. "He will call it a dead man's promise, and be so very sorry. So he is not dead yet. He has a fever, and he rides in the cart until the council has signed."
 
-I nearly laughed. A man with a fever can still sign his name.
+"What would it cost," Isolde said to Marrow, "if the squire had gone into the river as well?"
 
-I knew Sayle. He had looked at me once, over Aubric's shoulder, the way you look at a thing you mean to have moved.
+Marrow had my hair in her fist and the knife under my jaw before I understood the question. "Ten," she said.
 
-"His own men are in Stint," Isolde said. "They will not take my word that he is alive in there, Wren. They will take yours. You carry out his pot. You say that he is sleeping. Well?"
+Isolde opened her purse and counted silver onto his breastplate. It rang. At seven she stopped and looked at me, and I felt my bladder go.
+
+"No," she said, and picked them up again. "His men are in Stint, and they know his squire's face. They will not take my word that he is alive in there. They will take yours, Wren. Well?"
+
+Marrow let go.
+
+I had wet myself, and I was still thinking it: a man with a fever can sign his name.
 
 **The game offers:**
 - Say you'll do it
@@ -257,7 +261,7 @@ I knew Sayle. He had looked at me once, over Aubric's shoulder, the way you look
 
 "Quite right, and I am obliged to you." Isolde smiled at me. "So when they lift it, they must find somebody under there with him. A squire, nursing his master. You will ride in the back, Wren, under the canvas, and hold his hand."
 
-I had what I wanted, and I was going under a canvas for it.
+I had my sick man who could sign, and I was going under a canvas with him.
 
 "Ride the paper south," said Marrow. "Leave him."
 
@@ -287,7 +291,7 @@ She knelt and unbuckled the case herself, and checked the seal.
 - Let her take it
 - **▶ Hold out your hand. "I'm his squire. I carry it."**  (chosen)
 
-Isolde looked at my hand. It wasn't steady. She thought about refusing. Then she looked at Marrow, who had a thumb in her belt beside the knife and was watching the case and not either of us.
+Isolde looked at my hand. It wasn't steady. She did not move for a breath. Then she looked at Marrow, who had a thumb in her belt beside the knife and was watching the case and not either of us.
 
 Isolde put the case in my hand.
 
@@ -296,7 +300,7 @@ Isolde put the case in my hand.
 
 * * *
 
-We wrapped him in the cart's canvas. It took all three of us to lift him. Marrow did the feet.
+We wrapped him in the cart's canvas. It took all three of us to lift him.
 
 I had the head, and had to shift my grip twice for my elbow. I had carried his shield and his debts, and now I carried him. He was heavier, and he leaked.
 
@@ -338,7 +342,7 @@ Vellmouth was eight days off by cart, and we had eight.
 
 Then Isolde went behind the hedge, and left her pen standing in the inkhorn on the tailboard, a foot from my pack.
 
-I had the paper out before I knew I meant to. The room, the door, six years' wages, to his squire Wren. It wanted his name.
+I had my promise out of the pack and unfolded. The room, the door, six years' wages, to his squire Wren. It wanted his name.
 
 He would have signed it. He had said so last night, with his own mouth. It wasn't forging. It was finishing his sentence.
 
@@ -346,7 +350,7 @@ He would have signed it. He had said so last night, with his own mouth. It wasn'
 - Sign it now, in his hand
 - **▶ Not here. In Vellmouth, with his seal and a witness**  (chosen)
 
-I put it back. Not with her ink, and not on a cart. In Vellmouth, with his seal, and somebody respectable watching a sick man's hand move. I had waited four years. I could wait eight days. I counted them twice.
+I put it back. Not with her ink, and not on a cart. In Vellmouth, with his seal, and somebody respectable watching a sick man's hand move. I had waited four years. I could wait eight days.
 
 Somewhere ahead they would be ringing the bells for him. I caught myself hoping he would enjoy it. I needed him in a good temper. He had signing to do.
 
