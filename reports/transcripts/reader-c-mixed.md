@@ -79,7 +79,7 @@ A hand came out of the water, bare and white, opened, closed on nothing, and wen
 
 I went in. My legs were numb before I had gone three steps. I went down on my hands and came up with a mouthful of river that tasted of mud and horse, and I didn't find him so much as fall on him.
 
-He got a hand in my collar. He pulled me down onto his breastplate and held me under. I don't think he knew it was me. He was holding on to the nearest thing.
+He got a hand in my collar. He pulled me down onto his breastplate and held me under. I don't think he knew it was me.
 
 I couldn't get his fingers open. My chest was going. So I hit him. I hit the Lantern in the face with my elbow, three times, four, and felt something in his nose give, and he let go.
 
@@ -133,9 +133,7 @@ Marrow came up out of the river with her lantern, and stopped when the light rea
 
 She put her ear to his mouth and kept it there, too long. "Come on," she said, to him.
 
-Then she sat up. "That's my fee gone."
-
-"Heard you. Didn't run. Two of us, he'd not have listened."
+Then she sat up. "That's my fee gone. Heard you. Didn't run. Two of us, he'd not have listened."
 
 She leaned in and sniffed me. "Two drunks. One river."
 
@@ -145,7 +143,7 @@ His nose was bent flat to one side and leaking blood. I had pulled his wet hair 
 
 She turned his face to the light with one finger. She looked at his nose, then at my elbow, then at me. "River do that?"
 
-"He fell on the stones," I said. What I thought was: four times.
+"He fell on the stones," I said. Four times, it had been.
 
 "Course he did," said Marrow. She let his head go, and it rolled.
 
@@ -228,29 +226,27 @@ Isolde looked at him. "Close his mouth. He looks surprised."
 
 I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 
-"The council's to sign it," said Isolde. "Under his name. They've nine days, and they won't— they will not sign under a dead man's name. A dead man can't be held to anything."
+"The hill towns signed it on his word," said Isolde. "The council's to sign under his name, and they've nine days to do it, and they won't— they will not sign under a dead man's. Who keeps a dead man's word for him?"
 
-I had it, then. If the council heard he was dead, that paper was worth nothing, and in nine days the war came back.
+"So we go back up," said Isolde, "and the hill towns sign again, for somebody living."
 
-"So we go back up. The hill towns sign again, for somebody living."
-
-"Gate's shut," said Marrow. "Shut behind him."
+"They shut the gate behind him," said Marrow. "Won't open it for you."
 
 "Then we bury him and say he's following."
 
-"Nine days?"
+"Nine days?" said Marrow.
 
-"Then it's void, and Marshal Sayle has his war back."
+"Then it's void," said Isolde, "and Marshal Sayle has his war back. He's lived off it ten years."
 
-Isolde said nothing for a while. When she spoke again she had her whole sentences back.
+Isolde looked at Marrow's knife, and then at me. She had her whole sentences back.
 
-"Three of us know. I shall need the guide for the road." She was looking at me. "What would it cost, if the squire had gone into the river as well?"
+"Three of us know. I shall need the guide for the road. What would it cost, if the squire had gone into the river as well?"
 
 Marrow had my hair in her fist and the knife under my jaw. "Ten."
 
 "Six."
 
-"Ten. Not you has to do it. And I'm sick after."
+"Ten. It's me does it. And I'm sick after."
 
 Isolde began to count silver onto his breastplate. The fourth rolled off into the gravel, and she went down on her knees after it. The edge moved whenever Marrow breathed. My bladder went.
 
@@ -321,7 +317,7 @@ I held his shoulders and looked at the alders while Marrow did it. It made a noi
 - Keep it. "I'll carry it. I was his squire."
 - Tell her the river took it
 
-I took the case out of my shirt and held it out. She had got as far as seven. I would have given her my teeth. Isolde checked the seal, didn't open it, and put it in her satchel beside the ballad.
+I took the case out of my shirt and held it out. She had counted out seven for my throat. I would have given her my teeth. Isolde checked the seal, didn't open it, and put it in her satchel beside the ballad.
 
 "Thank you, Wren," she said. My ribs felt cold where it had been.
 
@@ -351,8 +347,6 @@ Marrow cut the purse off his belt with one pull of the knife, weighed it, and pu
 
 When it was done, Marrow wiped her hands on her coat and went to see to the horse without being asked.
 
-Isolde tied the canvas down herself, with a knot I didn't know.
-
 
 * * *
 
@@ -362,15 +356,15 @@ Isolde sat by the body and wrote. I drove. I was coughing up the Greywater a lit
 
 Marrow walked ahead, where I could see her. I liked that better.
 
-About noon she stopped over a lot of fresh hoofprints. "Marshal's riders. Same way as us."
+About noon she stopped over a lot of fresh hoofprints. "Marshal's riders. Same way as us." If one of them looked under that canvas, Sayle had his war back by supper.
 
-The night had cost us a day. Vellmouth was eight off by cart, and we had eight.
+Vellmouth was eight days off by cart. We had eight left.
 
-Then Isolde went behind the hedge, and left her pen in the inkhorn on the tailboard, by my pack.
+Then Isolde went behind the hedge, and left her pen in the inkhorn on the tailboard.
 
 I had my promise out of the pack and unfolded. The room, the door, six years' wages, to his squire Wren. It wanted his name. His ring was no use without wax. A name only wants ink.
 
-He would have signed it. He had said so last night, with his own mouth. It wasn't forging. It was finishing his sentence.
+He would have signed it. He had said so last night. It wasn't forging. It was finishing his sentence. And she would not leave a pen lying twice.
 
 **The game offers:**
 - **▶ Sign it now, in his hand**  (chosen)

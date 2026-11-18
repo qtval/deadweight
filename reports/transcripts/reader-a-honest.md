@@ -79,7 +79,7 @@ A hand came out of the water, bare and white, opened, closed on nothing, and wen
 
 I went in. My legs were numb before I had gone three steps. I went down on my hands and came up with a mouthful of river that tasted of mud and horse, and I didn't find him so much as fall on him.
 
-He got a hand in my collar. He pulled me down onto his breastplate and held me under. I don't think he knew it was me. He was holding on to the nearest thing.
+He got a hand in my collar. He pulled me down onto his breastplate and held me under. I don't think he knew it was me.
 
 I couldn't get his fingers open. My chest was going. So I hit him. I hit the Lantern in the face with my elbow, three times, four, and felt something in his nose give, and he let go.
 
@@ -139,7 +139,7 @@ His nose was bent flat to one side and leaking blood. I had pulled his wet hair 
 
 She turned his face to the light with one finger. She looked at his nose, then at my elbow, then at me. "River do that?"
 
-"He fell on the stones," I said. What I thought was: four times.
+"He fell on the stones," I said. Four times, it had been.
 
 "Course he did," said Marrow. She let his head go, and it rolled.
 
@@ -216,39 +216,37 @@ I told it straight: the wine, the armor, the hole in the ford. I was careful to 
 
 I left out my elbow, and kept that arm behind me.
 
-Isolde shut her eyes. "In a ford. Drunk." She opened them. "Nobody will ever hear that."
+Isolde shut her eyes. "In a ford. Drunk. Nobody will ever hear that."
 
 "There's another true one," said Marrow. "Squire broke his nose for him."
 
-"Then that is the true one," said Isolde. "Your name is in it, Wren. I shall keep it by me."
+"Then that is the one I write down," said Isolde, "if you are ever a trouble to me."
 
 Isolde looked at him. "Close his mouth. He looks surprised."
 
 I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 
-"The council's to sign it," said Isolde. "Under his name. They've nine days, and they won't— they will not sign under a dead man's name. A dead man can't be held to anything."
+"The hill towns signed it on his word," said Isolde. "The council's to sign under his name, and they've nine days to do it, and they won't— they will not sign under a dead man's. Who keeps a dead man's word for him?"
 
-I had it, then. If the council heard he was dead, that paper was worth nothing, and in nine days the war came back.
+"So we go back up," said Isolde, "and the hill towns sign again, for somebody living."
 
-"So we go back up. The hill towns sign again, for somebody living."
-
-"Gate's shut," said Marrow. "Shut behind him."
+"They shut the gate behind him," said Marrow. "Won't open it for you."
 
 "Then we bury him and say he's following."
 
-"Nine days?"
+"Nine days?" said Marrow.
 
-"Then it's void, and Marshal Sayle has his war back."
+"Then it's void," said Isolde, "and Marshal Sayle has his war back. He's lived off it ten years."
 
-Isolde said nothing for a while. When she spoke again she had her whole sentences back.
+Isolde looked at Marrow's knife, and then at me. She had her whole sentences back.
 
-"Three of us know. I shall need the guide for the road." She was looking at me. "What would it cost, if the squire had gone into the river as well?"
+"Three of us know. I shall need the guide for the road. What would it cost, if the squire had gone into the river as well?"
 
 Marrow had my hair in her fist and the knife under my jaw. "Ten."
 
 "Six."
 
-"Ten. Not you has to do it. And I'm sick after."
+"Ten. It's me does it. And I'm sick after."
 
 Isolde began to count silver onto his breastplate. The fourth rolled off into the gravel, and she went down on her knees after it. The edge moved whenever Marrow breathed. My bladder went.
 
@@ -350,7 +348,7 @@ Before the canvas went over his hands, I saw my own. I was still wearing his glo
 
 I pulled them off and worked them onto his hands. His fingers had gone stiff. It took a while, and Marrow swore at me for every finger. He ought to go to his bells with his gloves on. Isolde stopped writing to watch me do it, and I took a little longer over the last one.
 
-"Wouldn't lie for my neck," Marrow said. "Honest or stupid. Costs me the same. You walk in front."
+"Wouldn't lie for my neck," Marrow said. "Honest or stupid. Costs me the same. I walk behind you now."
 
 > *Marrow remembers you wouldn't lie to save her neck.*
 
@@ -362,8 +360,6 @@ Marrow cut the purse off his belt with one pull of the knife, weighed it, and pu
 
 When it was done, Marrow wiped her hands on her coat and went to see to the horse without being asked.
 
-Isolde tied the canvas down herself, with a knot I didn't know.
-
 
 * * *
 
@@ -373,15 +369,15 @@ Isolde drove, humming his first verse. I lay in the back under the canvas with h
 
 Marrow walked behind the cart, where she could see my back. I felt her there all morning.
 
-About noon she stopped over a lot of fresh hoofprints. "Marshal's riders. Same way as us."
+About noon she stopped over a lot of fresh hoofprints. "Marshal's riders. Same way as us." If one of them looked under that canvas, Sayle had his war back by supper.
 
-The night had cost us a day. Vellmouth was eight off by cart, and we had eight.
+Vellmouth was eight days off by cart. We had eight left.
 
-Then Isolde went behind the hedge, and left her pen in the inkhorn on the tailboard, by my pack.
+Then Isolde went behind the hedge, and left her pen in the inkhorn on the tailboard.
 
 I had my promise out of the pack and unfolded. The room, the door, six years' wages, to his squire Wren. It wanted his name.
 
-He would have signed it. He had said so last night, with his own mouth. It wasn't forging. It was finishing his sentence.
+He would have signed it. He had said so last night. It wasn't forging. It was finishing his sentence. And she would not leave a pen lying twice.
 
 **The game offers:**
 - Sign it now, in his hand

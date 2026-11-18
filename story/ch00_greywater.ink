@@ -66,13 +66,13 @@ A hand came out of the water, bare and white, opened, closed on nothing, and wen
 * [Go into the river after him]
     ~ WENT_IN = true
     I went in. My legs were numb before I had gone three steps. I went down on my hands and came up with a mouthful of river that tasted of mud and horse, and I didn't find him so much as fall on him.
-    He got a hand in my collar. He pulled me down onto his breastplate and held me under. I don't think he knew it was me. He was holding on to the nearest thing.
+    He got a hand in my collar. He pulled me down onto his breastplate and held me under. I don't think he knew it was me.
     I couldn't get his fingers open. My chest was going. So I hit him. I hit the Lantern in the face with my elbow, three times, four, and felt something in his nose give, and he let go.
     I came up and breathed and was sick down my own front. By the time I had a strap in my fist and had started to pull, he had stopped helping.
 * [Stay on the bank. Run for the rope.]
     ~ WENT_IN = false
-    There was a rope on the cart. I ran for it. A squire who drowns beside his knight is no use to anyone. Some part of me that had polished that armor every night thought: let it rust.
-    I fell twice in the slop, the second time with my knee on a stone. I threw the rope from the bank and it fell short. I threw it again and it went over him and he didn't take it. I could hear him. It was a noise like a man trying to shout through a wet cloth, and his heels were going on the stones, and I stood on the bank coiling the rope a third time, neatly, the way he liked it coiled, because I didn't want to go any nearer to that noise.
+    There was a rope on the cart. I ran for it. A squire who drowns beside his knight is no use to anyone. I had polished that armor every night for six years. Let it rust.
+    I fell twice in the slop, the second time with my knee on a stone. I threw the rope from the bank and it fell short. I threw it again and it went over him and he didn't take it. I could hear him. It was a noise like a man trying to shout through a wet cloth, and his heels were going on the stones, and I stood on the bank coiling the rope a third time, neatly, the way he liked it coiled.
     By the time I thought of the horse, the noise had stopped. I got a loop over the saddle as it floundered out, and it dragged him ashore by one stirrup, face down, with his mouth full of gravel.
 - It took longer to get him onto the stones than it had taken him to die.
 -> s03_bank
@@ -113,13 +113,9 @@ The light was nearly on me.
 # panel: greywater_marrow_wading
 Marrow came up out of the river with her lantern, and stopped when the light reached him.
 She put her ear to his mouth and kept it there, too long. "Come on," she said, to him.
-Then she sat up. "That's my fee gone."
+Then she sat up. "That's my fee gone.{AT_FORD == "called": Heard you. Didn't run. Two of us, he'd not have listened.}{AT_FORD == "silent": Saw you. Not a word out of you.}"
 { AT_FORD == "called":
-    "Heard you. Didn't run. Two of us, he'd not have listened."
     ~ TRUST_MARROW += 1
-}
-{ AT_FORD == "silent":
-    "Saw you. Not a word out of you."
 }
 { DRANK:
     # remember: drank_with_him :: Marrow remembers the wine on your breath.
@@ -130,7 +126,7 @@ Then she sat up. "That's my fee gone."
 }
 { WENT_IN:
     She turned his face to the light with one finger. She looked at his nose, then at my elbow, then at me. "River do that?"
-    "He fell on the stones," I said. What I thought was: four times.
+    "He fell on the stones," I said. Four times, it had been.
     # remember: broken_nose :: Marrow remembers the Lantern's broken nose.
     "Course he did," said Marrow. She let his head go, and it rolled.
 }
@@ -222,7 +218,7 @@ Isolde turned to me. "Wren. Tell me how he died."
     ~ VERSION = "hero"
     ~ LEGEND += 2
     "I fell in," I said. "He came in after me. He got me out. The river kept him."
-    He would have gone in for a dog, if there was a crowd. So it was nearly true. And it turned six years of carrying out his pot into something, and I wanted that so badly my ears rang.
+    He would have gone in for a dog, if there was a crowd. So it was nearly true. And it turned six years of carrying out his pot into something.
     "Oh, you little shit," said Marrow, softly.{TOLD_MARROW == "ambush": "We had a story."}
     { WENT_IN:
         Isolde looked me over. I was soaked to the collar and grey with cold. She nodded.
@@ -241,7 +237,6 @@ Isolde turned to me. "Wren. Tell me how he died."
 * [Tell her about your elbow]
     ~ ELBOW = "told"
     "He had hold of me," I said. "I hit him. In the face. Then he stopped."
-    Nobody spoke. Marrow looked at the sky.
     "He struck his face on the stones," said Isolde. "You will not say otherwise again, and I shall not write it down. That is a kindness. Remember whose."
     ~ ISOLDE_SAW_NOSE = true
 * [Leave out your elbow]
@@ -250,10 +245,10 @@ Isolde turned to me. "Wren. Tell me how he died."
 - -> truth_told
 
 = truth_told
-Isolde shut her eyes. "In a ford. Drunk." She opened them. "Nobody will ever hear that."
+Isolde shut her eyes. "In a ford. Drunk. Nobody will ever hear that."
 { TOLD_MARROW == "truth" && ELBOW != "told":
     "There's another true one," said Marrow. "Squire {WENT_IN:broke his nose for him|stood on the bank and watched}."
-    "Then that is the true one," said Isolde. "Your name is in it, Wren. I shall keep it by me."
+    "Then that is the one I write down," said Isolde, "if you are ever a trouble to me."
     ~ ISOLDE_SAW_NOSE = true
 }
 { ELBOW == "hidden" && TOLD_MARROW != "truth":
@@ -264,26 +259,25 @@ Isolde shut her eyes. "In a ford. Drunk." She opened them. "Nobody will ever hea
 = s05_plan
 Isolde looked at him. "Close his mouth. He looks surprised."
 I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
-"The council's to sign it," said Isolde. "Under his name. They've nine days, and they won't— they will not sign under a dead man's name. A dead man can't be held to anything."
-I had it, then. If the council heard he was dead, that paper was worth nothing, and in nine days the war came back.
-"So we go back up. The hill towns sign again, for somebody living."
-"Gate's shut," said Marrow. "Shut behind him."
+"The hill towns signed it on his word," said Isolde. "The council's to sign under his name, and they've nine days to do it, and they won't— they will not sign under a dead man's. Who keeps a dead man's word for him?"
+"So we go back up," said Isolde, "and the hill towns sign again, for somebody living."
+"They shut the gate behind him," said Marrow. "Won't open it for you."
 "Then we bury him and say he's following."
-"Nine days?"
-"Then it's void, and Marshal Sayle has his war back."
+"Nine days?" said Marrow.
+"Then it's void," said Isolde, "and Marshal Sayle has his war back. He's lived off it ten years."
 # know: sayle :: Marshal Sayle, who has commanded the army for all ten years of the war. If the Lantern is known to be dead before the council signs, he will have the surrender thrown out.
-Isolde said nothing for a while. When she spoke again she had her whole sentences back.
-"Three of us know. I shall need the guide for the road." She was looking at me. "What would it cost, if the squire had gone into the river as well?"
+Isolde looked at Marrow's knife, and then at me. She had her whole sentences back.
+"Three of us know. I shall need the guide for the road. What would it cost, if the squire had gone into the river as well?"
 Marrow had my hair in her fist and the knife under my jaw. "Ten."
 "Six."
-"Ten. Not you has to do it. And I'm sick after."
+"Ten. It's me does it. And I'm sick after."
 Isolde began to count silver onto his breastplate. The fourth rolled off into the gravel, and she went down on her knees after it. The edge moved whenever Marrow breathed. My bladder went.
 * [Tell them you write his letters. You can sign for him.]
     ~ SOLD = "hand"
     "I write his letters," I said, all at once. "All of them, six years, I do his hand, I do his name. If he's sick they'll want a letter from him, the council, and I can write it, nobody else can, you can't, I've seen yours—"
     "Show me," said Isolde. She laid a page on his breastplate and put her pen in my hand. Marrow kept hold of my hair.
     I wrote his name. My hand shook, and it came out like a child's.
-    "That is not his," said Isolde. "Five."
+    "That is not his," said Isolde, and put a fifth coin down.
     I wrote it again, with the big loop. I wrote it a third time without being asked.
     Isolde looked at the page. "He never used a comma in his life until he had you. I did wonder. So that is what the squire is for."
     It was the one thing I had to sell, and I had given it away on my knees.
@@ -361,7 +355,7 @@ She knelt and unbuckled the case herself, and checked the seal.
 * [Let her take it]
     ~ LETTER = "isolde"
     ~ TRUST_ISOLDE += 1
-    She tucked it into her satchel, beside the ballad. I did not argue. She had got as far as seven.
+    She tucked it into her satchel, beside the ballad. I did not argue. She had counted out seven for my throat.
     "Thank you, Wren," she said, as though I had given it to her.
     "You're welcome," I said.
     "That's your neck she's got in there," said Marrow, not quietly.
@@ -377,7 +371,7 @@ She knelt and unbuckled the case herself, and checked the seal.
 * [Give it to her]
     ~ LETTER = "isolde"
     ~ TRUST_ISOLDE += 1
-    I took the case out of my shirt and held it out. She had got as far as seven. I would have given her my teeth. Isolde checked the seal, didn't open it, and put it in her satchel beside the ballad.
+    I took the case out of my shirt and held it out. She had counted out seven for my throat. I would have given her my teeth. Isolde checked the seal, didn't open it, and put it in her satchel beside the ballad.
     "Thank you, Wren," she said. My ribs felt cold where it had been.
     "That's your neck you gave her," said Marrow, not quietly.
 * [Keep it. "I'll carry it. I was his squire."]
@@ -420,7 +414,7 @@ Before the canvas went over his hands, I saw my own. I was still wearing his glo
     ~ TRUST_MARROW -= 1
 - TOLD_MARROW == "truth" && VERSION == "truth":
     # remember: honest_twice :: Marrow remembers you wouldn't lie to save her neck.
-    "Wouldn't lie for my neck," Marrow said. "Honest or stupid. Costs me the same. You walk in front."
+    "Wouldn't lie for my neck," Marrow said. "Honest or stupid. Costs me the same. I walk behind you now."
 - TOLD_MARROW == "ambush" && VERSION == "truth":
     "We had a story," Marrow said. "You dropped it in the river."
     # remember: marrow_story_dropped :: Marrow remembers you agreed to her story.
@@ -454,7 +448,6 @@ Before the canvas went over his hands, I saw my own. I was still wearing his glo
 - else:
     When it was done, Marrow wiped her hands on her coat and went to see to the horse without being asked.
 }
-Isolde tied the canvas down herself, with a knot I didn't know.
 -> s07_road
 
 // ---------------------------------------------------------------
@@ -475,11 +468,11 @@ By full light we were on the road south to Stint and his bells, with the Lantern
 - else:
     Marrow walked ahead, where I could see her. I liked that better.
 }
-About noon she stopped over a lot of fresh hoofprints. "Marshal's riders. Same way as us."
-The night had cost us a day. Vellmouth was eight off by cart, and we had eight.
-Then Isolde went behind the hedge, and left her pen in the inkhorn on the tailboard, by my pack.
+About noon she stopped over a lot of fresh hoofprints. "Marshal's riders. Same way as us." If one of them looked under that canvas, Sayle had his war back by supper.
+Vellmouth was eight days off by cart. We had eight left.
+Then Isolde went behind the hedge, and left her pen in the inkhorn on the tailboard.
 I had my promise out of the pack and unfolded. The room, the door, six years' wages, to his squire Wren. It wanted his name.{RING: His ring was no use without wax. A name only wants ink.}
-He would have signed it. He had said so last night, with his own mouth. It wasn't forging. It was finishing his sentence.
+He would have signed it. He had said so last night. It wasn't forging. It was finishing his sentence. And she would not leave a pen lying twice.
 * [Sign it now, in his hand]
     ~ DEED = "signed"
     I signed it on the tailboard, by his feet. Aubric Dane, with the big loop he made when he was pleased. It was the best one I ever did.

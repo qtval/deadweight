@@ -77,9 +77,9 @@ A hand came out of the water, bare and white, opened, closed on nothing, and wen
 - Go into the river after him
 - **▶ Stay on the bank. Run for the rope.**  (chosen)
 
-There was a rope on the cart. I ran for it. A squire who drowns beside his knight is no use to anyone. Some part of me that had polished that armor every night thought: let it rust.
+There was a rope on the cart. I ran for it. A squire who drowns beside his knight is no use to anyone. I had polished that armor every night for six years. Let it rust.
 
-I fell twice in the slop, the second time with my knee on a stone. I threw the rope from the bank and it fell short. I threw it again and it went over him and he didn't take it. I could hear him. It was a noise like a man trying to shout through a wet cloth, and his heels were going on the stones, and I stood on the bank coiling the rope a third time, neatly, the way he liked it coiled, because I didn't want to go any nearer to that noise.
+I fell twice in the slop, the second time with my knee on a stone. I threw the rope from the bank and it fell short. I threw it again and it went over him and he didn't take it. I could hear him. It was a noise like a man trying to shout through a wet cloth, and his heels were going on the stones, and I stood on the bank coiling the rope a third time, neatly, the way he liked it coiled.
 
 By the time I thought of the horse, the noise had stopped. I got a loop over the saddle as it floundered out, and it dragged him ashore by one stirrup, face down, with his mouth full of gravel.
 
@@ -131,9 +131,7 @@ Marrow came up out of the river with her lantern, and stopped when the light rea
 
 She put her ear to his mouth and kept it there, too long. "Come on," she said, to him.
 
-Then she sat up. "That's my fee gone."
-
-"Saw you. Not a word out of you."
+Then she sat up. "That's my fee gone. Saw you. Not a word out of you."
 
 She leaned in and sniffed me. "Two drunks. One river."
 
@@ -204,7 +202,7 @@ Isolde turned to me. "Wren. Tell me how he died."
 
 "I fell in," I said. "He came in after me. He got me out. The river kept him."
 
-He would have gone in for a dog, if there was a crowd. So it was nearly true. And it turned six years of carrying out his pot into something, and I wanted that so badly my ears rang.
+He would have gone in for a dog, if there was a crowd. So it was nearly true. And it turned six years of carrying out his pot into something.
 
 "Oh, you little shit," said Marrow, softly. "We had a story."
 
@@ -216,29 +214,27 @@ Isolde looked at him. "Close his mouth. He looks surprised."
 
 I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 
-"The council's to sign it," said Isolde. "Under his name. They've nine days, and they won't— they will not sign under a dead man's name. A dead man can't be held to anything."
+"The hill towns signed it on his word," said Isolde. "The council's to sign under his name, and they've nine days to do it, and they won't— they will not sign under a dead man's. Who keeps a dead man's word for him?"
 
-I had it, then. If the council heard he was dead, that paper was worth nothing, and in nine days the war came back.
+"So we go back up," said Isolde, "and the hill towns sign again, for somebody living."
 
-"So we go back up. The hill towns sign again, for somebody living."
-
-"Gate's shut," said Marrow. "Shut behind him."
+"They shut the gate behind him," said Marrow. "Won't open it for you."
 
 "Then we bury him and say he's following."
 
-"Nine days?"
+"Nine days?" said Marrow.
 
-"Then it's void, and Marshal Sayle has his war back."
+"Then it's void," said Isolde, "and Marshal Sayle has his war back. He's lived off it ten years."
 
-Isolde said nothing for a while. When she spoke again she had her whole sentences back.
+Isolde looked at Marrow's knife, and then at me. She had her whole sentences back.
 
-"Three of us know. I shall need the guide for the road." She was looking at me. "What would it cost, if the squire had gone into the river as well?"
+"Three of us know. I shall need the guide for the road. What would it cost, if the squire had gone into the river as well?"
 
 Marrow had my hair in her fist and the knife under my jaw. "Ten."
 
 "Six."
 
-"Ten. Not you has to do it. And I'm sick after."
+"Ten. It's me does it. And I'm sick after."
 
 Isolde began to count silver onto his breastplate. The fourth rolled off into the gravel, and she went down on her knees after it. The edge moved whenever Marrow breathed. My bladder went.
 
@@ -253,7 +249,7 @@ Isolde began to count silver onto his breastplate. The fourth rolled off into th
 
 I wrote his name. My hand shook, and it came out like a child's.
 
-"That is not his," said Isolde. "Five."
+"That is not his," said Isolde, and put a fifth coin down.
 
 I wrote it again, with the big loop. I wrote it a third time without being asked.
 
@@ -351,8 +347,6 @@ Isolde, passing with the end of the rope, said only, "Fall in something before t
 
 When it was done, Marrow wiped her hands on her coat. "Rest of the road's double."
 
-Isolde tied the canvas down herself, with a knot I didn't know.
-
 
 * * *
 
@@ -362,15 +356,15 @@ Isolde sat by the body and wrote. I drove, with my bad knee stuck out straight. 
 
 Marrow walked ahead, where I could see her. I liked that better.
 
-About noon she stopped over a lot of fresh hoofprints. "Marshal's riders. Same way as us."
+About noon she stopped over a lot of fresh hoofprints. "Marshal's riders. Same way as us." If one of them looked under that canvas, Sayle had his war back by supper.
 
-The night had cost us a day. Vellmouth was eight off by cart, and we had eight.
+Vellmouth was eight days off by cart. We had eight left.
 
-Then Isolde went behind the hedge, and left her pen in the inkhorn on the tailboard, by my pack.
+Then Isolde went behind the hedge, and left her pen in the inkhorn on the tailboard.
 
 I had my promise out of the pack and unfolded. The room, the door, six years' wages, to his squire Wren. It wanted his name.
 
-He would have signed it. He had said so last night, with his own mouth. It wasn't forging. It was finishing his sentence.
+He would have signed it. He had said so last night. It wasn't forging. It was finishing his sentence. And she would not leave a pen lying twice.
 
 **The game offers:**
 - **▶ Sign it now, in his hand**  (chosen)
