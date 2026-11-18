@@ -12,4 +12,4 @@ One chat works on this repo at a time. This file is the lock.
 
 ## Current claim
 
-**CLAIMED** — 2026-11-18 22:32 (Asia/Ho_Chi_Minh) — Prologue voice pass (roadmap: next task; M0.5 exit test).
+**FREE** — last released 2026-11-19 00:30 (Asia/Ho_Chi_Minh), after the prologue voice pass and panel rounds 19–21.

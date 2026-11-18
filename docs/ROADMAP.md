@@ -13,15 +13,17 @@ Guiding rules (carried over from the previous project because they were right):
 
 ---
 
-## Where we are (updated 2026-11-18, night, after round 18)
+## Where we are (updated 2026-11-18, late night, after round 21)
 
-**The demo (the prologue):** every automated test passes (108,864 paths; browser playthroughs). Wren has a want of their own (the promise), and the dawn scene now has a choice under Marrow's knife while Isolde prices Wren's death.
+**The demo (the prologue):** every automated test passes (108,864 paths; browser playthroughs). The voice pass is done: Marrow and Isolde each have the sound `story/CAST.md` gives them, fear lasts after the knife, Wren explains less.
 
-**Reader panel:** round 16 met **every** written rule for the first time, including the First Law reader's 4. Rounds 17 and 18 did not repeat it (First Law 3 and 3). The nine feel criteria have passed in seven of the last nine rounds. So the pass is real but not stable, and **the M0.5 box stays unticked** (`reports/readers/2026-11-18-prologue-rounds-16-18.md`).
+**Reader panel, 21 rounds:** no round since 16 has met every rule. Round 19: First Law reader 4, temptation 3.67. Round 21 (the text now live): all nine criteria pass, First Law reader 3. **M0.5 stays unticked** (`reports/readers/2026-11-18-prologue-rounds-19-21.md`).
 
-**Next task (one session): the voice pass on the prologue.** The First Law readers' three standing complaints are about manner across the whole chapter, not one scene: (1) Marrow, Isolde and the narration share one dry wit: give each the sound `story/CAST.md` specifies; (2) nearly every paragraph ends on a one-liner: end two in three flat; (3) fear does not last: the knife at dawn must mark Wren for the rest of the chapter (flinch at Marrow, cannot sit near Isolde). Also from the new players: say the deadline once in Wren's own plain words. Then three panel rounds. Pass twice running before ticking M0.5.
+**Why, in two lines.** (1) The First Law score follows the route: 4 on the self-serving route both times it was read, 3 on the honest and mixed routes every time. (2) The First Law readers want the dawn scene to run long; the phone readers and the 340-word cap want it short.
 
-**After that:** chapter 1 scenes 1–3, third round, carrying the promise, the knife and these rules across.
+**Owner decision needed to close M0.5** (either one, or play it and pass it himself): measure the First Law rule on the self-serving route only; or allow one long scene per chapter (cap about 600 words for one flagged scene) and rewrite the dawn scene at that length. Do not run a twenty-second round without one of these.
+
+**Next task meanwhile:** chapter 1 scenes 1–3, third panel round, carrying across the promise, the knife at dawn (Wren is afraid of both women), the cast voices, and: Wren believes their own excuses; a threat that lasts; the war seen.
 
 **One chat at a time:** `docs/IN_PROGRESS.md` is the lock. Read it first.
 
@@ -212,3 +214,5 @@ Combat systems, inventory, character creator beyond name/pronouns, voice acting,
 | 2026-11-18 | Three more prologue rounds (13–15) in the same day, beyond the three-per-session limit | A new task from the owner, with a story change to test |
 | 2026-11-18 | Dawn scene reworked: Isolde is wrong before she is clever; new choice under the knife (`SOLD`: hand / face / begged) | Owner: make the demo pass all rules. First Law readers: the plan was handed over, and nobody was frightening |
 | 2026-11-18 | M0.5 is ticked only after the panel passes every rule two rounds running | Round 16 passed and rounds 17–18 did not; one pass in three is luck, not a result |
+| 2026-11-18 | Voice pass on the prologue: Marrow and Isolde speak as CAST.md specifies; fear lasts after the knife; stakes back on the bank in plain sentences | First Law readers: one dry register for everybody; new players: the deadline was unclear |
+| 2026-11-18 | OPEN, owner's call: measure the First Law rule on the self-serving route only, or allow one long scene per chapter (about 600 words without a choice) | 21 rounds: the score follows the route, and the phone cap conflicts with what First Law readers ask for |
