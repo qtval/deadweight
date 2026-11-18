@@ -33,6 +33,9 @@ VAR RING = false
 // If Wren went in and told Isolde the truth: did Wren admit hitting him? "" | "told" | "hidden". If told, Isolde holds it.
 VAR ELBOW = ""
 
+// Wren's own paper: the room and the wages, written out by Wren, wanting Aubric's name. "signed" (forged on the road, the day after he died) | "waiting" (to be done in Vellmouth, with seal and witness)
+VAR DEED = ""
+
 VAR ISOLDE_SAW_NOSE = false
 
 VAR TRUST_MARROW = 0
