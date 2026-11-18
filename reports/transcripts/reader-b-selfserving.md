@@ -208,7 +208,7 @@ He would have, if he had been sober, and if he had noticed, and if there had bee
 
 "Oh, you little shit," said Marrow, softly. "We had a story."
 
-Isolde looked me over. I was mud to the knee and dry above it. The corner of her mouth moved. She nodded anyway.
+Isolde looked me over. I was mud to the knee and dry above it. She nodded anyway.
 
 "That is the third verse," she said. "That is the one that did not scan."
 

@@ -228,7 +228,7 @@ Isolde turned to me. "Wren. Tell me how he died."
         Isolde looked me over. I was soaked to the collar and grey with cold. She nodded.
     - else:
         ~ TRUST_ISOLDE -= 1
-        Isolde looked me over. I was mud to the knee and dry above it. The corner of her mouth moved. She nodded anyway.
+        Isolde looked me over. I was mud to the knee and dry above it. She nodded anyway.
     }
     {WENT_IN:"And his nose?" she said.|"That is the third verse," she said. "That is the one that did not scan."}
     { WENT_IN:
