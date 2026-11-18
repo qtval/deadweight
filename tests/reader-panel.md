@@ -70,7 +70,8 @@ Format your answer with exactly these headings: PART 1 … PART 5. In PART 2 giv
 
 - **Clarity:** in PART 1, items 1–4 are answered correctly by at least two of three readers, and no confusion in item 6 is reported by two readers.
 - **Feel:** each of a–i averages 4.0 or more across the three readers, and no single score is below 3.
-- **First Law feel (reader B):** 4 or more.
+- **First Law feel (reader B):** 4 or more. **B always reads the self-serving route.** (Owner's decision, 2026-11-18: in 21 rounds B gave 4 on the self-serving route and 3 on the others; a player who chooses decently gets a less First Law chapter, and that is how the game is meant to work.) Readers A and C take the honest and the mixed route and swap each round, so the feel criteria a–i are still judged on all three routes.
+- **Two rounds running.** A chapter passes when two consecutive rounds meet every rule on the same text.
 - **Originality (reader B):** "nothing" lifted. Any item listed is fixed, whatever the scores.
 - **Stock phrases (reader C):** every listed phrase is fixed or consciously kept with a reason in the report.
 

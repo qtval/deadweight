@@ -94,7 +94,7 @@ Six years' wages, which he had always been about to pay. His purse hung on his b
     I let it hang. I am not a thief. I weighed it in my hand first, only to be sure of that.
 - My paper wanted his name, and he was past signing. {AT_FORD == "bridle":He had been going to talk about it another day. }Without him I was a laundress's child who could read.
 Then there was the letter.
-It was on the same belt, in an oilskin case: the surrender. The hill towns had signed it on his word that nobody would hang. The council in Vellmouth, the capital, had nine days left to sign it under his name, and they would not sign under a dead man's. No signature, and the war came back in the spring.
+It was on the same belt, in an oilskin case: the surrender. The hill towns had signed it on his word that nobody would hang. The council in Vellmouth, the capital, had nine days left to sign it too, under his name. They would not sign under a dead man's, because a dead man can't be held to his word. No signature, and the war came back in the spring, which would suit Marshal Sayle, who had commanded it ten years and been paid for every one.
 # know: letter :: The surrender, signed by the hill towns on Aubric's word. The council in Vellmouth, the capital, must sign it too within nine days, and must not learn he is dead first, or the war starts again.
 Out on the water, Marrow's light had turned.
 The case was dry. Whoever carried that would be looked after. But a squire with his knight's letter in his shirt and no knight is a thief, and they hang thieves.
@@ -113,7 +113,7 @@ The light was nearly on me.
 # panel: greywater_marrow_wading
 Marrow came up out of the river with her lantern, and stopped when the light reached him.
 She put her ear to his mouth and kept it there, too long. "Come on," she said, to him.
-Then she sat up. "That's my fee gone.{AT_FORD == "called": Heard you. Didn't run. Two of us, he'd not have listened.}{AT_FORD == "silent": Saw you. Not a word out of you.}"
+Then she sat up. "That's my fee gone.{AT_FORD == "called": Heard you shout. Should've run back. Didn't.}{AT_FORD == "silent": Saw you. Not a word out of you.}"
 { AT_FORD == "called":
     ~ TRUST_MARROW += 1
 }
@@ -134,13 +134,13 @@ She crouched across the body from me. There was a short knife on her belt. I had
 She reached over him and took my wrist, and laid the flat of the blade on the inside of it, above the glove. She didn't press. Her hand was shaking worse than mine.
 "Here's how it goes," she said, and it came out of her all in one breath. "A Crown hero drowns at a ford and the guide that picked the ford used to fight for the hill towns and they'll not ask her twice, they'll not ask her once. Who hangs? Guide hangs."
 I didn't answer. Two people had seen him drown, and she would be safer if it were one.
-She got her breath. "So he didn't drown. Stragglers. Dark. An arrow, and his sword out. Stragglers hang for that. They're hanging anyway."
+She got her breath. "So he didn't drown. Hill stragglers. Dark. An arrow, and his sword out. Stragglers hang for that. They're hanging anyway."
 * [Agree. An ambush, and nobody here hangs.]
     ~ TOLD_MARROW = "ambush"
     ~ TRUST_MARROW += 1
     "An ambush," I said. "I saw it."
     The knife came off my wrist. She looked at it, and put it away.
-    "Good. Quicker than him." She unstoppered her flask and passed it over the body. It was hot all the way down.
+    "Good. Learn quicker than him." She unstoppered her flask and passed it over the body. It was hot all the way down.
 * [Refuse, with her knife on your wrist]
     ~ TOLD_MARROW = "truth"
     ~ TRUST_MARROW -= 1
@@ -153,7 +153,7 @@ She got her breath. "So he didn't drown. Stragglers. Dark. An arrow, and his swo
 * [Tell her you'll decide by dawn]
     ~ TOLD_MARROW = "wait"
     "Dawn," I said. "I'll decide at dawn."
-    "Dawn's the chronicler." Marrow jerked her head at the cart. "Decide before. She'll not ask what you saw. She'll tell you."
+    "Chronicler wakes at dawn." Marrow jerked her head at the cart. "Decide before. She'll not ask what you saw. She'll tell you."
     She came round the body with a length of cord off the cart, and tied my left wrist to her right, with a knot I couldn't see. "So you don't decide somewhere else." Then she sat down against me with the knife across her knees. The cord was tight enough that my hand went cold.
 - { LETTER == "body":
     Her eyes went to the oilskin case on his belt. "That dry?"
@@ -260,21 +260,19 @@ Isolde shut her eyes. "In a ford. Drunk. Nobody will ever hear that."
 Isolde looked at him. "Close his mouth. He looks surprised."
 I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 "We go back up," said Isolde. "The hill towns sign again, for somebody living."
-"They shut the gate behind him," said Marrow. "Won't open it for you."
-"Then we bury him and say he's following."
-"Nine days? Council won't sign for a dead name."
-"Then it's void," said Isolde, "and Marshal Sayle has his war back. He's lived off it ten years."
+"They shut the gate behind him," said Marrow. "Won't open it for you. Nine days, you've got."
+"Then it's void, and Sayle has his war back."
 # know: sayle :: Marshal Sayle, who has commanded the army for all ten years of the war. If the Lantern is known to be dead before the council signs, he will have the surrender thrown out.
-Then she had her whole sentences back. "Then he is not dead. He has a fever. He rides under the canvas, and nobody but us knows otherwise."
+Isolde was quiet. Then she had her whole sentences back. "Then he is not dead. He has a fever. He rides under the canvas, and nobody but us knows otherwise."
 "Three's a lot of us," said Marrow.
-Isolde looked at Marrow's knife, and then at me. "I shall need the guide for the road. What would it cost, if the squire had gone into the river as well?"
+"I need the guide for the road," said Isolde. "I can drive a cart, and I can sit by a sickbed. What do I need a squire for?" She looked at Marrow's knife. "What would it cost, if the squire had gone into the river as well?"
 Marrow had my hair in her fist and the knife under my jaw. "Ten."
 "Six."
 "Ten. It's me does it. And I'm sick after."
 Isolde began to count silver onto his breastplate. I could not get a breath to go in. I watched the coins. One. Two. Three. The fourth rolled off into the gravel, and she went down on her knees after it. The edge moved whenever Marrow breathed. My bladder went.
 * [Tell them you write his letters. You can sign for him.]
     ~ SOLD = "hand"
-    "I write his letters," I said, all at once. "All of them, six years, I do his hand, I do his name. If he's sick they'll want a letter from him, the council, and I can write it, nobody else can, you can't, I've seen yours—"
+    "I write his letters," I said, all at once. "All of them, six years, I do his hand, I do his name. If he's sick they'll want a letter from him, the council, and I can write it, nobody else can, you can't, I've seen your hand—"
     "Show me," said Isolde. She laid a page on his breastplate and put her pen in my hand. Marrow kept hold of my hair.
     I wrote his name. My hand shook, and it came out like a child's.
     "That is not his," said Isolde, and put a fifth coin down.
@@ -297,6 +295,7 @@ Isolde began to count silver onto his breastplate. I could not get a breath to g
     "Seven," said Isolde, and turned her purse out. Nothing else fell. She pulled a ring off her thumb and held it up.
     Marrow took the knife away to take it, and bit it. I knelt there and watched her bite it.
     "Plate." She threw it back. "Ten, I said. Don't work on account."
+    "Then he will have to be useful," said Isolde.
     I thanked her. I thanked both of them.
 - Isolde picked the coins up again. Marrow let go of my hair, and wiped her hand.
 I stayed where I was. I was crying, and nobody minded.
@@ -305,7 +304,7 @@ I stayed where I was. I was crying, and nobody minded.
     I wrote a better one. I kept that to myself. It was the one thing I had left to sell.
 }
 "His men in Stint will not take my word that he is alive in there," she said. "They will take yours. Well?"
-I was still on my knees. A man with a fever can sign his name.
+I was still on my knees. A man with a fever can still sign a paper. Mine, for one.
 * [Say you'll do it]
     ~ PLAN = "agreed"
     ~ RING = true
@@ -323,7 +322,7 @@ I was still on my knees. A man with a fever can sign his name.
     ~ PLAN = "objected"
     "It's madness," I said. Somebody ought to say so. "He's dead. Anyone who lifts that canvas—"
     "That is quite right, and I am obliged to you," said Isolde. "So when they lift it, we must be found under there with him. A squire, nursing his master. You will ride in the back, under the canvas, and hold his hand."
-    I had my sick man who could sign, and I was going under a canvas with him.
+    A man with a fever could sign my paper. I was going under a canvas with him for it.
 - "He'll stink by day three," said Marrow.
 "Heroes do. We shall burn something."
 "And the guide that picked the ford?"
@@ -383,7 +382,7 @@ She knelt and unbuckled the case herself, and checked the seal.
     "The river," I said. "It must have come off in the water."
     Isolde went to the body and looked at his belt herself. The buckle was undone, not torn. She looked at it, and then at the river, and not at me.
     "Then we're carrying a dead man nine days," she said, "to tell the council the war's over, with nothing to show them. So we'll find it. Or something very like it. I've seen his hand often enough."
-    She was clipping her words again. I knew what that was, now.
+    She was clipping her words again. She did that when she was frightened.
     Behind her, where only I could see, Marrow looked at my shirt and rubbed her finger and thumb together.
 - -> s06_wrap
 

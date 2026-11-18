@@ -110,7 +110,7 @@ My paper wanted his name, and he was past signing. Without him I was a laundress
 
 Then there was the letter.
 
-It was on the same belt, in an oilskin case: the surrender. The hill towns had signed it on his word that nobody would hang. The council in Vellmouth, the capital, had nine days left to sign it under his name, and they would not sign under a dead man's. No signature, and the war came back in the spring.
+It was on the same belt, in an oilskin case: the surrender. The hill towns had signed it on his word that nobody would hang. The council in Vellmouth, the capital, had nine days left to sign it too, under his name. They would not sign under a dead man's, because a dead man can't be held to his word. No signature, and the war came back in the spring, which would suit Marshal Sayle, who had commanded it ten years and been paid for every one.
 
 Out on the water, Marrow's light had turned.
 
@@ -145,7 +145,7 @@ She reached over him and took my wrist, and laid the flat of the blade on the in
 
 I didn't answer. Two people had seen him drown, and she would be safer if it were one.
 
-She got her breath. "So he didn't drown. Stragglers. Dark. An arrow, and his sword out. Stragglers hang for that. They're hanging anyway."
+She got her breath. "So he didn't drown. Hill stragglers. Dark. An arrow, and his sword out. Stragglers hang for that. They're hanging anyway."
 
 **The game offers:**
 - **▶ Agree. An ambush, and nobody here hangs.**  (chosen)
@@ -156,7 +156,7 @@ She got her breath. "So he didn't drown. Stragglers. Dark. An arrow, and his swo
 
 The knife came off my wrist. She looked at it, and put it away.
 
-"Good. Quicker than him." She unstoppered her flask and passed it over the body. It was hot all the way down.
+"Good. Learn quicker than him." She unstoppered her flask and passed it over the body. It was hot all the way down.
 
 Her eyes went to his belt, and the empty buckle. "Where's his letter?"
 
@@ -216,19 +216,15 @@ I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 
 "We go back up," said Isolde. "The hill towns sign again, for somebody living."
 
-"They shut the gate behind him," said Marrow. "Won't open it for you."
+"They shut the gate behind him," said Marrow. "Won't open it for you. Nine days, you've got."
 
-"Then we bury him and say he's following."
+"Then it's void, and Sayle has his war back."
 
-"Nine days? Council won't sign for a dead name."
-
-"Then it's void," said Isolde, "and Marshal Sayle has his war back. He's lived off it ten years."
-
-Then she had her whole sentences back. "Then he is not dead. He has a fever. He rides under the canvas, and nobody but us knows otherwise."
+Isolde was quiet. Then she had her whole sentences back. "Then he is not dead. He has a fever. He rides under the canvas, and nobody but us knows otherwise."
 
 "Three's a lot of us," said Marrow.
 
-Isolde looked at Marrow's knife, and then at me. "I shall need the guide for the road. What would it cost, if the squire had gone into the river as well?"
+"I need the guide for the road," said Isolde. "I can drive a cart, and I can sit by a sickbed. What do I need a squire for?" She looked at Marrow's knife. "What would it cost, if the squire had gone into the river as well?"
 
 Marrow had my hair in her fist and the knife under my jaw. "Ten."
 
@@ -243,7 +239,7 @@ Isolde began to count silver onto his breastplate. I could not get a breath to g
 - Tell them his men in Stint know your face
 - Beg
 
-"I write his letters," I said, all at once. "All of them, six years, I do his hand, I do his name. If he's sick they'll want a letter from him, the council, and I can write it, nobody else can, you can't, I've seen yours—"
+"I write his letters," I said, all at once. "All of them, six years, I do his hand, I do his name. If he's sick they'll want a letter from him, the council, and I can write it, nobody else can, you can't, I've seen your hand—"
 
 "Show me," said Isolde. She laid a page on his breastplate and put her pen in my hand. Marrow kept hold of my hair.
 
@@ -265,7 +261,7 @@ I stayed where I was. I was crying, and nobody minded.
 
 "His men in Stint will not take my word that he is alive in there," she said. "They will take yours. Well?"
 
-I was still on my knees. A man with a fever can sign his name.
+I was still on my knees. A man with a fever can still sign a paper. Mine, for one.
 
 **The game offers:**
 - Say you'll do it
@@ -311,7 +307,7 @@ Isolde went to the body and looked at his belt herself. The buckle was undone, n
 
 "Then we're carrying a dead man nine days," she said, "to tell the council the war's over, with nothing to show them. So we'll find it. Or something very like it. I've seen his hand often enough."
 
-She was clipping her words again. I knew what that was, now.
+She was clipping her words again. She did that when she was frightened.
 
 Behind her, where only I could see, Marrow looked at my shirt and rubbed her finger and thumb together.
 
