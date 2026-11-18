@@ -29,7 +29,7 @@ The full version, with each speaker's rhythm, habit, humour, reason and sample l
 | **Marrow** | Short. Prices things ("That's my fee gone"). Says the worst part first. Her wit is arithmetic. Swears. | Rarely; she changes the subject to money. | "Squire". Later, whatever the road calls you. |
 | **Isolde** | Whole, gracious sentences. Asks after your health. Her wit is courtesy with a blade in it ("Then we made excellent time"). | With the truth, arranged. | "Wren", but only when she is taking something. |
 | **Tobin** | Gentle, slow, full of small practical kindnesses. Talks about roofs, bread, feet. | By calling it mercy. | "Child", "my friend". |
-| **Coste** | Speaks about you to other people while you stand there. Tidy, tired, reasonable. | By offering you what you want. | "The Lantern's squire". Your name once, with the offer. |
+| **Sayle** | Speaks about you to other people while you stand there. Tidy, tired, reasonable. | By offering you what you want. | "The Lantern's squire". Your name once, with the offer. |
 | **Hesper** | Blunt as a ledger. Not cruel. No patience for songs. | She doesn't. That is the problem. | Asks what your name is. Nobody else in the game does. |
 
 ## Reference paragraphs
@@ -53,8 +53,8 @@ I couldn't get his fingers open. My chest was going. So I hit him. I hit the Lan
 I came up and breathed and was sick. By the time I had a strap in my fist and had started to pull, he had stopped helping.
 
 **5. A joke inside the worst moment, from the people in it.**
-"He'll stink by the fourth day," said Marrow.
-"Heroes do. We'll burn something."
+"He'll stink by the third day," said Marrow.
+"Heroes do. We shall burn something."
 
 **6. Ending a scene on the turn.**
 Somewhere ahead, in Stint, they would be ringing the bells for him. I caught myself hoping he would enjoy it.

@@ -63,7 +63,7 @@ Six speaking characters, deliberately few. Faces are rare in the art; everyone i
 - **Isolde Ferrant** — the chronicler the Crown attached to Aubric to write the ballad of the peace. Warm, quick, and entirely ruthless about the story. Her draft ballad is a real in-game document that changes with your choices. She is the game's "wise mentor" figure and she is not magic, not old, and not your friend; she is a career.
 - **Marrow** — a Compact deserter turned road-guide, hired by Aubric for the crossing. Knows every ford and every grave. When she is violent it is fast, ugly, and over, and she does not enjoy it. She has her own reason to see the surrender delivered — or not.
 - **Brother Tobin Ask** — itinerant friar of the Church of the Hearth who attaches himself to the party at the first town. Kind in the way of a man who has already decided what your body is worth. He wants Aubric's corpse for his chapel: a saint means pilgrims, and pilgrims mean a roof.
-- **Marshal Severin Coste** — the named antagonist, and the one who profits if the surrender dies. Commander of the Crown's army in the Marches. He "won" the war and he needs the Lantern to ride into Vellmouth alive and grateful so the Marshal's version of events becomes the official one. A living hero is a rival. A dead one is an opportunity — if he controls the story.
+- **Marshal Severin Sayle** — the named antagonist, and the one who profits if the surrender dies. Commander of the Crown's army in the Marches. He "won" the war and he needs the Lantern to ride into Vellmouth alive and grateful so the Marshal's version of events becomes the official one. A living hero is a rival. A dead one is an opportunity — if he controls the story.
 - **Hesper Dane** — Aubric's wife, in Vellmouth. A brewer's daughter he married for money; she has run his estate and paid his debts for ten years while he was in ballads. She never liked him. She is the last person you have to lie to, or not.
 
 Minor: **Ottil Rask**, the Compact's envoy riding behind the party to confirm the surrender arrives; a tollkeeper at Stint; a camp surgeon; two child scavengers who strip the battlefield in Chapter 2.
@@ -75,9 +75,9 @@ Each chapter is one primary location (cheap on art, strong on mood) and one dram
 | # | Chapter | Place | Question | Key choice |
 |---|---------|-------|----------|------------|
 | 0 | **The Greywater** | A night ford | How did the Lantern die? | Which version of his death you tell Isolde and Marrow at dawn — and whether you tell them about the letter. |
-| 1 | **Stint** | A tollhouse town | What is the story worth? | Tobin offers a roof and a reliquary; Coste's riders offer an escort "for the hero's safety." Taking either help puts the body in someone else's hands. |
+| 1 | **Stint** | A tollhouse town | What is the story worth? | Tobin offers a roof and a reliquary; Sayle's riders offer an escort "for the hero's safety." Taking either help puts the body in someone else's hands. |
 | 2 | **The Hanging Wood** | A road through last year's battlefield | Who does the peace belong to? | Compact stragglers want the letter read aloud; Rask the envoy arrives; Marrow's past surfaces. The game's first real violence, and you decide whether it happens. |
-| 3 | **Barrow Hill** | Coste's siege camp, rotting | What is the Lantern's successor? | Coste offers to make you the witness of a heroic death — or to bury the letter and end the war on his terms. The midpoint turn: the letter is now a threat to someone powerful. |
+| 3 | **Barrow Hill** | Sayle's siege camp, rotting | What is the Lantern's successor? | Sayle offers to make you the witness of a heroic death — or to bury the letter and end the war on his terms. The midpoint turn: the letter is now a threat to someone powerful. |
 | 4 | **Saint Weir** | A pilgrim chapel on a drowned battlefield | What does a miracle cost? | The body "performs a miracle." Isolde's ballad is nearly finished; you decide what the legend becomes and whom it names. |
 | 5 | **Vellmouth** | The capital | What survives? | Hesper, the court, the countersignature, and the final telling. Endings. |
 | — | **Epilogue: The Ballad / The Account** | — | — | Two columns: the song Isolde publishes, and what actually happened. |
@@ -86,7 +86,7 @@ Each chapter is one primary location (cheap on art, strong on mood) and one dram
 
 1. **The Lantern Lives** — You keep the lie whole. The peace holds. The ballad is beautiful. You are not in it.
 2. **The Honest Squire** — You tell the truth to the one person it matters to. The peace may not survive it. Isolde is ruined; Hesper is free.
-3. **Coste's Peace** — The letter is buried or sold. The war ends anyway, worse, with the Marshal as the Marches' master. You have a pension.
+3. **Sayle's Peace** — The letter is buried or sold. The war ends anyway, worse, with the Marshal as the Marches' master. You have a pension.
 4. **Saint Aubric** — The Church gets the body and the miracle. The peace holds on a lie bigger than yours. The chapel gets its roof.
 5. **Deadweight** — You walk away with nothing and no one, and life goes on, which is the point.
 

@@ -16,7 +16,7 @@ Aubric never wrote a promise down. He said it warmly, in front of people, and me
 | Marrow | "Nobody hangs." The hill towns signed on that word | A pardon with her name on it |
 | Isolde | A triumph to end her ballad on | Her name on the ballad, and a post at court |
 | Tobin | A new roof for the chapel at Saint Weir, promised with his hand on the altar | The body, which is worth more than the roof |
-| Coste | "I'll see it put right, Severin," ten years ago | The record corrected: who held the light |
+| Sayle | "I'll see it put right, Severin," ten years ago | The record corrected: who held the light |
 | Hesper | Repayment, in every letter for ten years | The estate in her own name, and no more bills |
 
 The letter everyone is carrying is the only promise of his that *was* written down, and it is the only one he kept.
@@ -26,20 +26,20 @@ The letter everyone is carrying is the only promise of his that *was* written do
 Ten years ago, in the first winter of the war, a Crown column was caught at night on a marsh causeway under hill bowmen. Somebody stood at the end of it with a lantern held up, for two hours, so the column could find the way off.
 
 - **The song:** Sir Aubric Dane held the light.
-- **What happened:** a captain of foot named Severin Coste held it, and took an arrow through the right hand doing it. Aubric came in with the last company, took the lantern from him while a surgeon was at the hand, and was the one holding it when the sun came up and eight hundred men looked to see who had saved them. By noon Aubric believed it himself.
+- **What happened:** a captain of foot named Severin Sayle held it, and took an arrow through the right hand doing it. Aubric came in with the last company, took the lantern from him while a surgeon was at the hand, and was the one holding it when the sun came up and eight hundred men looked to see who had saved them. By noon Aubric believed it himself.
 - **Who wrote it:** Isolde, then a junior copyist with the column. Her first draft had a captain in the third verse. Somebody paid forty silver to have him cut. The patch has never scanned. (Aubric, in the prologue: "The third verse of my song doesn't scan.")
 - **Who paid:** Hesper, newly married, settling one more of her husband's bills without asking what it was for. She has not asked about a song since.
 
-So the Lantern was a story before he was a corpse, and three of the people Wren must lie to already know it. This is revealed in pieces: Coste's hand (ch1, seen; ch3, explained), the third verse (ch3), the forty silver (ch5).
+So the Lantern was a story before he was a corpse, and three of the people Wren must lie to already know it. This is revealed in pieces: Sayle's hand (ch1, seen; ch3, explained), the third verse (ch3), the forty silver (ch5).
 
 ## The bastard with a face
 
-**Marshal Severin Coste** is the person who profits if the surrender dies. Not "his man": him. Decided 2026-11-18, to keep the cast at six.
+**Marshal Severin Sayle** is the person who profits if the surrender dies. Not "his man": him. Decided 2026-11-18, to keep the cast at six.
 
 - **Why he profits:** he has commanded the army all ten years of the war and has friends on the council. Peace means the Crown's clerks come south to audit ten years of army accounts, and he has been paying unpaid soldiers by selling the army's stores. And it would be the Lantern's peace: the last verse of another man's song, again.
 - **How he does it:** he does not need to destroy the letter. He needs Aubric known to be dead before the council signs. Then his friends call it waste paper, the war resumes in spring, and the audit waits.
-- **Why Wren is afraid of him, in particular:** Wren has stood in front of him once. He looked at Wren and said to Aubric, "Your squire reads. I should see to that." Wren has never found out what seeing to it means. (This is now in the prologue, scene 3.)
-- **In game text he is "Marshal Coste" or "the Marshal".** The "Lord-" is dropped: "Lord Marshal" is a First Law title, and the do-not-copy list applies.
+- **Why Wren is afraid of him, in particular:** Wren has stood in front of him once. He looked at Wren and said to Aubric, "Your squire reads. I should see to that." Wren has never found out what seeing to it means. (This is now in the prologue, in the dawn scene, when Isolde first names him.)
+- **In game text he is "Marshal Sayle" or "the Marshal".** The "Lord-" is dropped: "Lord Marshal" is a First Law title, and the do-not-copy list applies.
 - **He is petty before he is grand.** He counts tent pegs. He has a man flogged for a short barrel and reads his letters through it. He writes with his left hand, badly, and hides the right in a glove. Art: the glove, the folding desk, the second chair. Never the face.
 
 ---
@@ -49,7 +49,7 @@ So the Lantern was a story before he was a corpse, and three of the people Wren 
 | | |
 |---|---|
 | **Want** | A place that is written down. Under that: to be in the song. Under that: a bed, and to be warm. |
-| **Fear** | Going back to the laundry tubs. Being noticed by someone who can hang people. From the prologue on: Coste, who said he would see to it. |
+| **Fear** | Going back to the laundry tubs. Being noticed by someone who can hang people. From the prologue on: Sayle, who said he would see to it. |
 | **Secret** | Wren has written Aubric's letters for six years, in Aubric's hand, and made them better than he would have. That includes every letter home. Wren can sign his name more like him than he could drunk. Path secrets from the prologue sit on top of this: the elbow, or "let it rust". |
 | **Breaking point** | Player-driven. The pressures are fixed: Wren cannot stand to be thanked for the thing they did wrong, and will give up almost anything for a promise on paper. |
 | **Why Wren talks this way** | A short true sentence with a number in it is the one thing nobody has ever hit Wren for. |
@@ -70,7 +70,7 @@ Sample lines (aloud):
 |---|---|
 | **Want** | Not to hang. Then: a pardon with her name on it, so she can go home to the hill town she was born in. |
 | **Fear** | Rope. She has seen what was done in the Hanging Wood, slowly, and she arranged it. And being recognised by anyone from her own side. |
-| **Secret** | Last year she was the hill army's pathfinder. They had not paid her in two years and their own foragers had burned her sister's farm. She sold the Marshal's quartermaster the track round the back of the Hanging Wood for forty silver. That defeat is why the hill towns were ready to sign. By her arithmetic she ended the war, and nobody will ever thank her for it. Coste knows, and it is his leash on her. Rask, the hill envoy, suspects. |
+| **Secret** | Last year she was the hill army's pathfinder. They had not paid her in two years and their own foragers had burned her sister's farm. She sold the Marshal's quartermaster the track round the back of the Hanging Wood for forty silver. That defeat is why the hill towns were ready to sign. By her arithmetic she ended the war, and nobody will ever thank her for it. Sayle knows, and it is his leash on her. Rask, the hill envoy, suspects. |
 | **Breaking point** | She will sell a road, a story or a corpse. She will not stand and watch another hanging. When a rope comes out she runs or she kills, fast and ugly, and is sick afterwards. And she does not sell to the same buyer twice. |
 | **Why she talks this way** | She was not paid for two years on promises. Now she says the cost out loud before anyone can promise her anything. |
 | **Rhythm** | Two to seven words. Drops the "I" and the "it" ("Saw you against the water."). No subordinate clauses. Worst part first. |
@@ -124,7 +124,7 @@ Sample lines:
 - "You have not slept, I can see it in how you hold your head, and I have sat up with worse than whatever it is. Who is it in the cart?"
 - "The poor horse, and he never complained, which is more than I can say for my knees. Shall we walk a little slower?"
 
-## Marshal Severin Coste
+## Marshal Severin Sayle
 
 | | |
 |---|---|
@@ -177,7 +177,7 @@ If a line could be moved to another mouth, rewrite it. The pairs that drift toge
 | Pair | The difference |
 |---|---|
 | Marrow / Hesper (both blunt) | Marrow drops words, swears, prices it, and answers her own questions. Hesper speaks whole sentences, asks real questions and waits for the answer, then gives a household instruction. |
-| Isolde / Coste (both formal) | **The closest pair; all three test readers said so.** Isolde speaks to you, warmly, thanks you first, and leaves you with a line to say or a look to wear. Coste speaks to somebody else about you, in passives, and fixes the hour and a witness. Isolde edits the record; Coste files it. A formal line with neither mark belongs to nobody: rewrite it. |
+| Isolde / Sayle (both formal) | **The closest pair; all three test readers said so.** Isolde speaks to you, warmly, thanks you first, and leaves you with a line to say or a look to wear. Sayle speaks to somebody else about you, in passives, and fixes the hour and a witness. Isolde edits the record; Sayle files it. A formal line with neither mark belongs to nobody: rewrite it. |
 | Isolde / Tobin (both kind) | Isolde's kindness comes first and the task after. Tobin starts with your feet, wanders, and ends on a question. Isolde never wanders. |
 | Marrow / Wren (both short) | Wren agrees first and gives a fact. Marrow never agrees; she gives the cost. |
 | Tobin / Aubric (both warm) | Aubric is warm about himself. Tobin is warm about you. |
@@ -195,12 +195,12 @@ The test readers could name every speaker, and the editor among them still calle
 
 One line per chapter. Each is something Wren finds out, not something Wren is told (the "meanwhile" beat in `story/BEATS.md`). The beat sheet decides which scene shows it.
 
-| | Marrow | Isolde | Tobin | Coste | Hesper |
+| | Marrow | Isolde | Tobin | Sayle | Hesper |
 |---|---|---|---|---|---|
 | **0 The Greywater** | Chose this ford because the bridge has a Crown post where her face is known. | Was awake in the cart, writing. Stayed down. | In Stint, drilling the bell-ringers. Has already written to Saint Weir that a great guest is coming. | Three days ago he learned the terms. His riders are already on the road to Stint. | Has had the news of the triumph, and the bill for the feast. |
-| **1 Stint** | Drinks with the sergeant of Coste's riders, who knows her from last year. Comes back with new boots and no explanation. | Sends a letter south by the toll rider: the Lantern has a fever and is coming. Now it is in writing, and Wren cannot change the story. Buys the lavender. | Opens the canvas while Wren sleeps. Washes him, combs his hair, reties the jaw with a better knot, and reties Isolde's knot exactly. Says nothing. | Has sent, with the riders, his own surgeon "for the hero's health". A surgeon would know in one breath. | Sells the grey mare Aubric promised to somebody else, to pay the wine merchant. |
+| **1 Stint** | Drinks with the sergeant of Sayle's riders, who knows her from last year. Comes back with new boots and no explanation. | Sends a letter south by the toll rider: the Lantern has a fever and is coming. Now it is in writing, and Wren cannot change the story. Buys the lavender. | Opens the canvas while Wren sleeps. Washes him, combs his hair, reties the jaw with a better knot, and reties Isolde's knot exactly. Says nothing. | Has sent, with the riders, his own surgeon "for the hero's health". A surgeon would know in one breath. | Sells the grey mare Aubric promised to somebody else, to pay the wine merchant. |
 | **2 The Hanging Wood** | Goes into the wood alone at night with the cart's spade. Cuts one body down and buries it. Mud to the elbows at breakfast. | Walks among the hanged, taking names for the ambush verse. Talks to Rask alone for the length of a candle. | Takes a lock of Aubric's hair and a tooth. The tooth was loose, he says later, and it would have been a waste. | His foragers stripped this wood last spring; his provost did the hanging. He is having Rask followed. | Writes to Aubric. The letter is on the road north, and it is Wren who will have to read it and answer. |
-| **3 Barrow Hill** | Is taken to the provost's tent and comes out an hour later, free. That is worse than if she had not come out. | Dines with Coste. Returns with his wine on her breath and the third verse rewritten two ways. | Begs through the camp and feeds the sick. Soldiers start coming to the cart to be blessed: he has told them the fever is a holy one. | On-screen. Off it: he has already written the dispatch reporting the Lantern's death of fever. It is dated tomorrow. | A creditor of Aubric's calls. She pays him in beer and gets a receipt. |
+| **3 Barrow Hill** | Is taken to the provost's tent and comes out an hour later, free. That is worse than if she had not come out. | Dines with Sayle. Returns with his wine on her breath and the third verse rewritten two ways. | Begs through the camp and feeds the sick. Soldiers start coming to the cart to be blessed: he has told them the fever is a holy one. | On-screen. Off it: he has already written the dispatch reporting the Lantern's death of fever. It is dated tomorrow. | A creditor of Aubric's calls. She pays him in beer and gets a receipt. |
 | **4 Saint Weir** | Sits at the back of the chapel and lights a candle she will deny. Or is a day ahead on the road, meeting Rask, if she no longer trusts Wren. | Finishes the ballad. Makes two fair copies and sends one ahead, so the legend reaches Vellmouth before Wren can alter it. | Makes ready: the drowned pikeman's bone moved, the lamp oil, the lame child placed by the door. | Sends candles, with a company of foot to carry them. Whether they are for the saint or for the body depends on chapter 3. | People begin leaving candles at her gate. She has them collected and sold back to the chandler. |
 | **5 Vellmouth** | Cannot pass the city gate as herself. Waits outside it with the cart horse, or comes in as Rask's guide. | Has arranged the sickroom, the door, and an audience for the first singing. | Stays with his saint. Or arrives a day behind with two hundred pilgrims and no plan for feeding them. | His friends on the council have the vote ready. He rides in himself a day behind the cart. | On-screen. She has had the cold room cleared since the third day. She did the sum from Isolde's letter: a man with a fever does not need a chronicler to write for him, and Aubric always signed his own. |
 
@@ -212,7 +212,9 @@ Not on this sheet yet: **Ottil Rask**, the hill envoy (ch2, ch5); the tollkeeper
 
 ## What this changes elsewhere
 
-- Prologue scene 3 names Coste where it said "men at court".
+- The prologue names Sayle at dawn (scene 5): Marrow says "the Marshal", Isolde gives the name and the motive, Wren remembers "Your squire reads". His riders' tracks are on the road in scene 7.
+- He was "Coste" until 2026-11-18. A First Law reader found that too near "Cosca"; older reports still say Coste.
+- Marrow notches Wren's ear if Wren refuses her story at the body. That is a mark Wren carries for the rest of the game on that path (see the epithet task).
 - Isolde "slept through all of it" stays as Wren's belief. The ink on her fingers is already there.
 - `docs/VISION.md` cast entries point here.
-- The prologue voice pass (roadmap task 3) applies these rhythms to Marrow's and Isolde's existing lines; nothing was rewritten for it in this task.
+- The prologue voice pass (done 2026-11-18, panel rounds 7–9) applied some of this: Isolde has no contractions except when the letter is lost; Marrow goes plain and fast with the knife out. Readers still hear one dry register. See `reports/readers/2026-11-18-prologue-rounds-7-9.md`.

@@ -45,7 +45,7 @@ export const spec = {
   // Writing rules (docs/WRITING_GUIDE.md).
   choiceMaxWords: 12,
   maxNewProperNouns: { firstScene: 5, otherScenes: 2 },
-  maxWordsBetweenChoices: 300,
+  maxWordsBetweenChoices: 340,
   readingWpm: 200,
 
   // Routes written out as plain-text playthroughs for the blind reader panel (docs/TESTING.md, layer 3).

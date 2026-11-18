@@ -15,19 +15,19 @@ Guiding rules (carried over from the previous project because they were right):
 
 ## Where we are (updated 2026-11-18)
 
-**Milestone M1, first task done.** The cast sheet is written (`story/CAST.md`) and passed the blind voice test: three fresh readers each named the speaker of ten unattributed lines, 10 of 10 (`reports/readers/2026-11-18-voice.md`). The named antagonist is Marshal Coste himself, and he is now in prologue scene 3. The readers' warnings stand: Isolde and Coste are the closest pair, Wren aloud is thin, Marrow and Tobin can turn into tics, and Marrow and Coste are where a First Law reader hears the influence.
+**Milestone M1, first task done.** The cast sheet is written (`story/CAST.md`) and passed the blind voice test: three fresh readers each named the speaker of ten unattributed lines, 10 of 10 (`reports/readers/2026-11-18-voice.md`). The named antagonist is Marshal Sayle himself, and he is now in prologue scene 3. The readers' warnings stand: Isolde and Sayle are the closest pair, Wren aloud is thin, Marrow and Tobin can turn into tics, and Marrow and Sayle are where a First Law reader hears the influence.
 
-**M0.5 is still open.** The prologue has been through six rounds of the blind reader panel (`reports/readers/`). **It is close but does not pass:** clarity passes and eight of nine feel criteria pass. Temptation scores 3.67 (needs 4), and the First Law reader has given the feel 3 of 5 in every round. Nothing has been judged copied.
+**M0.5 is still open.** The prologue has now been through nine rounds of the blind reader panel (`reports/readers/`); rounds 7–9 followed the voice pass of 2026-11-18. **It still does not pass, on the same two counts:** temptation scores 3.67 (needs 4), and the First Law reader has given the feel 3 of 5 in all nine rounds ("a high 3" in round 9). Clarity passes, the other eight feel criteria pass, and nothing is judged copied. Two different approaches have now produced the same two scores, so a tenth round of polish is not the next move.
 
 The owner is assumed not to be available to test (see `CLAUDE.md`). The reader panel is the gate; he can overrule it.
 
-The reader's remaining objections (one shared register for Marrow, Isolde and Wren; no named antagonist; fear that does not linger; too dense) are not prologue-polish problems. They need the cast sheet and a longer chapter. So the prologue is parked here, and M1 starts.
+What the voice pass fixed: the ford choice has a stake (the room with a door) and is now the choice every reader names as tempting; the bank scene states the letter's stakes once; the antagonist has a name and a line; Marrow cuts Wren if refused. What it did not fix, in every round 9 reader's words: Marrow, Isolde and Wren still share one dry wit; nearly every paragraph ends on a wry turn; nobody is frightened of anybody; the decent choices are free. Those are faults of method, not of lines. The proposal is in the round 7–9 report: write chapter 1 to different rules (plain paragraphs by default, one turn a scene, people who are slow, wrong or scared), test that, and bring what works back to the prologue.
 
 **Next tasks, in order:**
-1. Chapter 1 beat sheet (Stint) against `story/BEATS.md` and `story/CAST.md`, with longer scenes and Wren's private commentary running through every exchange. It must carry the chapter 1 column of the off-screen table (Marrow's new boots, Isolde's letter south, Tobin and the knot, Coste's surgeon).
-2. Then one more prologue pass with the cast voices applied, and a fresh full panel. Also: give the ford choice a real stake; break up the four paragraphs of explanation on the bank; bring Coste back once before the chapter ends; say earlier that the bells are in Stint; settle council or King (the other items from the clarity reader are in the voice report).
+1. Chapter 1 beat sheet (Stint) against `story/BEATS.md` and `story/CAST.md`, with longer scenes. It must carry the chapter 1 column of the off-screen table (Marrow's new boots, Isolde's letter south, Tobin and the knot, Sayle's surgeon), and it must schedule a cost for each decent choice.
+2. Write the first two or three scenes of chapter 1 to the plainer rules in the round 7–9 report and put them to the panel, before writing the rest.
 3. Panels for the prologue: check for a `panels/ch00` branch or pull request from the Codex trial (`AGENTS.md`); if images are there, process, test and place them. Note the water panel prompt now asks for a bare hand, not a gauntlet.
-4. Owner, whenever he likes: title; confirm the fixed name Wren; and look at the three inventions in the cast sheet (the lantern night, Wren writing Aubric's letters, Marrow selling the Hanging Wood). Each can be struck without breaking the rest.
+4. Owner, whenever he likes: whether the demo is good enough for him as it stands (the panel says no, narrowly; he can overrule); title; confirm the fixed name Wren; and look at the three inventions in the cast sheet (the lantern night, Wren writing Aubric's letters, Marrow selling the Hanging Wood). Each can be struck without breaking the rest.
 
 ---
 
@@ -59,7 +59,7 @@ A playable prologue to agree on tone, writing, UI, systems and testing before M1
 - [ ] 7 prologue panels generated in ChatGPT, processed and in the game
 - [x] Groundwork for the feel (2026-11-18): the experience target in VISION, immersion devices in WRITING_GUIDE, draft `story/VOICE.md`, chapter checklist in `story/BEATS.md`, first thought choice (`SELF`) and Wren's hurt in the prologue, voice check in the story test
 - [x] Blind reader panel built (`tests/reader-panel.md`, `npm run transcripts`) and run for six rounds on the prologue
-- [ ] Reader panel passes on the prologue (round 6: 8 of 9 criteria pass; temptation 3.67; First Law feel 3/5)
+- [ ] Reader panel passes on the prologue (round 9: 8 of 9 criteria pass; temptation 3.67; First Law feel 3/5, unchanged since round 6)
 - [x] Tests green: story 18,144/18,144 paths, browser 38/38 checks
 - [ ] Owner verdict, if and when he gives one (no longer the gate)
 
@@ -111,7 +111,7 @@ Everything the writing needs before writing.
 - [ ] First audio: 6–8 ambient loops, a handful of stingers; captions for audio in settings
 - [ ] Save migration table in place; old saves survive content changes
 
-**Exit test:** outside players reach the end of ch3 and can explain, unprompted, why the letter is now dangerous to Coste.
+**Exit test:** outside players reach the end of ch3 and can explain, unprompted, why the letter is now dangerous to Sayle.
 
 ## M5 — Chapters 4–5 and endings (≈3 weeks)
 
@@ -184,9 +184,15 @@ Combat systems, inventory, character creator beyond name/pronouns, voice acting,
 | 2026-11-18 | Thought choices are acts that carry the excuse (first: what Wren does with Aubric's gloves), not "tell yourself" labels | Readers in two rounds found the labelled version abstract; none objected to the act |
 | 2026-11-18 | Prologue parked at 8 of 9 after six panel rounds; M1 cast sheet goes first | The remaining objections (distinct voices, a named antagonist, room) cannot be fixed inside the prologue |
 | 2026-11-18 | Agreeing to Isolde's plan gives Wren Aubric's signet (`RING`); objecting puts Wren under the canvas with the body | Every answer to the plan now has a visible result |
-| 2026-11-18 | The named antagonist is Marshal Coste himself, not a new man at court. In game text he is "Marshal Coste"; the "Lord-" is dropped | Keeps the cast at six. "Lord Marshal" is a First Law title |
+| 2026-11-18 | The named antagonist is Marshal Sayle himself, not a new man at court. In game text he is "Marshal Sayle"; the "Lord-" is dropped | Keeps the cast at six. "Lord Marshal" is a First Law title |
 | 2026-11-18 | Cast spine: six creditors of a dead man's spoken promises, each trying to get it in writing | Gives every character a want of the same shape as Wren's, and makes the letter the one promise he kept |
-| 2026-11-18 | The lantern night: Coste held the light, Aubric got the song, Isolde wrote it, Hesper paid for the cut verse | Gives Coste a petty, human motive and makes the legend a lie before the game begins. Uses the "third verse" already in the prologue |
-| 2026-11-18 | Wren has written Aubric's letters for six years, in his hand; Hesper has known | A reason for Coste's threat ("your squire reads"), a skill that matters when the letter is in doubt, and a payoff in chapter 5 |
-| 2026-11-18 | Marrow sold the Hanging Wood to Coste's quartermaster; Isolde was awake at the ford; Tobin knows the Lantern is dead from Stint | Secrets required by the cast sheet. Each is revealed no earlier than the chapter named there |
+| 2026-11-18 | The lantern night: Sayle held the light, Aubric got the song, Isolde wrote it, Hesper paid for the cut verse | Gives Sayle a petty, human motive and makes the legend a lie before the game begins. Uses the "third verse" already in the prologue |
+| 2026-11-18 | Wren has written Aubric's letters for six years, in his hand; Hesper has known | A reason for Sayle's threat ("your squire reads"), a skill that matters when the letter is in doubt, and a payoff in chapter 5 |
+| 2026-11-18 | Marrow sold the Hanging Wood to Sayle's quartermaster; Isolde was awake at the ford; Tobin knows the Lantern is dead from Stint | Secrets required by the cast sheet. Each is revealed no earlier than the chapter named there |
 | 2026-11-18 | Blind voice test added (`tests/voice-test.md`) as the gate for the cast sheet. The one-line prologue change was checked by a single clarity reader, not the full panel | The full panel is scheduled with the prologue voice pass; running it for one passage would repeat a known fail |
+| 2026-11-18 | Owner: finish the demo before the chapter 1 beat sheet. Prologue voice pass done and put to three more panel rounds (7–9) | Owner's instruction |
+| 2026-11-18 | The Marshal is renamed Sayle (was Coste) | The First Law reader in round 7: "Coste" is too near "Cosca" for a scheming military man. The panel rule is that anything listed as lifted is fixed |
+| 2026-11-18 | The ford choice now stakes Wren's pay and the promised room; Aubric's escort is a day ahead in Stint; the King is not mentioned in the prologue (the council signs) | Readers found the ford choice foregone, the missing escort odd, and "council or King" confusing |
+| 2026-11-18 | Refusing Marrow at the body costs Wren a notched ear, and she then tells Isolde her version | Readers in rounds 7–8: no real menace; honest choices are free |
+| 2026-11-18 | "Squires carry things" is used once in the prologue, not twice. "Lantern" counts as a name for Aubric in the proper-noun check | A reader heard the refrain as an imitation of Abercrombie's mantras. The epithet is the same person, and counting it twice left no room to name Stint in scene 1 |
+| 2026-11-18 | Wall-of-text limit raised from 300 to 340 words between choices | Room for Wren's commentary and for fear to last. The new-player reader still flags the bank and the dawn scene as long; do not raise it again |
