@@ -71,7 +71,8 @@ A hand came out of the water, bare and white, opened, closed on nothing, and wen
 * [Stay on the bank. Run for the rope.]
     ~ WENT_IN = false
     There was a rope on the cart. I ran for it. I told myself a squire who drowns beside his knight is no use to anyone. Some part of me that had polished that armor every night thought: let it rust.
-    I fell twice in the slop, the second time with my knee on a stone. I got a loop over the saddle as the horse floundered out, and hauled, and the horse did the rest. It dragged him ashore by one stirrup, face down.
+    I fell twice in the slop, the second time with my knee on a stone. I threw the rope from the bank and it fell short. I threw it again and it went over him and he didn't take it. I could hear him. It was a noise like a man trying to shout through a wet cloth, and his heels were going on the stones, and I stood on the bank coiling the rope a third time, neatly, the way he liked it coiled, because I didn't want to go any nearer to that noise.
+    By the time I thought of the horse, the noise had stopped. I got a loop over the saddle as it floundered out, and it dragged him ashore by one stirrup, face down, with his mouth full of gravel.
 - It took longer to get him onto the stones than it had taken him to die.
 -> s03_bank
 
@@ -110,7 +111,8 @@ The light was nearly on me.
 # scene: s04_marrow
 # panel: greywater_marrow_wading
 Marrow came up out of the river with her lantern held high, and stopped when the light reached him.
-She looked at him. "That's my fee gone," she said.
+She put her ear to his mouth, too long. "He's breathing," she said. He wasn't. She sat back.
+"That's my fee gone," she said.
 { AT_FORD == "called":
     "Heard you call," she said. "Didn't run. He wasn't going to listen to two of us either."
     ~ TRUST_MARROW += 1
@@ -194,9 +196,11 @@ It got light without any sun in it. Mist stood on the water, and the first fly f
 }
 He had begun to smell, or I had. There was piss in it, his or mine.
 Isolde Ferrant climbed down from the cart with ink on two fingers. She had slept through all of it.
-She was the Crown's chronicler, sent along to write the Lantern's ballad, and she had written most of it before we set out. She used my name the way you use a dog's, just before you want it to fetch.
-She looked at the body. She sat down on the wet gravel in her good skirt, all at once, and got up again.
-"Did anyone else see?" she said.
+She was the Crown's chronicler, sent to write his ballad, and she had written most of it before we set out.
+She looked at the body. She sat down on the wet gravel in her good skirt, and got up again.
+"Wake him," she said.
+Nobody moved.
+"No. Of course." Then, in her ordinary voice: "Did anyone else see?"
 "Just us," said Marrow.
 Isolde turned to me. "Wren. Tell me how he died."
 * [Tell her the truth: he drowned, drunk]
@@ -250,7 +254,7 @@ Isolde shut her eyes. "In a ford. Drunk."
 "Nobody will ever hear it," said Isolde. "Say this for me, Wren. He has a fever."
 "He has a fever," I said.
 "Again, and look at me, not at him."
-Five times, the last one touching him.
+Five times. The last time she made me say it with my hand on him.
 { TOLD_MARROW == "truth" && ELBOW != "told":
     "There's another true one," said Marrow. "Squire {WENT_IN:broke his nose for him|stood on the bank and watched him go}. Look at that ear."
     Isolde looked at my ear{WENT_IN:, and at his nose}. "Then that is the one I shall write," she said, "if I am ever made to write a true one. Your name is in it, Wren. I shall keep it by me."
@@ -265,10 +269,10 @@ Five times, the last one touching him.
 "Close his mouth, Wren," said Isolde. "He looks surprised."
 I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 "And what becomes of that paper," said Isolde, "if he is dead?"
-"The Marshal," said Marrow. "The Marshal becomes of it."
+"The Marshal gets it," said Marrow.
 "Marshal Sayle has had ten years' living out of this war, and he has friends on the council," said Isolde. "He will call that paper a dead man's promise, and be so very sorry. So he is not dead yet. He {VERSION == "ambush":took an arrow from robbers and has a fever of it|has a fever}, and he rides in the cart until the council has signed."
 # know: sayle :: Marshal Sayle, who has commanded the army for all ten years of the war. If the Lantern is known to be dead before the council signs, he will have the surrender thrown out. He knows you can read.
-I had stood in front of Sayle once, holding a cloak. "Your squire reads," he had said, to Aubric, not to me. "I should see to that." I had read every letter Aubric ever got, and some were about Sayle. I had never found out what seeing to it meant.
+I had stood in front of Sayle once, holding a cloak. "Your squire reads," he had said, to Aubric, not to me. "I should see to that."
 "His own escort is in Stint, and the Marshal's riders are on this road," Isolde said. "None of them will take my word that he is alive in there, Wren. They will take his squire's. You carry out his pot. You say that he is sleeping. Well?"
 * [Say you'll do it]
     ~ PLAN = "agreed"
@@ -317,7 +321,7 @@ She knelt and unbuckled the case herself, and checked the seal.
     ~ TRUST_ISOLDE += 1
     She tucked it into her satchel, beside the ballad.
     "Thank you, Wren," she said, as though I had given it to her.
-    "You're welcome," I said. I watched her do up the satchel strap, two buckles. Whoever held that case was worth nine days. I had let it go by without putting my hand out.
+    "You're welcome," I said. I watched her do up the satchel strap, two buckles.
     "That's your neck she's got in there," said Marrow, not quietly.
 * [Hold out your hand. "I'm his squire. I carry it."]
     Isolde looked at my hand. It wasn't steady. She thought about refusing. Then she looked at Marrow, who had a thumb in her belt beside the knife and was watching the case and not either of us.
@@ -333,7 +337,7 @@ She knelt and unbuckled the case herself, and checked the seal.
     ~ TRUST_ISOLDE += 1
     I took the case out of my shirt and held it out. Isolde checked the seal, didn't open it, and put it in her satchel beside the ballad.
     "Thank you, Wren," she said. My ribs felt cold where it had been.
-    I had been worth nine days with that against my skin. I watched her do up the satchel strap, two buckles, and tried to think what I was worth now. A pot-carrier. A voice to say he was sleeping.
+    I watched her do up the satchel strap. Two buckles.
     "That's your neck you just gave her," said Marrow, not quietly.
 * [Keep it. "I'll carry it. I was his squire."]
     ~ LETTER = "wren"
@@ -346,7 +350,7 @@ She knelt and unbuckled the case herself, and checked the seal.
     Isolde put her hand flat on her satchel. She went to the body and looked at his belt herself. The buckle was undone, not torn. She looked at it for a while, and then at the river, and not at me.
     "Then we're carrying a dead man nine days," she said, "to tell the council the war is over, with nothing to show them. So we'll find it. Or something very like it. I've seen his hand often enough."
     It was the first time I had heard her clip a word.
-    Behind her, where only I could see, Marrow held out her hand, palm up, and closed it slowly. She had me, and she wanted me to know it.
+    Behind her, where only I could see, Marrow held out her hand, palm up, and closed it slowly.
 - -> s06_wrap
 
 // ---------------------------------------------------------------
@@ -354,7 +358,7 @@ She knelt and unbuckled the case herself, and checked the seal.
 # scene: s06_wrap
 # panel: greywater_wrapping
 We wrapped him in the cart's canvas. It took all three of us to lift him. Marrow did the feet.
-I had the head, and had to shift my grip twice for my {WENT_IN:elbow|knee}. Squires carry things. I had carried his shield and his debts, and now I carried him. He was heavier, and he leaked.
+I had the head, and had to shift my grip twice for my {WENT_IN:elbow|knee}. I had carried his shield and his debts, and now I carried him. He was heavier, and he leaked.
 Before the canvas went over his hands, I saw my own. I was still wearing his gloves.
 * [Put the gloves back on his hands]
     ~ SELF = "him"
@@ -391,7 +395,7 @@ Before the canvas went over his hands, I saw my own. I was still wearing his glo
 }
 { not PURSE:
     Marrow cut the purse off his belt with one pull of the knife, weighed it, and put it in her coat.
-    # remember: left_purse :: Marrow remembers you left the purse for her.
+    # remember: left_purse :: Marrow remembers you left the purse.
     "You didn't want it," she said. "Six years, was it? I've carried him one night."
 }
 { PURSE:

@@ -129,7 +129,9 @@ I took my hand off it. Nobody had told me to carry that, and I was glad of it. I
 
 Marrow came up out of the river with her lantern held high, and stopped when the light reached him.
 
-She looked at him. "That's my fee gone," she said.
+She put her ear to his mouth, too long. "He's breathing," she said. He wasn't. She sat back.
+
+"That's my fee gone," she said.
 
 His nose was bent flat to one side and leaking blood. I had pulled his wet hair across it, and it would not stay.
 
@@ -185,11 +187,15 @@ He had begun to smell, or I had. There was piss in it, his or mine.
 
 Isolde Ferrant climbed down from the cart with ink on two fingers. She had slept through all of it.
 
-She was the Crown's chronicler, sent along to write the Lantern's ballad, and she had written most of it before we set out. She used my name the way you use a dog's, just before you want it to fetch.
+She was the Crown's chronicler, sent to write his ballad, and she had written most of it before we set out.
 
-She looked at the body. She sat down on the wet gravel in her good skirt, all at once, and got up again.
+She looked at the body. She sat down on the wet gravel in her good skirt, and got up again.
 
-"Did anyone else see?" she said.
+"Wake him," she said.
+
+Nobody moved.
+
+"No. Of course." Then, in her ordinary voice: "Did anyone else see?"
 
 "Just us," said Marrow.
 
@@ -218,7 +224,7 @@ Isolde shut her eyes. "In a ford. Drunk."
 
 "Again, and look at me, not at him."
 
-Five times, the last one touching him.
+Five times. The last time she made me say it with my hand on him.
 
 "There's another true one," said Marrow. "Squire broke his nose for him. Look at that ear."
 
@@ -230,11 +236,11 @@ I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 
 "And what becomes of that paper," said Isolde, "if he is dead?"
 
-"The Marshal," said Marrow. "The Marshal becomes of it."
+"The Marshal gets it," said Marrow.
 
 "Marshal Sayle has had ten years' living out of this war, and he has friends on the council," said Isolde. "He will call that paper a dead man's promise, and be so very sorry. So he is not dead yet. He has a fever, and he rides in the cart until the council has signed."
 
-I had stood in front of Sayle once, holding a cloak. "Your squire reads," he had said, to Aubric, not to me. "I should see to that." I had read every letter Aubric ever got, and some were about Sayle. I had never found out what seeing to it meant.
+I had stood in front of Sayle once, holding a cloak. "Your squire reads," he had said, to Aubric, not to me. "I should see to that."
 
 "His own escort is in Stint, and the Marshal's riders are on this road," Isolde said. "None of them will take my word that he is alive in there, Wren. They will take his squire's. You carry out his pot. You say that he is sleeping. Well?"
 
@@ -290,7 +296,7 @@ Isolde put the case in my hand.
 
 We wrapped him in the cart's canvas. It took all three of us to lift him. Marrow did the feet.
 
-I had the head, and had to shift my grip twice for my elbow. Squires carry things. I had carried his shield and his debts, and now I carried him. He was heavier, and he leaked.
+I had the head, and had to shift my grip twice for my elbow. I had carried his shield and his debts, and now I carried him. He was heavier, and he leaked.
 
 Before the canvas went over his hands, I saw my own. I was still wearing his gloves.
 
@@ -309,7 +315,7 @@ Marrow cut the purse off his belt with one pull of the knife, weighed it, and pu
 
 "You didn't want it," she said. "Six years, was it? I've carried him one night."
 
-> *Marrow remembers you left the purse for her.*
+> *Marrow remembers you left the purse.*
 
 When it was done, Marrow wiped her hands on her coat and went to see to the horse without being asked.
 

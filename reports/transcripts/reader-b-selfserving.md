@@ -77,7 +77,9 @@ A hand came out of the water, bare and white, opened, closed on nothing, and wen
 
 There was a rope on the cart. I ran for it. I told myself a squire who drowns beside his knight is no use to anyone. Some part of me that had polished that armor every night thought: let it rust.
 
-I fell twice in the slop, the second time with my knee on a stone. I got a loop over the saddle as the horse floundered out, and hauled, and the horse did the rest. It dragged him ashore by one stirrup, face down.
+I fell twice in the slop, the second time with my knee on a stone. I threw the rope from the bank and it fell short. I threw it again and it went over him and he didn't take it. I could hear him. It was a noise like a man trying to shout through a wet cloth, and his heels were going on the stones, and I stood on the bank coiling the rope a third time, neatly, the way he liked it coiled, because I didn't want to go any nearer to that noise.
+
+By the time I thought of the horse, the noise had stopped. I got a loop over the saddle as it floundered out, and it dragged him ashore by one stirrup, face down, with his mouth full of gravel.
 
 It took longer to get him onto the stones than it had taken him to die.
 
@@ -125,7 +127,9 @@ The buckle was stiff with cold, and my hands were worse. I got it open and pushe
 
 Marrow came up out of the river with her lantern held high, and stopped when the light reached him.
 
-She looked at him. "That's my fee gone," she said.
+She put her ear to his mouth, too long. "He's breathing," she said. He wasn't. She sat back.
+
+"That's my fee gone," she said.
 
 "Watched from over there," she said. "You never said a word."
 
@@ -177,11 +181,15 @@ He had begun to smell, or I had. There was piss in it, his or mine.
 
 Isolde Ferrant climbed down from the cart with ink on two fingers. She had slept through all of it.
 
-She was the Crown's chronicler, sent along to write the Lantern's ballad, and she had written most of it before we set out. She used my name the way you use a dog's, just before you want it to fetch.
+She was the Crown's chronicler, sent to write his ballad, and she had written most of it before we set out.
 
-She looked at the body. She sat down on the wet gravel in her good skirt, all at once, and got up again.
+She looked at the body. She sat down on the wet gravel in her good skirt, and got up again.
 
-"Did anyone else see?" she said.
+"Wake him," she said.
+
+Nobody moved.
+
+"No. Of course." Then, in her ordinary voice: "Did anyone else see?"
 
 "Just us," said Marrow.
 
@@ -208,11 +216,11 @@ I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 
 "And what becomes of that paper," said Isolde, "if he is dead?"
 
-"The Marshal," said Marrow. "The Marshal becomes of it."
+"The Marshal gets it," said Marrow.
 
 "Marshal Sayle has had ten years' living out of this war, and he has friends on the council," said Isolde. "He will call that paper a dead man's promise, and be so very sorry. So he is not dead yet. He has a fever, and he rides in the cart until the council has signed."
 
-I had stood in front of Sayle once, holding a cloak. "Your squire reads," he had said, to Aubric, not to me. "I should see to that." I had read every letter Aubric ever got, and some were about Sayle. I had never found out what seeing to it meant.
+I had stood in front of Sayle once, holding a cloak. "Your squire reads," he had said, to Aubric, not to me. "I should see to that."
 
 "His own escort is in Stint, and the Marshal's riders are on this road," Isolde said. "None of them will take my word that he is alive in there, Wren. They will take his squire's. You carry out his pot. You say that he is sleeping. Well?"
 
@@ -266,14 +274,14 @@ Isolde put her hand flat on her satchel. She went to the body and looked at his 
 
 It was the first time I had heard her clip a word.
 
-Behind her, where only I could see, Marrow held out her hand, palm up, and closed it slowly. She had me, and she wanted me to know it.
+Behind her, where only I could see, Marrow held out her hand, palm up, and closed it slowly.
 
 
 * * *
 
 We wrapped him in the cart's canvas. It took all three of us to lift him. Marrow did the feet.
 
-I had the head, and had to shift my grip twice for my knee. Squires carry things. I had carried his shield and his debts, and now I carried him. He was heavier, and he leaked.
+I had the head, and had to shift my grip twice for my knee. I had carried his shield and his debts, and now I carried him. He was heavier, and he leaked.
 
 Before the canvas went over his hands, I saw my own. I was still wearing his gloves.
 
