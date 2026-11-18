@@ -13,17 +13,20 @@ Guiding rules (carried over from the previous project because they were right):
 
 ---
 
-## Where we are (updated 2026-11-18, late night, after round 21)
+## Where we are (updated 2026-11-19, after round 25)
 
-**The demo (the prologue):** every automated test passes (108,864 paths; browser playthroughs). The voice pass is done: Marrow and Isolde each have the sound `story/CAST.md` gives them, fear lasts after the knife, Wren explains less.
+**The demo (the prologue):** every automated test passes (108,864 paths; browser playthroughs).
 
-**Reader panel, 21 rounds:** no round since 16 has met every rule. Round 19: First Law reader 4, temptation 3.67. Round 21 (the text now live): all nine criteria pass, First Law reader 3. **M0.5 stays unticked** (`reports/readers/2026-11-18-prologue-rounds-19-21.md`).
+**Reader panel, 25 rounds: NOT PASSED. M0.5 stays unticked.** (`reports/readers/2026-11-18-prologue-rounds-22-25.md`.) Seven of nine criteria pass every round; temptation passes two rounds in three; the First Law reader gives 3 two times in three, on any route. Nothing has ever been judged copied. Read strictly, clarity also fails: two or more readers a round cannot say why the council will not sign for a dead man or who Sayle is.
 
-**Why, in two lines.** (1) The First Law score follows the route: 4 on the self-serving route both times it was read, 3 on the honest and mixed routes every time. (2) The First Law readers want the dawn scene to run long; the phone readers and the 340-word cap want it short.
+**The owner's rule change (B reads the self-serving route) is in `tests/reader-panel.md`. It did not settle it;** the route effect was noise.
 
-**Owner decision needed to close M0.5** (either one, or play it and pass it himself): measure the First Law rule on the self-serving route only; or allow one long scene per chapter (cap about 600 words for one flagged scene) and rewrite the dawn scene at that length. Do not run a twenty-second round without one of these.
+**Sentence-level passes have stopped moving the scores. Do not run another round on the prologue without a structural change.** Options, owner's call:
+1. Split the dawn scene into two scenes (the lie and the fever plan; then the price on Wren's life and the letter), with room in each and the stakes said once plainly. Structural: scene order, spec, browser test, one more panel.
+2. The owner plays it and passes it himself.
+3. Leave the prologue; write chapter 1 (a long scene, the war seen, Sayle present are already in its beat sheet) and return with what that teaches.
 
-**Next task meanwhile:** chapter 1 scenes 1–3, third panel round, carrying across the promise, the knife at dawn (Wren is afraid of both women), the cast voices, and: Wren believes their own excuses; a threat that lasts; the war seen.
+**Next task if the owner says nothing:** option 3: chapter 1 scenes 1–3, third panel round, carrying the promise, the knife at dawn and the cast voices across.
 
 **One chat at a time:** `docs/IN_PROGRESS.md` is the lock. Read it first.
 
@@ -216,3 +219,6 @@ Combat systems, inventory, character creator beyond name/pronouns, voice acting,
 | 2026-11-18 | M0.5 is ticked only after the panel passes every rule two rounds running | Round 16 passed and rounds 17–18 did not; one pass in three is luck, not a result |
 | 2026-11-18 | Voice pass on the prologue: Marrow and Isolde speak as CAST.md specifies; fear lasts after the knife; stakes back on the bank in plain sentences | First Law readers: one dry register for everybody; new players: the deadline was unclear |
 | 2026-11-18 | OPEN, owner's call: measure the First Law rule on the self-serving route only, or allow one long scene per chapter (about 600 words without a choice) | 21 rounds: the score follows the route, and the phone cap conflicts with what First Law readers ask for |
+| 2026-11-18 | Owner: the First Law rule is judged on the self-serving route; a–i still on all three routes. A chapter passes on two rounds running | Owner chose the recommended option after round 21 |
+| 2026-11-19 | The route explanation was wrong (B on the self-serving route: 4, 4, 4, 3, 3, 3). No more prologue rounds without a structural change | Rounds 22–25 |
+| 2026-11-19 | Rounds 24–25 were run together on one text, beyond three rounds in a session | The two-rounds-running rule needs a pair; no text changed between them |

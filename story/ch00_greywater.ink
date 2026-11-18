@@ -21,7 +21,7 @@ Stint was the toll town, a day south. He had sent his escort ahead that morning 
 He sat his grey horse in full armor, polished for the bells. I had done the polishing.
 A light moved on the far bank, under the alders. That was Marrow, the guide. She had waded over to test the bottom and shouted back three words, and the words were "Wait for morning."
 # know: marrow :: The road-guide. A deserter from the hill towns' side, paid in silver to know the fords. Said the river should wait for morning.
-"Nine days, and the council signs under my name," he said. "Mine. They'd sign under nobody else's. I gave the hill towns my word that nobody hangs, and it's my word they took. The army will weep. Ten years it's been paid for that war."
+"Nine days, and the council signs under my name," he said. "Mine. They'd sign under nobody else's. I gave the hill towns my word that nobody hangs, and it's my word they took. The generals will weep. Ten years they've been paid for that war."
 He held the last of the wine down to me. "Drink, Wren. Tomorrow you're squire to the man who ended the war. You'll never pay for a cup again."
 He had never once paid me, either. But he said it so warmly that I forgot to mind. You warmed your hands at him and didn't count your fingers till later.
 * [Drink with him]
@@ -384,7 +384,7 @@ She knelt and unbuckled the case herself, and checked the seal.
     ~ LETTER = "hidden"
     "The river," I said. "It must have come off in the water."
     Isolde went to the body and looked at his belt herself. The buckle was undone, not torn. She looked at it, and then at the river, and not at me.
-    "Then we're carrying a dead man nine days," she said, "to tell the council the war's over, with nothing to show them. So we'll find it. Or something very like it. I've seen his hand often enough."
+    "Then we're carrying a dead man nine days," she said, "to tell the council the war's over, with nothing to show them. So we'll find it. Or something very like it. {SOLD == "hand":You'll write it|I've seen his hand often enough}."
     She was clipping her words again. She did that when she was frightened.
     Behind her, where only I could see, Marrow looked at my shirt and rubbed her finger and thumb together.
 - -> s06_wrap
