@@ -6,6 +6,10 @@ This file is read by Claude (and any other AI tool or model) at the start of a s
 
 A choice-driven visual novel that makes the player feel they are a small person living inside a First Law-like world: Wren, a dead hero's squire, telling it in the first person. Original world, people and phrases; nothing of Abercrombie's is copied. See "The experience we are building" in `docs/VISION.md`.
 
+## One chat at a time
+
+Before anything else: `git pull`, then read `docs/IN_PROGRESS.md` and follow it. It is the lock. Claim it and push the claim before you start; if another chat holds a fresh claim, stop and tell the owner; set it back to FREE in your last push. Never push without `git pull --rebase` first. (On 2026-11-18 two chats did the same task at once. This is why.)
+
 ## Read first, in this order
 
 1. `docs/ROADMAP.md` — the "Where we are" block at the top names the next task.
