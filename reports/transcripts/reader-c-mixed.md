@@ -31,7 +31,7 @@ I drank. It was sweet and strong, and I had not eaten since noon, and I felt it 
 
 "There," he said.
 
-"I shall be modest," he said. "I've been practising. 'Good people, I did nothing. A little talking.' Then I look at my boots. Do I look at my boots, Wren, or is that too much?"
+"I shall be modest," he said. 'Good people, I did nothing. A little talking.' Then I look at my boots. Do I look at my boots, Wren, or is that too much?"
 
 "The boots are good, Sir Aubric."
 
@@ -47,7 +47,7 @@ He pulled off his riding gloves, the good ones with the fleece inside, and dropp
 
 My mother washed shirts for the army and had spoken to him once. He had asked after her chest every winter since. It would have been easier to hate him if he had forgotten. I put the gloves on.
 
-He gathered the reins. There was nobody awake to stop him but me.
+He gathered the reins. Nobody was awake to stop him but me.
 
 And tomorrow he signed my paper. In six years I had not seen him sign a thing for anybody who had crossed him the night before.
 
