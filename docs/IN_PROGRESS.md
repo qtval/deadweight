@@ -12,4 +12,4 @@ One chat works on this repo at a time. This file is the lock.
 
 ## Current claim
 
-**FREE** — last released 2026-11-19 00:30 (Asia/Ho_Chi_Minh), after the prologue voice pass and panel rounds 19–21.
+**CLAIMED** — 2026-11-18 23:20 (Asia/Ho_Chi_Minh) — Owner decision on the First Law rule; prologue panel rounds 22–23 (roadmap: M0.5 exit test).
