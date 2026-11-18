@@ -31,7 +31,7 @@ He had never once paid me, either. But he said it so warmly that I forgot to min
 * [Hand the skin back untouched]
     I handed it back. "One of us should be able to find the road," I said.
     "One of us is a horse," said Aubric, and slapped the animal's neck, and laughed until I was laughing as well.
-- "I shall be modest," he said. "'Good people, I did nothing. A little talking.' Then I look at my boots. Do I look at my boots, or is that too much?"
+- He sat up straight in the saddle. "I shall be modest. 'Good people, I did nothing. A little talking.' Then I look at my boots. Do I look at my boots, or is that too much?"
 "The boots are good, Sir Aubric."
 "Then they shout 'The Lantern!' and I wave. Like this." He waved, and nearly came off the horse. "The third verse of my song doesn't scan, mind. I must have that mended before the bells. And you'll be paid. Every penny, the day we ride in. And the room. A room in my house in the capital, with a door on it. Remind me of the door. Bring me that paper of yours in Stint and I'll sign it."
 He had been promising me that room four years. It had not had a door before.
@@ -262,12 +262,10 @@ Isolde looked at him. "Close his mouth. He looks surprised."
 I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 Isolde sat down on the cart step and held her satchel.
 "Ride the paper south," said Marrow. "Leave him."
-"The council signs under his name," said Isolde. "The hill towns signed because he swore nobody would hang. A dead man's oath binds nobody."
-"Then they sign quick."
-"The council sits until the end of the month. Nine days. Then it goes home until spring, and in spring there is the war again, and Marshal Sayle has it back. He has been paid for every year of it."
+"The council will not sign it," said Isolde. "The hill towns signed because he swore that nobody would hang. The council signs under his name to keep that oath. A dead man keeps no oaths."
+"Then they'd best sign before they hear."
+"They sit until the end of the month. Nine days. Then they go home until spring, and in spring the war starts again, and Marshal Sayle has it back. He has been paid for every year of it."
 # know: sayle :: Marshal Sayle, who has commanded the army for all ten years of the war. If the Lantern is known to be dead before the council signs, he will have the surrender thrown out.
-"Then we go back up," said Isolde. "The hill towns sign again, for somebody living."
-"Hill towns shut their gate behind him," said Marrow. "Won't sign again for you."
 Isolde looked at the river for a while.
 "Then he is not dead. He has a fever. He rides under the canvas to Vellmouth, and the council signs at the door of his sickroom."
 "Three of us know," said Marrow.
@@ -303,7 +301,7 @@ They went down the bank together, out of hearing, and left me with him.
 # scene: s05b_price
 # panel: greywater_breastplate_silver
 The mist had come off the water and lay on the gravel. I sat by him with my hands in my armpits.
-Down the bank Isolde was talking and Marrow was not. Once Marrow looked back at me, and then at the river. I had watched her look at fords like that all week.
+Down the bank Isolde was talking and Marrow was not. I heard "three", and "river", and then Marrow said a number. Once she looked back at me, and then at the river. I had watched her look at fords like that all week.
 It was all right. They needed me. Somebody had to carry the pot and say he was sleeping, and his men knew me, and Isolde was clever and would see it, and if she didn't I would tell her. {TOLD_MARROW == "ambush":And Marrow had put the blanket over me. }{TOLD_MARROW == "truth":And Marrow had only taken an ear. }{TOLD_MARROW == "wait":And Marrow had tied me to her, not to a tree. }I had done nothing. I had stood on a bank. Nobody hangs a squire for doing as he's told.
 Isolde's satchel lay open on the cart step, a yard from my hand.
 * [Read what she's written about him]
@@ -350,7 +348,7 @@ I stayed where I was. I was crying, and nobody minded.
     Isolde worked the signet off his finger and put it in my hand, still wet. "You speak for him, then. And if anybody asks afterwards who said he was alive, we shall say it was you."
 }
 { SOLD != "hand":
-    "I shall write his letters from the sickroom," said Isolde. "I write a fair hand." I wrote a better one. I kept that to myself. It was the one thing I had left to sell.
+    She would write his letters from the sickroom herself, she said; she wrote a fair hand. I wrote a better one. I kept that to myself. It was the one thing I had left to sell.
 }
 Marrow moved to spit, and I had my arm up over my face before I knew it. Neither of them looked at me.
 { VERSION == "truth":
@@ -416,7 +414,7 @@ I had to shift my grip twice for my {WENT_IN:elbow|knee}. He was heavier than he
 Before the canvas went over his hands, I saw my own. I was still wearing his gloves.
 * [Put the gloves back on his hands]
     ~ SELF = "him"
-    I pulled them off and worked them onto his hands. His fingers had gone stiff. It took a while, and Marrow swore at me for every finger. He ought to go to his bells with his gloves on. Isolde stopped writing to watch me do it, and I took a little longer over the last one.
+    I pulled them off and worked them onto his hands. His fingers had gone stiff. It took a while, and Marrow swore at me for every finger. He ought to go to his bells with his gloves on. Isolde stopped to watch me do it, and I took a little longer over the last one.
 * [Fold his hands on his sword, like the songs]
     ~ SELF = "peace"
     I folded his hands on his sword hilt, the way they lie in the songs. Somebody would lift that canvas in the end, and he had to look like what we were selling. It was the peace I was thinking of. I kept the gloves on to do it.
@@ -450,7 +448,7 @@ Before the canvas went over his hands, I saw my own. I was still wearing his glo
 { not PURSE:
     Marrow cut the purse off his belt with one pull of the knife, weighed it, and put it in her coat.
     # remember: left_purse :: Marrow remembers you left the purse.
-    "You didn't want it. Six years, was it. One night, me."
+    "You didn't want it. I've carried him a night. That's mine."
 }
 { PURSE:
     Marrow ran her thumb along his belt where the purse had hung, and looked at me. Then she unbuckled his spurs and put them in her coat.

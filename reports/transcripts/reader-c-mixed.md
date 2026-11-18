@@ -33,7 +33,7 @@ I drank. It was sweet and strong, and I had not eaten since noon, and I felt it 
 
 He watched me swallow. "There."
 
-"I shall be modest," he said. "'Good people, I did nothing. A little talking.' Then I look at my boots. Do I look at my boots, or is that too much?"
+He sat up straight in the saddle. "I shall be modest. 'Good people, I did nothing. A little talking.' Then I look at my boots. Do I look at my boots, or is that too much?"
 
 "The boots are good, Sir Aubric."
 
@@ -232,15 +232,11 @@ Isolde sat down on the cart step and held her satchel.
 
 "Ride the paper south," said Marrow. "Leave him."
 
-"The council signs under his name," said Isolde. "The hill towns signed because he swore nobody would hang. A dead man's oath binds nobody."
+"The council will not sign it," said Isolde. "The hill towns signed because he swore that nobody would hang. The council signs under his name to keep that oath. A dead man keeps no oaths."
 
-"Then they sign quick."
+"Then they'd best sign before they hear."
 
-"The council sits until the end of the month. Nine days. Then it goes home until spring, and in spring there is the war again, and Marshal Sayle has it back. He has been paid for every year of it."
-
-"Then we go back up," said Isolde. "The hill towns sign again, for somebody living."
-
-"Hill towns shut their gate behind him," said Marrow. "Won't sign again for you."
+"They sit until the end of the month. Nine days. Then they go home until spring, and in spring the war starts again, and Marshal Sayle has it back. He has been paid for every year of it."
 
 Isolde looked at the river for a while.
 
@@ -278,7 +274,7 @@ They went down the bank together, out of hearing, and left me with him.
 
 The mist had come off the water and lay on the gravel. I sat by him with my hands in my armpits.
 
-Down the bank Isolde was talking and Marrow was not. Once Marrow looked back at me, and then at the river. I had watched her look at fords like that all week.
+Down the bank Isolde was talking and Marrow was not. I heard "three", and "river", and then Marrow said a number. Once she looked back at me, and then at the river. I had watched her look at fords like that all week.
 
 It was all right. They needed me. Somebody had to carry the pot and say he was sleeping, and his men knew me, and Isolde was clever and would see it, and if she didn't I would tell her. And Marrow had tied me to her, not to a tree. I had done nothing. I had stood on a bank. Nobody hangs a squire for doing as he's told.
 
@@ -327,7 +323,7 @@ I stayed where I was. I was crying, and nobody minded.
 
 Isolde worked the signet off his finger and put it in my hand, still wet. "You speak for him, then. And if anybody asks afterwards who said he was alive, we shall say it was you."
 
-"I shall write his letters from the sickroom," said Isolde. "I write a fair hand." I wrote a better one. I kept that to myself. It was the one thing I had left to sell.
+She would write his letters from the sickroom herself, she said; she wrote a fair hand. I wrote a better one. I kept that to myself. It was the one thing I had left to sell.
 
 Marrow moved to spit, and I had my arm up over my face before I knew it. Neither of them looked at me.
 
@@ -368,7 +364,7 @@ I folded his hands on his sword hilt, the way they lie in the songs. Somebody wo
 
 Marrow cut the purse off his belt with one pull of the knife, weighed it, and put it in her coat.
 
-"You didn't want it. Six years, was it. One night, me."
+"You didn't want it. I've carried him a night. That's mine."
 
 > *Marrow remembers you left the purse.*
 
