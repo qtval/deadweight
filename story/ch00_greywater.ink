@@ -233,7 +233,7 @@ Isolde turned to me. "Wren. Tell me how he died."
     {WENT_IN:"And his nose?" she said.|"That is the third verse," she said. "That is the one that did not scan."}
     { WENT_IN:
         "Stones," said Marrow, looking at me.
-        "Stones. Then that is the third verse. That is the one that did not scan."
+        "Stones. Then that is the third verse."
     }
 - -> s05_plan
 
