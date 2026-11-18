@@ -33,7 +33,7 @@ I drank. It was sweet and strong, and I had not eaten since noon, and it went st
 
 "The boots are good, Sir Aubric."
 
-"The boots are good. Then somebody shouts 'The Lantern!' and I say 'No, no,' and wave. Like this." He waved, and nearly came off the horse. "And you'll be paid, Wren. Every penny, the day we ride in. Remind me."
+"The boots are good. Then somebody shouts 'The Lantern!' and I say 'No, no,' and wave. Like this." He waved, and nearly came off the horse. "The third verse of my song doesn't scan, mind. I must have that mended before the bells. And you'll be paid, Wren. Every penny, the day we ride in. Remind me."
 
 He noticed my feet. I had been in and out of the shallows with the horses. I was wet to the shins and shaking, and drunk as he was, he saw it.
 
@@ -102,8 +102,6 @@ I let it hang. I am not a thief. I weighed it in my hand first, only to be sure 
 
 There was more. He had promised me a place in his household in Vellmouth, the capital, and never written it down. Without him I was a laundress's child who could read.
 
-An hour back on the road he had told me the third verse of his song didn't scan. He had meant to have it mended before the bells.
-
 Then I thought about the letter, and the sums got worse.
 
 It was on the same belt, in an oilskin case: the surrender. He had explained it, lovingly, at every inn on the road south. The hill towns had signed it for him, on his word that nobody would hang. They would never have signed it for anyone else.
@@ -129,7 +127,7 @@ She looked at him. "That's my fee gone," she said.
 
 "You called," she said. "I heard. I'd have come quicker if I'd thought he would listen to either of us."
 
-She leaned in and sniffed, and it wasn't him she was sniffing. "Two drunks and a river," she said. "I should charge by the fool."
+She leaned in and sniffed, and it wasn't him she was sniffing. "Two drunks and a river," she said. "Lovely."
 
 > *Marrow remembers the wine on your breath.*
 
@@ -158,7 +156,7 @@ I didn't answer. Two people had seen him drown. She only needed there to be one.
 
 "Dawn," I said. "I'll decide at dawn."
 
-"Dawn's when she wakes up." Marrow jerked her head at the cart. "Decide before. Her kind don't ask what you saw. They tell you."
+"Dawn's when the chronicler wakes up." Marrow jerked her head at the cart. "Decide before. Her kind don't ask what you saw. They tell you."
 
 She came round the body and sat down against me, shoulder to shoulder, with the knife out across her knees.
 
@@ -185,7 +183,7 @@ Isolde Ferrant climbed down from the cart with ink on two fingers. She had slept
 
 She was the Crown's chronicler, sent along to write the Lantern's ballad, and she had written most of it before we set out. She knew my name and used it, and I had never worked out what that was for.
 
-She looked at the body. She sat down on the wet gravel in her good skirt, quite suddenly, and got up again.
+She looked at the body. She sat down on the wet gravel in her good skirt, all at once, and got up again.
 
 "Did anyone else see?" she said.
 
@@ -204,7 +202,7 @@ Isolde leaned forward. "Did he say anything?"
 
 "Something about bells," said Marrow, at once.
 
-"Not hill men, though," said Isolde. "Robbers. Nobody's men. If the hill towns killed him the same week they signed, the war starts again with no help from us. And they broke his nose for him. Good. It looks like a fight. You tell it nicely, Wren. I had no idea."
+"Not hill men, though," said Isolde. "Robbers. Nobody's men. If the hill towns killed him the same week they signed, the war starts again with no help from us. And they broke his nose for him. Good. It looks like a fight. You tell it nicely, Wren. It will do for the song, and I shall not ask what it is doing instead of."
 
 I was pleased that she was pleased.
 
@@ -212,7 +210,7 @@ I was pleased that she was pleased.
 
 I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 
-"Does anybody need it explained what becomes of that paper if he is dead?"
+"Does anybody need it explained," said Isolde, "what becomes of that paper if he is dead?"
 
 "War," said Marrow.
 

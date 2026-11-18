@@ -17,7 +17,7 @@ Target: **2–3 hours** for one playthrough, **6 chapters** (prologue + 5) of 20
 The player should finish a chapter feeling they have *been* someone in this world, not read about them: a small, low-born person on a wet road, among people more dangerous and more charming than they are, making shabby choices they could defend to anyone but themselves, and laughing at things that are not funny. That is the feeling of reading a First Law book. We get there with our own world and people, by building these into every chapter:
 
 1. **You are in Wren's head.** First-person narration with opinions, grudges and excuses. The gap between what Wren thinks and what Wren says is on the page.
-2. **You choose the excuse as well as the act.** *Thought choices* ("Tell yourself…") let the player pick what Wren believes about themself. The game stores it and quotes it back when Wren acts against it.
+2. **You choose the excuse as well as the act.** *Thought choices* are small acts that carry an excuse (what Wren does with the dead man's gloves); they let the player pick what Wren believes about themself. The game stores it and quotes it back when Wren acts against it.
 3. **You like the people who will cost you.** One *fire scene* per chapter: a night with one companion, food, talk, no plot decision. Betrayal only hurts if there was a fire first.
 4. **You are always in a body.** Cold, feet, weight, hunger. Wren carries one hurt out of the prologue for the rest of the game. Aubric rots on schedule, and every chapter opens with how he is doing.
 5. **Nobody waits for you.** Each companion does something off-screen in every chapter, for their own reasons. Each chapter has one nobody with their own day who does not care about the war.
@@ -97,7 +97,7 @@ No morality meter and no good/evil labels anywhere in the interface.
 - **Three tracks, shown only as prose consequences, never as numbers:** **Legend** (how heroic the story of Aubric — and of you — is becoming), **Truth** (how much of what happened still survives in anyone's mouth), **Debt** (favors you owe and are owed).
 - **Relationships** with Isolde, Marrow and Tobin: trust and fear, tracked separately.
 - **The clock:** days left to Vellmouth. Some choices spend a day. Running out does not end the game; it changes who is waiting.
-- **Thought choices:** a few times per chapter the player chooses what Wren tells themself (first: `SELF` in the prologue: the peace / him / what I'm owed; the form is under review after the reader panel). No immediate effect; the narration throws it back later.
+- **Thought choices:** a few times per chapter the player chooses what Wren tells themself (first: `SELF` in the prologue, set by what Wren does with Aubric's gloves: back on his hands / his hands folded like the songs / kept). No immediate effect; the narration throws it back later.
 - **The body clock:** Aubric's state advances with the days and sets how hard the "wounded hero" lie is to keep. Wren's own hurt (the cough, or the bad knee, from the prologue) persists.
 - **What they call you:** an epithet set by deeds, used by the road and by Marrow from about chapter 2.
 - **Consequence memory:** every hidden cost surfaces within two chapters, and the game flags it in one line when it does ("Marrow remembers the ford."). Players must be able to *see* the game remembering.

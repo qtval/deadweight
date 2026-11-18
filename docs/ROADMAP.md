@@ -15,15 +15,18 @@ Guiding rules (carried over from the previous project because they were right):
 
 ## Where we are (updated 2026-11-18)
 
-**Milestone M0.5.** The owner's first verdict was "it doesn't feel like First Law". Since then the prologue has been rewritten in first-person Wren and put through three rounds of the blind reader panel (`reports/readers/2026-11-18-prologue.md`). **It does not pass yet:** clarity passes and six of nine feel criteria pass, but temptation, shabbiness on the honest route and sense of place score under 4, and the First Law reader gives the feel 3 of 5.
+**Milestone M0.5.** The prologue has been through six rounds of the blind reader panel (`reports/readers/`). **It is close but does not pass:** clarity passes and eight of nine feel criteria pass. Temptation scores 3.67 (needs 4), and the First Law reader has given the feel 3 of 5 in every round. Nothing has been judged copied.
 
 The owner is assumed not to be available to test (see `CLAUDE.md`). The reader panel is the gate; he can overrule it.
 
+The reader's remaining objections (one shared register for Marrow, Isolde and Wren; no named antagonist; fear that does not linger; too dense) are not prologue-polish problems. They need the cast sheet and a longer chapter. So the prologue is parked here, and M1 starts.
+
 **Next tasks, in order:**
-1. Prologue revision, round 4: work through "Still open" in the reader report (honesty costs on the spot; redesign the thought choice as a concrete act; three kinds of wit and fewer buttoned paragraphs; place and dirt; Wren acts inside Isolde's plan scene). Then a fresh panel. Stop when it passes or after three rounds.
-2. Panels for the prologue: check for a `panels/ch00` branch or pull request from the Codex trial (`AGENTS.md`); if images are there, process, test and place them.
-3. M1, starting with the cast sheet (each character's own kind of wit goes in it) and the chapter 1 beat sheet against `story/BEATS.md`.
-4. Owner, whenever he likes: title, and confirm the fixed name Wren.
+1. M1 cast sheet: for each of the six, want, fear, secret, breaking point, a distinct rhythm and verbal habit, their own kind of humour, and what they do off-screen in every chapter. Name the "bastard with a face": the person at court who profits if the surrender dies (Coste, or his man), and put that name into the prologue where it now says "men at court". Test: a blind reader given ten unattributed lines can say who speaks each.
+2. Chapter 1 beat sheet (Stint) against `story/BEATS.md`, with longer scenes and Wren's private commentary running through every exchange.
+3. Then one more prologue pass with the cast voices applied, and a fresh panel. Also give the ford choice a real stake.
+4. Panels for the prologue: check for a `panels/ch00` branch or pull request from the Codex trial (`AGENTS.md`); if images are there, process, test and place them. Note the water panel prompt now asks for a bare hand, not a gauntlet.
+5. Owner, whenever he likes: title, and confirm the fixed name Wren.
 
 ---
 
@@ -47,16 +50,16 @@ Repo, tooling, and a reader that runs.
 
 A playable prologue to agree on tone, writing, UI, systems and testing before M1 commits to the full beat sheet.
 
-- [x] Prologue "The Greywater" in ink: 7 scenes, 18,144 paths, 9 outcomes, 8 remember-lines
+- [x] Prologue "The Greywater" in ink: 7 scenes, 18,144 paths, 9 outcomes, 9 remember-lines
 - [x] Prologue rewritten for voice (2026-11-18): first-person Wren, two new choices (the wine, the purse); craft rules added to WRITING_GUIDE
 - [x] Reader: chapter card, panel crossfade, tap-to-continue, choices, journal (Travelers / Ballad / Road / Settings), autosave, end screen with recap and ballad
 - [x] Procedural placeholder panels (stand-ins for GPT-Image-2 art)
 - [x] Art direction revised: B&W ink + amber light accent; prompt pack for the 7 prologue panels; `process-panel.mjs` palette/levels/grain pipeline
 - [ ] 7 prologue panels generated in ChatGPT, processed and in the game
 - [x] Groundwork for the feel (2026-11-18): the experience target in VISION, immersion devices in WRITING_GUIDE, draft `story/VOICE.md`, chapter checklist in `story/BEATS.md`, first thought choice (`SELF`) and Wren's hurt in the prologue, voice check in the story test
-- [x] Blind reader panel built (`tests/reader-panel.md`, `npm run transcripts`) and run for three rounds on the prologue
-- [ ] Reader panel passes on the prologue (round 3: fails on temptation, shabbiness, place; First Law feel 3/5)
-- [x] Tests green: story 18,144/18,144 paths, browser 39/39 checks
+- [x] Blind reader panel built (`tests/reader-panel.md`, `npm run transcripts`) and run for six rounds on the prologue
+- [ ] Reader panel passes on the prologue (round 6: 8 of 9 criteria pass; temptation 3.67; First Law feel 3/5)
+- [x] Tests green: story 18,144/18,144 paths, browser 38/38 checks
 - [ ] Owner verdict, if and when he gives one (no longer the gate)
 
 **Exit test:** the blind reader panel passes on the prologue, with the tests green. The owner may overrule either way.
@@ -177,3 +180,6 @@ Combat systems, inventory, character creator beyond name/pronouns, voice acting,
 | 2026-11-18 | Every task is tested as if the owner is absent. A blind reader panel (three fresh AI readers, fixed questionnaire, pass rules) gates all prose; M0.5's exit test is now the panel, not the owner's verdict | Owner's instruction: "treat every task like I am not there to test it" |
 | 2026-11-18 | Prologue grew to 13 decision points (answer Isolde's plan; admit or hide the elbow) and about 12 minutes | Reader findings: the player watched the plan being made, and the worst act was taken out of their hands |
 | 2026-11-18 | Wren's hurt on the rope route is a bad knee, not raw hands | Wren is wearing Aubric's gloves |
+| 2026-11-18 | Thought choices are acts that carry the excuse (first: what Wren does with Aubric's gloves), not "tell yourself" labels | Readers in two rounds found the labelled version abstract; none objected to the act |
+| 2026-11-18 | Prologue parked at 8 of 9 after six panel rounds; M1 cast sheet goes first | The remaining objections (distinct voices, a named antagonist, room) cannot be fixed inside the prologue |
+| 2026-11-18 | Agreeing to Isolde's plan gives Wren Aubric's signet (`RING`); objecting puts Wren under the canvas with the body | Every answer to the plan now has a visible result |

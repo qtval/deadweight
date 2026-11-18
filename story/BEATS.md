@@ -12,14 +12,14 @@ A chapter is 15–20 scenes, 20–30 minutes, one main location. Each one has al
 | **A nobody** | One minor person with their own day, who does not care about the war. You improve or ruin that day. | The world is bigger than the plot. |
 | **A temptation** | A choice where one option is the easy, selfish thing, written so the player wants it. | Complicity. |
 | **A fire scene** | Night, camp or lodging. You sit with ONE of the companions; the others are busy. Talk, food, a small confidence, something they want. No plot decision. | You have to like them before it can cost you. |
-| **A thought choice** | "Tell yourself…": the player picks Wren's excuse, not Wren's action. Stored, and quoted back later. | The player writes their own self-deception. |
+| **A thought choice** | A small act that carries an excuse (the gloves). Stored, and thrown back later. | The player writes their own self-deception. |
 | **A bill** | A hidden cost from an earlier chapter arrives, flagged with a `# remember:` line. | The game is seen remembering. |
 | **Meanwhile** | One thing each companion did off-screen for their own reasons, discovered, not announced. | Nobody waits for the protagonist. |
 | **The turn** | The last scene ends on a line that changes what the chapter meant. | Leave on the snap. |
 
 Across the game: Wren's hurt from the prologue (the cough, or the bad knee) is mentioned at least once per chapter until it heals or gets worse. What people call Wren changes with what Wren has done (see `story/VOICE.md`).
 
-## Prologue — The Greywater (as built, 2026-11-18, after reader-panel round 3)
+## Prologue — The Greywater (as built, 2026-11-18, after reader-panel round 6)
 
 Missing by design: no fire scene, no nobody, no bill (nothing earlier to bill). Chapter 1 is the first full chapter.
 
@@ -81,7 +81,7 @@ Panel:         greywater_dawn_cart
 ID:            ch00_s06_wrap
 Place:         Near bank, morning
 Purpose:       The title image: carrying him. Wren's excuse. The first bills arrive.
-Choice:        THOUGHT — For the peace. / For him. / For what I'm owed. (SELF). Under review: readers found it abstract.
+Choice:        THOUGHT, as an act — put his gloves back on his hands (for him) / fold his hands on his sword like the songs (for the peace) / keep them (for what I'm owed). Sets SELF.
 Immediate:     Remember-lines for the bridle, the purse, lying for one and not the other, dry to the knee.
 Delayed:       SELF is quoted back whenever Wren acts against it.
 Panel:         greywater_wrapping

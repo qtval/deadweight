@@ -31,7 +31,7 @@ He had never once paid me, either. But he said it so warmly that I forgot to min
     "One of us is a horse," said Aubric, and slapped the animal's neck, and laughed until I was laughing as well.
 - "I shall be modest," he said. "I've been practising. 'Good people, I did nothing. A little talking.' Then I look at my boots. Do I look at my boots, Wren, or is that too much?"
 "The boots are good, Sir Aubric."
-"The boots are good. Then somebody shouts 'The Lantern!' and I say 'No, no,' and wave. Like this." He waved, and nearly came off the horse. "And you'll be paid, Wren. Every penny, the day we ride in. Remind me."
+"The boots are good. Then somebody shouts 'The Lantern!' and I say 'No, no,' and wave. Like this." He waved, and nearly came off the horse. "The third verse of my song doesn't scan, mind. I must have that mended before the bells. And you'll be paid, Wren. Every penny, the day we ride in. Remind me."
 He noticed my feet. I had been in and out of the shallows with the horses. I was wet to the shins and shaking, and drunk as he was, he saw it.
 He pulled off his riding gloves, the good ones with the fleece inside, and dropped them into my hands. "Can't have you sneezing through my triumph. Your mother would never forgive me. How is her chest?"
 My mother washed shirts for the army and had spoken to him once. He had asked after her chest every winter since. It would have been easier to hate him if he had forgotten. I put the gloves on. The bank was army-cart slop to the ankle, and it stank of dead reeds.
@@ -66,7 +66,7 @@ A hand came out of the water, bare and white, opened, closed on nothing, and wen
     I came up and breathed and was sick down my own front. By the time I had a strap in my fist and had started to pull, he had stopped helping.
 * [Stay on the bank. Run for the rope.]
     ~ WENT_IN = false
-    There was a rope on the cart. I ran for it. I told myself a squire who drowns beside his knight is no use to anyone. Some part of me that had polished that armor every night thought, quite clearly: let it rust.
+    There was a rope on the cart. I ran for it. I told myself a squire who drowns beside his knight is no use to anyone. Some part of me that had polished that armor every night thought: let it rust.
     I fell twice in the slop, the second time with my knee on a stone. I got a loop over the saddle as the horse floundered out, and hauled, and the horse did the rest. It dragged him ashore by one stirrup, face down, like a sack of wet washing.
 - It took longer to get him onto the stones than it had taken him to die.
 -> s03_bank
@@ -87,7 +87,6 @@ Six years' wages, which he had always been about to pay. His purse hung on his b
 * [Leave the purse]
     I let it hang. I am not a thief. I weighed it in my hand first, only to be sure of that.
 - There was more. He had promised me a place in his household in Vellmouth, the capital, and never written it down. Without him I was a laundress's child who could read.
-An hour back on the road he had told me the third verse of his song didn't scan. He had meant to have it mended before the bells.
 Then I thought about the letter, and the sums got worse.
 It was on the same belt, in an oilskin case: the surrender. He had explained it, lovingly, at every inn on the road south. The hill towns had signed it for him, on his word that nobody would hang. They would never have signed it for anyone else.
 The King's council in Vellmouth had to put their names under his before the month was out, and the month had nine days left in it. If he was known to be dead first, there were men at court who would call it waste paper, and the war would start again in the spring.
@@ -117,7 +116,7 @@ She looked at him. "That's my fee gone," she said.
 }
 { DRANK:
     # remember: drank_with_him :: Marrow remembers the wine on your breath.
-    She leaned in and sniffed, and it wasn't him she was sniffing. "Two drunks and a river," she said. "I should charge by the fool."
+    She leaned in and sniffed, and it wasn't him she was sniffing. "Two drunks and a river," she said. "Lovely."
 }
 { WENT_IN:
     His nose was bent flat to one side and leaking blood. I had pulled his wet hair across it, and it would not stay.
@@ -148,7 +147,7 @@ I didn't answer. Two people had seen him drown. She only needed there to be one.
 * [Tell her you'll decide by dawn]
     ~ TOLD_MARROW = "wait"
     "Dawn," I said. "I'll decide at dawn."
-    "Dawn's when she wakes up." Marrow jerked her head at the cart. "Decide before. Her kind don't ask what you saw. They tell you."
+    "Dawn's when the chronicler wakes up." Marrow jerked her head at the cart. "Decide before. Her kind don't ask what you saw. They tell you."
     She came round the body and sat down against me, shoulder to shoulder, with the knife out across her knees.
 - { LETTER == "body":
     Her eyes went to the oilskin case on his belt. "That dry?"
@@ -172,8 +171,7 @@ I didn't answer. Two people had seen him drown. She only needed there to be one.
     ~ TRUST_MARROW -= 1
     "Haven't seen it," I said.
     Marrow took hold of my shirt and opened it, not roughly, the way you'd open a sack to see what was in it. She looked at the oilskin. She did the lacing up again and patted it flat.
-    "River's had a busy night," she said. "Lie to the chronicler all you want. Lie to me again and I'll have that off you, and two fingers to carry it in."
-    I believed her. My knees had gone to water, and I stayed exactly where I was.
+    "River's had a busy night," she said. "Lie to the chronicler all you want. Lie to me again and I'll have that off you, and a couple of your fingers with it."
 - -> s05_dawn
 
 // ---------------------------------------------------------------
@@ -183,14 +181,14 @@ I didn't answer. Two people had seen him drown. She only needed there to be one.
 # know: isolde :: Isolde Ferrant, the Crown's chronicler. Sent to write the ballad of the Lantern's peace.
 It got light without any sun in it. Mist stood on the water, and the first fly found him.
 { TOLD_MARROW:
-- "ambush": I had sat by him all night in wet clothes. Some time in the dark Marrow had thrown the horse blanket over me and called me an idiot for needing it.
-- "truth": I had sat by him all night in wet clothes. Marrow had the horse blanket round her own shoulders, and I had stopped shivering, which I knew was bad.
-- else: I had sat by him all night in wet clothes, with Marrow against me and the knife across her knees. It was the only warm side I had.
+- "ambush": I had sat by him all night{WENT_IN: in wet clothes}. Some time in the dark Marrow had thrown the horse blanket over me and called me an idiot for needing it.
+- "truth": I had sat by him all night{WENT_IN: in wet clothes}. Marrow had the horse blanket round her own shoulders, and I had stopped shivering, which I knew was bad.
+- else: I had sat by him all night{WENT_IN: in wet clothes}, with Marrow against me and the knife across her knees. It was the only warm side I had.
 }
 He had begun to smell, or I had. There was piss in it, his or mine.
 Isolde Ferrant climbed down from the cart with ink on two fingers. She had slept through all of it.
 She was the Crown's chronicler, sent along to write the Lantern's ballad, and she had written most of it before we set out. She knew my name and used it, and I had never worked out what that was for.
-She looked at the body. She sat down on the wet gravel in her good skirt, quite suddenly, and got up again.
+She looked at the body. She sat down on the wet gravel in her good skirt, all at once, and got up again.
 "Did anyone else see?" she said.
 "Just us," said Marrow.
 Isolde turned to me. "Wren. Tell me how he died."
@@ -205,14 +203,14 @@ Isolde turned to me. "Wren. Tell me how he died."
     I told it the way Marrow had built it: the dark, the bows, the Lantern turning his horse to face them.
     Isolde leaned forward. "Did he say anything?"
     "Something about bells," said Marrow, at once.{TOLD_MARROW == "truth": She didn't look at me.}
-    "Not hill men, though," said Isolde. "Robbers. Nobody's men. If the hill towns killed him the same week they signed, the war starts again with no help from us.{WENT_IN: And they broke his nose for him. Good. It looks like a fight.} You tell it nicely, Wren. I had no idea."
+    "Not hill men, though," said Isolde. "Robbers. Nobody's men. If the hill towns killed him the same week they signed, the war starts again with no help from us.{WENT_IN: And they broke his nose for him. Good. It looks like a fight.} You tell it nicely, Wren. It will do for the song, and I shall not ask what it is doing instead of."
     I was pleased that she was pleased.
 * [Tell her he went into the river after you]
     ~ VERSION = "hero"
     ~ LEGEND += 2
     "I fell in," I said. "He came in after me. He got me out. The river kept him."
     He would have, if he had been sober, and if he had noticed, and if there had been people there to see. He would have gone in for a dog, with people there to see. So it was nearly true. And it turned six years of carrying out his pot into something, and I wanted that so badly my ears rang.
-    "Oh, you little shit," said Marrow, quite softly.{TOLD_MARROW == "ambush": "We had a story."}
+    "Oh, you little shit," said Marrow, softly.{TOLD_MARROW == "ambush": "We had a story."}
     { WENT_IN:
         Isolde looked me over. I was soaked to the collar and grey with cold. She nodded.
     - else:
@@ -244,13 +242,21 @@ Isolde shut her eyes. "In a ford. Drunk. A child could have crossed it."
 "Nothing happens to anybody," said Isolde, "because nobody will ever hear it. Say this for me, Wren. He has a fever."
 "He has a fever," I said.
 "Oh dear. Again, and look at me, not at him."
-I said it five times before she was satisfied. Marrow watched me learn.{ELBOW == "hidden": Then Isolde bent and looked at his nose, and at me, and asked nothing, which was worse.}
+I said it five times before she was satisfied. Marrow watched me learn.
+{ ELBOW == "hidden" && TOLD_MARROW == "truth":
+    "Ask the squire about his nose," said Marrow.
+    Isolde looked at the nose, and at me. "No," she said. "I don't believe I will. But I shall remember that I could have."
+    ~ ISOLDE_SAW_NOSE = true
+}
+{ ELBOW == "hidden" && TOLD_MARROW != "truth":
+    Then Isolde bent and looked at his nose, and at me, and asked nothing.
+}
 -> s05_plan
 
 = s05_plan
 "Close his mouth, Wren," said Isolde. "He looks surprised."
 I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
-"Does anybody need it explained what becomes of that paper if he is dead?"
+"Does anybody need it explained," said Isolde, "what becomes of that paper if he is dead?"
 "War," said Marrow.
 "War. So he has a fever. He rides in the cart till the King's ink is dry. They will not take my word that he is alive in there, Wren. They will take his squire's. You carry out his pot. You tell them he is sleeping. Well?"
 * [Say you'll do it]
@@ -270,7 +276,7 @@ I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
     "It's madness," I said. "He's dead. Anyone who lifts that canvas—"
     "Quite right. I had not thought of that, and I'm obliged to you." Isolde smiled at me. "So when they lift it, they must find somebody under there with him. A squire, nursing his master. You'll ride in the back, Wren, under the canvas, and hold his hand."
     Marrow made a noise into her sleeve.
-    I looked for something else to say. I had a neckcloth, and he was wearing it.
+    I looked for something else to say, and there wasn't anything.
 - "Ride the paper south," said Marrow. "Leave him here."
 "The council will not sign for a rider. They'll sign for him, or for the door of his sickroom."
 "He'll stink by the third day," said Marrow.
@@ -363,7 +369,7 @@ Before the canvas went over his hands, I saw my own. I was still wearing his glo
     ~ TRUST_MARROW -= 1
 - TOLD_MARROW == "ambush" && VERSION == "hero":
     # remember: marrow_sold_story :: Marrow remembers you sold her story for a verse.
-    "You sold my story to get in a song," Marrow said, low. "That goes on your account. I keep accounts."
+    "You sold my story to get in a song," Marrow said, low. "I'll remember that."
     ~ TRUST_MARROW -= 1
 - AT_FORD == "bridle":
     # remember: ford_bridle :: Marrow remembers you took his bridle.

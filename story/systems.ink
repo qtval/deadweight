@@ -72,7 +72,7 @@ VAR DEBT_MARROW = false
     The Lantern stood where a lesser man fell,
     and how he stood, the hedgerow knows.
 - "hero":
-    Into the river, cold as a debt,
+    Into the river, cold as a stone,
     the Lantern went for the squire he kept.
     He gave the river his breath for theirs,
     {WENT_IN:and the squire came out, and the Lantern slept.|and the river kept him, and the squire wept.}

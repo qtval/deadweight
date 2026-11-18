@@ -33,7 +33,7 @@ I handed it back. "One of us should be able to find the road," I said.
 
 "The boots are good, Sir Aubric."
 
-"The boots are good. Then somebody shouts 'The Lantern!' and I say 'No, no,' and wave. Like this." He waved, and nearly came off the horse. "And you'll be paid, Wren. Every penny, the day we ride in. Remind me."
+"The boots are good. Then somebody shouts 'The Lantern!' and I say 'No, no,' and wave. Like this." He waved, and nearly came off the horse. "The third verse of my song doesn't scan, mind. I must have that mended before the bells. And you'll be paid, Wren. Every penny, the day we ride in. Remind me."
 
 He noticed my feet. I had been in and out of the shallows with the horses. I was wet to the shins and shaking, and drunk as he was, he saw it.
 
@@ -101,8 +101,6 @@ Six years' wages, which he had always been about to pay. His purse hung on his b
 I let it hang. I am not a thief. I weighed it in my hand first, only to be sure of that.
 
 There was more. He had promised me a place in his household in Vellmouth, the capital, and never written it down. Without him I was a laundress's child who could read.
-
-An hour back on the road he had told me the third verse of his song didn't scan. He had meant to have it mended before the bells.
 
 Then I thought about the letter, and the sums got worse.
 
@@ -177,7 +175,7 @@ Isolde Ferrant climbed down from the cart with ink on two fingers. She had slept
 
 She was the Crown's chronicler, sent along to write the Lantern's ballad, and she had written most of it before we set out. She knew my name and used it, and I had never worked out what that was for.
 
-She looked at the body. She sat down on the wet gravel in her good skirt, quite suddenly, and got up again.
+She looked at the body. She sat down on the wet gravel in her good skirt, all at once, and got up again.
 
 "Did anyone else see?" she said.
 
@@ -208,13 +206,17 @@ Isolde shut her eyes. "In a ford. Drunk. A child could have crossed it."
 
 "Oh dear. Again, and look at me, not at him."
 
-I said it five times before she was satisfied. Marrow watched me learn. Then Isolde bent and looked at his nose, and at me, and asked nothing, which was worse.
+I said it five times before she was satisfied. Marrow watched me learn.
+
+"Ask the squire about his nose," said Marrow.
+
+Isolde looked at the nose, and at me. "No," she said. "I don't believe I will. But I shall remember that I could have."
 
 "Close his mouth, Wren," said Isolde. "He looks surprised."
 
 I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 
-"Does anybody need it explained what becomes of that paper if he is dead?"
+"Does anybody need it explained," said Isolde, "what becomes of that paper if he is dead?"
 
 "War," said Marrow.
 
@@ -231,7 +233,7 @@ I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 
 Marrow made a noise into her sleeve.
 
-I looked for something else to say. I had a neckcloth, and he was wearing it.
+I looked for something else to say, and there wasn't anything.
 
 "Ride the paper south," said Marrow. "Leave him here."
 

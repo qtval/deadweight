@@ -16,7 +16,7 @@ The player should feel they are a small person inside a hard, funny, unfair worl
 - Judges people by what their kindness is for.
 - Feels it in the body first: feet, hands, cold, weight, smell.
 - Never explains what a choice meant. Never speaks to the player as a player.
-- Refrain: **"Squires carry things."** At most four times a chapter, and it means something different each time (the job, the excuse, the body, the lie).
+- Refrain: **"Squires carry things."** Twice a chapter at most (the story test allows four), and it means something different each time (the job, the excuse, the body, the lie).
 - Is not witty out loud. The dry lines are thought, not said. Out loud Wren is short, careful and a little late.
 
 ## How the others talk
@@ -42,8 +42,8 @@ He pulled off his riding gloves, the good ones with the fleece inside, and dropp
 My mother washed shirts for the army and had spoken to him once, six years ago. He had asked after her chest every winter since. It would have been easier to hate him if he had forgotten.
 
 **3. The ugly thought, unapologised.**
-"Get up," I said. I was crying. I was so cold my teeth hurt.
-And under the crying, small and perfectly clear, I thought that I would not have to be up before dawn to arm him.
+"Get up," I said. "Get up, you stupid old bastard." I was crying. I was so cold my teeth hurt.
+And under the crying I thought, I won't have to be up before dawn to arm him.
 Then I sat back on my heels and did sums.
 
 **4. Violence: clumsy, and shameful for whoever did it.**
@@ -68,12 +68,18 @@ The tollkeeper had a boil on his neck and a daughter marrying on the feast day, 
 **9. The body as a clock.** *(sample)*
 By the third day we had stopped saying *fever*. Isolde bought lavender from a woman at the roadside, a whole armful, and packed it round him like a bride. It didn't help. It made him smell like a dead man in a garden.
 
-**10. A thought choice, thrown back.** *(sample)*
-I took the silver. *For the peace*, I had told myself on the bank, with the canvas in my hands. The peace was not mentioned in the price.
+**10. An excuse, thrown back.** *(sample)*
+I took the silver. I had folded his hands on his sword for the peace, on the bank, and kept his gloves on to do it. The peace was not mentioned in the price.
 
 ## Saying one thing, thinking another
 
+"Yes, Sir Aubric," I said. Piss on your bells, I thought. My feet were wet.
+
 "He fell on the stones," I said. What I thought was: four times.
+
+## Taking the credit (the reader catches Wren; Wren does not confess)
+
+I let it hang. I am not a thief. I weighed it in my hand first, only to be sure of that.
 
 ## Never
 

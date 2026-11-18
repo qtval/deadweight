@@ -40,12 +40,17 @@ Nine blind readers over three rounds (`reports/readers/2026-11-18-prologue.md`).
 - **Honesty costs on the spot.** A truthful choice that everyone overrules reads as a choice that did not count.
 - **Dirt.** Smell, mud, sick, blood, swearing. Clean prose reads young.
 - **Check the ledger.** Every remember-line and every later reference must be true on the path that reaches it.
+- **Don't flag the self-deception.** When Wren does the decent thing, the narration takes the credit and a detail gives the real motive away: the purse is left, but weighed first "only to be sure". The reader catches Wren; Wren does not confess.
+- **A lie costs differently each time.** If two people see through the same lie in the same way within a page, it stops being a risk. One opens your shirt; the other looks at the buckle and says nothing.
+- **Every answer does something.** Agreement, bargaining and refusal each leave Wren holding or losing something physical before the scene ends.
+- **Give the charming man room.** A run of his own talk, eight or ten lines, before he dies.
+- **Still open after six rounds:** one dry register shared by Marrow, Isolde and Wren; too many lines that are zingers; fear that is over in six lines. The cast sheet must give each speaker a rhythm and a habit, and scenes must be allowed to run.
 
 ## Immersion devices (how the player ends up *in* it)
 
 These are structural, and the beat sheet schedules them (`story/BEATS.md`).
 
-- **Thought choices** (under review: readers found the first version abstract; see the reader report). The label is the thought itself ("For him."), or better, a small concrete act that carries the excuse. The options are excuses, not plot actions, and all of them are partly true. Two or three per chapter. Each sets a variable; a later scene quotes the chosen excuse in italics at the moment Wren acts against it. Never punish a thought choice; only remember it.
+- **Thought choices.** A small concrete act that carries an excuse: what Wren does with Aubric's gloves at the wrapping. The label is the act ("Keep them. He gave them to you."); the excuse is in the result text and is never named as an excuse. All the options are partly true. Two or three per chapter. Each sets a variable; a later scene quotes the chosen excuse in italics at the moment Wren acts against it. Never punish a thought choice; only remember it.
 - **Fire scenes.** One per chapter, at night. The player picks one companion to sit with. 150–250 words, food or a small task, one confidence, one thing they want from Wren that is not the plot. No plot decision is made at a fire. Reuses the chapter's camp panel.
 - **The body, twice.** (a) Every scene has one physical sensation of Wren's in its first three nodes. (b) Every chapter's first scene states Aubric's condition and what the lie now requires (more lavender, a closed cart, a story about the wound).
 - **Names.** Characters address Wren as listed in `story/VOICE.md`. Using Wren's name is an event. No one refers to Wren in the third person with a pronoun; they say "the squire" or talk to Wren directly.

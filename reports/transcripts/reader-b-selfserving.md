@@ -33,7 +33,7 @@ I drank. It was sweet and strong, and I had not eaten since noon, and it went st
 
 "The boots are good, Sir Aubric."
 
-"The boots are good. Then somebody shouts 'The Lantern!' and I say 'No, no,' and wave. Like this." He waved, and nearly came off the horse. "And you'll be paid, Wren. Every penny, the day we ride in. Remind me."
+"The boots are good. Then somebody shouts 'The Lantern!' and I say 'No, no,' and wave. Like this." He waved, and nearly came off the horse. "The third verse of my song doesn't scan, mind. I must have that mended before the bells. And you'll be paid, Wren. Every penny, the day we ride in. Remind me."
 
 He noticed my feet. I had been in and out of the shallows with the horses. I was wet to the shins and shaking, and drunk as he was, he saw it.
 
@@ -67,7 +67,7 @@ A hand came out of the water, bare and white, opened, closed on nothing, and wen
 - Go into the river after him
 - **▶ Stay on the bank. Run for the rope.**  (chosen)
 
-There was a rope on the cart. I ran for it. I told myself a squire who drowns beside his knight is no use to anyone. Some part of me that had polished that armor every night thought, quite clearly: let it rust.
+There was a rope on the cart. I ran for it. I told myself a squire who drowns beside his knight is no use to anyone. Some part of me that had polished that armor every night thought: let it rust.
 
 I fell twice in the slop, the second time with my knee on a stone. I got a loop over the saddle as the horse floundered out, and hauled, and the horse did the rest. It dragged him ashore by one stirrup, face down, like a sack of wet washing.
 
@@ -96,8 +96,6 @@ I pulled off the gloves he had given me to do it, and put them on again after. T
 
 There was more. He had promised me a place in his household in Vellmouth, the capital, and never written it down. Without him I was a laundress's child who could read.
 
-An hour back on the road he had told me the third verse of his song didn't scan. He had meant to have it mended before the bells.
-
 Then I thought about the letter, and the sums got worse.
 
 It was on the same belt, in an oilskin case: the surrender. He had explained it, lovingly, at every inn on the road south. The hill towns had signed it for him, on his word that nobody would hang. They would never have signed it for anyone else.
@@ -123,7 +121,7 @@ She looked at him. "That's my fee gone," she said.
 
 "I was watching from the far side," she said. "You never said a word to him."
 
-She leaned in and sniffed, and it wasn't him she was sniffing. "Two drunks and a river," she said. "I should charge by the fool."
+She leaned in and sniffed, and it wasn't him she was sniffing. "Two drunks and a river," she said. "Lovely."
 
 > *Marrow remembers the wine on your breath.*
 
@@ -156,16 +154,14 @@ Her eyes went to his belt, and the empty buckle. "Where's his letter?"
 
 Marrow took hold of my shirt and opened it, not roughly, the way you'd open a sack to see what was in it. She looked at the oilskin. She did the lacing up again and patted it flat.
 
-"River's had a busy night," she said. "Lie to the chronicler all you want. Lie to me again and I'll have that off you, and two fingers to carry it in."
-
-I believed her. My knees had gone to water, and I stayed exactly where I was.
+"River's had a busy night," she said. "Lie to the chronicler all you want. Lie to me again and I'll have that off you, and a couple of your fingers with it."
 
 
 * * *
 
 It got light without any sun in it. Mist stood on the water, and the first fly found him.
 
-I had sat by him all night in wet clothes. Some time in the dark Marrow had thrown the horse blanket over me and called me an idiot for needing it.
+I had sat by him all night. Some time in the dark Marrow had thrown the horse blanket over me and called me an idiot for needing it.
 
 He had begun to smell, or I had. There was piss in it, his or mine.
 
@@ -173,7 +169,7 @@ Isolde Ferrant climbed down from the cart with ink on two fingers. She had slept
 
 She was the Crown's chronicler, sent along to write the Lantern's ballad, and she had written most of it before we set out. She knew my name and used it, and I had never worked out what that was for.
 
-She looked at the body. She sat down on the wet gravel in her good skirt, quite suddenly, and got up again.
+She looked at the body. She sat down on the wet gravel in her good skirt, all at once, and got up again.
 
 "Did anyone else see?" she said.
 
@@ -190,7 +186,7 @@ Isolde turned to me. "Wren. Tell me how he died."
 
 He would have, if he had been sober, and if he had noticed, and if there had been people there to see. He would have gone in for a dog, with people there to see. So it was nearly true. And it turned six years of carrying out his pot into something, and I wanted that so badly my ears rang.
 
-"Oh, you little shit," said Marrow, quite softly. "We had a story."
+"Oh, you little shit," said Marrow, softly. "We had a story."
 
 Isolde looked me over. I was mud to the knee and dry above it. The corner of her mouth moved. She nodded anyway.
 
@@ -200,7 +196,7 @@ Isolde looked me over. I was mud to the knee and dry above it. The corner of her
 
 I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 
-"Does anybody need it explained what becomes of that paper if he is dead?"
+"Does anybody need it explained," said Isolde, "what becomes of that paper if he is dead?"
 
 "War," said Marrow.
 
@@ -270,7 +266,7 @@ Before the canvas went over his hands, I saw my own. I was still wearing his glo
 
 I kept them. They had fleece inside, and he had given them to me with nobody watching, which was the only time he ever gave me anything. If that was my six years' pay, I was having it.
 
-"You sold my story to get in a song," Marrow said, low. "That goes on your account. I keep accounts."
+"You sold my story to get in a song," Marrow said, low. "I'll remember that."
 
 > *Marrow remembers you sold her story for a verse.*
 
@@ -313,7 +309,7 @@ Somewhere ahead they would be ringing the bells for him. I caught myself hoping 
 
 **Isolde's ballad, as it stands**
 
-> Into the river, cold as a debt,
+> Into the river, cold as a stone,
 > the Lantern went for the squire he kept.
 > He gave the river his breath for theirs,
 > and the river kept him, and the squire wept.
