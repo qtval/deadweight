@@ -112,11 +112,11 @@ There was more. My promise was in my pack on the cart, wanting his name. He had 
 
 Then I thought about the letter, and the sums got worse.
 
-It was on the same belt, in an oilskin case: the surrender. The hill towns had signed it for him, on his word that nobody would hang. The council in Vellmouth, the capital, had to sign under his name within the month, and the month had nine days left. If they heard he was dead first, they would not sign for a dead man's word, and the war would start again in the spring.
+It was on the same belt, in an oilskin case: the surrender. The hill towns had signed it for him, on his word that nobody would hang. Ten years of war ended on that page, if it reached Vellmouth, the capital, and it was hanging off a dead man.
 
 Out on the water, Marrow's light had turned.
 
-The case was dry. With that in my shirt, nobody could leave me in a ditch for nine days. With that in my shirt and no knight, I was also a thief, and they hang thieves.
+The case was dry. With that in my shirt, nobody could leave me in a ditch. With that in my shirt and no knight, I was also a thief, and they hang thieves.
 
 The light was nearly on me.
 
@@ -214,60 +214,69 @@ I told it straight: the wine, the armor, the hole in the ford. I was careful to 
 - Tell her about your elbow
 - **▶ Leave out your elbow**  (chosen)
 
-I left out my elbow. It had started to swell, and I kept that arm behind me.
+I left out my elbow, and kept that arm behind me.
 
-Isolde shut her eyes. "In a ford. Drunk."
-
-"Nobody will ever hear that," said Isolde. "Say this for me, Wren. He has a fever."
-
-"He has a fever," I said.
-
-"Again, and look at me, not at him."
-
-Five times. The last time she made me say it with my hand on him.
+Isolde shut her eyes. "In a ford. Drunk. Nobody will ever hear that."
 
 "There's another true one," said Marrow. "Squire broke his nose for him. Look at that ear."
 
-Isolde looked at my ear, and at his nose. "Then that is the true one," she said. "Your name is in it, Wren. I shall keep it by me."
+"Then that is the true one," said Isolde. "Your name is in it, Wren. I shall keep it by me."
 
 "Close his mouth, Wren," said Isolde. "He looks surprised."
 
 I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 
-"And what becomes of the surrender," said Isolde, "if he is dead?"
+Isolde could not get the stopper out of her ink.
 
-"The Marshal gets it," said Marrow.
+"The council signs under his name within the month or it is void, and the month has nine days in it, and they will not sign under a dead man. So we go back. We go back up, and the hill towns sign again, for somebody living."
 
-"Marshal Sayle has lived off this war for ten years," said Isolde. "He will call it a dead man's promise. So he is not dead yet. He has a fever, and he rides in the cart until the council has signed."
+"They signed for him," said Marrow. "They'd not open the gate to you."
 
-"What would it cost," Isolde said to Marrow, "if the squire had gone into the river as well?"
+"Then we bury him, and say he follows."
 
-Marrow had my hair in her fist and the knife under my jaw before I understood the question. "Ten," she said.
+"Nine days?"
 
-Isolde opened her purse and counted silver onto his breastplate. It rang. At seven she stopped and looked at me, and I felt my bladder go.
+"Then Marshal Sayle has it thrown out. He has lived off this war ten years."
 
-"No," she said, and picked them up again. "His men are in Stint, and they know his squire's face. They will not take my word that he is alive in there. They will take yours, Wren. Well?"
+"Three of us know," said Isolde, and she was looking at me. "What would it cost, if the squire had gone into the river as well?"
 
-Marrow let go.
+Marrow had my hair in her fist and the knife under my jaw before I understood. "Ten," she said.
 
-And I was still thinking it, even then: a man with a fever can sign his name.
+"For that? Six."
+
+"Ten. It's not you has to do it."
+
+Isolde began to count silver onto his breastplate. The fourth rolled off into the gravel, and she went down on her knees after it. I could feel the edge move whenever Marrow breathed. My bladder went.
+
+**The game offers:**
+- Tell them you write his letters. You can sign for him.
+- **▶ Tell them his men in Stint know your face**  (chosen)
+- Beg
+
+"His men," I said, all at once. "In Stint. They know me, they'll ask where his squire is, they always ask me what he wants, they'll not ask you, they don't know you—"
+
+"Seven," said Isolde, and stopped. "That is true. They would ask."
+
+She picked the coins up again. Marrow let go of my hair, and wiped her hand.
+
+"So he is not dead," said Isolde, and now she was quick. "He has a fever. He rides in the cart to Vellmouth, and the council signs at the door of his sickroom, with a letter in his hand pushed under it. Wren will write that. He never used a comma in his life until he had you, Wren. Did you think nobody could tell?"
+
+It was the one thing I had to sell. She'd had it all along.
+
+"His men in Stint will not take my word that he is alive in there," she said. "They will take yours. Well?"
+
+I was still on my knees. A man with a fever can sign his name.
 
 **The game offers:**
 - Say you'll do it
 - Ask what's in it for you
 - **▶ Tell her it's madness**  (chosen)
 
-"It's madness," I said. Somebody had to say it, and then it would not have been my idea. "He's dead. Anyone who lifts that canvas—"
+"It's madness," I said. Somebody ought to say so. "He's dead. Anyone who lifts that canvas—"
 
 "Quite right, and I am obliged to you." Isolde smiled at me. "So when they lift it, they must find somebody under there with him. A squire, nursing his master. You will ride in the back, Wren, under the canvas, and hold his hand."
 
 I had my sick man who could sign, and I was going under a canvas with him.
-
-"Ride the paper south," said Marrow. "Leave him."
-
-"The council will not sign for a rider. They will sign for him, or for the door of his sickroom and a letter in his hand pushed under it. Wren will write that, as Wren has written them all. He never used a comma in his life until he had you, Wren."
-
-That I could write as him was the one thing I had to sell. She'd had it all along, for nothing.
 
 "He'll stink by the third day," said Marrow.
 
@@ -280,6 +289,14 @@ That I could write as him was the one thing I had to sell. She'd had it all alon
 "The bridge is two days east."
 
 "Then we made excellent time."
+
+"Say it for me, Wren. He has a fever."
+
+"He has a fever," I said.
+
+"Again, and look at me, not at him."
+
+Five times. The last time she made me say it with my hand on him.
 
 "He keeps his fever as far as Vellmouth," Isolde said to me. "Then he dies of it, in a bed, where I can write it down. I have been paid for a ballad with a triumph at the end of it, and I have spent the money. He dies of whatever I can rhyme."
 

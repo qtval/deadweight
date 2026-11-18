@@ -34,6 +34,7 @@ export const spec = {
     ["the elbow question arises only on the true account after going in", (v) => (v.ELBOW !== "") === (v.VERSION === "truth" && v.WENT_IN === true)],
     ["Wren holds the signet only if Wren agreed", (v) => v.RING === (v.PLAN === "agreed")],
     ["Wren has decided about the deed",        (v) => ["signed", "waiting"].includes(v.DEED)],
+    ["Wren got out from under the knife somehow", (v) => ["hand", "face", "begged"].includes(v.SOLD)],
     ["a day has passed",                      (v) => v.DAYS_LEFT === 8],
     ["only a hidden letter can be secret",    (v) => v.LETTER !== "hidden" || v.VERSION !== ""],
     ["Marrow charges more only if she distrusts Wren", (v) => v.DEBT_MARROW === (v.TRUST_MARROW < 0)],
@@ -54,9 +55,9 @@ export const spec = {
   // Routes written out as plain-text playthroughs for the blind reader panel (docs/TESTING.md, layer 3).
   // One reader per route. Choose routes that differ in tone: an honest one, a self-serving one, a mixed one.
   readerRoutes: {
-    "reader-a-honest":      [1, 0, 0, 1, 1, 1, 0, 1, 2, 1, 0, 1],     // sober, bridle, goes in, leaves purse and letter, won't lie, truth, carries it, for him
-    "reader-b-selfserving": [0, 2, 1, 0, 0, 0, 1, 2, 1, 2, 2, 0],   // drinks, silent, rope, takes purse and letter, ambush, denies letter, false hero, "river took it", wages
-    "reader-c-mixed":       [0, 1, 0, 1, 0, 2, 0, 1, 0, 0, 1, 0],   // drinks, shouts, goes in, leaves purse, takes letter, decides at dawn, shows it, ambush, gives it, peace
+    "reader-a-honest":      [1, 0, 0, 1, 1, 1, 0, 1, 1, 2, 1, 0, 1],     // sober, bridle, goes in, leaves purse and letter, won't lie, truth, carries it, for him
+    "reader-b-selfserving": [0, 2, 1, 0, 0, 0, 1, 2, 0, 1, 2, 2, 0],   // drinks, silent, rope, takes purse and letter, ambush, denies letter, false hero, "river took it", wages
+    "reader-c-mixed":       [0, 1, 0, 1, 0, 2, 0, 1, 2, 0, 0, 1, 0],   // drinks, shouts, goes in, leaves purse, takes letter, decides at dawn, shows it, ambush, gives it, peace
   },
 
   // Voice rules (docs/WRITING_GUIDE.md). Checked on every line of every path.
