@@ -12,4 +12,4 @@ One chat works on this repo at a time. This file is the lock.
 
 ## Current claim
 
-**CLAIMED** — 2026-11-18 21:42 (Asia/Ho_Chi_Minh) — Prologue: dawn scene rework for the First Law reader rule (roadmap: M0.5 exit test).
+**FREE** — last released 2026-11-18 23:40 (Asia/Ho_Chi_Minh), after prologue panel rounds 16–18 (dawn scene rework).

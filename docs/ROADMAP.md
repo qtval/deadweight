@@ -13,17 +13,17 @@ Guiding rules (carried over from the previous project because they were right):
 
 ---
 
-## Where we are (updated 2026-11-18, late night)
+## Where we are (updated 2026-11-18, night, after round 18)
 
-**The demo (the prologue):** every automated test passes (36,288 paths; browser playthroughs). Wren now has a want of their own: the promise of the room and the wages, written out in Aubric's hand by Wren, wanting his name, and a last choice on the road to forge it. On the blind reader panel, **all nine feel criteria passed in rounds 13, 14 and 15**, clarity passes, and nothing is judged copied (`reports/readers/2026-11-18-prologue-rounds-13-15.md`).
+**The demo (the prologue):** every automated test passes (108,864 paths; browser playthroughs). Wren has a want of their own (the promise), and the dawn scene now has a choice under Marrow's knife while Isolde prices Wren's death.
 
-**One written rule is still not met after fifteen rounds:** the First Law reader's own score must be 4 and is 3. The reason is no longer Wren's want. It is manner: Wren knows themself too well, everybody is quick and dry, scenes are compressed, threats are short, the war is not seen. Those are carried into chapter 1 as writing rules (below) instead of a sixteenth pass. **The M0.5 box stays unticked until the owner either passes the demo himself or relaxes that one rule for single chapters.** The report says what I would do.
+**Reader panel:** round 16 met **every** written rule for the first time, including the First Law reader's 4. Rounds 17 and 18 did not repeat it (First Law 3 and 3). The nine feel criteria have passed in seven of the last nine rounds. So the pass is real but not stable, and **the M0.5 box stays unticked** (`reports/readers/2026-11-18-prologue-rounds-16-18.md`).
 
-**Carried into chapter 1 from the First Law readers:** let Wren believe their own excuses (no "I told myself"); one person in each scene who is slow, wrong or boring; one scene per chapter that runs long and then turns nasty; a threat that lasts a page; the war seen, once a scene.
+**Next task (one session): the voice pass on the prologue.** The First Law readers' three standing complaints are about manner across the whole chapter, not one scene: (1) Marrow, Isolde and the narration share one dry wit: give each the sound `story/CAST.md` specifies; (2) nearly every paragraph ends on a one-liner: end two in three flat; (3) fear does not last: the knife at dawn must mark Wren for the rest of the chapter (flinch at Marrow, cannot sit near Isolde). Also from the new players: say the deadline once in Wren's own plain words. Then three panel rounds. Pass twice running before ticking M0.5.
+
+**After that:** chapter 1 scenes 1–3, third round, carrying the promise, the knife and these rules across.
 
 **One chat at a time:** `docs/IN_PROGRESS.md` is the lock. Read it first.
-
-**Next task:** chapter 1 scenes 1–3, third panel round, with the rules above and Wren's promise (and the ink on the thumb, if signed) carried across.
 
 **Done since (2026-11-18, evening):** the chapter 1 beat sheet, in its third draft after three blind readers (`story/BEATS.md`, `reports/readers/2026-11-18-ch01-beats.md`): eleven scenes, Corporal Dobb and Aubric's own escort, one inspection, and somebody hurt in Stint on every path. The first three scenes are written (`story/ch01_stint.ink`) and have had two panel rounds (`reports/readers/2026-11-18-ch01-opening.md`): seven of nine pass; temptation and fear for the narrator do not; First Law feel 3 of 5. The same reader now gives the prologue 4 of 5. Chapter 1 is **not linked into the playable demo yet**: the story test plays every path, and it needs a per-chapter mode first.
 
@@ -31,7 +31,7 @@ Guiding rules (carried over from the previous project because they were right):
 
 **Next tasks, in order:**
 1. Chapter 1 scenes 1–3, round 3: work through "Still open" in the opening report (Dobb reaches for the feet on the bridge and Wren has to stop him; a selfish option at the toll; the Marshal's sergeant seen from the bridge; let one excuse stand uncaught; carry the nose, the ear, the purse and the gloves across from the prologue). Fresh panel.
-2. Per-chapter story test (`docs/TECH.md`): seed chapter 1 from the prologue's possible end states, so chapter 1 can be linked into the demo without multiplying 36,288 paths. Then link it, add placeholder panels, and extend the browser test.
+2. Per-chapter story test (`docs/TECH.md`): seed chapter 1 from the prologue's possible end states, so chapter 1 can be linked into the demo without multiplying 108,864 paths. Then link it, add placeholder panels, and extend the browser test.
 3. Write scenes 4–12 of chapter 1 to the third-draft beat sheet, a few scenes at a time, each batch through the panel.
 4. Panels for the prologue: check for a `panels/ch00` branch or pull request from the Codex trial (`AGENTS.md`).
 5. Owner, whenever he likes: whether the demo is good enough for him as it stands; title; the fixed name Wren; the inventions listed in the cast sheet and at the foot of the chapter 1 beat sheet.
@@ -58,7 +58,7 @@ Repo, tooling, and a reader that runs.
 
 A playable prologue to agree on tone, writing, UI, systems and testing before M1 commits to the full beat sheet.
 
-- [x] Prologue "The Greywater" in ink: 7 scenes, 36,288 paths, 9 outcomes, 9 remember-lines
+- [x] Prologue "The Greywater" in ink: 7 scenes, 108,864 paths, 9 outcomes, 9 remember-lines
 - [x] Prologue rewritten for voice (2026-11-18): first-person Wren, two new choices (the wine, the purse); craft rules added to WRITING_GUIDE
 - [x] Reader: chapter card, panel crossfade, tap-to-continue, choices, journal (Travelers / Ballad / Road / Settings), autosave, end screen with recap and ballad
 - [x] Procedural placeholder panels (stand-ins for GPT-Image-2 art)
@@ -67,7 +67,7 @@ A playable prologue to agree on tone, writing, UI, systems and testing before M1
 - [x] Groundwork for the feel (2026-11-18): the experience target in VISION, immersion devices in WRITING_GUIDE, draft `story/VOICE.md`, chapter checklist in `story/BEATS.md`, first thought choice (`SELF`) and Wren's hurt in the prologue, voice check in the story test
 - [x] Blind reader panel built (`tests/reader-panel.md`, `npm run transcripts`) and run for six rounds on the prologue
 - [ ] Reader panel passes on the prologue (round 9: 8 of 9 criteria pass; temptation 3.67; First Law feel 3/5, unchanged since round 6)
-- [x] Tests green: story 36,288/36,288 paths, browser 38/38 checks
+- [x] Tests green: story 108,864/108,864 paths, browser 38/38 checks
 - [ ] Owner verdict, if and when he gives one (no longer the gate)
 
 **Exit test:** the blind reader panel passes on the prologue, with the tests green. The owner may overrule either way.
@@ -210,3 +210,5 @@ Combat systems, inventory, character creator beyond name/pronouns, voice acting,
 | 2026-11-18 | Wren's own want is the promise: the room and six years' wages, written out by Wren in Aubric's hand, wanting his name. New last choice in the prologue: forge it on the road or wait (`DEED`) | Owner asked for the necessary changes after twelve rounds; the First Law readers said Wren wanted nothing. Owner may strike it |
 | 2026-11-18 | Isolde prices Wren's death in the dawn scene (silver on the breastplate) | Readers: nobody frightened them; a threat must be done, not said |
 | 2026-11-18 | Three more prologue rounds (13–15) in the same day, beyond the three-per-session limit | A new task from the owner, with a story change to test |
+| 2026-11-18 | Dawn scene reworked: Isolde is wrong before she is clever; new choice under the knife (`SOLD`: hand / face / begged) | Owner: make the demo pass all rules. First Law readers: the plan was handed over, and nobody was frightening |
+| 2026-11-18 | M0.5 is ticked only after the panel passes every rule two rounds running | Round 16 passed and rounds 17–18 did not; one pass in three is luck, not a result |

@@ -264,18 +264,17 @@ Isolde shut her eyes. "In a ford. Drunk. Nobody will ever hear that."
 = s05_plan
 "Close his mouth, Wren," said Isolde. "He looks surprised."
 I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
-"The council must sign it under his name," said Isolde. "They have nine days, to the end of the month. And they will not put their names under a dead man's, because a dead man cannot be made to keep his word."
-"So we go back up, and the hill towns sign again, for somebody living."
+"The council must sign it under his name," said Isolde. "They have nine days, to the end of the month. And they will not put their names under a dead man's, because a dead man cannot be made to keep his word. So we go back up, and the hill towns sign again, for somebody living."
 "They'd not open the gate to you," said Marrow.
 "Then we bury him, and say he follows."
-"For nine days?"
+"For nine days?" said Marrow.
 "Then it is void," said Isolde, "and Marshal Sayle has his war back. He has lived off it ten years."
 # know: sayle :: Marshal Sayle, who has commanded the army for all ten years of the war. If the Lantern is known to be dead before the council signs, he will have the surrender thrown out.
 "Three of us know," she said. "I need the guide for the road." She was looking at me. "What would it cost, if the squire had gone into the river as well?"
 Marrow had my hair in her fist and the knife under my jaw. "Ten," she said.
-"For that? Six."
+"Six."
 "Ten. It's not you has to do it."
-Isolde began to count silver onto his breastplate. The fourth rolled off into the gravel, and she went down on her knees after it. I could feel the edge move whenever Marrow breathed. My bladder went.
+Isolde began to count silver onto his breastplate. The fourth rolled off into the gravel, and she went down on her knees after it. The edge moved whenever Marrow breathed. My bladder went.
 * [Tell them you write his letters. You can sign for him.]
     ~ SOLD = "hand"
     "I write his letters," I said, all at once. "All of them, six years, I do his hand, I do his name. If he's sick they'll want a letter from him, the council, and I can write it, nobody else can, you can't, I've seen yours—"
@@ -292,7 +291,7 @@ Isolde began to count silver onto his breastplate. The fourth rolled off into th
     "The wick," I said.
     "Louder."
     "The wick. The Lantern's wick." Marrow's fist was shaking in my hair. She was laughing.
-    "Then they would ask for it," said Isolde. She put the fifth coin back in her purse. "So that is what the squire is for."
+    "Then they would ask for it," said Isolde. She put the coin in her hand back in her purse. "So that is what the squire is for."
 * [Beg]
     ~ SOLD = "begged"
     "Please," I said. "Please. I'll say what you like. I never saw it, I was asleep, I'll go back to the tubs, please—"
@@ -470,8 +469,8 @@ By full light we were on the road south to Stint and his bells, with the Lantern
     Marrow walked ahead.
 }
 About noon she stopped over a lot of fresh hoofprints. "Marshal's riders," she said. "Going where we're going."
-Vellmouth was eight days off by cart, and we had eight.
-Then Isolde went behind the hedge, and left her pen standing in the inkhorn on the tailboard, a foot from my pack.
+The night had cost us a day. Vellmouth was eight off by cart, and we had eight.
+Then Isolde went behind the hedge, and left her pen in the inkhorn on the tailboard, by my pack.
 I had my promise out of the pack and unfolded. The room, the door, six years' wages, to his squire Wren. It wanted his name.{RING: His ring was no use without wax. A name only wants ink.}
 He would have signed it. He had said so last night, with his own mouth. It wasn't forging. It was finishing his sentence.
 * [Sign it now, in his hand]

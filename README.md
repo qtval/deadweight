@@ -10,7 +10,7 @@ Black-and-white ink panels with one amber accent for light, environment-first. F
 
 ## Status
 
-**Agreement demo (M0.5).** Play it: **https://qtval.github.io/deadweight/** — the prologue, *The Greywater*, is playable end to end with placeholder art: 7 scenes, 36,288 paths, 9 outcomes. Logic and browser tests pass; the blind reader panel (see `docs/TESTING.md`) passes all 9 feel criteria; the First Law reader's own score is 3 of 5 (the rule asks for 4). Start with the docs:
+**Agreement demo (M0.5).** Play it: **https://qtval.github.io/deadweight/** — the prologue, *The Greywater*, is playable end to end with placeholder art: 7 scenes, 108,864 paths, 9 outcomes. Logic and browser tests pass; the blind reader panel (see `docs/TESTING.md`) has passed every rule once (round 16) but not twice running; the First Law reader's own score moves between 3 and 4 of 5. Start with the docs:
 
 | Doc | What it is |
 |-----|-----------|
