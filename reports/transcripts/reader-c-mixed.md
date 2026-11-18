@@ -232,7 +232,7 @@ I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 
 "The Marshal gets it," said Marrow.
 
-"Marshal Sayle has lived off this war for ten years," said Isolde. "He will call it a dead man's promise, and be so very sorry. So he is not dead yet. He took an arrow from robbers and has a fever of it, and he rides in the cart until the council has signed."
+"Marshal Sayle has lived off this war for ten years," said Isolde. "He will call it a dead man's promise. So he is not dead yet. He took an arrow from robbers and has a fever of it, and he rides in the cart until the council has signed."
 
 "What would it cost," Isolde said to Marrow, "if the squire had gone into the river as well?"
 
@@ -244,7 +244,7 @@ Isolde opened her purse and counted silver onto his breastplate. It rang. At sev
 
 Marrow let go.
 
-I had wet myself, and I was still thinking it: a man with a fever can sign his name.
+And I was still thinking it, even then: a man with a fever can sign his name.
 
 **The game offers:**
 - **▶ Say you'll do it**  (chosen)

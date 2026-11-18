@@ -270,14 +270,14 @@ Five times. The last time she made me say it with my hand on him.
 I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 "And what becomes of the surrender," said Isolde, "if he is dead?"
 "The Marshal gets it," said Marrow.
-"Marshal Sayle has lived off this war for ten years," said Isolde. "He will call it a dead man's promise, and be so very sorry. So he is not dead yet. He {VERSION == "ambush":took an arrow from robbers and has a fever of it|has a fever}, and he rides in the cart until the council has signed."
+"Marshal Sayle has lived off this war for ten years," said Isolde. "He will call it a dead man's promise. So he is not dead yet. He {VERSION == "ambush":took an arrow from robbers and has a fever of it|has a fever}, and he rides in the cart until the council has signed."
 # know: sayle :: Marshal Sayle, who has commanded the army for all ten years of the war. If the Lantern is known to be dead before the council signs, he will have the surrender thrown out.
 "What would it cost," Isolde said to Marrow, "if the squire had gone into the river as well?"
 Marrow had my hair in her fist and the knife under my jaw before I understood the question. "Ten," she said.
 Isolde opened her purse and counted silver onto his breastplate. It rang. At seven she stopped and looked at me, and I felt my bladder go.
 "No," she said, and picked them up again. "His men are in Stint, and they know his squire's face. They will not take my word that he is alive in there. They will take yours, Wren. Well?"
 Marrow let go.
-I had wet myself, and I was still thinking it: a man with a fever can sign his name.
+And I was still thinking it, even then: a man with a fever can sign his name.
 * [Say you'll do it]
     ~ PLAN = "agreed"
     ~ RING = true
