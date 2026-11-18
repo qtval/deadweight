@@ -20,13 +20,15 @@ VAR TOLD_MARROW = ""
 // The version of the death Wren gave Isolde at dawn: "truth" | "ambush" | "hero"
 VAR VERSION = ""
 
-// What Wren tells themself the journey is for: "peace" | "him" | "wages". A thought choice:
+// What Wren tells themself the journey is for: "peace" | "him" | "wages". Chosen by an act (what Wren does with his gloves):
 // later chapters quote it back when Wren acts against it.
 VAR SELF = ""
 
 // What Wren said to Isolde's plan: "agreed" | "bargained" | "objected". Bargaining makes Isolde promise a place in writing.
 VAR PLAN = ""
 VAR ISOLDE_OWES = false
+// Agreeing gets Wren Aubric's signet: Wren may speak in his name.
+VAR RING = false
 
 // If Wren went in and told Isolde the truth: did Wren admit hitting him? "" | "told" | "hidden". If told, Isolde holds it.
 VAR ELBOW = ""
