@@ -13,15 +13,11 @@ Guiding rules (carried over from the previous project because they were right):
 
 ---
 
-## Where we are (updated 2026-11-18)
+## Where we are (updated 2026-11-18, night)
 
-**Milestone M1, first task done.** The cast sheet is written (`story/CAST.md`) and passed the blind voice test: three fresh readers each named the speaker of ten unattributed lines, 10 of 10 (`reports/readers/2026-11-18-voice.md`). The named antagonist is Marshal Sayle himself, and he is now in prologue scene 3. The readers' warnings stand: Isolde and Sayle are the closest pair, Wren aloud is thin, Marrow and Tobin can turn into tics, and Marrow and Sayle are where a First Law reader hears the influence.
+**The demo (the prologue):** every automated test passes (18,144 paths; browser playthroughs). On the blind reader panel, all nine feel criteria passed in round 10 and again in round 12, clarity passes, and nothing is judged copied (`reports/readers/2026-11-18-prologue-rounds-10-12.md`). **One written rule is still not met after twelve rounds:** the First Law reader's own score for the feel must be 4 and is 3. That reader's reason has not changed: Wren is a decent, dry witness, and has no hot want of their own after Aubric dies. That is a story decision, not a wording one, and it is the owner's: **what does Wren want for themself from the corpse?** Until he answers, the M0.5 box stays unticked. He may also simply pass the demo; the panel is a stand-in for him.
 
-**M0.5 is still open.** The prologue has now been through nine rounds of the blind reader panel (`reports/readers/`); rounds 7–9 followed the voice pass of 2026-11-18. **It still does not pass, on the same two counts:** temptation scores 3.67 (needs 4), and the First Law reader has given the feel 3 of 5 in all nine rounds ("a high 3" in round 9). Clarity passes, the other eight feel criteria pass, and nothing is judged copied. Two different approaches have now produced the same two scores, so a tenth round of polish is not the next move.
-
-The owner is assumed not to be available to test (see `CLAUDE.md`). The reader panel is the gate; he can overrule it.
-
-What the voice pass fixed: the ford choice has a stake (the room with a door) and is now the choice every reader names as tempting; the bank scene states the letter's stakes once; the antagonist has a name and a line; Marrow cuts Wren if refused. What it did not fix, in every round 9 reader's words: Marrow, Isolde and Wren still share one dry wit; nearly every paragraph ends on a wry turn; nobody is frightened of anybody; the decent choices are free. Those are faults of method, not of lines. The proposal is in the round 7–9 report: write chapter 1 to different rules (plain paragraphs by default, one turn a scene, people who are slow, wrong or scared), test that, and bring what works back to the prologue.
+**One chat at a time:** `docs/IN_PROGRESS.md` is the lock. Read it first.
 
 **Done since (2026-11-18, evening):** the chapter 1 beat sheet, in its third draft after three blind readers (`story/BEATS.md`, `reports/readers/2026-11-18-ch01-beats.md`): eleven scenes, Corporal Dobb and Aubric's own escort, one inspection, and somebody hurt in Stint on every path. The first three scenes are written (`story/ch01_stint.ink`) and have had two panel rounds (`reports/readers/2026-11-18-ch01-opening.md`): seven of nine pass; temptation and fear for the narrator do not; First Law feel 3 of 5. The same reader now gives the prologue 4 of 5. Chapter 1 is **not linked into the playable demo yet**: the story test plays every path, and it needs a per-chapter mode first.
 
@@ -203,3 +199,5 @@ Combat systems, inventory, character creator beyond name/pronouns, voice acting,
 | 2026-11-18 | Wall-of-text limit raised from 300 to 340 words between choices | Room for Wren's commentary and for fear to last. The new-player reader still flags the bank and the dawn scene as long; do not raise it again |
 | 2026-11-18 | Chapter 1 is eleven scenes; it opens with the armour coming off in a wood; Aubric's own escort under Corporal Dobb is in Stint; the forged letter moves to chapter 2 | Three blind readers of the beat sheet: it contradicted the prologue, spent its clock twice, and hurt nobody |
 | 2026-11-18 | Drafting rule: paragraphs end plainly, and Wren's sour, bodily thought runs under every act, in contractions; big moments are played, not summarised | Round 1 of the chapter 1 panel: plain rules alone turned the narrator into a camera |
+| 2026-11-18 | A lock file, `docs/IN_PROGRESS.md`: one chat works on the repo at a time | Two chats did the same task at once on 2026-11-18 |
+| 2026-11-18 | Prologue: decent choices now cost on the page (Marrow takes the purse Wren leaves; the truth is paid for by rehearsing the lie); the rope is thrown and fails | Readers: decent choices were free, and nobody tried anything and failed |

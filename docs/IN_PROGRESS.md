@@ -12,4 +12,4 @@ One chat works on this repo at a time. This file is the lock.
 
 ## Current claim
 
-**CLAIMED** — 2026-11-18 18:25 (Asia/Ho_Chi_Minh) — Prologue: get the demo through the reader panel (roadmap: M0.5 exit test). Chat started 14:05 the same day.
+**FREE** — last released 2026-11-18 20:10 (Asia/Ho_Chi_Minh), after prologue panel rounds 10–12.
