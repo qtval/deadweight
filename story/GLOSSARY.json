@@ -10,6 +10,7 @@
     "Vellmouth":{ "what": "The capital, where the surrender must be countersigned." },
     "Crown":    { "what": "The kingdom's government." },
     "King":     { "what": "The king, unnamed so far." },
+    "Coste":    { "aka": ["Marshal Coste"], "what": "The Marshal: commander of the Crown's army for the whole war. Profits if the surrender dies." },
     "Stint":    { "what": "Toll town a day south of the Greywater." },
     "Prologue": { "what": "UI word" }
   },

@@ -18,6 +18,7 @@ const WHO: Record<string, { name: string }> = {
   marrow: { name: "Marrow" },
   isolde: { name: "Isolde Ferrant" },
   letter: { name: "The surrender" },
+  coste: { name: "Marshal Coste" },
   stint: { name: "Stint" },
 };
 const ROAD = [

@@ -89,9 +89,12 @@ Six years' wages, which he had always been about to pay. His purse hung on his b
 - There was more. He had promised me a place in his household in Vellmouth, the capital, and never written it down. Without him I was a laundress's child who could read.
 Then I thought about the letter, and the sums got worse.
 It was on the same belt, in an oilskin case: the surrender. He had explained it, lovingly, at every inn on the road south. The hill towns had signed it for him, on his word that nobody would hang. They would never have signed it for anyone else.
-The King's council in Vellmouth had to put their names under his before the month was out, and the month had nine days left in it. If he was known to be dead first, there were men at court who would call it waste paper, and the war would start again in the spring.
-# know: letter :: The surrender, signed by the hill towns on Aubric's word. The King's council in Vellmouth, the capital, must countersign it within nine days, and must not learn he is dead first, or the war starts again.
-The case was dry. Whoever held it was worth keeping alive for nine days. Whoever was caught holding it without leave was a thief of the King's peace, and they hang those.
+The council in Vellmouth had to put their names under his before the month was out, and the month had nine days left in it. If he was known to be dead first, Marshal Coste would call it waste paper, and the war would start again in the spring.
+Coste had commanded that war for ten years and had friends on the council, and a peace was no use to him.
+I had stood in front of him once, holding a cloak. "Your squire reads," he had said, to Aubric, not to me. "I should see to that." I had read every letter Aubric ever got, and some of them were about Coste. I still didn't know what seeing to it meant.
+# know: letter :: The surrender, signed by the hill towns on Aubric's word. The council in Vellmouth, the capital, must countersign it within nine days, and must not learn he is dead first, or the war starts again.
+# know: coste :: Marshal Coste, who has commanded the army for all ten years of the war. If the Lantern is known to be dead before the council signs, he will have the surrender called waste paper. He knows you can read.
+The case was dry. Whoever held it was worth keeping alive for nine days. A squire caught holding it, with no knight alive to be holding it for, was a thief, and they hang those.
 Out on the water, Marrow's light was coming back, low and quick.
 * [Take the case and hide it under your shirt]
     ~ LETTER = "wren"

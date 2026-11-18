@@ -106,9 +106,13 @@ Then I thought about the letter, and the sums got worse.
 
 It was on the same belt, in an oilskin case: the surrender. He had explained it, lovingly, at every inn on the road south. The hill towns had signed it for him, on his word that nobody would hang. They would never have signed it for anyone else.
 
-The King's council in Vellmouth had to put their names under his before the month was out, and the month had nine days left in it. If he was known to be dead first, there were men at court who would call it waste paper, and the war would start again in the spring.
+The council in Vellmouth had to put their names under his before the month was out, and the month had nine days left in it. If he was known to be dead first, Marshal Coste would call it waste paper, and the war would start again in the spring.
 
-The case was dry. Whoever held it was worth keeping alive for nine days. Whoever was caught holding it without leave was a thief of the King's peace, and they hang those.
+Coste had commanded that war for ten years and had friends on the council, and a peace was no use to him.
+
+I had stood in front of him once, holding a cloak. "Your squire reads," he had said, to Aubric, not to me. "I should see to that." I had read every letter Aubric ever got, and some of them were about Coste. I still didn't know what seeing to it meant.
+
+The case was dry. Whoever held it was worth keeping alive for nine days. A squire caught holding it, with no knight alive to be holding it for, was a thief, and they hang those.
 
 Out on the water, Marrow's light was coming back, low and quick.
 

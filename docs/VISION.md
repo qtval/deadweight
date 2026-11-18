@@ -55,13 +55,15 @@ The game is the nine days between the Greywater and Vellmouth.
 
 ## Cast
 
+**The full cast sheet is `story/CAST.md`** (wants, fears, secrets, breaking points, voices, what each does off-screen). Where it differs from the lines below, it is newer.
+
 Six speaking characters, deliberately few. Faces are rare in the art; everyone is seen at distance, from behind, in silhouette, or by what they leave in a room.
 
 - **Wren (the player)** — Aubric's squire for six years; child of a camp laundress; can read, which is rare and the reason Aubric kept them. Not a fighter. Not clever enough to be safe, clever enough to be dangerous. *Recommendation (owner to decide): keep the name Wren and offer no pronoun choice. First-person narration never needs a pronoun, the other characters say "squire" or "you", and a named narrator with a past is what makes the voice work.*
 - **Isolde Ferrant** — the chronicler the Crown attached to Aubric to write the ballad of the peace. Warm, quick, and entirely ruthless about the story. Her draft ballad is a real in-game document that changes with your choices. She is the game's "wise mentor" figure and she is not magic, not old, and not your friend; she is a career.
 - **Marrow** — a Compact deserter turned road-guide, hired by Aubric for the crossing. Knows every ford and every grave. When she is violent it is fast, ugly, and over, and she does not enjoy it. She has her own reason to see the surrender delivered — or not.
 - **Brother Tobin Ask** — itinerant friar of the Church of the Hearth who attaches himself to the party at the first town. Kind in the way of a man who has already decided what your body is worth. He wants Aubric's corpse for his chapel: a saint means pilgrims, and pilgrims mean a roof.
-- **Lord-Marshal Severin Coste** — commander of the Crown's army in the Marches. He "won" the war and he needs the Lantern to ride into Vellmouth alive and grateful so the Marshal's version of events becomes the official one. A living hero is a rival. A dead one is an opportunity — if he controls the story.
+- **Marshal Severin Coste** — the named antagonist, and the one who profits if the surrender dies. Commander of the Crown's army in the Marches. He "won" the war and he needs the Lantern to ride into Vellmouth alive and grateful so the Marshal's version of events becomes the official one. A living hero is a rival. A dead one is an opportunity — if he controls the story.
 - **Hesper Dane** — Aubric's wife, in Vellmouth. A brewer's daughter he married for money; she has run his estate and paid his debts for ten years while he was in ballads. She never liked him. She is the last person you have to lie to, or not.
 
 Minor: **Ottil Rask**, the Compact's envoy riding behind the party to confirm the surrender arrives; a tollkeeper at Stint; a camp surgeon; two child scavengers who strip the battlefield in Chapter 2.

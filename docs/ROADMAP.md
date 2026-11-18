@@ -15,18 +15,19 @@ Guiding rules (carried over from the previous project because they were right):
 
 ## Where we are (updated 2026-11-18)
 
-**Milestone M0.5.** The prologue has been through six rounds of the blind reader panel (`reports/readers/`). **It is close but does not pass:** clarity passes and eight of nine feel criteria pass. Temptation scores 3.67 (needs 4), and the First Law reader has given the feel 3 of 5 in every round. Nothing has been judged copied.
+**Milestone M1, first task done.** The cast sheet is written (`story/CAST.md`) and passed the blind voice test: three fresh readers each named the speaker of ten unattributed lines, 10 of 10 (`reports/readers/2026-11-18-voice.md`). The named antagonist is Marshal Coste himself, and he is now in prologue scene 3. The readers' warnings stand: Isolde and Coste are the closest pair, Wren aloud is thin, Marrow and Tobin can turn into tics, and Marrow and Coste are where a First Law reader hears the influence.
+
+**M0.5 is still open.** The prologue has been through six rounds of the blind reader panel (`reports/readers/`). **It is close but does not pass:** clarity passes and eight of nine feel criteria pass. Temptation scores 3.67 (needs 4), and the First Law reader has given the feel 3 of 5 in every round. Nothing has been judged copied.
 
 The owner is assumed not to be available to test (see `CLAUDE.md`). The reader panel is the gate; he can overrule it.
 
 The reader's remaining objections (one shared register for Marrow, Isolde and Wren; no named antagonist; fear that does not linger; too dense) are not prologue-polish problems. They need the cast sheet and a longer chapter. So the prologue is parked here, and M1 starts.
 
 **Next tasks, in order:**
-1. M1 cast sheet: for each of the six, want, fear, secret, breaking point, a distinct rhythm and verbal habit, their own kind of humour, and what they do off-screen in every chapter. Name the "bastard with a face": the person at court who profits if the surrender dies (Coste, or his man), and put that name into the prologue where it now says "men at court". Test: a blind reader given ten unattributed lines can say who speaks each.
-2. Chapter 1 beat sheet (Stint) against `story/BEATS.md`, with longer scenes and Wren's private commentary running through every exchange.
-3. Then one more prologue pass with the cast voices applied, and a fresh panel. Also give the ford choice a real stake.
-4. Panels for the prologue: check for a `panels/ch00` branch or pull request from the Codex trial (`AGENTS.md`); if images are there, process, test and place them. Note the water panel prompt now asks for a bare hand, not a gauntlet.
-5. Owner, whenever he likes: title, and confirm the fixed name Wren.
+1. Chapter 1 beat sheet (Stint) against `story/BEATS.md` and `story/CAST.md`, with longer scenes and Wren's private commentary running through every exchange. It must carry the chapter 1 column of the off-screen table (Marrow's new boots, Isolde's letter south, Tobin and the knot, Coste's surgeon).
+2. Then one more prologue pass with the cast voices applied, and a fresh full panel. Also: give the ford choice a real stake; break up the four paragraphs of explanation on the bank; bring Coste back once before the chapter ends; say earlier that the bells are in Stint; settle council or King (the other items from the clarity reader are in the voice report).
+3. Panels for the prologue: check for a `panels/ch00` branch or pull request from the Codex trial (`AGENTS.md`); if images are there, process, test and place them. Note the water panel prompt now asks for a bare hand, not a gauntlet.
+4. Owner, whenever he likes: title; confirm the fixed name Wren; and look at the three inventions in the cast sheet (the lantern night, Wren writing Aubric's letters, Marrow selling the Hanging Wood). Each can be struck without breaking the rest.
 
 ---
 
@@ -69,7 +70,7 @@ A playable prologue to agree on tone, writing, UI, systems and testing before M1
 Everything the writing needs before writing.
 
 - [ ] Lock the premise (or swap to an alternative from VISION)
-- [ ] Cast sheet: each of the six characters — want, fear, secret, breaking point, how they talk, what they're doing in every chapter
+- [x] Cast sheet (`story/CAST.md`, 2026-11-18): each of the six — want, fear, secret, breaking point, how they talk, what they're doing in every chapter. Blind voice test passed 10/10 ×3. Draft until the owner locks it
 - [ ] Location sheet: the ~15 locations with fixed descriptions (feeds both prose and art)
 - [ ] `story/VOICE.md`: owner edits and approves the draft; add one paragraph per speaking character once the cast sheet is locked
 - [ ] `story/BEATS.md`: every scene of all six chapters in the scene template; 15–20 scenes per chapter; each chapter ticks the checklist at the top of that file (body, nobody, temptation, fire scene, thought choice, bill, meanwhile, turn)
@@ -183,3 +184,9 @@ Combat systems, inventory, character creator beyond name/pronouns, voice acting,
 | 2026-11-18 | Thought choices are acts that carry the excuse (first: what Wren does with Aubric's gloves), not "tell yourself" labels | Readers in two rounds found the labelled version abstract; none objected to the act |
 | 2026-11-18 | Prologue parked at 8 of 9 after six panel rounds; M1 cast sheet goes first | The remaining objections (distinct voices, a named antagonist, room) cannot be fixed inside the prologue |
 | 2026-11-18 | Agreeing to Isolde's plan gives Wren Aubric's signet (`RING`); objecting puts Wren under the canvas with the body | Every answer to the plan now has a visible result |
+| 2026-11-18 | The named antagonist is Marshal Coste himself, not a new man at court. In game text he is "Marshal Coste"; the "Lord-" is dropped | Keeps the cast at six. "Lord Marshal" is a First Law title |
+| 2026-11-18 | Cast spine: six creditors of a dead man's spoken promises, each trying to get it in writing | Gives every character a want of the same shape as Wren's, and makes the letter the one promise he kept |
+| 2026-11-18 | The lantern night: Coste held the light, Aubric got the song, Isolde wrote it, Hesper paid for the cut verse | Gives Coste a petty, human motive and makes the legend a lie before the game begins. Uses the "third verse" already in the prologue |
+| 2026-11-18 | Wren has written Aubric's letters for six years, in his hand; Hesper has known | A reason for Coste's threat ("your squire reads"), a skill that matters when the letter is in doubt, and a payoff in chapter 5 |
+| 2026-11-18 | Marrow sold the Hanging Wood to Coste's quartermaster; Isolde was awake at the ford; Tobin knows the Lantern is dead from Stint | Secrets required by the cast sheet. Each is revealed no earlier than the chapter named there |
+| 2026-11-18 | Blind voice test added (`tests/voice-test.md`) as the gate for the cast sheet. The one-line prologue change was checked by a single clarity reader, not the full panel | The full panel is scheduled with the prologue voice pass; running it for one passage would repeat a known fail |

@@ -21,6 +21,8 @@ The player should feel they are a small person inside a hard, funny, unfair worl
 
 ## How the others talk
 
+The full version, with each speaker's rhythm, habit, humour, reason and sample lines, is `story/CAST.md`. This table is the summary.
+
 | Who | Sound | How they lie | What they call Wren |
 |---|---|---|---|
 | **Aubric** (dead; quoted and remembered) | Warm, loud, generous with words, repeats his best lines. His wit is boasting dressed as modesty. | By believing it first. | "Wren", always, fondly. The only one who used the name for free. |
