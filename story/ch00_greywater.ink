@@ -12,7 +12,7 @@
 # scene: s01_ford
 # panel: greywater_ford_night
 The Greywater was loud in the dark, fast and black and no deeper than my belt, and Sir Aubric Dane had decided to cross it drunk.
-I was his squire. I had been his squire six years, which is long enough to know he could not be talked out of it.
+I had been his squire six years. He could not be talked out of it.
 "By sunrise, Wren," he said, again. "They'll ring every bell in Stint for the Lantern. I'll not turn up at noon like a tinker with a cough."
 "Yes, Sir Aubric," I said. Piss on your bells, I thought. My feet were wet.
 # know: aubric :: Sir Aubric Dane, called the Lantern. The only knight anyone has a ballad about. Drunk tonight.
@@ -21,6 +21,7 @@ Stint was the toll town, a day south. He had sent his escort ahead that morning 
 He sat his grey horse in full armor, polished for the bells. I had done the polishing.
 A light moved on the far bank, under the alders. That was Marrow, the guide. She had waded over to test the bottom and shouted back three words, and the words were "Wait for morning."
 # know: marrow :: The road-guide. A deserter from the hill towns' side, paid in silver to know the fords. Said the river should wait for morning.
+"Nine days, and the council signs under my name," he said. "Mine. They'd sign under nobody else's. I gave the hill towns my word that nobody hangs, and it's my word they took. The army will weep. Ten years it's been paid for that war."
 He held the last of the wine down to me. "Drink, Wren. Tomorrow you're squire to the man who ended the war. You'll never pay for a cup again."
 He had never once paid me, either. But he said it so warmly that I forgot to mind. You warmed your hands at him and didn't count your fingers till later.
 * [Drink with him]
@@ -94,7 +95,7 @@ Six years' wages, which he had always been about to pay. His purse hung on his b
     I let it hang. I am not a thief. I weighed it in my hand first, only to be sure of that.
 - My paper wanted his name, and he was past signing. {AT_FORD == "bridle":He had been going to talk about it another day. }Without him I was a laundress's child who could read.
 Then there was the letter.
-It was on the same belt, in an oilskin case: the surrender. The hill towns had signed it on his word that nobody would hang. The council in Vellmouth, the capital, had nine days left to sign it too, under his name. They would not sign under a dead man's, because a dead man can't be held to his word. No signature, and the war came back in the spring, which would suit Marshal Sayle, who had commanded it ten years and been paid for every one.
+It was on the same belt, in an oilskin case: the surrender. Nine days, he had said, and the council in Vellmouth, the capital, signed under his name. They would not sign under a dead man's. A dead man's word is worth nothing. No signature, and the war came back in the spring.
 # know: letter :: The surrender, signed by the hill towns on Aubric's word. The council in Vellmouth, the capital, must sign it too within nine days, and must not learn he is dead first, or the war starts again.
 Out on the water, Marrow's light had turned.
 The case was dry. Whoever carried that would be looked after. But a squire with his knight's letter in his shirt and no knight is a thief, and they hang thieves.
@@ -261,9 +262,9 @@ Isolde looked at him. "Close his mouth. He looks surprised."
 I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 "We go back up," said Isolde. "The hill towns sign again, for somebody living."
 "They shut the gate behind him," said Marrow. "Won't open it for you. Nine days, you've got."
-"Then it's void, and Sayle has his war back."
+"Then it's void, and Marshal Sayle has his war back. Ten years he has been paid for it."
 # know: sayle :: Marshal Sayle, who has commanded the army for all ten years of the war. If the Lantern is known to be dead before the council signs, he will have the surrender thrown out.
-Isolde was quiet. Then she had her whole sentences back. "Then he is not dead. He has a fever. He rides under the canvas, and nobody but us knows otherwise."
+Then she had her whole sentences back. "Then he is not dead. He has a fever. He rides under the canvas, and nobody but us knows otherwise."
 "Three's a lot of us," said Marrow.
 "I need the guide for the road," said Isolde. "I can drive a cart, and I can sit by a sickbed. What do I need a squire for?" She looked at Marrow's knife. "What would it cost, if the squire had gone into the river as well?"
 Marrow had my hair in her fist and the knife under my jaw. "Ten."
@@ -303,7 +304,9 @@ I stayed where I was. I was crying, and nobody minded.
 { SOLD != "hand":
     I wrote a better one. I kept that to myself. It was the one thing I had left to sell.
 }
-"His men in Stint will not take my word that he is alive in there," she said. "They will take yours. Well?"
+{SOLD != "face":"His men are in Stint," said Marrow. "They'll ask for the squire."}
+{SOLD != "face":Isolde looked at her. She had not thought of it.}
+"Then in Stint the squire tells his men that he is sleeping," said Isolde. "Well?"
 I was still on my knees. A man with a fever can still sign a paper. Mine, for one.
 * [Say you'll do it]
     ~ PLAN = "agreed"
@@ -322,7 +325,7 @@ I was still on my knees. A man with a fever can still sign a paper. Mine, for on
     ~ PLAN = "objected"
     "It's madness," I said. Somebody ought to say so. "He's dead. Anyone who lifts that canvas—"
     "That is quite right, and I am obliged to you," said Isolde. "So when they lift it, we must be found under there with him. A squire, nursing his master. You will ride in the back, under the canvas, and hold his hand."
-    A man with a fever could sign my paper. I was going under a canvas with him for it.
+    I was going under a canvas with him, and I had asked for it.
 - "He'll stink by day three," said Marrow.
 "Heroes do. We shall burn something."
 "And the guide that picked the ford?"
