@@ -111,7 +111,7 @@ The light was nearly on me.
 # scene: s04_marrow
 # panel: greywater_marrow_wading
 Marrow came up out of the river with her lantern held high, and stopped when the light reached him.
-She put her ear to his mouth, too long. "He's breathing," she said. She wanted him to be. She sat back.
+She put her ear to his mouth, too long. "He's breathing," she said. She wanted him to be.
 "That's my fee gone," she said.
 { AT_FORD == "called":
     "Heard you call," she said. "Didn't run. He wasn't going to listen to two of us either."
