@@ -252,7 +252,7 @@ Isolde turned to me. "Wren. Tell me how he died."
 = truth_told
 Isolde shut her eyes. "In a ford. Drunk. Nobody will ever hear that."
 { TOLD_MARROW == "truth" && ELBOW != "told":
-    "There's another true one," said Marrow. "Squire {WENT_IN:broke his nose for him|stood on the bank and watched him go}. Look at that ear."
+    "There's another true one," said Marrow. "Squire {WENT_IN:broke his nose for him|stood on the bank and watched him go}."
     "Then that is the true one," said Isolde. "Your name is in it, Wren. I shall keep it by me."
     ~ ISOLDE_SAW_NOSE = true
 }

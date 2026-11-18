@@ -218,7 +218,7 @@ I left out my elbow, and kept that arm behind me.
 
 Isolde shut her eyes. "In a ford. Drunk. Nobody will ever hear that."
 
-"There's another true one," said Marrow. "Squire broke his nose for him. Look at that ear."
+"There's another true one," said Marrow. "Squire broke his nose for him."
 
 "Then that is the true one," said Isolde. "Your name is in it, Wren. I shall keep it by me."
 
