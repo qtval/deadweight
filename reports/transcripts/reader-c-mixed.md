@@ -5,15 +5,15 @@
 
 The Greywater was loud in the dark, fast and black and no deeper than my belt, and Sir Aubric Dane had decided to cross it drunk.
 
-I was his squire. I had been his squire six years, which is long enough to tell a thing he had decided from a thing he could be talked out of, and this was not the second kind.
+I was his squire. I had been his squire six years, which is long enough to know when he could be talked out of a thing. He could not.
 
 "By sunrise, Wren," he said, again. "They'll ring every bell in Stint for the Lantern. I'll not turn up at noon like a tinker with a cough."
 
 "Yes, Sir Aubric," I said. Piss on your bells, I thought. My feet were wet.
 
-The Lantern was what the songs called him, and three days back he had earned it. Ten years of war, and he had talked the hill towns into signing a surrender in one afternoon. They had sent him off with two skins of their wine, and he had drunk most of both.
+The songs called him the Lantern. Three days back, after ten years of war, he had talked the hill towns into signing a surrender in one afternoon. They had sent him off with two skins of their wine, and he had drunk most of both.
 
-Stint was the toll town, a day south. He had sent his escort ahead that morning to get the ringers sober, so that he could arrive. That left him a squire, a guide, and a chronicler asleep in the cart.
+Stint was the toll town, a day south. He had sent his escort ahead that morning to get the ringers sober. That left him a squire, a guide, and a chronicler asleep in the cart.
 
 He sat his grey horse in full armor, polished for the bells. I had done the polishing.
 
@@ -29,19 +29,19 @@ He had never once paid me, either. But he said it so warmly that I forgot to min
 
 I drank. It was sweet and strong, and I had not eaten since noon, and I felt it in my legs at once.
 
-"There," he said.
+He watched me swallow. "There."
 
-"I shall be modest," he said. "'Good people, I did nothing. A little talking.' Then I look at my boots. Do I look at my boots, Wren, or is that too much?"
+"I shall be modest," he said. "'Good people, I did nothing. A little talking.' Then I look at my boots. Do I look at my boots, or is that too much?"
 
 "The boots are good, Sir Aubric."
 
-"Then they shout 'The Lantern!' and I wave. Like this." He waved, and nearly came off the horse. "The third verse of my song doesn't scan, mind. I must have that mended before the bells. And you'll be paid, Wren. Every penny, the day we ride in. And the room. A room in my house in the capital, with a door on it. Remind me of the door. Bring me that paper of yours in Stint and I'll sign it."
+"Then they shout 'The Lantern!' and I wave. Like this." He waved, and nearly came off the horse. "The third verse of my song doesn't scan, mind. I must have that mended before the bells. And you'll be paid. Every penny, the day we ride in. And the room. A room in my house in the capital, with a door on it. Remind me of the door. Bring me that paper of yours in Stint and I'll sign it."
 
 He had been promising me that room four years. It had not had a door before.
 
-I had it written out. I wrote all his letters, in his hand, and four winters running I had made a fair copy of that promise. I could do his name better than he could. But he was alive to say he had never seen it.
+I had it written out. I wrote all his letters, in his hand, and four winters running I had made a fair copy of that promise. I could do his name better than he could. While he lived that was no use. He would say he had never seen it.
 
-Drunk as he was, he saw me shaking.
+He saw me shaking.
 
 He pulled off his riding gloves, the good ones with the fleece inside, and dropped them into my hands. "Can't have you sneezing through my triumph. Your mother would never forgive me. How is her chest?"
 
@@ -49,7 +49,7 @@ My mother washed shirts for the army and had spoken to him once. He had asked af
 
 He gathered the reins. Nobody was awake to stop him but me.
 
-And tomorrow he signed my paper. In six years I had not seen him sign a thing for anybody who had crossed him the night before.
+He was to sign my paper tomorrow. In six years I had not seen him sign a thing for anybody who had crossed him the night before.
 
 **The game offers:**
 - Take his bridle and hold him back
@@ -65,9 +65,9 @@ Then he put his heels to the horse and rode into the Greywater, sitting very str
 
 * * *
 
-The horse went in to its belly, snorting. Halfway over, it put a hoof on a stone that wasn't there.
+The horse went in to its belly, snorting. Halfway over, it put a hoof in a hole.
 
-It went down on one shoulder. Aubric went off sideways, without a word, in sixty pounds of steel, and went under.
+It went down on one shoulder. Aubric went off sideways in sixty pounds of steel, and the river shut over him.
 
 I waited for him to stand up. The river came no higher than his belt. Any moment he would stand up roaring and blame the horse, and I would spend tomorrow drying armor.
 
@@ -110,13 +110,13 @@ I let it hang. I am not a thief. I weighed it in my hand first, only to be sure 
 
 My paper wanted his name, and he was past signing. Without him I was a laundress's child who could read.
 
-Then I thought about the letter, and the sums got worse.
+Then there was the letter.
 
 It was on the same belt, in an oilskin case: the surrender. The hill towns had signed it for him, on his word that nobody would hang. Ten years of war ended on that page, if it reached Vellmouth, the capital, and it was hanging off a dead man.
 
 Out on the water, Marrow's light had turned.
 
-The case was dry. With that in my shirt, nobody could leave me in a ditch. With that in my shirt and no knight, I was also a thief, and they hang thieves.
+The case was dry. Nobody leaves the one who carries that in a ditch. But I'd be a squire with his knight's letter in my shirt and no knight, and they hang thieves, and they don't take long over it.
 
 The light was nearly on me.
 
@@ -129,15 +129,15 @@ The buckle was stiff with cold, and my hands were worse. I got it open and pushe
 
 * * *
 
-Marrow came up out of the river with her lantern held high, and stopped when the light reached him.
+Marrow came up out of the river with her lantern, and stopped when the light reached him.
 
 She put her ear to his mouth and kept it there, too long. "Come on," she said, to him.
 
-Then she sat up. "That's my fee gone," she said.
+Then she sat up. "That's my fee gone."
 
-"Heard you call," she said. "Didn't run. He wasn't going to listen to two of us either."
+"Heard you. Didn't run. Two of us, he'd not have listened."
 
-She leaned in and sniffed, and it wasn't him she was sniffing. "Two drunks and a river," she said. "Lovely."
+She leaned in and sniffed me. "Two drunks. One river."
 
 > *Marrow remembers the wine on your breath.*
 
@@ -155,11 +155,11 @@ She crouched across the body from me. There was a short knife on her belt. I had
 
 She reached over him and took my wrist, and laid the flat of the blade on the inside of it, above the glove. She didn't press. Her hand was shaking worse than mine.
 
-"Here's how it goes," she said. "A Crown hero drowns at a ford. The guide who picked the ford used to fight for the hill towns. Who hangs?"
+"Here's how it goes," she said, and it came out of her all in one breath. "A Crown hero drowns at a ford and the guide that picked the ford used to fight for the hill towns and they'll not ask her twice, they'll not ask her once. Who hangs? Guide hangs."
 
 I didn't answer. Two people had seen him drown, and she would be safer if it were one.
 
-"So he didn't drown," said Marrow. "Hill stragglers, in the dark. An arrow. He died with his sword out. Nobody hangs for that but stragglers, and they're hanging anyway."
+She got her breath. "So he didn't drown. Stragglers. Dark. An arrow, and his sword out. Stragglers hang for that. They're hanging anyway."
 
 **The game offers:**
 - Agree. An ambush, and nobody here hangs.
@@ -168,9 +168,9 @@ I didn't answer. Two people had seen him drown, and she would be safer if it wer
 
 "Dawn," I said. "I'll decide at dawn."
 
-"Dawn's when the chronicler wakes up." Marrow jerked her head at the cart. "Decide before. Her kind don't ask what you saw. They tell you."
+"Dawn's the chronicler." Marrow jerked her head at the cart. "Decide before. She'll not ask what you saw. She'll tell you."
 
-She came round the body with a length of cord off the cart, and tied my left wrist to her right, with a knot I couldn't see. "So you don't decide somewhere else," she said. Then she sat down against me with the knife across her knees. The cord was tight enough that my hand went cold.
+She came round the body with a length of cord off the cart, and tied my left wrist to her right, with a knot I couldn't see. "So you don't decide somewhere else." Then she sat down against me with the knife across her knees. The cord was tight enough that my hand went cold.
 
 Her eyes went to his belt, and the empty buckle. "Where's his letter?"
 
@@ -180,7 +180,7 @@ Her eyes went to his belt, and the empty buckle. "Where's his letter?"
 
 I opened my shirt far enough to show the oilskin. My fingers would hardly work the lacing. Marrow looked at it, then at me.
 
-"Keep it there," she said. "And stop showing people. There's people I know on that paper."
+"Keep it there. Stop showing people. People I know on that paper."
 
 
 * * *
@@ -199,9 +199,9 @@ She looked at the body. She sat down on the wet gravel in her good skirt, and go
 
 "Wake him," she said.
 
-Nobody moved.
+Marrow and I looked at each other.
 
-"No. Of course. Did anyone else see?"
+"No. Don't— no." She did not finish it. "Did anyone else see?"
 
 "Just us," said Marrow.
 
@@ -218,37 +218,41 @@ Isolde leaned forward. "Did he say anything?"
 
 "Something about bells," said Marrow, at once.
 
-"Not hill men, though," said Isolde. "Robbers. Nobody's men. If the hill towns killed him the same week they signed, there is no peace left to carry."
+"Thank you. Not hill men, though," said Isolde. "Robbers. Nobody's men. If the hill towns killed him the week they signed, there is no peace left to carry."
 
-She looked at his nose. "And they broke that for him. Good. It looks like a fight."
+She looked at his nose. "And they broke that for him. Good. It reads as a fight."
 
-"You tell it nicely, Wren," she said. "It will do for the song." She did not say she believed it, and she did not ask me anything else. I was pleased that she was pleased.
+"You tell it nicely," she said. "It will do for the song." She did not say she believed it. I was pleased that she was pleased.
 
-"Close his mouth, Wren," said Isolde. "He looks surprised."
+Isolde looked at him. "Close his mouth. He looks surprised."
 
 I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 
-"The council must sign it under his name," said Isolde. "They have nine days, to the end of the month. And they will not put their names under a dead man's, because a dead man cannot be made to keep his word."
+"The council's to sign it," said Isolde. "Under his name. They've nine days, and they won't— they will not sign under a dead man's name. A dead man can't be held to anything."
 
-"So we go back up, and the hill towns sign again, for somebody living."
+I had it, then. If the council heard he was dead, that paper was worth nothing, and in nine days the war came back.
 
-"They'd not open the gate to you," said Marrow.
+"So we go back up. The hill towns sign again, for somebody living."
 
-"Then we bury him, and say he follows."
+"Gate's shut," said Marrow. "Shut behind him."
 
-"For nine days?"
+"Then we bury him and say he's following."
 
-"Then it is void," said Isolde, "and Marshal Sayle has his war back. He has lived off it ten years."
+"Nine days?"
 
-"Three of us know," she said. "I need the guide for the road." She was looking at me. "What would it cost, if the squire had gone into the river as well?"
+"Then it's void, and Marshal Sayle has his war back."
 
-Marrow had my hair in her fist and the knife under my jaw. "Ten," she said.
+Isolde said nothing for a while. When she spoke again she had her whole sentences back.
 
-"For that? Six."
+"Three of us know. I shall need the guide for the road." She was looking at me. "What would it cost, if the squire had gone into the river as well?"
 
-"Ten. It's not you has to do it."
+Marrow had my hair in her fist and the knife under my jaw. "Ten."
 
-Isolde began to count silver onto his breastplate. The fourth rolled off into the gravel, and she went down on her knees after it. I could feel the edge move whenever Marrow breathed. My bladder went.
+"Six."
+
+"Ten. Not you has to do it. And I'm sick after."
+
+Isolde began to count silver onto his breastplate. The fourth rolled off into the gravel, and she went down on her knees after it. The edge moved whenever Marrow breathed. My bladder went.
 
 **The game offers:**
 - Tell them you write his letters. You can sign for him.
@@ -261,13 +265,15 @@ Isolde began to count silver onto his breastplate. The fourth rolled off into th
 
 Marrow took the knife away to take it, and bit it. I knelt there and watched her bite it.
 
-"Plate," she said, and threw it back. "Ten, I said. I don't work on account."
+"Plate." She threw it back. "Ten, I said. Don't work on account."
 
 I thanked her. I thanked both of them.
 
 Isolde picked the coins up again. Marrow let go of my hair, and wiped her hand.
 
-"So he is not dead," said Isolde, and now she was quick. "He took an arrow from robbers and has a fever of it. He rides in the cart to Vellmouth, and the council signs at the door of his sickroom, with a letter in his hand pushed under it. I write a fair hand."
+I stayed where I was. I was crying, and nobody minded.
+
+"So he is not dead," said Isolde. "He took an arrow from robbers and has a fever of it. He rides in the cart to Vellmouth, and the council signs at the door of his sickroom, with a letter in his hand pushed under it. I write a fair hand."
 
 I wrote a better one. I kept that to myself. It was the one thing I had left to sell.
 
@@ -282,27 +288,29 @@ I was still on my knees. A man with a fever can sign his name.
 
 "I'll do it," I said. It came out too quick.
 
-"Of course you will." She worked the signet off his finger and put it in my hand, still wet. "Then you speak for him. And if anybody asks afterwards who it was that said he was alive, that was you. Try not to enjoy it."
+"How good of you." She worked the signet off his finger and put it in my hand, still wet. "Then you speak for him. And if anybody asks afterwards who it was that said he was alive, we shall say it was you."
 
 His seal. I shut my hand on it before she could think again.
 
-"He'll stink by the third day," said Marrow.
+"He'll stink by day three," said Marrow.
 
 "Heroes do. We shall burn something."
 
-"And the guide who picked the ford?"
+"And the guide that picked the ford?"
 
-"Was never at a ford in her life," said Isolde. "We came round by the bridge."
+"She was never at a ford in her life," said Isolde. "We came round by the bridge."
 
-"The bridge is two days east."
+"Bridge is two days east."
 
 "Then we made excellent time."
 
-"He keeps his fever as far as Vellmouth," Isolde said to me. "Then he dies of it, in a bed, where I can write it down. I have been paid for a ballad with a triumph at the end of it, and I have spent the money. He dies of his wounds, in the capital, with the bells."
+Marrow moved to spit, and I had my arm up over my face before I knew it. Neither of them looked at me.
 
-"If an arrow killed him, he'll want a hole," said Marrow.
+"He keeps his fever as far as Vellmouth," said Isolde. "Then he dies of it, in a bed, where I can write it down. I have been paid for a ballad with a triumph at the end of it, and I have spent the money. He dies of his wounds, in the capital, with the bells."
 
-"Under the arm," said Isolde. "Wren, hold him still."
+"Arrow killed him, he'll want a hole," said Marrow.
+
+"Under the arm," said Isolde. "Hold him still."
 
 I held his shoulders and looked at the alders while Marrow did it. It made a noise like a boot coming out of mud.
 
@@ -313,18 +321,18 @@ I held his shoulders and looked at the alders while Marrow did it. It made a noi
 - Keep it. "I'll carry it. I was his squire."
 - Tell her the river took it
 
-I took the case out of my shirt and held it out. If it went wrong they would hang whoever was holding it. Let that be her. Isolde checked the seal, didn't open it, and put it in her satchel beside the ballad.
+I took the case out of my shirt and held it out. She had got as far as seven. I would have given her my teeth. Isolde checked the seal, didn't open it, and put it in her satchel beside the ballad.
 
 "Thank you, Wren," she said. My ribs felt cold where it had been.
 
-"That's your neck you just gave her," said Marrow, not quietly.
+"That's your neck you gave her," said Marrow, not quietly.
 
 
 * * *
 
-We wrapped him in the cart's canvas. It took all three of us to lift him.
+We wrapped him in the cart's canvas. It took all three of us to lift him. I took the head, so as to have him between me and Marrow.
 
-I had the head, and had to shift my grip twice for my elbow. I had carried his shield and his debts, and now I carried him. He was heavier, and he leaked.
+I had to shift my grip twice for my elbow. He was heavier than his debts, and he leaked. My breeches had dried on me, and nobody had said anything about them.
 
 Before the canvas went over his hands, I saw my own. I was still wearing his gloves.
 
@@ -337,28 +345,28 @@ I folded his hands on his sword hilt, the way they lie in the songs. Somebody wo
 
 Marrow cut the purse off his belt with one pull of the knife, weighed it, and put it in her coat.
 
-"You didn't want it," she said. "Six years, was it? I've carried him one night."
+"You didn't want it. Six years, was it. One night, me."
 
 > *Marrow remembers you left the purse.*
 
 When it was done, Marrow wiped her hands on her coat and went to see to the horse without being asked.
 
-Isolde tied the canvas down herself, with a knot I didn't know. I would never get it open again without her seeing that I had.
+Isolde tied the canvas down herself, with a knot I didn't know.
 
 
 * * *
 
 By full light we were on the road south to Stint and his bells, with the Lantern under canvas in the back of the cart.
 
-Isolde sat by the body and wrote. I drove. I was coughing up the Greywater a little at a time, and every cough hurt somewhere new.
+Isolde sat by the body and wrote. I drove. I was coughing up the Greywater a little at a time, and every cough hurt somewhere new. I kept my chin down. I could still feel where the edge had been.
 
-Marrow walked ahead.
+Marrow walked ahead, where I could see her. I liked that better.
 
-About noon she stopped over a lot of fresh hoofprints. "Marshal's riders," she said. "Going where we're going."
+About noon she stopped over a lot of fresh hoofprints. "Marshal's riders. Same way as us."
 
-Vellmouth was eight days off by cart, and we had eight.
+The night had cost us a day. Vellmouth was eight off by cart, and we had eight.
 
-Then Isolde went behind the hedge, and left her pen standing in the inkhorn on the tailboard, a foot from my pack.
+Then Isolde went behind the hedge, and left her pen in the inkhorn on the tailboard, by my pack.
 
 I had my promise out of the pack and unfolded. The room, the door, six years' wages, to his squire Wren. It wanted his name. His ring was no use without wax. A name only wants ink.
 
@@ -370,11 +378,9 @@ He would have signed it. He had said so last night, with his own mouth. It wasn'
 
 I signed it on the tailboard, by his feet. Aubric Dane, with the big loop he made when he was pleased. It was the best one I ever did.
 
-It was only what he had said he would do.
-
 I heard her skirt in the hedge and folded it wet.
 
-"You have ink on your thumb, Wren," said Isolde, climbing up. She did not ask how.
+"You have ink on your thumb, Wren," said Isolde, climbing up.
 
 > *Isolde remembers the ink on your thumb.*
 
