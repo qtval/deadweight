@@ -212,11 +212,11 @@ I was pleased that she was pleased. I noticed it, and I disliked us both.
 
 I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 
-"Now listen, both of you. The hill towns did not surrender to the Crown. They surrendered to him, on his word that nobody would hang. If he is dead, his word is dead. There are rich men at court who want this war to go on, and they will tear that paper up."
+"Now listen. The hill towns did not surrender to the Crown. They surrendered to him, on his word that nobody would hang. If he is dead, his word is dead. There are rich men at court who want this war to go on, and they will tear that paper up."
 
 "So ride the paper south," said Marrow, "and leave him here."
 
-"The council will not sign unless he stands in front of them and swears to it. Or unless they believe he would, if he could get out of bed. So he has a fever. He rides in the cart till the King's ink is dry. And they will not take my word that he is alive, Wren. They will take his squire's. You carry out his pot. You tell them he is sleeping. Well?"
+"The council will not sign unless he stands up and swears to it. Or unless they believe he would, if he could get out of bed. So he has a fever. He rides in the cart till the King's ink is dry. And they will not take my word that he is alive, Wren. They will take his squire's. You carry out his pot. You tell them he is sleeping. Well?"
 
 **The game offers:**
 - **▶ Say you'll do it**  (chosen)
