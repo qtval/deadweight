@@ -129,7 +129,7 @@ I took my hand off it. Nobody had told me to carry that, and I was glad of it. I
 
 Marrow came up out of the river with her lantern held high, and stopped when the light reached him.
 
-She put her ear to his mouth, too long. "He's breathing," she said. She wanted him to be. Then she sat back, and didn't say it again.
+She put her ear to his mouth, too long. "He's breathing," she said. She wanted him to be. She sat back.
 
 "That's my fee gone," she said.
 
