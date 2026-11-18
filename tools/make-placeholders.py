@@ -251,12 +251,27 @@ def road_to_stint():
     return p
 
 
+def breastplate_silver():
+    p = Panel(8)
+    p.gradient("#8c8c8c", "#262626")
+    p.strokes(220, 0, W, 300, 900, (120, 320), "#fff", (0.04, 0.1), (12, 30), 0, 1)  # mist
+    p.strokes(700, 0, W, 900, H, (6, 30), "#000", (0.2, 0.6), (1, 3), 0, 90)  # gravel
+    p.add('<ellipse cx="540" cy="1250" rx="300" ry="380" fill="#111"/>')  # breastplate, close
+    p.add('<path d="M300,1050 Q540,980 780,1050" stroke="#555" stroke-width="10" fill="none"/>')
+    for i, (x, y) in enumerate([(470, 1180), (560, 1210), (640, 1170), (520, 1290)]):
+        p.add(f'<ellipse cx="{x}" cy="{y}" rx="34" ry="22" fill="#cfcfcf" opacity="0.9"/>')  # coins
+    p.add('<ellipse cx="860" cy="1620" rx="34" ry="22" fill="#bdbdbd" opacity="0.8"/>')  # the one that rolled
+    p.shape(kneeling(880, 1500, 1.4), "#000")
+    return p
+
+
 PANELS = {
     "greywater_ford_night": ford_night,
     "greywater_water_churn": water_churn,
     "greywater_bank_body": bank_body,
     "greywater_marrow_wading": marrow_wading,
     "greywater_dawn_cart": dawn_cart,
+    "greywater_breastplate_silver": breastplate_silver,
     "greywater_wrapping": wrapping,
     "road_to_stint_morning": road_to_stint,
 }

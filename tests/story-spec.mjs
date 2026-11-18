@@ -3,7 +3,7 @@
 
 export const spec = {
   // Scenes must be visited in this order on every path (skipping is allowed, going back is not).
-  sceneOrder: ["s01_ford", "s02_water", "s03_bank", "s04_marrow", "s05_dawn", "s06_wrap", "s07_road"],
+  sceneOrder: ["s01_ford", "s02_water", "s03_bank", "s04_marrow", "s05_dawn", "s05b_price", "s06_wrap", "s07_road"],
 
   // Every path must end at one of these `# end:` ids.
   endIds: ["ch00"],
@@ -55,9 +55,9 @@ export const spec = {
   // Routes written out as plain-text playthroughs for the blind reader panel (docs/TESTING.md, layer 3).
   // One reader per route. Choose routes that differ in tone: an honest one, a self-serving one, a mixed one.
   readerRoutes: {
-    "reader-a-honest":      [1, 0, 0, 1, 1, 1, 0, 1, 1, 2, 1, 0, 1],     // sober, bridle, goes in, leaves purse and letter, won't lie, truth, carries it, for him
-    "reader-b-selfserving": [0, 2, 1, 0, 0, 0, 1, 2, 0, 1, 2, 2, 0],   // drinks, silent, rope, takes purse and letter, ambush, denies letter, false hero, "river took it", wages
-    "reader-c-mixed":       [0, 1, 0, 1, 0, 2, 0, 1, 2, 0, 0, 1, 0],   // drinks, shouts, goes in, leaves purse, takes letter, decides at dawn, shows it, ambush, gives it, peace
+    "reader-a-honest":      [1, 0, 0, 1, 1, 1, 0, 1, 2, 1, 1, 1, 0, 1],     // sober, bridle, goes in, leaves purse and letter, won't lie, truth, carries it, for him
+    "reader-b-selfserving": [0, 2, 1, 0, 0, 0, 1, 2, 1, 0, 0, 2, 2, 0],   // drinks, silent, rope, takes purse and letter, ambush, denies letter, false hero, "river took it", wages
+    "reader-c-mixed":       [0, 1, 0, 1, 0, 2, 0, 1, 0, 0, 2, 0, 1, 0],   // drinks, shouts, goes in, leaves purse, takes letter, decides at dawn, shows it, ambush, gives it, peace
   },
 
   // Voice rules (docs/WRITING_GUIDE.md). Checked on every line of every path.

@@ -38,6 +38,8 @@ VAR DEED = ""
 
 // What Wren did with Marrow's knife under the jaw while Isolde counted out the price: "hand" (sold the forging hand) | "face" (his men know Wren) | "begged"
 VAR SOLD = ""
+// Whether Wren read Isolde's ballad while the women talked, and saw the struck-out verse with "squire — river? cheaper" in the margin.
+VAR READ_BALLAD = false
 
 VAR ISOLDE_SAW_NOSE = false
 

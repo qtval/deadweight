@@ -19,7 +19,7 @@ He sat his grey horse in full armor, polished for the bells. I had done the poli
 
 A light moved on the far bank, under the alders. That was Marrow, the guide. She had waded over to test the bottom and shouted back three words, and the words were "Wait for morning."
 
-"Nine days, and the council signs under my name," he said. "Mine. They'd sign under nobody else's. I gave the hill towns my word that nobody hangs, and it's my word they took. The army will weep. Ten years it's been paid for that war."
+"Nine days, and the council signs under my name, and the war's done," he said. "Under mine. They'd sign under nobody else's."
 
 He held the last of the wine down to me. "Drink, Wren. Tomorrow you're squire to the man who ended the war. You'll never pay for a cup again."
 
@@ -103,8 +103,8 @@ Then I sat back on my heels and did sums.
 Six years' wages, which he had always been about to pay. His purse hung on his belt. He gave silver to beggars where people could see, and owed it everywhere else. If I left it, it would be in somebody else's coat by morning.
 
 **The game offers:**
-- **▶ Take what he owed you**  (chosen)
-- Leave the purse
+- **▶ Take your wages. Somebody will.**  (chosen)
+- Leave it. You're no thief.
 
 I pulled off the gloves he had given me to do it, and put them on again after. The purse didn't come to six weeks.
 
@@ -112,7 +112,7 @@ My paper wanted his name, and he was past signing. Without him I was a laundress
 
 Then there was the letter.
 
-It was on the same belt, in an oilskin case: the surrender. Nine days, he had said, and the council in Vellmouth, the capital, signed under his name. They would not sign under a dead man's. A dead man's word is worth nothing. No signature, and the war came back in the spring.
+It was on the same belt, in an oilskin case: the surrender, with the hill towns' names on it. Nine days, he had said, and the council in Vellmouth, the capital, signed under his name. Now there was no name to sign under.
 
 Out on the water, Marrow's light had turned.
 
@@ -216,17 +216,71 @@ Isolde looked at him. "Close his mouth. He looks surprised."
 
 I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 
-"We go back up," said Isolde. "The hill towns sign again, for somebody living."
+Isolde sat down on the cart step and held her satchel.
 
-"They shut the gate behind him," said Marrow. "Won't open it for you. Nine days, you've got."
+"Listen to me, both of you," she said. "The hill towns signed because he gave his word that nobody would hang. The council signs under his name because his name is that word, and a dead man's word binds nobody. The council sits until the end of the month, which is nine days, and then it rises until spring. If his name is not under theirs by then, the war begins again, and Marshal Sayle, who has been paid for every year of it, will be very glad."
 
-"Then it's void, and Marshal Sayle has his war back. Ten years he has been paid for it."
+"So we go back up," she said. "The hill towns sign again, for somebody living."
 
-Then she had her whole sentences back. "Then he is not dead. He has a fever. He rides under the canvas, and nobody but us knows otherwise."
+"They shut the gate behind him," said Marrow. "Won't open it for you."
 
-"Three's a lot of us," said Marrow.
+Isolde was quiet. Then she had her whole sentences back.
 
-"I need the guide for the road," said Isolde. "I can drive a cart, and I can sit by a sickbed. What do I need a squire for?" She looked at Marrow's knife. "What would it cost, if the squire had gone into the river as well?"
+"Then he is not dead. He has a fever. He rides under the canvas to Vellmouth, and the council signs at the door of his sickroom."
+
+"Three of us know," said Marrow.
+
+"Three of us know," said Isolde. She looked at me the way she looked at a line that would not scan. "You carry out his pot, Wren, and you say he is sleeping. Well?"
+
+**The game offers:**
+- Say you'll do it
+- **▶ Ask what's in it for you**  (chosen)
+- Tell her it's madness
+
+"What do I get?" I said. My teeth were knocking together.
+
+"Hah," said Marrow.
+
+Isolde tore a strip from the foot of a page, wrote on her knee, and blew on it. "A place in a household in Vellmouth. Written down, this time."
+
+She knew about the promise. I had never told her about the promise. I took the paper anyway, and I did not tell her about the one in my pack.
+
+"He'll stink by day three," said Marrow.
+
+"Heroes do. We shall burn something."
+
+"And the guide that picked the ford?"
+
+"Was never at a ford in her life. We came round by the bridge."
+
+"Bridge is two days east."
+
+"Then we made excellent time." Isolde stood up. "I have been paid for a ballad with a triumph at the end of it, Marrow, and I have spent the money. A word."
+
+They went down the bank together, out of hearing, and left me with him.
+
+
+* * *
+
+The mist had come off the water and lay on the gravel. I sat by him with my hands in my armpits.
+
+Down the bank Isolde was talking and Marrow was not. Once Marrow looked back at me, and then at the river. I had watched her look at fords like that all week.
+
+It was all right. They needed me. Somebody had to carry the pot and say he was sleeping, and his men knew me, and Isolde was clever and would see it, and if she didn't I would tell her. And Marrow had put the blanket over me. I had done nothing. I had stood on a bank. Nobody hangs a squire for doing as he's told.
+
+Isolde's satchel lay open on the cart step, a yard from my hand.
+
+**The game offers:**
+- **▶ Read what she's written about him**  (chosen)
+- Stay where you are, by him
+
+I pulled out the top page. It was the ending, already written: the Lantern dying in a bed in Vellmouth, with bells. The squire was in it, weeping at the foot of the bed, a whole verse. She had drawn a line through the verse. In the margin, small, it said: squire — river? cheaper.
+
+I put it back as it had been. My hands were not much use for it.
+
+They came back up the bank. Marrow had her knife out and was looking at it, not at me.
+
+"What would it cost," Isolde said to her, quietly, as if I were the horse, "if the squire had gone into the river as well?"
 
 Marrow had my hair in her fist and the knife under my jaw. "Ten."
 
@@ -238,7 +292,7 @@ Isolde began to count silver onto his breastplate. I could not get a breath to g
 
 **The game offers:**
 - **▶ Tell them you write his letters. You can sign for him.**  (chosen)
-- Tell them his men in Stint know your face
+- Tell them his men will come looking for you
 - Beg
 
 "I write his letters," I said, all at once. "All of them, six years, I do his hand, I do his name. If he's sick they'll want a letter from him, the council, and I can write it, nobody else can, you can't, I've seen your hand—"
@@ -253,52 +307,15 @@ I wrote it again, with the big loop. I wrote it a third time without being asked
 
 Isolde looked at the page. "He never used a comma in his life until he had you. I did wonder. So that is what the squire is for."
 
-It was the one thing I had to sell, and I had given it away on my knees.
-
 Isolde picked the coins up again. Marrow let go of my hair, and wiped her hand.
 
 I stayed where I was. I was crying, and nobody minded.
 
-"He has a fever," said Isolde, "all the way to Vellmouth. The council signs at the door of his sickroom, with a letter in his hand pushed under it. You will write that."
-
-"His men are in Stint," said Marrow. "They'll ask for the squire."
-
-Isolde looked at her. She had not thought of it.
-
-"Then in Stint the squire tells his men that he is sleeping," said Isolde. "Well?"
-
-I was still on my knees. A man with a fever can still sign a paper. Mine, for one.
-
-**The game offers:**
-- Say you'll do it
-- **▶ Ask what's in it for you**  (chosen)
-- Tell her it's madness
-
-"What do I get?" I said. My teeth were knocking together.
-
-"Your neck," said Marrow. "Had it a minute ago for nothing."
-
-Isolde tore a strip from the foot of a page, wrote on her knee, and blew on it. "A place in a household in Vellmouth. Written down, this time."
-
-She knew about the promise. I had never told her about the promise. I took the paper anyway. That made two, hers and the one in my pack, and I did not tell her about the one in my pack.
-
-"He'll stink by day three," said Marrow.
-
-"Heroes do. We shall burn something."
-
-"And the guide that picked the ford?"
-
-"She was never at a ford in her life," said Isolde. "We came round by the bridge."
-
-"Bridge is two days east."
-
-"Then we made excellent time."
-
 Marrow moved to spit, and I had my arm up over my face before I knew it. Neither of them looked at me.
 
-"He keeps his fever as far as Vellmouth," said Isolde. "Then he dies of it, in a bed, where I can write it down. I have been paid for a ballad with a triumph at the end of it, and I have spent the money. He dies of a chill he took pulling you out of a river. Some other river. You are in the song. Think of that."
+"He dies of a chill he took pulling you out of a river," said Isolde. "Some other river. You are in the song. Think of that."
 
-I did think of it.
+I did think of it. I thought of the line through the verse.
 
 "Now. The surrender," said Isolde. "Where is it?"
 
@@ -311,7 +328,7 @@ I did think of it.
 
 Isolde went to the body and looked at his belt herself. The buckle was undone, not torn. She looked at it, and then at the river, and not at me.
 
-"Then we're carrying a dead man nine days," she said, "to tell the council the war's over, with nothing to show them. So we'll find it. Or something very like it. I've seen his hand often enough."
+"Then we're carrying a dead man nine days," she said, "to tell the council the war's over, with nothing to show them. So we'll find it. Or something very like it. You'll write it."
 
 She was clipping her words again. She did that when she was frightened.
 
