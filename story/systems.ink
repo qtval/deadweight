@@ -67,12 +67,12 @@ VAR DEBT_MARROW = false
     Two verses stand. Where the third should be, the page is blank.
     Isolde says it is the most honest thing she has ever written, and that it won't last past Stint.
 - "ambush":
-    By the Greywater, black as a broken vow,
+    By the roadside, black as a broken vow,
     the robbers waited with their bows.
     The Lantern stood where a lesser man fell,
-    and how he stood, the river knows.
+    and how he stood, the hedgerow knows.
 - "hero":
-    Into the Greywater, cold as a debt,
+    Into the river, cold as a debt,
     the Lantern went for the squire he kept.
     He gave the river his breath for theirs,
     {WENT_IN:and the squire came out, and the Lantern slept.|and the river kept him, and the squire wept.}

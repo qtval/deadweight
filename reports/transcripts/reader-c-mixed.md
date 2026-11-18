@@ -231,7 +231,7 @@ I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 
 "The council will not sign for a rider. They'll sign for him, or for the door of his sickroom."
 
-"He'll stink by the third day."
+"He'll stink by the third day," said Marrow.
 
 "Heroes do. We'll burn something."
 
@@ -309,7 +309,7 @@ Somewhere ahead they would be ringing the bells for him. I caught myself hoping 
 
 **Isolde's ballad, as it stands**
 
-> By the Greywater, black as a broken vow,
+> By the roadside, black as a broken vow,
 > the robbers waited with their bows.
 > The Lantern stood where a lesser man fell,
-> and how he stood, the river knows.
+> and how he stood, the hedgerow knows.

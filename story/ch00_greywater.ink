@@ -273,7 +273,7 @@ I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
     I looked for something else to say. I had a neckcloth, and he was wearing it.
 - "Ride the paper south," said Marrow. "Leave him here."
 "The council will not sign for a rider. They'll sign for him, or for the door of his sickroom."
-"He'll stink by the third day."
+"He'll stink by the third day," said Marrow.
 "Heroes do. We'll burn something."
 "And the guide who picked the ford?"
 "Is paid for a quiet road," said Isolde, "and was never at a ford in her life. We came round by the bridge."
@@ -360,6 +360,10 @@ Before the canvas went over his hands, I saw my own. I was still wearing his glo
     "We had a story," Marrow said, low. "You dropped it in the river with him."
     # remember: marrow_story_dropped :: Marrow remembers you agreed to her story.
     She pulled the last knot tight enough to creak.
+    ~ TRUST_MARROW -= 1
+- TOLD_MARROW == "ambush" && VERSION == "hero":
+    # remember: marrow_sold_story :: Marrow remembers you sold her story for a verse.
+    "You sold my story to get in a song," Marrow said, low. "That goes on your account. I keep accounts."
     ~ TRUST_MARROW -= 1
 - AT_FORD == "bridle":
     # remember: ford_bridle :: Marrow remembers you took his bridle.

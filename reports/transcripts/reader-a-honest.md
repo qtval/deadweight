@@ -237,7 +237,7 @@ I looked for something else to say. I had a neckcloth, and he was wearing it.
 
 "The council will not sign for a rider. They'll sign for him, or for the door of his sickroom."
 
-"He'll stink by the third day."
+"He'll stink by the third day," said Marrow.
 
 "Heroes do. We'll burn something."
 

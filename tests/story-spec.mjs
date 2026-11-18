@@ -11,7 +11,8 @@ export const spec = {
   // Each `# remember: <id>` may only fire when its condition holds (checked at the moment it fires),
   // and must fire on at least one path. `when` gets the current ink variables.
   remember: {
-    ford_bridle:              (v) => v.AT_FORD === "bridle" && !(v.TOLD_MARROW === "truth") && !(v.TOLD_MARROW === "ambush" && v.VERSION === "truth"),
+    ford_bridle:              (v) => v.AT_FORD === "bridle" && !(v.TOLD_MARROW === "truth") && !(v.TOLD_MARROW === "ambush" && v.VERSION !== "ambush"),
+    marrow_sold_story:        (v) => v.TOLD_MARROW === "ambush" && v.VERSION === "hero",
     marrow_refused_then_lied: (v) => v.TOLD_MARROW === "truth" && v.VERSION !== "truth",
     marrow_story_dropped:     (v) => v.TOLD_MARROW === "ambush" && v.VERSION === "truth",
     drank_with_him:           (v) => v.DRANK === true,

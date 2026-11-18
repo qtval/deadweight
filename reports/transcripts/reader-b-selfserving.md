@@ -223,7 +223,7 @@ She knew about the promise. I had never told her about the promise. I took the p
 
 "The council will not sign for a rider. They'll sign for him, or for the door of his sickroom."
 
-"He'll stink by the third day."
+"He'll stink by the third day," said Marrow.
 
 "Heroes do. We'll burn something."
 
@@ -270,6 +270,10 @@ Before the canvas went over his hands, I saw my own. I was still wearing his glo
 
 I kept them. They had fleece inside, and he had given them to me with nobody watching, which was the only time he ever gave me anything. If that was my six years' pay, I was having it.
 
+"You sold my story to get in a song," Marrow said, low. "That goes on your account. I keep accounts."
+
+> *Marrow remembers you sold her story for a verse.*
+
 Marrow ran her thumb along his belt where the purse had hung. She looked at me and didn't say a thing. Then she unbuckled his spurs and put them in her coat.
 
 "Fair's fair," she said.
@@ -280,7 +284,7 @@ Isolde, passing with the end of the rope, said only, "Fall in something before t
 
 > *Isolde remembers you were dry above the knee.*
 
-When it was done, Marrow wiped her hands on her coat and went to see to the horse without being asked.
+When it was done, Marrow wiped her hands on her coat. "My price for the rest of the road just doubled," she said. "Dead men are heavy."
 
 Isolde tied the canvas down herself, with a knot I didn't know. I would never get it open again without her seeing that I had.
 
@@ -309,7 +313,7 @@ Somewhere ahead they would be ringing the bells for him. I caught myself hoping 
 
 **Isolde's ballad, as it stands**
 
-> Into the Greywater, cold as a debt,
+> Into the river, cold as a debt,
 > the Lantern went for the squire he kept.
 > He gave the river his breath for theirs,
 > and the river kept him, and the squire wept.
