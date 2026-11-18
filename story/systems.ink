@@ -11,7 +11,7 @@ VAR WENT_IN = false
 VAR DRANK = false
 VAR PURSE = false
 
-// Where the surrender is: "body" (on Aubric's belt) | "wren" | "isolde" | "hidden" (Wren has it and says the river took it; Isolde knows better and holds that over Wren)
+// Where the surrender is: "body" (on Aubric's belt) | "wren" | "isolde" | "hidden" (Wren has it and says the river took it; Isolde may suspect; Marrow knows and will want paying)
 VAR LETTER = ""
 VAR MARROW_KNOWS_LETTER = false
 
@@ -32,6 +32,8 @@ VAR RING = false
 
 // If Wren went in and told Isolde the truth: did Wren admit hitting him? "" | "told" | "hidden". If told, Isolde holds it.
 VAR ELBOW = ""
+
+VAR ISOLDE_SAW_NOSE = false
 
 VAR TRUST_MARROW = 0
 VAR TRUST_ISOLDE = 0
@@ -54,7 +56,7 @@ VAR DEBT_MARROW = false
 { LETTER:
 - "isolde": Isolde carries the surrender now.
 - "wren": You carry the surrender, and everyone knows it.
-- "hidden": You carry the surrender. You told Isolde the river took it, and she let you.
+- "hidden": You carry the surrender. You told Isolde the river took it.
 }
 
 // ---------------------------------------------------------------
