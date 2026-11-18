@@ -250,7 +250,7 @@ Isolde shut her eyes. "In a ford. Drunk."
 "Nobody will ever hear it," said Isolde. "Say this for me, Wren. He has a fever."
 "He has a fever," I said.
 "Again, and look at me, not at him."
-Five times, the last with my hand on his chest.
+Five times, the last one touching him.
 { TOLD_MARROW == "truth" && ELBOW != "told":
     "There's another true one," said Marrow. "Squire {WENT_IN:broke his nose for him|stood on the bank and watched him go}. Look at that ear."
     Isolde looked at my ear{WENT_IN:, and at his nose}. "Then that is the one I shall write," she said, "if I am ever made to write a true one. Your name is in it, Wren. I shall keep it by me."

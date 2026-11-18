@@ -218,7 +218,7 @@ Isolde shut her eyes. "In a ford. Drunk."
 
 "Again, and look at me, not at him."
 
-Five times, the last with my hand on his chest.
+Five times, the last one touching him.
 
 "There's another true one," said Marrow. "Squire broke his nose for him. Look at that ear."
 
