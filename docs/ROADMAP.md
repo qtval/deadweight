@@ -13,20 +13,13 @@ Guiding rules (carried over from the previous project because they were right):
 
 ---
 
-## Where we are (updated 2026-11-19, after round 25)
+## Where we are (updated 2026-11-19, morning)
 
-**The demo (the prologue):** every automated test passes (108,864 paths; browser playthroughs).
+**The demo (the prologue):** every automated test passes (217,728 paths; browser playthroughs). The dawn scene is now two scenes: the lie and the plan (s05), then the price on Wren's life and the letter (s05b, new placeholder panel). **Reader panel, 31 rounds: not passed.** Four of the last six rounds passed all nine feel criteria; the First Law reader gave 4 in rounds 27 and 28 and 3 otherwise; round 28 met every feel rule but round 29 (same text) did not repeat it. Nothing has ever been judged copied. Report: `reports/readers/2026-11-19-prologue-26-31-ch01-3-6.md`.
 
-**Reader panel, 25 rounds: NOT PASSED. M0.5 stays unticked.** (`reports/readers/2026-11-18-prologue-rounds-22-25.md`.) Seven of nine criteria pass every round; temptation passes two rounds in three; the First Law reader gives 3 two times in three, on any route. Nothing has ever been judged copied. Read strictly, clarity also fails: two or more readers a round cannot say why the council will not sign for a dead man or who Sayle is.
+**Chapter 1, scenes 1–3:** third draft written (danger inside the cart, Dobb's hand under the blanket, a forgery option at the toll, the Marshal's sergeant). Four panel rounds, not passed: temptation and worry for the narrator hover at 3.67, the First Law reader gives 3. Rounds 5–6 also failed on a bug of mine (a speech attributed to the wrong woman), now fixed and not yet re-read.
 
-**The owner's rule change (B reads the self-serving route) is in `tests/reader-panel.md`. It did not settle it;** the route effect was noise.
-
-**Sentence-level passes have stopped moving the scores. Do not run another round on the prologue without a structural change.** Options, owner's call:
-1. Split the dawn scene into two scenes (the lie and the fever plan; then the price on Wren's life and the letter), with room in each and the stakes said once plainly. Structural: scene order, spec, browser test, one more panel.
-2. The owner plays it and passes it himself.
-3. Leave the prologue; write chapter 1 (a long scene, the war seen, Sayle present are already in its beat sheet) and return with what that teaches.
-
-**Next task if the owner says nothing:** option 3: chapter 1 scenes 1–3, third panel round, carrying the promise, the knife at dawn and the cast voices across.
+**Next task:** chapter 1 scenes 1–3, one pair of rounds on the fixed text. Then the per-chapter story test and linking chapter 1 into the demo. Stop re-running the prologue panel; the owner can pass it by playing it.
 
 **One chat at a time:** `docs/IN_PROGRESS.md` is the lock. Read it first.
 
@@ -36,7 +29,7 @@ Guiding rules (carried over from the previous project because they were right):
 
 **Next tasks, in order:**
 1. Chapter 1 scenes 1–3, round 3: work through "Still open" in the opening report (Dobb reaches for the feet on the bridge and Wren has to stop him; a selfish option at the toll; the Marshal's sergeant seen from the bridge; let one excuse stand uncaught; carry the nose, the ear, the purse and the gloves across from the prologue). Fresh panel.
-2. Per-chapter story test (`docs/TECH.md`): seed chapter 1 from the prologue's possible end states, so chapter 1 can be linked into the demo without multiplying 108,864 paths. Then link it, add placeholder panels, and extend the browser test.
+2. Per-chapter story test (`docs/TECH.md`): seed chapter 1 from the prologue's possible end states, so chapter 1 can be linked into the demo without multiplying 217,728 paths. Then link it, add placeholder panels, and extend the browser test.
 3. Write scenes 4–12 of chapter 1 to the third-draft beat sheet, a few scenes at a time, each batch through the panel.
 4. Panels for the prologue: check for a `panels/ch00` branch or pull request from the Codex trial (`AGENTS.md`).
 5. Owner, whenever he likes: whether the demo is good enough for him as it stands; title; the fixed name Wren; the inventions listed in the cast sheet and at the foot of the chapter 1 beat sheet.
@@ -63,7 +56,7 @@ Repo, tooling, and a reader that runs.
 
 A playable prologue to agree on tone, writing, UI, systems and testing before M1 commits to the full beat sheet.
 
-- [x] Prologue "The Greywater" in ink: 7 scenes, 108,864 paths, 9 outcomes, 9 remember-lines
+- [x] Prologue "The Greywater" in ink: 7 scenes, 217,728 paths, 9 outcomes, 9 remember-lines
 - [x] Prologue rewritten for voice (2026-11-18): first-person Wren, two new choices (the wine, the purse); craft rules added to WRITING_GUIDE
 - [x] Reader: chapter card, panel crossfade, tap-to-continue, choices, journal (Travelers / Ballad / Road / Settings), autosave, end screen with recap and ballad
 - [x] Procedural placeholder panels (stand-ins for GPT-Image-2 art)
@@ -72,7 +65,7 @@ A playable prologue to agree on tone, writing, UI, systems and testing before M1
 - [x] Groundwork for the feel (2026-11-18): the experience target in VISION, immersion devices in WRITING_GUIDE, draft `story/VOICE.md`, chapter checklist in `story/BEATS.md`, first thought choice (`SELF`) and Wren's hurt in the prologue, voice check in the story test
 - [x] Blind reader panel built (`tests/reader-panel.md`, `npm run transcripts`) and run for six rounds on the prologue
 - [ ] Reader panel passes on the prologue (round 9: 8 of 9 criteria pass; temptation 3.67; First Law feel 3/5, unchanged since round 6)
-- [x] Tests green: story 108,864/108,864 paths, browser 38/38 checks
+- [x] Tests green: story 217,728/217,728 paths, browser 38/38 checks
 - [ ] Owner verdict, if and when he gives one (no longer the gate)
 
 **Exit test:** the blind reader panel passes on the prologue, with the tests green. The owner may overrule either way.
@@ -222,3 +215,6 @@ Combat systems, inventory, character creator beyond name/pronouns, voice acting,
 | 2026-11-18 | Owner: the First Law rule is judged on the self-serving route; a–i still on all three routes. A chapter passes on two rounds running | Owner chose the recommended option after round 21 |
 | 2026-11-19 | The route explanation was wrong (B on the self-serving route: 4, 4, 4, 3, 3, 3). No more prologue rounds without a structural change | Rounds 22–25 |
 | 2026-11-19 | Rounds 24–25 were run together on one text, beyond three rounds in a session | The two-rounds-running rule needs a pair; no text changed between them |
+| 2026-11-19 | Prologue dawn scene split into s05 (lie and plan) and s05b_price (alone, the price, the knife, the letter); new choice READ_BALLAD; new placeholder panel and prompt | The structural option from round 25; both First Law readers and phone readers asked for room |
+| 2026-11-19 | Wren's sex stays unstated; nobody calls Wren "he" or "she" | Readers kept guessing; CAST.md uses "they" |
+| 2026-11-19 | Chapter 1 scenes 1–3 third draft: Dobb's burn (was missing fingers, too near an Abercrombie veteran); DOBB choice; forged toll signature; the Marshal's sergeant | Chapter 1 opening report, open items 1–7 |
