@@ -12,7 +12,7 @@
 # scene: s01_ford
 # panel: greywater_ford_night
 The Greywater was loud in the dark, fast and black and no deeper than my belt, and Sir Aubric Dane had decided to cross it drunk.
-I was his squire. I had been his squire six years, which is long enough to know when he could be talked out of a thing. He could not.
+I was his squire. I had been his squire six years, which is long enough to know he could not be talked out of it.
 "By sunrise, Wren," he said, again. "They'll ring every bell in Stint for the Lantern. I'll not turn up at noon like a tinker with a cough."
 "Yes, Sir Aubric," I said. Piss on your bells, I thought. My feet were wet.
 # know: aubric :: Sir Aubric Dane, called the Lantern. The only knight anyone has a ballad about. Drunk tonight.
@@ -94,10 +94,10 @@ Six years' wages, which he had always been about to pay. His purse hung on his b
     I let it hang. I am not a thief. I weighed it in my hand first, only to be sure of that.
 - My paper wanted his name, and he was past signing. {AT_FORD == "bridle":He had been going to talk about it another day. }Without him I was a laundress's child who could read.
 Then there was the letter.
-It was on the same belt, in an oilskin case: the surrender. The hill towns had signed it for him, on his word that nobody would hang. Ten years of war ended on that page, if it reached Vellmouth, the capital, and it was hanging off a dead man.
+It was on the same belt, in an oilskin case: the surrender. The hill towns had signed it on his word that nobody would hang. The council in Vellmouth, the capital, had nine days left to sign it under his name, and they would not sign under a dead man's. No signature, and the war came back in the spring.
 # know: letter :: The surrender, signed by the hill towns on Aubric's word. The council in Vellmouth, the capital, must sign it too within nine days, and must not learn he is dead first, or the war starts again.
 Out on the water, Marrow's light had turned.
-The case was dry. Nobody leaves the one who carries that in a ditch. But I'd be a squire with his knight's letter in my shirt and no knight, and they hang thieves, and they don't take long over it.
+The case was dry. Whoever carried that would be looked after. But a squire with his knight's letter in his shirt and no knight is a thief, and they hang thieves.
 The light was nearly on me.
 * [Take it. Whoever holds it gets kept alive.]
     ~ LETTER = "wren"
@@ -126,7 +126,7 @@ Then she sat up. "That's my fee gone.{AT_FORD == "called": Heard you. Didn't run
 }
 { WENT_IN:
     She turned his face to the light with one finger. She looked at his nose, then at my elbow, then at me. "River do that?"
-    "He fell on the stones," I said. Four times, it had been.
+    "He fell on the stones," I said.
     # remember: broken_nose :: Marrow remembers the Lantern's broken nose.
     "Course he did," said Marrow. She let his head go, and it rolled.
 }
@@ -146,7 +146,7 @@ She got her breath. "So he didn't drown. Stragglers. Dark. An arrow, and his swo
     ~ TRUST_MARROW -= 1
     "He drowned," I said. "That's what happened."
     Marrow came round the body quicker than I could stand. She took my collar in her fist, where he had, and pulled my face down to his.
-    "Look at him. That's what happened. Not what gets told."
+    "Look at him."
     Then she cut me. She took the top of my left ear between her finger and thumb and put the knife through it, a notch, the way they mark a sheep. It was only hot, and then my neck was wet.
     "Say drowned, to anybody. I say the squire {WENT_IN:broke his nose|pushed him}. My word, yours. You're the one looks like he fought you."
     She let go. I stayed where she had put me, with my blood dripping on his breastplate.
@@ -259,19 +259,19 @@ Isolde shut her eyes. "In a ford. Drunk. Nobody will ever hear that."
 = s05_plan
 Isolde looked at him. "Close his mouth. He looks surprised."
 I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
-"The hill towns signed it on his word," said Isolde. "The council's to sign under his name, and they've nine days to do it, and they won't— they will not sign under a dead man's. Who keeps a dead man's word for him?"
-"So we go back up," said Isolde, "and the hill towns sign again, for somebody living."
+"We go back up," said Isolde. "The hill towns sign again, for somebody living."
 "They shut the gate behind him," said Marrow. "Won't open it for you."
 "Then we bury him and say he's following."
-"Nine days?" said Marrow.
+"Nine days? Council won't sign for a dead name."
 "Then it's void," said Isolde, "and Marshal Sayle has his war back. He's lived off it ten years."
 # know: sayle :: Marshal Sayle, who has commanded the army for all ten years of the war. If the Lantern is known to be dead before the council signs, he will have the surrender thrown out.
-Isolde looked at Marrow's knife, and then at me. She had her whole sentences back.
-"Three of us know. I shall need the guide for the road. What would it cost, if the squire had gone into the river as well?"
+Then she had her whole sentences back. "Then he is not dead. He has a fever. He rides under the canvas, and nobody but us knows otherwise."
+"Three's a lot of us," said Marrow.
+Isolde looked at Marrow's knife, and then at me. "I shall need the guide for the road. What would it cost, if the squire had gone into the river as well?"
 Marrow had my hair in her fist and the knife under my jaw. "Ten."
 "Six."
 "Ten. It's me does it. And I'm sick after."
-Isolde began to count silver onto his breastplate. The fourth rolled off into the gravel, and she went down on her knees after it. The edge moved whenever Marrow breathed. My bladder went.
+Isolde began to count silver onto his breastplate. I could not get a breath to go in. I watched the coins. One. Two. Three. The fourth rolled off into the gravel, and she went down on her knees after it. The edge moved whenever Marrow breathed. My bladder went.
 * [Tell them you write his letters. You can sign for him.]
     ~ SOLD = "hand"
     "I write his letters," I said, all at once. "All of them, six years, I do his hand, I do his name. If he's sick they'll want a letter from him, the council, and I can write it, nobody else can, you can't, I've seen yours—"
@@ -300,7 +300,7 @@ Isolde began to count silver onto his breastplate. The fourth rolled off into th
     I thanked her. I thanked both of them.
 - Isolde picked the coins up again. Marrow let go of my hair, and wiped her hand.
 I stayed where I was. I was crying, and nobody minded.
-"So he is not dead," said Isolde. "He {VERSION == "ambush":took an arrow from robbers and has a fever of it|has a fever}. He rides in the cart to Vellmouth, and the council signs at the door of his sickroom, with a letter in his hand pushed under it. {SOLD == "hand":You will write that.|I write a fair hand.}"
+"He {VERSION == "ambush":took an arrow from robbers and has a fever of it|has a fever}," said Isolde, "all the way to Vellmouth. The council signs at the door of his sickroom, with a letter in his hand pushed under it. {SOLD == "hand":You will write that.|I write a fair hand.}"
 { SOLD != "hand":
     I wrote a better one. I kept that to myself. It was the one thing I had left to sell.
 }
@@ -334,8 +334,7 @@ Marrow moved to spit, and I had my arm up over my face before I knew it. Neither
 { VERSION == "truth":
     "Say it for me, Wren. He has a fever."
     "He has a fever," I said.
-    "Again, and to me, not to him."
-    Five times. The last time she made me say it with my hand on him.
+    She had me say it until she was satisfied, the last time with my hand on him.
 }
 "He keeps his fever as far as Vellmouth," said Isolde. "Then he dies of it, in a bed, where I can write it down. I have been paid for a ballad with a triumph at the end of it, and I have spent the money. {VERSION == "truth":He dies of whatever I can rhyme.}{VERSION == "ambush":He dies of his wounds, in the capital, with the bells.}{VERSION == "hero":He dies of a chill he took pulling you out of a river. Some other river. You are in the song. Think of that.}"
 { VERSION == "hero":
@@ -393,7 +392,7 @@ She knelt and unbuckled the case herself, and checked the seal.
 # scene: s06_wrap
 # panel: greywater_wrapping
 We wrapped him in the cart's canvas. It took all three of us to lift him. I took the head, so as to have him between me and Marrow.
-I had to shift my grip twice for my {WENT_IN:elbow|knee}. He was heavier than his debts, and he leaked. My breeches had dried on me, and nobody had said anything about them.
+I had to shift my grip twice for my {WENT_IN:elbow|knee}. He was heavier than he looked, and he leaked. My breeches had dried on me, and nobody had said anything about them.
 Before the canvas went over his hands, I saw my own. I was still wearing his gloves.
 * [Put the gloves back on his hands]
     ~ SELF = "him"
@@ -464,9 +463,9 @@ By full light we were on the road south to Stint and his bells, with the Lantern
     Isolde sat by the body and wrote. {WENT_IN:I drove. I was coughing up the Greywater a little at a time, and every cough hurt somewhere new.|I drove, with my bad knee stuck out straight.} I kept my chin down. I could still feel where the edge had been.
 }
 { TOLD_MARROW == "truth" && VERSION == "truth":
-    Marrow walked behind the cart, where she could see my back. I felt her there all morning.
+    Marrow walked behind the cart, where she could see my back.
 - else:
-    Marrow walked ahead, where I could see her. I liked that better.
+    Marrow walked ahead, where I could see her.
 }
 About noon she stopped over a lot of fresh hoofprints. "Marshal's riders. Same way as us." If one of them looked under that canvas, Sayle had his war back by supper.
 Vellmouth was eight days off by cart. We had eight left.
