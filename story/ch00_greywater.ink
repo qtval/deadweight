@@ -114,7 +114,7 @@ The light was nearly on me.
 # panel: greywater_marrow_wading
 Marrow came up out of the river with her lantern, and stopped when the light reached him.
 She put her ear to his mouth and kept it there, too long. "Come on," she said, to him.
-Then she sat up. "That's my fee gone.{AT_FORD == "called": Heard you shout. Should've run back. Didn't.}{AT_FORD == "silent": Saw you. Not a word out of you.}"
+Then she sat up. "That's my fee gone.{AT_FORD == "called": Heard you shout. Should've run back. Didn't.}{AT_FORD == "silent": Saw you stood there. Never said a word to stop him.}"
 { AT_FORD == "called":
     ~ TRUST_MARROW += 1
 }
@@ -141,7 +141,7 @@ She got her breath. "So he didn't drown. Hill stragglers. Dark. An arrow, and hi
     ~ TRUST_MARROW += 1
     "An ambush," I said. "I saw it."
     The knife came off my wrist. She looked at it, and put it away.
-    "Good. Learn quicker than him." She unstoppered her flask and passed it over the body. It was hot all the way down.
+    "Good. You learn quicker than he did." She unstoppered her flask and passed it over the body. It was hot all the way down.
 * [Refuse, with her knife on your wrist]
     ~ TOLD_MARROW = "truth"
     ~ TRUST_MARROW -= 1
@@ -186,7 +186,7 @@ She got her breath. "So he didn't drown. Hill stragglers. Dark. An arrow, and hi
 # scene: s05_dawn
 # panel: greywater_dawn_cart
 # know: isolde :: Isolde Ferrant, the Crown's chronicler. Sent to write the ballad of the Lantern's peace.
-It got light without any sun in it. Mist stood on the water, and the first fly found him. Over the river stood a mill with no roof.
+It got light without any sun in it. Mist stood on the water, and the first fly found him. Over the river stood a mill with no roof. The war had been through twice, once each way.
 { TOLD_MARROW:
 - "ambush": I had sat by him all night{WENT_IN: in wet clothes}. Some time in the dark Marrow had thrown the horse blanket over me and called me an idiot for needing it.
 - "truth": I had sat by him all night{WENT_IN: in wet clothes}, holding my ear. It had stopped bleeding and started to beat. Marrow had the horse blanket round her own shoulders, and I had stopped shivering, which I knew was bad.
@@ -302,7 +302,7 @@ They went down the bank together, out of hearing, and left me with him.
 # panel: greywater_breastplate_silver
 The mist had come off the water and lay on the gravel. I sat by him with my hands in my armpits.
 Down the bank Isolde was talking and Marrow was not. I heard "three", and "river", and then Marrow said a number. Once she looked back at me, and then at the river. I had watched her look at fords like that all week.
-It was all right. They needed me. Somebody had to carry the pot and say he was sleeping, and his men knew me, and Isolde was clever and would see it, and if she didn't I would tell her. {TOLD_MARROW == "ambush":And Marrow had put the blanket over me. }{TOLD_MARROW == "truth":And Marrow had only taken an ear. }{TOLD_MARROW == "wait":And Marrow had tied me to her, not to a tree. }I had done nothing. I had stood on a bank. Nobody hangs a squire for doing as he's told.
+It was all right. They needed me. Somebody had to carry the pot and say he was sleeping, and his men knew me, and Isolde was clever and would see it, and if she didn't I would tell her. {TOLD_MARROW == "ambush":And Marrow had put the blanket over me. }{TOLD_MARROW == "truth":And Marrow had only taken an ear. }{TOLD_MARROW == "wait":And Marrow had tied me to her, not to a tree. }I had done nothing. {WENT_IN:I had gone in after him.|I had stood on a bank.} Nobody hangs a squire for doing as he's told.
 Isolde's satchel lay open on the cart step, a yard from my hand.
 * [Read what she's written about him]
     ~ READ_BALLAD = true
