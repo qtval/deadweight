@@ -106,7 +106,7 @@ Six years' wages, which he had always been about to pay. His purse hung on his b
 
 I pulled off the gloves he had given me to do it, and put them on again after. The purse didn't come to six weeks.
 
-There was more. My promise was in my pack on the cart, wanting his name. I could put it there myself. But his name on it, and him dead, would hang me. Without him I was a laundress's child who could read.
+My paper wanted his name, and he was past signing. Without him I was a laundress's child who could read.
 
 Then I thought about the letter, and the sums got worse.
 
@@ -216,21 +216,21 @@ Isolde looked me over. I was mud to the knee and dry above it. She nodded anyway
 
 I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 
-Isolde could not get the stopper out of her ink.
-
-"The council signs under his name within the month or it is void, and the month has nine days in it, and they will not sign under a dead man. So we go back. We go back up, and the hill towns sign again, for somebody living."
+"The council must sign under his name before the month is out," said Isolde, "and that is nine days, and they will not sign under a dead man. So we go back up, and the hill towns sign again, for somebody living."
 
 "They signed for him," said Marrow. "They'd not open the gate to you."
 
 "Then we bury him, and say he follows."
 
-"Nine days?"
+"For nine days?"
 
-"Then Marshal Sayle has it thrown out. He has lived off this war ten years."
+"Then it is void," said Isolde, "and Marshal Sayle has his war back. He has lived off it ten years."
 
-"Three of us know," said Isolde, and she was looking at me. "What would it cost, if the squire had gone into the river as well?"
+She looked at the river. Her lips were moving.
 
-Marrow had my hair in her fist and the knife under my jaw before I understood. "Ten," she said.
+"Three of us know," she said. "I need the guide for the road." She was looking at me. "What would it cost, if the squire had gone into the river as well?"
+
+Marrow had my hair in her fist and the knife under my jaw. "Ten," she said.
 
 "For that? Six."
 
@@ -245,7 +245,7 @@ Isolde began to count silver onto his breastplate. The fourth rolled off into th
 
 "I write his letters," I said, all at once. "All of them, six years, I do his hand, I do his name. If he's sick they'll want a letter from him, the council, and I can write it, nobody else can, you can't, I've seen yours—"
 
-"Seven," said Isolde, and stopped. "He never used a comma in his life until he had you. I did wonder."
+"Seven," said Isolde, and stopped. "He never used a comma in his life until he had you. I did wonder. So that is what the squire is for."
 
 It was the one thing I had to sell, and I had just given it away on my knees.
 
@@ -362,7 +362,7 @@ He would have signed it. He had said so last night, with his own mouth. It wasn'
 
 I signed it on the tailboard, by his feet. Aubric Dane, with the big loop he made when he was pleased. It was the best one I ever did.
 
-It was only what he had said he would do. Anybody would say so.
+It was only what he had said he would do.
 
 I heard her skirt in the hedge and folded it wet.
 

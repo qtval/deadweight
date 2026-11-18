@@ -108,7 +108,7 @@ Six years' wages, which he had always been about to pay. His purse hung on his b
 
 I let it hang. I am not a thief. I weighed it in my hand first, only to be sure of that.
 
-There was more. My promise was in my pack on the cart, wanting his name. He had been going to talk about it another day. I could put it there myself. But his name on it, and him dead, would hang me. Without him I was a laundress's child who could read.
+My paper wanted his name, and he was past signing. He had been going to talk about it another day. Without him I was a laundress's child who could read.
 
 Then I thought about the letter, and the sums got worse.
 
@@ -226,21 +226,21 @@ Isolde shut her eyes. "In a ford. Drunk. Nobody will ever hear that."
 
 I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 
-Isolde could not get the stopper out of her ink.
-
-"The council signs under his name within the month or it is void, and the month has nine days in it, and they will not sign under a dead man. So we go back. We go back up, and the hill towns sign again, for somebody living."
+"The council must sign under his name before the month is out," said Isolde, "and that is nine days, and they will not sign under a dead man. So we go back up, and the hill towns sign again, for somebody living."
 
 "They signed for him," said Marrow. "They'd not open the gate to you."
 
 "Then we bury him, and say he follows."
 
-"Nine days?"
+"For nine days?"
 
-"Then Marshal Sayle has it thrown out. He has lived off this war ten years."
+"Then it is void," said Isolde, "and Marshal Sayle has his war back. He has lived off it ten years."
 
-"Three of us know," said Isolde, and she was looking at me. "What would it cost, if the squire had gone into the river as well?"
+She looked at the river. Her lips were moving.
 
-Marrow had my hair in her fist and the knife under my jaw before I understood. "Ten," she said.
+"Three of us know," she said. "I need the guide for the road." She was looking at me. "What would it cost, if the squire had gone into the river as well?"
+
+Marrow had my hair in her fist and the knife under my jaw. "Ten," she said.
 
 "For that? Six."
 
@@ -255,7 +255,7 @@ Isolde began to count silver onto his breastplate. The fourth rolled off into th
 
 "His men," I said, all at once. "In Stint. They know me, they'll ask where his squire is, they always ask me what he wants, they'll not ask you, they don't know you—"
 
-"Seven," said Isolde, and stopped. "That is true. They would ask."
+"Seven," said Isolde, and stopped. "That is true. They would ask. So that is what the squire is for."
 
 She picked the coins up again. Marrow let go of my hair, and wiped her hand.
 

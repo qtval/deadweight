@@ -92,7 +92,7 @@ Six years' wages, which he had always been about to pay. His purse hung on his b
     I pulled off the gloves he had given me to do it, and put them on again after. The purse didn't come to six weeks.
 * [Leave the purse]
     I let it hang. I am not a thief. I weighed it in my hand first, only to be sure of that.
-- There was more. My promise was in my pack on the cart, wanting his name. {AT_FORD == "bridle":He had been going to talk about it another day. }I could put it there myself. But his name on it, and him dead, would hang me. Without him I was a laundress's child who could read.
+- My paper wanted his name, and he was past signing. {AT_FORD == "bridle":He had been going to talk about it another day. }Without him I was a laundress's child who could read.
 Then I thought about the letter, and the sums got worse.
 It was on the same belt, in an oilskin case: the surrender. The hill towns had signed it for him, on his word that nobody would hang. Ten years of war ended on that page, if it reached Vellmouth, the capital, and it was hanging off a dead man.
 # know: letter :: The surrender, signed by the hill towns on Aubric's word. The council in Vellmouth, the capital, must sign it too within nine days, and must not learn he is dead first, or the war starts again.
@@ -264,32 +264,33 @@ Isolde shut her eyes. "In a ford. Drunk. Nobody will ever hear that."
 = s05_plan
 "Close his mouth, Wren," said Isolde. "He looks surprised."
 I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
-Isolde could not get the stopper out of her ink.
-"The council signs under his name within the month or it is void, and the month has nine days in it, and they will not sign under a dead man. So we go back. We go back up, and the hill towns sign again, for somebody living."
+"The council must sign under his name before the month is out," said Isolde, "and that is nine days, and they will not sign under a dead man. So we go back up, and the hill towns sign again, for somebody living."
 "They signed for him," said Marrow. "They'd not open the gate to you."
 "Then we bury him, and say he follows."
-"Nine days?"
-"Then Marshal Sayle has it thrown out. He has lived off this war ten years."
+"For nine days?"
+"Then it is void," said Isolde, "and Marshal Sayle has his war back. He has lived off it ten years."
 # know: sayle :: Marshal Sayle, who has commanded the army for all ten years of the war. If the Lantern is known to be dead before the council signs, he will have the surrender thrown out.
-"Three of us know," said Isolde, and she was looking at me. "What would it cost, if the squire had gone into the river as well?"
-Marrow had my hair in her fist and the knife under my jaw before I understood. "Ten," she said.
+She looked at the river. Her lips were moving.
+"Three of us know," she said. "I need the guide for the road." She was looking at me. "What would it cost, if the squire had gone into the river as well?"
+Marrow had my hair in her fist and the knife under my jaw. "Ten," she said.
 "For that? Six."
 "Ten. It's not you has to do it."
 Isolde began to count silver onto his breastplate. The fourth rolled off into the gravel, and she went down on her knees after it. I could feel the edge move whenever Marrow breathed. My bladder went.
 * [Tell them you write his letters. You can sign for him.]
     ~ SOLD = "hand"
     "I write his letters," I said, all at once. "All of them, six years, I do his hand, I do his name. If he's sick they'll want a letter from him, the council, and I can write it, nobody else can, you can't, I've seen yours—"
-    "Seven," said Isolde, and stopped. "He never used a comma in his life until he had you. I did wonder."
+    "Seven," said Isolde, and stopped. "He never used a comma in his life until he had you. I did wonder. So that is what the squire is for."
     It was the one thing I had to sell, and I had just given it away on my knees.
 * [Tell them his men in Stint know your face]
     ~ SOLD = "face"
     "His men," I said, all at once. "In Stint. They know me, they'll ask where his squire is, they always ask me what he wants, they'll not ask you, they don't know you—"
-    "Seven," said Isolde, and stopped. "That is true. They would ask."
+    "Seven," said Isolde, and stopped. "That is true. They would ask. So that is what the squire is for."
 * [Beg]
     ~ SOLD = "begged"
     "Please," I said. "Please. I'll say what you like. I never saw it, I was asleep, I'll go back to the tubs, please—"
-    "Seven," said Isolde, and stopped. She looked at the coin in her fingers. "No. Ten is too dear. And his men will ask for his squire."
-    I thanked her. I heard myself do it.
+    "Seven," said Isolde, and turned her purse out. Nothing else fell.
+    "Ten, I said." Marrow took the knife away. "I don't work on account."
+    I thanked her. I thanked both of them.
 - She picked the coins up again. Marrow let go of my hair, and wiped her hand.
 "So he is not dead," said Isolde, and now she was quick. "He {VERSION == "ambush":took an arrow from robbers and has a fever of it|has a fever}. He rides in the cart to Vellmouth, and the council signs at the door of his sickroom, with a letter in his hand pushed under it. {SOLD == "hand":You will write that, Wren.|Wren will write that. He never used a comma in his life until he had you, Wren. Did you think nobody could tell?}"
 { SOLD != "hand":
@@ -345,7 +346,7 @@ She knelt and unbuckled the case herself, and checked the seal.
 * [Let her take it]
     ~ LETTER = "isolde"
     ~ TRUST_ISOLDE += 1
-    She tucked it into her satchel, beside the ballad. Let her be the one holding it. I had a paper of my own to think of.
+    She tucked it into her satchel, beside the ballad. If it went wrong they would hang whoever was holding it. Let that be her.
     "Thank you, Wren," she said, as though I had given it to her.
     "You're welcome," I said. I watched her do up the satchel strap.
     "That's your neck she's got in there," said Marrow, not quietly.
@@ -361,7 +362,7 @@ She knelt and unbuckled the case herself, and checked the seal.
 * [Give it to her]
     ~ LETTER = "isolde"
     ~ TRUST_ISOLDE += 1
-    I took the case out of my shirt and held it out. If it went wrong they would hang whoever was holding it, and I had a paper of my own to think of. Isolde checked the seal, didn't open it, and put it in her satchel beside the ballad.
+    I took the case out of my shirt and held it out. If it went wrong they would hang whoever was holding it. Let that be her. Isolde checked the seal, didn't open it, and put it in her satchel beside the ballad.
     "Thank you, Wren," she said. My ribs felt cold where it had been.
     "That's your neck you just gave her," said Marrow, not quietly.
 * [Keep it. "I'll carry it. I was his squire."]
@@ -467,7 +468,7 @@ He would have signed it. He had said so last night, with his own mouth. It wasn'
 * [Sign it now, in his hand]
     ~ DEED = "signed"
     I signed it on the tailboard, by his feet. Aubric Dane, with the big loop he made when he was pleased. It was the best one I ever did.
-    It was only what he had said he would do. Anybody would say so.
+    It was only what he had said he would do.
     I heard her skirt in the hedge and folded it wet.
     # remember: deed_signed :: Isolde remembers the ink on your thumb.
     "You have ink on your thumb, Wren," said Isolde, climbing up. She did not ask how.
