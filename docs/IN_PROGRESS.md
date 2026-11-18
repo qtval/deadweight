@@ -12,4 +12,4 @@ One chat works on this repo at a time. This file is the lock.
 
 ## Current claim
 
-**CLAIMED** — 2026-11-18 20:37 (Asia/Ho_Chi_Minh) — Prologue: give Wren a want of their own and re-run the reader panel (roadmap: M0.5 exit test).
+**FREE** — last released 2026-11-18 22:10 (Asia/Ho_Chi_Minh), after prologue panel rounds 13–15 (Wren's promise).
