@@ -44,6 +44,7 @@ Nine blind readers over three rounds (`reports/readers/2026-11-18-prologue.md`).
 - **A lie costs differently each time.** If two people see through the same lie in the same way within a page, it stops being a risk. One opens your shirt; the other looks at the buckle and says nothing.
 - **Every answer does something.** Agreement, bargaining and refusal each leave Wren holding or losing something physical before the scene ends.
 - **Give the charming man room.** A run of his own talk, eight or ten lines, before he dies.
+- **Plain is not the same as quiet** (chapter 1 panel, 2026-11-18). Paragraphs end plainly; that fixed the metronome. But when the plainness reached Wren's head, readers lost the narrator: "a neutral camera", "the voice has gone polite". Under every act there is one sour, bodily, self-serving thought, in contractions. The scene's biggest moment is played in speech, never summarised.
 - **Still open after six rounds:** one dry register shared by Marrow, Isolde and Wren; too many lines that are zingers; fear that is over in six lines. The cast sheet must give each speaker a rhythm and a habit, and scenes must be allowed to run.
 
 ## Immersion devices (how the player ends up *in* it)

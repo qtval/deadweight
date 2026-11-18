@@ -23,11 +23,16 @@ The owner is assumed not to be available to test (see `CLAUDE.md`). The reader p
 
 What the voice pass fixed: the ford choice has a stake (the room with a door) and is now the choice every reader names as tempting; the bank scene states the letter's stakes once; the antagonist has a name and a line; Marrow cuts Wren if refused. What it did not fix, in every round 9 reader's words: Marrow, Isolde and Wren still share one dry wit; nearly every paragraph ends on a wry turn; nobody is frightened of anybody; the decent choices are free. Those are faults of method, not of lines. The proposal is in the round 7–9 report: write chapter 1 to different rules (plain paragraphs by default, one turn a scene, people who are slow, wrong or scared), test that, and bring what works back to the prologue.
 
+**Done since (2026-11-18, evening):** the chapter 1 beat sheet, in its third draft after three blind readers (`story/BEATS.md`, `reports/readers/2026-11-18-ch01-beats.md`): eleven scenes, Corporal Dobb and Aubric's own escort, one inspection, and somebody hurt in Stint on every path. The first three scenes are written (`story/ch01_stint.ink`) and have had two panel rounds (`reports/readers/2026-11-18-ch01-opening.md`): seven of nine pass; temptation and fear for the narrator do not; First Law feel 3 of 5. The same reader now gives the prologue 4 of 5. Chapter 1 is **not linked into the playable demo yet**: the story test plays every path, and it needs a per-chapter mode first.
+
+**What the two rounds settled about method:** plain paragraph endings alone make Wren a camera. Keep the endings plain and keep Wren's sour, bodily, self-serving thought under every act. That is now in `docs/WRITING_GUIDE.md`.
+
 **Next tasks, in order:**
-1. Chapter 1 beat sheet (Stint) against `story/BEATS.md` and `story/CAST.md`, with longer scenes. It must carry the chapter 1 column of the off-screen table (Marrow's new boots, Isolde's letter south, Tobin and the knot, Sayle's surgeon), and it must schedule a cost for each decent choice.
-2. Write the first two or three scenes of chapter 1 to the plainer rules in the round 7–9 report and put them to the panel, before writing the rest.
-3. Panels for the prologue: check for a `panels/ch00` branch or pull request from the Codex trial (`AGENTS.md`); if images are there, process, test and place them. Note the water panel prompt now asks for a bare hand, not a gauntlet.
-4. Owner, whenever he likes: whether the demo is good enough for him as it stands (the panel says no, narrowly; he can overrule); title; confirm the fixed name Wren; and look at the three inventions in the cast sheet (the lantern night, Wren writing Aubric's letters, Marrow selling the Hanging Wood). Each can be struck without breaking the rest.
+1. Chapter 1 scenes 1–3, round 3: work through "Still open" in the opening report (Dobb reaches for the feet on the bridge and Wren has to stop him; a selfish option at the toll; the Marshal's sergeant seen from the bridge; let one excuse stand uncaught; carry the nose, the ear, the purse and the gloves across from the prologue). Fresh panel.
+2. Per-chapter story test (`docs/TECH.md`): seed chapter 1 from the prologue's possible end states, so chapter 1 can be linked into the demo without multiplying 18,144 paths. Then link it, add placeholder panels, and extend the browser test.
+3. Write scenes 4–12 of chapter 1 to the third-draft beat sheet, a few scenes at a time, each batch through the panel.
+4. Panels for the prologue: check for a `panels/ch00` branch or pull request from the Codex trial (`AGENTS.md`).
+5. Owner, whenever he likes: whether the demo is good enough for him as it stands; title; the fixed name Wren; the inventions listed in the cast sheet and at the foot of the chapter 1 beat sheet.
 
 ---
 
@@ -196,3 +201,5 @@ Combat systems, inventory, character creator beyond name/pronouns, voice acting,
 | 2026-11-18 | Refusing Marrow at the body costs Wren a notched ear, and she then tells Isolde her version | Readers in rounds 7–8: no real menace; honest choices are free |
 | 2026-11-18 | "Squires carry things" is used once in the prologue, not twice. "Lantern" counts as a name for Aubric in the proper-noun check | A reader heard the refrain as an imitation of Abercrombie's mantras. The epithet is the same person, and counting it twice left no room to name Stint in scene 1 |
 | 2026-11-18 | Wall-of-text limit raised from 300 to 340 words between choices | Room for Wren's commentary and for fear to last. The new-player reader still flags the bank and the dawn scene as long; do not raise it again |
+| 2026-11-18 | Chapter 1 is eleven scenes; it opens with the armour coming off in a wood; Aubric's own escort under Corporal Dobb is in Stint; the forged letter moves to chapter 2 | Three blind readers of the beat sheet: it contradicted the prologue, spent its clock twice, and hurt nobody |
+| 2026-11-18 | Drafting rule: paragraphs end plainly, and Wren's sour, bodily thought runs under every act, in contractions; big moments are played, not summarised | Round 1 of the chapter 1 panel: plain rules alone turned the narrator into a camera |
