@@ -20,6 +20,10 @@ VAR TOLD_MARROW = ""
 // The version of the death Wren gave Isolde at dawn: "truth" | "ambush" | "hero"
 VAR VERSION = ""
 
+// What Wren tells themself the journey is for: "peace" | "him" | "wages". A thought choice:
+// later chapters quote it back when Wren acts against it.
+VAR SELF = ""
+
 VAR TRUST_MARROW = 0
 VAR TRUST_ISOLDE = 0
 VAR LEGEND = 0

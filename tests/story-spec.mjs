@@ -23,6 +23,7 @@ export const spec = {
   endState: [
     ["the death has been told one way",      (v) => ["truth", "ambush", "hero"].includes(v.VERSION)],
     ["the letter ends up somewhere definite", (v) => ["isolde", "wren", "hidden"].includes(v.LETTER)],
+    ["Wren has told themself why",             (v) => ["peace", "him", "wages"].includes(v.SELF)],
     ["a day has passed",                      (v) => v.DAYS_LEFT === 8],
     ["only a hidden letter can be secret",    (v) => v.LETTER !== "hidden" || v.VERSION !== ""],
     ["Marrow charges more only if she distrusts Wren", (v) => v.DEBT_MARROW === (v.TRUST_MARROW < 0)],
@@ -39,4 +40,19 @@ export const spec = {
   maxNewProperNouns: { firstScene: 5, otherScenes: 2 },
   maxWordsBetweenChoices: 300,
   readingWpm: 200,
+
+  // Voice rules (docs/WRITING_GUIDE.md). Checked on every line of every path.
+  voice: {
+    // The narrator is Wren, first person. These catch a slip back into third person.
+    thirdPersonSlip: /\bWren (was|had|did|said|knew|felt|thought|looked|took|went|saw|could|would)\b/,
+    // A refrain may appear at most this many times on any one path.
+    refrains: { "squires carry things": 4 },
+    // Never: borrowed mantras and names (do-not-copy list), the old project's names, and stock phrases.
+    banned: [
+      "say one thing", "back to the mud", "have to be realistic", "body found floating", "once you've got a task",
+      "glokta", "logen", "ninefingers", "bloody-nine", "bayaz", "jezal", "luthar", "ferro", "dogman", "gurkish", "adua", "first of the magi", "named man", "named men",
+      "garren vale", "red hollow", "carrion road", "ashen oath",
+      "breath (i|he|she|they) (hadn't|didn't|had not|did not) (known|know|realised|realized)", "couldn't help but", "little did", "a testament to", "sent a shiver", "heart pounded", "time seemed to", "steeled (myself|himself|herself)",
+    ],
+  },
 };

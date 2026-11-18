@@ -26,6 +26,18 @@ The first demo had the right plot and no vibe. These are the things that were mi
 8. **End the scene on the turn.** The last line of a scene changes what the scene meant.
 9. **One refrain, ours, used sparingly.** Wren's is "Squires carry things": at most four times a chapter, meaning something different each time.
 
+## Immersion devices (how the player ends up *in* it)
+
+These are structural, and the beat sheet schedules them (`story/BEATS.md`).
+
+- **Thought choices.** Label starts "Tell yourself…". The options are excuses, not actions, and all of them are partly true. Two or three per chapter. Each sets a variable; a later scene quotes the chosen excuse in italics at the moment Wren acts against it. Never punish a thought choice; only remember it.
+- **Fire scenes.** One per chapter, at night. The player picks one companion to sit with. 150–250 words, food or a small task, one confidence, one thing they want from Wren that is not the plot. No plot decision is made at a fire. Reuses the chapter's camp panel.
+- **The body, twice.** (a) Every scene has one physical sensation of Wren's in its first three nodes. (b) Every chapter's first scene states Aubric's condition and what the lie now requires (more lavender, a closed cart, a story about the wound).
+- **Names.** Characters address Wren as listed in `story/VOICE.md`. Using Wren's name is an event. No one refers to Wren in the third person with a pronoun; they say "the squire" or talk to Wren directly.
+- **Meanwhile.** In each chapter, each companion has done one thing off-screen that Wren finds out about. The beat sheet has a line for it.
+- **Nobodies.** One per chapter. They get a name only if they return.
+- **Temptation.** In every plot choice one option is the comfortable, selfish one, and its label is the most appealing on the list.
+
 ## The clarity rules (non-negotiable)
 
 Every scene must pass these within its first three nodes:
@@ -85,7 +97,7 @@ A checklist. If a draft trips any of these, rewrite it.
 
 - Image generation is AI (see `docs/ART_PIPELINE.md`).
 - Prose is human-led (the prologue demo is an AI draft to the owner's direction, awaiting his edit and verdict). AI is otherwise used as an editor, continuity checker, and sparring partner for choices and consequences. Reason: a consistent voice is the one thing a 3-hour VN cannot fake, and AI drafts drift. If AI drafts a node, it is rewritten in the voice before it is committed.
-- A `story/VOICE.md` file (to be written in M1) holds 10 sample paragraphs in the final voice, used as the reference for every editing pass.
+- `story/VOICE.md` holds the reference paragraphs and each character's way of talking. It is a draft until the owner approves it in M1. `tools/test-story.mjs` enforces the mechanical parts of the voice on every path: first person, banned phrases and names, refrain limits.
 
 ## Scene template (used in the beat sheet, `story/BEATS.md`)
 
@@ -103,4 +115,7 @@ Delayed:       Rask hears of it in ch03; Compact stragglers trust you more.
 Branch:        → ch02_s05 (all), with flag HANGED_CUT_DOWN
 Panel:         ch02_hangingwood_gibbets_dusk (reuse: ch02_hangingwood_road_dusk)
 Wren changes:  First time Wren does something Aubric would not have.
+Body:          Wren's cough; the smell from the cart reaches the clearing first.
+Tells self:    (thought choice, if any) / (excuse quoted back, if any)
+Turn:          The last line, and what it changes.
 ```

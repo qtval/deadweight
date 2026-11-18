@@ -1,26 +1,47 @@
 # Working method for AI sessions
 
-This file is read by Claude (and any other AI tool) at the start of a session in this repo.
+This file is read by Claude (and any other AI tool or model) at the start of a session in this repo. The repo is the only source of project state; do not rely on earlier chats.
+
+## What we are making, in one line
+
+A choice-driven visual novel that makes the player feel they are a small person living inside a First Law-like world: Wren, a dead hero's squire, telling it in the first person. Original world, people and phrases; nothing of Abercrombie's is copied. See "The experience we are building" in `docs/VISION.md`.
 
 ## Read first, in this order
 
-1. `docs/ROADMAP.md` — find the current milestone and the smallest unfinished task.
-2. `docs/VISION.md` and `docs/WRITING_GUIDE.md` — if the task touches story.
-3. `docs/ART_PIPELINE.md` — if the task touches panels or prompts.
-4. `docs/TECH.md` — if the task touches code.
-5. `story/BEATS.md` and `story/VOICE.md` once they exist — before writing a single line of prose.
+1. `docs/ROADMAP.md` — the "Where we are" block at the top names the next task.
+2. `story/VOICE.md`, then `story/ch00_greywater.ink` — the sound, and the worked example. Read both before writing or editing any prose.
+3. `docs/VISION.md` and `docs/WRITING_GUIDE.md` — if the task touches story.
+4. `story/BEATS.md` — what every chapter contains; the scene template is in the writing guide.
+5. `docs/ART_PIPELINE.md` — if the task touches panels or prompts.
+6. `docs/TECH.md` and `docs/TESTING.md` — if the task touches code or tests.
 
 ## Rules
 
 - **Web first, Android last.** Do not add Capacitor, native plugins, or store assets before milestone M7.
 - **One small, coherent task per session.** Finish it, verify it, commit it. Do not start a second thing because it is nearby.
+- **Voice.** Narration is Wren, first person, past tense. Choice labels, recap, remember-lines and the journal address the player as "you". Match `story/VOICE.md`; when unsure, write less.
 - **Story clarity is a hard rule.** Every scene passes the four questions (where / who / what they want / why now) in its first three nodes. One new proper noun per scene.
-- **Do not copy** Abercrombie's characters, factions, names, or mantras, nor anything from the previous project (Garren Vale, Red Hollow, Carrion Road). The checklist is in `docs/WRITING_GUIDE.md`.
-- **Prose is human-led.** AI drafts are rewritten in the voice (`story/VOICE.md`) before commit.
+- **Every chapter ticks the checklist** in `story/BEATS.md` (body, nobody, temptation, fire scene, thought choice, bill, meanwhile, turn).
+- **Do not copy** Abercrombie's characters, factions, names, or mantras, nor anything from the previous project (Garren Vale, Red Hollow, Carrion Road). The checklist is in `docs/WRITING_GUIDE.md`; the story test fails on the known ones.
+- **Prose is human-led.** AI drafts are marked as drafts in the handoff and are the owner's to edit. Never "improve" a line the owner wrote without being asked.
 - **No morality labels** anywhere in UI or data. No numbers shown to the player for Legend / Truth / Debt.
 - **No text in artwork.** Ever.
 - **No scope expansion** without adding a row to the decisions log in `docs/ROADMAP.md`.
-- Keep `docs/ROADMAP.md` honest: tick a task only when its verification passed; move a milestone only when its exit test passed.
+- **Ask before** creating anything public or making an irreversible change.
+- Keep `docs/ROADMAP.md` honest: tick a task only when its verification passed; move a milestone only when its exit test passed. Update the "Where we are" block in the same commit.
+
+## The feel test (for any prose change)
+
+Before committing, reread the changed scene and answer:
+
+1. What does Wren want here that is not noble, and where is the excuse?
+2. Where is the line in which what Wren thinks and what Wren says differ?
+3. What does Wren's body feel?
+4. Which option is the tempting, selfish one, and is it the most appealing label?
+5. Does the joke (if any) come from a person in the scene, inside the worst moment?
+6. Does the last line change what the scene meant?
+
+If two answers are "nowhere", the scene is not done.
 
 ## Before implementing
 
@@ -28,9 +49,10 @@ Review the roadmap, the relevant docs, the current story data, and the playable 
 
 ## After implementing
 
-- `npm run check` (typecheck, ink compile, story fuzz, panel coverage) must pass.
-- If story data changed: play the changed scenes once in the browser.
-- Commit with a message that names the roadmap task; push.
+- `npm test` must pass: ink compile, story test on every path (logic, clarity and voice checks), typecheck, build, browser playthroughs at phone size. Reports land in `reports/`.
+- If story structure changed: update `tests/story-spec.mjs` and the routes in `tools/test-e2e.mjs` in the same commit.
+- Look at two or three screenshots in `reports/screens/`.
+- Commit with a message that names the roadmap task; push to `main` (CI redeploys the demo).
 - Update `docs/ROADMAP.md` only when the task is truly complete.
 
 ## At handoff, report

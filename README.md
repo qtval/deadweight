@@ -6,16 +6,18 @@ A grim, choice-driven low-fantasy visual novel for phones, built on the web firs
 
 > The realm's one true hero dies stupidly, a day's ride from the end of his famous quest. You are his squire. Carry the body, the letter that ends the war, and the lie — home.
 
-Black-and-white, environment-first illustrated panels. Concise prose. Choices with a visible stake and a hidden bill. No chosen ones, no morality meter, five endings defined by what they cost.
+Black-and-white ink panels with one amber accent for light, environment-first. First-person prose in the squire's voice. Choices with a visible stake and a hidden bill. No chosen ones, no morality meter, five endings defined by what they cost.
 
 ## Status
 
-**Agreement demo (M0.5).** Play it: **https://qtval.github.io/deadweight/** — the prologue, *The Greywater*, is playable end to end with placeholder art: 7 scenes, 1728 paths, 9 outcomes, all tested. Start with the docs:
+**Agreement demo (M0.5).** Play it: **https://qtval.github.io/deadweight/** — the prologue, *The Greywater*, is playable end to end with placeholder art: 7 scenes, 5184 paths, 9 outcomes, all tested. Start with the docs:
 
 | Doc | What it is |
 |-----|-----------|
 | [`docs/VISION.md`](docs/VISION.md) | Pillars, setting, premise, cast, chapter outline, endings, systems |
-| [`docs/WRITING_GUIDE.md`](docs/WRITING_GUIDE.md) | Voice, the clarity rules, what we take from First Law and what we never copy |
+| [`docs/WRITING_GUIDE.md`](docs/WRITING_GUIDE.md) | Voice, craft rules, immersion devices, the clarity rules, what we take from First Law and what we never copy |
+| [`story/VOICE.md`](story/VOICE.md) | The sound: Wren, how each character talks, reference paragraphs |
+| [`story/BEATS.md`](story/BEATS.md) | What every chapter contains; the prologue as the worked example |
 | [`docs/ART_PIPELINE.md`](docs/ART_PIPELINE.md) | The GPT-Image-2 → curate → process pipeline for ~180 B&W panels |
 | [`docs/TECH.md`](docs/TECH.md) | Vite + TypeScript + ink/inkjs now, Capacitor 8 at the end; repo layout; CI checks |
 | [`docs/TESTING.md`](docs/TESTING.md) | The three testing layers every iteration ends with |

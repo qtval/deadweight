@@ -61,7 +61,7 @@ He didn't stand up. A gauntlet came out of the water, opened, closed on nothing,
 * [Run for the rope on the cart]
     ~ WENT_IN = false
     There was a rope on the cart. I ran for it, because a squire who drowns beside his knight is no use to anyone, least of all the squire.
-    I fell twice in the mud. I got a loop over the grey's saddle as it floundered out, and I hauled, and the grey did the rest. It dragged him ashore by one stirrup, face down, like a sack of wet washing.
+    I fell twice in the mud. I got a loop over the grey's saddle as it floundered out, and I hauled until the rope took the skin off both my palms, and the grey did the rest. It dragged him ashore by one stirrup, face down, like a sack of wet washing.
 - It took longer to get him onto the stones than it had taken him to die.
 -> s03_bank
 
@@ -118,7 +118,7 @@ I didn't answer. I was busy working out who hangs second.
 * [Agree to her story: an ambush]
     ~ TOLD_MARROW = "ambush"
     ~ TRUST_MARROW += 1
-    I nodded. Marrow let out a breath I hadn't known she was holding.
+    I nodded. Marrow's shoulders came down an inch.
     "Good," she said. "You're quicker than he was." It is a strange thing to be proud of, and I was.
 * [Tell her you won't lie about how he died]
     ~ TOLD_MARROW = "truth"
@@ -256,7 +256,17 @@ Before I could move she had knelt and unbuckled the case herself. She checked th
 # panel: greywater_wrapping
 We wrapped him in the cart's canvas. It took all three of us to lift him. Marrow did the feet.
 I had the head. Squires carry things. I had carried his shield, his debts and his excuses to innkeepers, and now I carried him. He was heavier than all of it, and easier company.
-{ AT_FORD == "bridle":
+Nobody asked me why I was doing it. I had an answer ready all the same, the way you do.
+* [Tell yourself it's for the peace]
+    ~ SELF = "peace"
+    For the peace, then. Ten years of war, ending in a roll of canvas, and me with one end of it. It sounded well. It sounded like something Isolde would write, which ought to have warned me.
+* [Tell yourself it's for him]
+    ~ SELF = "him"
+    For him, then. He never paid me, and he never once raised a hand to me either, and in the camps where I grew up that passed for love. I owed him his bells, at least.
+* [Tell yourself it's for the wages]
+    ~ SELF = "wages"
+    For me, then. A dead hero is worth more than a live squire, and I was the one holding him. Somebody in Vellmouth would pay to have him delivered. I only had to learn who, and how much.
+- { AT_FORD == "bridle":
     # remember: ford_bridle :: Marrow remembers you took his bridle.
     "You were the only one who tried," Marrow said, not looking up from the knots. "With the bridle. I saw."
     ~ TRUST_MARROW += 1
@@ -299,7 +309,12 @@ By full light we were on the road to Stint, the toll town a day to the south, wi
 # know: stint :: Stint: a toll town a day's ride south. The first place anyone will see the Lantern.
 The grey walked behind on a lead rein. Its empty saddle shone. I had polished that, too.
 Isolde sat by the body with her satchel on her knees and wrote for an hour without looking up. Marrow walked ahead and did not look back.
-I drove. The reins were still damp. Eight days to Vellmouth, with a dead man, a deserter and a woman who wrote things down, and I could not have told you which of the three I trusted least.
+{ WENT_IN:
+    I drove. I had swallowed a fair part of the Greywater, and I was coughing it back up a little at a time.
+- else:
+    I drove. My palms were raw from the rope, and they stuck to the reins.
+}
+Eight days to Vellmouth, with a dead man, a deserter and a woman who wrote things down, and I could not have told you which of the three I trusted least.
 Somewhere ahead, in Stint, they would be ringing the bells for him. I caught myself hoping he would enjoy it.
 # end: ch00
 -> END

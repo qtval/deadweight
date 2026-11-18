@@ -80,9 +80,9 @@ let maxDepth = 0;
 
 function newCtx() {
   return { route: [], sceneIdx: -1, scene: null, sceneNew: 0, seen: new Set(), panel: null,
-           wordsSinceChoice: 0, words: 0, remembers: [], endId: null, prev: vars() };
+           wordsSinceChoice: 0, words: 0, remembers: [], refrains: {}, endId: null, prev: vars() };
 }
-const cloneCtx = (c) => ({ ...c, route: [...c.route], seen: new Set(c.seen), remembers: [...c.remembers], prev: { ...c.prev } });
+const cloneCtx = (c) => ({ ...c, route: [...c.route], seen: new Set(c.seen), remembers: [...c.remembers], refrains: { ...c.refrains }, prev: { ...c.prev } });
 
 function processTags(ctx, tags) {
   for (const raw of tags) {
@@ -130,6 +130,13 @@ function processLine(ctx, line) {
   }
   const limit = ctx.sceneIdx === 0 ? spec.maxNewProperNouns.firstScene : spec.maxNewProperNouns.otherScenes;
   if (ctx.sceneNew > limit) fail(`scene ${ctx.scene} introduces ${ctx.sceneNew} new proper nouns (max ${limit})`, ctx.route);
+  if (spec.voice) {
+    const narration = text.replace(/"[^"]*"/g, " ");
+    if (spec.voice.thirdPersonSlip.test(narration)) fail(`voice: third-person narration ("${text.slice(0, 60)}…")`, ctx.route);
+    const low = text.toLowerCase();
+    for (const b of spec.voice.banned) if (new RegExp(`\\b${b}\\b`).test(low)) fail(`voice: banned phrase "${b}" in "${text.slice(0, 60)}…"`, ctx.route);
+    for (const r of Object.keys(spec.voice.refrains)) if (low.includes(r)) ctx.refrains[r] = (ctx.refrains[r] ?? 0) + 1;
+  }
   for (const w of unknownCapitals(text)) fail(`unknown proper noun "${w}" (add to story/GLOSSARY.json or rephrase)`, ctx.route);
 }
 
@@ -184,6 +191,8 @@ function finish(ctx) {
   if (!ctx.endId) fail("dead end: story stopped with no choices and no `# end:` tag", ctx.route);
   else if (!spec.endIds.includes(ctx.endId)) fail(`unexpected end id "${ctx.endId}"`, ctx.route);
   for (const [name, check] of spec.endState) if (!check(v)) fail(`end state broken: ${name}`, ctx.route);
+
+  for (const [r, max] of Object.entries(spec.voice?.refrains ?? {})) if ((ctx.refrains[r] ?? 0) > max) fail(`voice: refrain "${r}" used ${ctx.refrains[r]} times on one path (max ${max})`, ctx.route);
 
   const recap = story.EvaluateFunction("recap", [], true).output.trim();
   const ballad = story.EvaluateFunction("ballad", [], true).output.trim();
@@ -240,6 +249,7 @@ const checks = [
   ["Every panel exists; no text before a panel", ![...failures.keys()].some((m) => m.startsWith("panel") || m.startsWith("text shown"))],
   ["Choice labels short and distinct", ![...failures.keys()].some((m) => m.startsWith("choice label") || m.startsWith("duplicate") || m.startsWith("empty"))],
   ["Proper nouns known; not too many new names per scene", ![...failures.keys()].some((m) => m.includes("proper noun"))],
+  ["Voice: first person holds, no banned phrases, refrains within limit", ![...failures.keys()].some((m) => m.startsWith("voice:"))],
   ["Recap is 3 lines and the ballad renders, on every ending", ![...failures.keys()].some((m) => m.startsWith("recap") || m.startsWith("ballad"))],
 ];
 for (const [name, pass] of checks) md.push(`- ${pass ? "✅" : "❌"} ${name}`);

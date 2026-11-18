@@ -22,6 +22,7 @@ Plays **every** route through the compiled ink, choice by choice, and checks it 
 | Panels | Every `# panel:` exists; no text appears before the first panel |
 | Choice labels | ≤12 words, distinct within a choice |
 | Proper nouns | Every name is in `story/GLOSSARY.json`; no scene introduces too many new names (the clarity rule) |
+| Voice | Narration stays first person; no banned phrases (borrowed mantras and names, old-project names, stock phrases); a refrain is not over-used on any path |
 | Recap and ballad | Both render correctly on every ending |
 
 The report also gives **reading time** per playthrough, a **decision map** (every choice and how many paths take each option), and one **example route per outcome**.

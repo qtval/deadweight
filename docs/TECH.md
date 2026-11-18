@@ -18,6 +18,8 @@
 
 ## Repository layout
 
+This is the target layout. Today the reader is one file (`src/main.ts` + `src/style.css`); it is split into the modules below when chapter 1 is added (M2). `gen-panel.mjs` does not exist yet; panels are made in the ChatGPT app (see `docs/ART_PIPELINE.md`).
+
 ```
 deadweight/
 ├── README.md
@@ -29,7 +31,7 @@ deadweight/
 │   ├── systems.ink           # variables, recap(), ballad()
 │   ├── GLOSSARY.json         # every proper noun; the story test enforces it
 │   ├── BEATS.md              # the beat sheet (one scene template per scene)
-│   └── VOICE.md              # 10 reference paragraphs in the final voice
+│   └── VOICE.md              # the voice: Wren, how each character talks, reference paragraphs
 ├── art/
 │   ├── prompts/STYLE.md      # the locked base style string
 │   ├── prompts/locations/    # one file per location
@@ -81,7 +83,7 @@ deadweight/
 
 ## Testing
 
-See `docs/TESTING.md`. In short: `tools/test-story.mjs` plays every path exhaustively (the prologue has 1728) and checks logic, reachability, consequences and writing rules; `tools/test-e2e.mjs` plays real routes in a phone-sized browser. If the full game's path count grows too large for exhaustive play, the story test switches to exhaustive-per-chapter (seeded from each chapter's possible entry states) plus random whole-game runs.
+See `docs/TESTING.md`. In short: `tools/test-story.mjs` plays every path exhaustively (the prologue has 5184) and checks logic, reachability, consequences and writing rules; `tools/test-e2e.mjs` plays real routes in a phone-sized browser. If the full game's path count grows too large for exhaustive play, the story test switches to exhaustive-per-chapter (seeded from each chapter's possible entry states) plus random whole-game runs.
 
 ## Performance targets (web, mid-range Android phone in Chrome)
 

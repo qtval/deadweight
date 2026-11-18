@@ -8,9 +8,23 @@ The realm's one true hero dies stupidly, a day's ride from the end of his famous
 
 ## What this is
 
-A story-driven, choice-based visual novel for phones (built on the web first). Black-and-white, environment-first illustrated panels; concise prose in close third person; choices with a visible stake and a hidden bill that arrives later. A gritty, subversive low-fantasy in the *spirit* of Joe Abercrombie's First Law — no one is chosen, the wise are self-interested, victory is a cost, humor and horror share a sentence — without borrowing its specific characters, factions, or tics (see `docs/WRITING_GUIDE.md` for the do-not-copy list).
+A story-driven, choice-based visual novel for phones (built on the web first). Black-and-white (plus one amber accent for light), environment-first illustrated panels; concise first-person prose in Wren's voice; choices with a visible stake and a hidden bill that arrives later. A gritty, subversive low-fantasy in the *spirit* of Joe Abercrombie's First Law — no one is chosen, the wise are self-interested, victory is a cost, humor and horror share a sentence — without borrowing its specific characters, factions, or tics (see `docs/WRITING_GUIDE.md` for the do-not-copy list).
 
 Target: **2–3 hours** for one playthrough, **6 chapters** (prologue + 5) of 20–30 minutes each, **5 endings** defined by what they cost rather than by win/lose, and enough branching that a second run reads differently.
+
+## The experience we are building
+
+The player should finish a chapter feeling they have *been* someone in this world, not read about them: a small, low-born person on a wet road, among people more dangerous and more charming than they are, making shabby choices they could defend to anyone but themselves, and laughing at things that are not funny. That is the feeling of reading a First Law book. We get there with our own world and people, by building these into every chapter:
+
+1. **You are in Wren's head.** First-person narration with opinions, grudges and excuses. The gap between what Wren thinks and what Wren says is on the page.
+2. **You choose the excuse as well as the act.** *Thought choices* ("Tell yourself…") let the player pick what Wren believes about themself. The game stores it and quotes it back when Wren acts against it.
+3. **You like the people who will cost you.** One *fire scene* per chapter: a night with one companion, food, talk, no plot decision. Betrayal only hurts if there was a fire first.
+4. **You are always in a body.** Cold, feet, weight, hunger. Wren carries one hurt out of the prologue for the rest of the game. Aubric rots on schedule, and every chapter opens with how he is doing.
+5. **Nobody waits for you.** Each companion does something off-screen in every chapter, for their own reasons. Each chapter has one nobody with their own day who does not care about the war.
+6. **You are what people call you.** Hardly anyone uses Wren's name. What they call you instead changes with what you have done. This replaces any reputation meter.
+7. **Every choice tempts and every kindness bills.** One option is always the easy, selfish thing, and it is written to be wanted.
+
+The craft rules behind these are in `docs/WRITING_GUIDE.md`; the sound is in `story/VOICE.md`; the per-chapter checklist is in `story/BEATS.md`.
 
 ## Design pillars
 
@@ -43,7 +57,7 @@ The game is the nine days between the Greywater and Vellmouth.
 
 Six speaking characters, deliberately few. Faces are rare in the art; everyone is seen at distance, from behind, in silhouette, or by what they leave in a room.
 
-- **Wren (the player)** — Aubric's squire for six years; child of a camp laundress; can read, which is rare and the reason Aubric kept them. Not a fighter. Not clever enough to be safe, clever enough to be dangerous. *Recommendation: let the player choose Wren's name and pronouns at the start; with no face in the art this costs nothing and reads as a real choice.*
+- **Wren (the player)** — Aubric's squire for six years; child of a camp laundress; can read, which is rare and the reason Aubric kept them. Not a fighter. Not clever enough to be safe, clever enough to be dangerous. *Recommendation (owner to decide): keep the name Wren and offer no pronoun choice. First-person narration never needs a pronoun, the other characters say "squire" or "you", and a named narrator with a past is what makes the voice work.*
 - **Isolde Ferrant** — the chronicler the Crown attached to Aubric to write the ballad of the peace. Warm, quick, and entirely ruthless about the story. Her draft ballad is a real in-game document that changes with your choices. She is the game's "wise mentor" figure and she is not magic, not old, and not your friend; she is a career.
 - **Marrow** — a Compact deserter turned road-guide, hired by Aubric for the crossing. Knows every ford and every grave. When she is violent it is fast, ugly, and over, and she does not enjoy it. She has her own reason to see the surrender delivered — or not.
 - **Brother Tobin Ask** — itinerant friar of the Church of the Hearth who attaches himself to the party at the first town. Kind in the way of a man who has already decided what your body is worth. He wants Aubric's corpse for his chapel: a saint means pilgrims, and pilgrims mean a roof.
@@ -83,6 +97,9 @@ No morality meter and no good/evil labels anywhere in the interface.
 - **Three tracks, shown only as prose consequences, never as numbers:** **Legend** (how heroic the story of Aubric — and of you — is becoming), **Truth** (how much of what happened still survives in anyone's mouth), **Debt** (favors you owe and are owed).
 - **Relationships** with Isolde, Marrow and Tobin: trust and fear, tracked separately.
 - **The clock:** days left to Vellmouth. Some choices spend a day. Running out does not end the game; it changes who is waiting.
+- **Thought choices:** a few times per chapter the player chooses what Wren tells themself (first: `SELF` in the prologue: the peace / him / the wages). No immediate effect; the narration throws it back later.
+- **The body clock:** Aubric's state advances with the days and sets how hard the "wounded hero" lie is to keep. Wren's own hurt (cough or raw hands, from the prologue) persists.
+- **What they call you:** an epithet set by deeds, used by the road and by Marrow from about chapter 2.
 - **Consequence memory:** every hidden cost surfaces within two chapters, and the game flags it in one line when it does ("Marrow remembers the ford."). Players must be able to *see* the game remembering.
 - **The Ballad:** a living document in the pause menu, rewritten at each chapter break from the current state. In the epilogue it is shown beside The Account.
 - **Saves:** automatic at every node, three manual slots, export/import.
