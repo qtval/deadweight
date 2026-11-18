@@ -125,6 +125,7 @@ function pull(): boolean {
   // Pull lines from ink until at least one beat is queued. Returns false if nothing more.
   while (queue.length === 0 && story.canContinue) {
     const line = story.Continue()!.trim();
+    const after: Beat[] = [];
     for (const raw of story.currentTags ?? []) {
       const [key, ...rest] = raw.split(":");
       const val = rest.join(":").trim();
@@ -138,11 +139,12 @@ function pull(): boolean {
           if (isNew && WHO[a]) toastJournal(WHO[a].name);
           break;
         }
-        case "remember": queue.push({ kind: "remember", text: b }); break;
+        case "remember": after.push({ kind: "remember", text: b }); break;
         case "end": ended = true; break;
       }
     }
     if (line) queue.push({ kind: "text", text: line });
+    queue.push(...after);
     updateBar();
   }
   return queue.length > 0;

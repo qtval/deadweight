@@ -136,6 +136,7 @@ function processLine(ctx, line) {
     const low = text.toLowerCase();
     for (const b of spec.voice.banned) if (new RegExp(`\\b${b}\\b`).test(low)) fail(`voice: banned phrase "${b}" in "${text.slice(0, 60)}…"`, ctx.route);
     for (const r of Object.keys(spec.voice.refrains)) if (low.includes(r)) ctx.refrains[r] = (ctx.refrains[r] ?? 0) + 1;
+    (spec.voice.limits ?? []).forEach(([re], i) => { const n = (low.match(re) ?? []).length; if (n) ctx.refrains[`#${i}`] = (ctx.refrains[`#${i}`] ?? 0) + n; });
   }
   for (const w of unknownCapitals(text)) fail(`unknown proper noun "${w}" (add to story/GLOSSARY.json or rephrase)`, ctx.route);
 }
@@ -193,6 +194,8 @@ function finish(ctx) {
   for (const [name, check] of spec.endState) if (!check(v)) fail(`end state broken: ${name}`, ctx.route);
 
   for (const [r, max] of Object.entries(spec.voice?.refrains ?? {})) if ((ctx.refrains[r] ?? 0) > max) fail(`voice: refrain "${r}" used ${ctx.refrains[r]} times on one path (max ${max})`, ctx.route);
+
+  (spec.voice?.limits ?? []).forEach(([re, max], i) => { if ((ctx.refrains[`#${i}`] ?? 0) > max) fail(`voice: tic ${re} used ${ctx.refrains[`#${i}`]} times on one path (max ${max})`, ctx.route); });
 
   const recap = story.EvaluateFunction("recap", [], true).output.trim();
   const ballad = story.EvaluateFunction("ballad", [], true).output.trim();

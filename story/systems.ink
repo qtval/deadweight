@@ -24,6 +24,13 @@ VAR VERSION = ""
 // later chapters quote it back when Wren acts against it.
 VAR SELF = ""
 
+// What Wren said to Isolde's plan: "agreed" | "bargained" | "objected". Bargaining makes Isolde promise a place in writing.
+VAR PLAN = ""
+VAR ISOLDE_OWES = false
+
+// If Wren went in and told Isolde the truth: did Wren admit hitting him? "" | "told" | "hidden". If told, Isolde holds it.
+VAR ELBOW = ""
+
 VAR TRUST_MARROW = 0
 VAR TRUST_ISOLDE = 0
 VAR LEGEND = 0
@@ -53,8 +60,8 @@ VAR DEBT_MARROW = false
 === function ballad()
 { VERSION:
 - "truth":
-    The page is blank.
-    Isolde says a blank page is the most honest thing she has ever written, and that it won't last past Stint.
+    Two verses stand. Where the third should be, the page is blank.
+    Isolde says it is the most honest thing she has ever written, and that it won't last past Stint.
 - "ambush":
     By the Greywater, black as a broken vow,
     the hill-men waited with their bows.
