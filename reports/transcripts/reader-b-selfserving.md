@@ -94,7 +94,7 @@ And under the crying I thought, I won't have to be up before dawn to arm him.
 
 Then I sat back on my heels and did sums.
 
-Six years' wages, which he had always been about to pay. His purse hung on his belt. He gave silver to beggars where people could see, and owed it everywhere else.
+Six years' wages, which he had always been about to pay. His purse hung on his belt. He gave silver to beggars where people could see, and owed it everywhere else. If I left it, it would be in somebody else's coat by morning.
 
 **The game offers:**
 - **▶ Take what he owed you**  (chosen)

@@ -98,7 +98,7 @@ And under the crying I thought, I won't have to be up before dawn to arm him.
 
 Then I sat back on my heels and did sums.
 
-Six years' wages, which he had always been about to pay. His purse hung on his belt. He gave silver to beggars where people could see, and owed it everywhere else.
+Six years' wages, which he had always been about to pay. His purse hung on his belt. He gave silver to beggars where people could see, and owed it everywhere else. If I left it, it would be in somebody else's coat by morning.
 
 **The game offers:**
 - Take what he owed you
@@ -218,7 +218,7 @@ Isolde shut her eyes. "In a ford. Drunk."
 
 "Again, and look at me, not at him."
 
-I said it five times before she was satisfied.
+Five times, the last with my hand on his chest.
 
 "There's another true one," said Marrow. "Squire broke his nose for him. Look at that ear."
 
@@ -304,6 +304,12 @@ I pulled them off and worked them onto his hands. His fingers had gone stiff. It
 "You wouldn't lie to save my neck," Marrow said, low. "And it took her five goes to teach you one. That's honest or it's stupid, and I can't afford to find out which. You don't get behind me again."
 
 > *Marrow remembers you wouldn't lie to save her neck.*
+
+Marrow cut the purse off his belt with one pull of the knife, weighed it, and put it in her coat.
+
+"You didn't want it," she said. "Six years, was it? I've carried him one night."
+
+> *Marrow remembers you left the purse for her.*
 
 When it was done, Marrow wiped her hands on her coat and went to see to the horse without being asked.
 

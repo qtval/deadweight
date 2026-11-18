@@ -18,6 +18,7 @@ export const spec = {
     drank_with_him:           (v) => v.DRANK === true,
     broken_nose:              (v) => v.WENT_IN === true,
     honest_twice:             (v) => v.TOLD_MARROW === "truth" && v.VERSION === "truth",
+    left_purse:               (v) => v.PURSE === false,
     light_purse:              (v) => v.PURSE === true,
     dry_to_the_knee:          (v) => v.VERSION === "hero" && !v.WENT_IN,
   },

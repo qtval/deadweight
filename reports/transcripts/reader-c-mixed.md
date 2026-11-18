@@ -98,7 +98,7 @@ And under the crying I thought, I won't have to be up before dawn to arm him.
 
 Then I sat back on my heels and did sums.
 
-Six years' wages, which he had always been about to pay. His purse hung on his belt. He gave silver to beggars where people could see, and owed it everywhere else.
+Six years' wages, which he had always been about to pay. His purse hung on his belt. He gave silver to beggars where people could see, and owed it everywhere else. If I left it, it would be in somebody else's coat by morning.
 
 **The game offers:**
 - Take what he owed you
@@ -295,6 +295,12 @@ Before the canvas went over his hands, I saw my own. I was still wearing his glo
 - Keep them. He gave them to you.
 
 I folded his hands on his sword hilt, the way they lie in the songs. Somebody would lift that canvas in the end, and he had to look like what we were selling. It was the peace I was thinking of. I kept the gloves on to do it.
+
+Marrow cut the purse off his belt with one pull of the knife, weighed it, and put it in her coat.
+
+"You didn't want it," she said. "Six years, was it? I've carried him one night."
+
+> *Marrow remembers you left the purse for her.*
 
 When it was done, Marrow wiped her hands on her coat and went to see to the horse without being asked.
 

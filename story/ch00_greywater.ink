@@ -84,7 +84,7 @@ I shook him. I thumped his breastplate with both fists, then heaved him over on 
 "Get up," I said. "Get up, you stupid old bastard." I was crying. I was so cold my teeth hurt.
 And under the crying I thought, I won't have to be up before dawn to arm him.
 Then I sat back on my heels and did sums.
-Six years' wages, which he had always been about to pay. His purse hung on his belt. He gave silver to beggars where people could see, and owed it everywhere else.
+Six years' wages, which he had always been about to pay. His purse hung on his belt. He gave silver to beggars where people could see, and owed it everywhere else. If I left it, it would be in somebody else's coat by morning.
 * [Take what he owed you]
     ~ PURSE = true
     I pulled off the gloves he had given me to do it, and put them on again after. The purse didn't come to six weeks.
@@ -250,7 +250,7 @@ Isolde shut her eyes. "In a ford. Drunk."
 "Nobody will ever hear it," said Isolde. "Say this for me, Wren. He has a fever."
 "He has a fever," I said.
 "Again, and look at me, not at him."
-I said it five times before she was satisfied.
+Five times, the last with my hand on his chest.
 { TOLD_MARROW == "truth" && ELBOW != "told":
     "There's another true one," said Marrow. "Squire {WENT_IN:broke his nose for him|stood on the bank and watched him go}. Look at that ear."
     Isolde looked at my ear{WENT_IN:, and at his nose}. "Then that is the one I shall write," she said, "if I am ever made to write a true one. Your name is in it, Wren. I shall keep it by me."
@@ -388,6 +388,11 @@ Before the canvas went over his hands, I saw my own. I was still wearing his glo
 - AT_FORD == "bridle":
     # remember: ford_bridle :: Marrow remembers you took his bridle.
     "You had hold of his bridle," Marrow said, not looking up from the knots. "I saw you against the water. Should've hung on."
+}
+{ not PURSE:
+    Marrow cut the purse off his belt with one pull of the knife, weighed it, and put it in her coat.
+    # remember: left_purse :: Marrow remembers you left the purse for her.
+    "You didn't want it," she said. "Six years, was it? I've carried him one night."
 }
 { PURSE:
     Marrow ran her thumb along his belt where the purse had hung. She looked at me and didn't say a thing. Then she unbuckled his spurs and put them in her coat.
