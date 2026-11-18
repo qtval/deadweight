@@ -97,8 +97,8 @@ No morality meter and no good/evil labels anywhere in the interface.
 - **Three tracks, shown only as prose consequences, never as numbers:** **Legend** (how heroic the story of Aubric — and of you — is becoming), **Truth** (how much of what happened still survives in anyone's mouth), **Debt** (favors you owe and are owed).
 - **Relationships** with Isolde, Marrow and Tobin: trust and fear, tracked separately.
 - **The clock:** days left to Vellmouth. Some choices spend a day. Running out does not end the game; it changes who is waiting.
-- **Thought choices:** a few times per chapter the player chooses what Wren tells themself (first: `SELF` in the prologue: the peace / him / the wages). No immediate effect; the narration throws it back later.
-- **The body clock:** Aubric's state advances with the days and sets how hard the "wounded hero" lie is to keep. Wren's own hurt (cough or raw hands, from the prologue) persists.
+- **Thought choices:** a few times per chapter the player chooses what Wren tells themself (first: `SELF` in the prologue: the peace / him / what I'm owed; the form is under review after the reader panel). No immediate effect; the narration throws it back later.
+- **The body clock:** Aubric's state advances with the days and sets how hard the "wounded hero" lie is to keep. Wren's own hurt (the cough, or the bad knee, from the prologue) persists.
 - **What they call you:** an epithet set by deeds, used by the road and by Marrow from about chapter 2.
 - **Consequence memory:** every hidden cost surfaces within two chapters, and the game flags it in one line when it does ("Marrow remembers the ford."). Players must be able to *see* the game remembering.
 - **The Ballad:** a living document in the pause menu, rewritten at each chapter break from the current state. In the epilogue it is shown beside The Account.

@@ -15,13 +15,15 @@ Guiding rules (carried over from the previous project because they were right):
 
 ## Where we are (updated 2026-11-18)
 
-**Milestone M0.5, waiting on the owner's verdict.** The prologue was rewritten on 2026-11-18 in first-person Wren after the first verdict ("it doesn't feel like First Law"). The groundwork for the feel is in place: `docs/VISION.md` (the experience), `docs/WRITING_GUIDE.md` (craft rules and immersion devices), `story/VOICE.md` (draft), `story/BEATS.md` (chapter checklist and the prologue as example), and a voice check in the story test.
+**Milestone M0.5.** The owner's first verdict was "it doesn't feel like First Law". Since then the prologue has been rewritten in first-person Wren and put through three rounds of the blind reader panel (`reports/readers/2026-11-18-prologue.md`). **It does not pass yet:** clarity passes and six of nine feel criteria pass, but temptation, shabbiness on the honest route and sense of place score under 4, and the First Law reader gives the feel 3 of 5.
+
+The owner is assumed not to be available to test (see `CLAUDE.md`). The reader panel is the gate; he can overrule it.
 
 **Next tasks, in order:**
-1. Owner plays the rewritten prologue and gives the verdict: is the feel there? Which lines ring false? Approve or change: first person, the fixed name Wren, thought choices, fire scenes.
-2. Owner edits `story/VOICE.md` (or says "approved as is").
-3. Generate the 7 prologue panels: either a Codex task ("generate panels for ch00", see `AGENTS.md`; on trial) or by hand in ChatGPT from `art/prompts/ch00.md`. Then a Claude session processes and adds them.
-4. M1, starting with the cast sheet and the chapter 1 beat sheet, written against `story/BEATS.md`.
+1. Prologue revision, round 4: work through "Still open" in the reader report (honesty costs on the spot; redesign the thought choice as a concrete act; three kinds of wit and fewer buttoned paragraphs; place and dirt; Wren acts inside Isolde's plan scene). Then a fresh panel. Stop when it passes or after three rounds.
+2. Panels for the prologue: check for a `panels/ch00` branch or pull request from the Codex trial (`AGENTS.md`); if images are there, process, test and place them.
+3. M1, starting with the cast sheet (each character's own kind of wit goes in it) and the chapter 1 beat sheet against `story/BEATS.md`.
+4. Owner, whenever he likes: title, and confirm the fixed name Wren.
 
 ---
 
@@ -45,17 +47,19 @@ Repo, tooling, and a reader that runs.
 
 A playable prologue to agree on tone, writing, UI, systems and testing before M1 commits to the full beat sheet.
 
-- [x] Prologue "The Greywater" in ink: 7 scenes, 5184 paths, 9 outcomes, 6 remember-lines
+- [x] Prologue "The Greywater" in ink: 7 scenes, 18,144 paths, 9 outcomes, 8 remember-lines
 - [x] Prologue rewritten for voice (2026-11-18): first-person Wren, two new choices (the wine, the purse); craft rules added to WRITING_GUIDE
 - [x] Reader: chapter card, panel crossfade, tap-to-continue, choices, journal (Travelers / Ballad / Road / Settings), autosave, end screen with recap and ballad
 - [x] Procedural placeholder panels (stand-ins for GPT-Image-2 art)
 - [x] Art direction revised: B&W ink + amber light accent; prompt pack for the 7 prologue panels; `process-panel.mjs` palette/levels/grain pipeline
 - [ ] 7 prologue panels generated in ChatGPT, processed and in the game
 - [x] Groundwork for the feel (2026-11-18): the experience target in VISION, immersion devices in WRITING_GUIDE, draft `story/VOICE.md`, chapter checklist in `story/BEATS.md`, first thought choice (`SELF`) and Wren's hurt in the prologue, voice check in the story test
-- [x] Tests green: story 5184/5184 paths, browser 38/38 checks
-- [ ] **Owner verdict** on: premise, tone and prose, UI, the journal and remember-lines, the art direction, and the testing reports
+- [x] Blind reader panel built (`tests/reader-panel.md`, `npm run transcripts`) and run for three rounds on the prologue
+- [ ] Reader panel passes on the prologue (round 3: fails on temptation, shabbiness, place; First Law feel 3/5)
+- [x] Tests green: story 18,144/18,144 paths, browser 39/39 checks
+- [ ] Owner verdict, if and when he gives one (no longer the gate)
 
-**Exit test:** the owner says "yes, build this" — or lists what to change, and the changes are made and re-tested.
+**Exit test:** the blind reader panel passes on the prologue, with the tests green. The owner may overrule either way.
 
 ## M1 — Story bible and beat sheet (≈2 weeks)
 
@@ -170,3 +174,6 @@ Combat systems, inventory, character creator beyond name/pronouns, voice acting,
 | 2026-11-18 | Recommended: fixed name Wren, no pronoun choice (owner still to confirm) | First person removes the need; a named narrator carries the voice |
 | 2026-11-18 | Story test gains a voice check (first person, banned phrases and names, refrain limits) | Keeps the voice from drifting between sessions and models |
 | 2026-11-18 | Trial: panels generated by a Codex task on the owner's ChatGPT Plus allowance, into `art/incoming/` via pull request (`AGENTS.md`) | Owner wants minimum manual work; this is OpenAI's supported agent, unlike automating the ChatGPT app. Adopt only after a successful first run |
+| 2026-11-18 | Every task is tested as if the owner is absent. A blind reader panel (three fresh AI readers, fixed questionnaire, pass rules) gates all prose; M0.5's exit test is now the panel, not the owner's verdict | Owner's instruction: "treat every task like I am not there to test it" |
+| 2026-11-18 | Prologue grew to 13 decision points (answer Isolde's plan; admit or hide the elbow) and about 12 minutes | Reader findings: the player watched the plan being made, and the worst act was taken out of their hands |
+| 2026-11-18 | Wren's hurt on the rope route is a bad knee, not raw hands | Wren is wearing Aubric's gloves |

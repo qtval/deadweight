@@ -44,9 +44,17 @@ Plays the real build in Chromium at **390×844** (a typical phone) by tapping, a
 
 Add a route here whenever a new ending or major branch is added.
 
-## Layer 3 — People (manual, per milestone)
+## Layer 3 — Blind reader panel (every prose change; the owner is assumed absent)
 
-Automated tests prove the story is *wired* correctly. They cannot prove it *makes sense*. At the end of each content milestone:
+`npm run transcripts`, then `tests/reader-panel.md` → `reports/readers/<date>-<what>.md`
+
+Layers 1 and 2 prove the story is wired correctly. This layer judges whether it reads: clarity, and the feel. Three fresh reader agents, who have seen no docs, source or earlier draft, each read one plain-text playthrough and answer a fixed questionnaire: a new player (clarity and pace), a First Law reader (feel and originality), a fiction editor (stock phrases and tics). Pass rules are in `tests/reader-panel.md`. At most three rounds per session; a failing result is reported as failing, with the open items listed, never rounded up.
+
+The writer does not grade their own prose and does not brief the readers. Reader scores run generous; the comments matter more than the numbers. Fixes the readers ask for are made; tics they find become `voice.limits` in `tests/story-spec.mjs` so they stay fixed.
+
+## Layer 4 — People (manual, per milestone)
+
+The reader panel is a stand-in, not a replacement. When real players are available, at the end of each content milestone:
 
 1. **Story-lock test** (see `docs/WRITING_GUIDE.md`): three players who haven't read the docs play the new chapters, then answer the five questions unprompted. Two of three must pass each one.
 2. **Timing**: record time to finish; compare to the reading-time estimate in the story report.
@@ -58,4 +66,5 @@ Automated tests prove the story is *wired* correctly. They cannot prove it *make
 - Story report summary (paths, coverage, outcomes, failures).
 - Browser report summary and two or three screenshots.
 - Any new warnings, and what was done about them.
+- The reader-panel table and its open items, whenever prose changed.
 - Playtest notes, when a milestone ends.

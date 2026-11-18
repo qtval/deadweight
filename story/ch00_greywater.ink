@@ -32,7 +32,7 @@ In six years he had never once paid me, either. But he said it so warmly that I 
     "One of us is a horse," said Aubric, and slapped the grey's neck, and laughed at his own joke the way he always did, until you were laughing as well.
 - Then he noticed my feet. I had been in and out of the shallows with the horses, and I was wet to the shins and shaking, and drunk as he was, he saw it.
 He pulled off his riding gloves, the good ones with the fleece inside, and dropped them into my hands. "Can't have you sneezing through my triumph. Your mother would never forgive me. How is her chest?"
-My mother washed shirts for the army and had spoken to him once, six years ago. He had asked after her chest every winter since. It would have been easier to hate him if he had forgotten. I put the gloves on.
+My mother washed shirts for the army and had spoken to him once, six years ago. He had asked after her chest every winter since. It would have been easier to hate him if he had forgotten. I put the gloves on. The mud at the river's edge sucked at my boots and stank of dead reeds.
 He gathered the reins. Behind us the cart sat dark on the bank, with the chronicler asleep in it. There was nobody awake to stop him but me.
 * [Take his bridle and hold him back]
     ~ AT_FORD = "bridle"
@@ -45,7 +45,6 @@ He gathered the reins. Behind us the cart sat dark on the bank, with the chronic
 * [Say nothing. He hates being corrected.]
     ~ AT_FORD = "silent"
     I said nothing. Corrected, he got twice as stubborn and three times as loud, and I was tired, and my feet were wet, and I wanted my bed.
-    I have had a long time since to weigh that against a man's life.
 - Then he put his heels to the grey and rode into the Greywater, sitting very straight, in case anyone was watching.
 -> s02_water
 
@@ -74,16 +73,16 @@ He didn't stand up. A gauntlet came out of the water, opened, closed on nothing,
 = s03_bank
 # scene: s03_bank
 # panel: greywater_bank_body
-He lay on his back on the near bank with the river running out of him.
+He lay on his back on the near bank with the river running out of him. He smelled of wine and river mud.
 I shook him. I thumped his breastplate with both fists, which did nothing but hurt my hands, so I heaved him over on his side. A great deal of water came out of him, and most of the wine, and no breath.
 "Get up," I said. I was crying. I was so cold my teeth hurt.
-And under the crying, small and perfectly clear, I thought that I would not have to be up before dawn to arm him. I am not proud of that.
+And under the crying, small and perfectly clear, I thought that I would not have to be up before dawn to arm him.
 Then I sat back on my heels and did sums.
-Six years' wages, which he had always been about to pay. His purse hung on his belt, and it was not heavy. He gave silver to beggars where people could see, and owed it everywhere else.
+Six years' wages, which he had always been about to pay. His purse hung on his belt. He gave silver to beggars where people could see, and owed it everywhere else.
 * [Take what he owed you]
     ~ PURSE = true
     Six years. I took the purse. It didn't come to six weeks.
-    I was still wearing his gloves when I did it.
+    I took his gloves off to do it. I don't know why.
 * [Leave the purse]
     I let it hang. I'm not sure that was honesty. I couldn't stand to be paid at last and find out how little it came to.
 - The sums went on. A place in his household in Vellmouth, the capital: promised, never written down. Myself: a laundress's child who could read, squire to a dead man.
@@ -166,7 +165,7 @@ I didn't answer. I was working something out. Two people had seen him drown. She
     "Keep it there," she said. "And stop showing people. There's people I know on that paper."
 * [Say you haven't seen it]
     "Haven't seen it," I said.
-    She held the lantern up to my face. I could feel the heat of it on my cheek and the case like ice on my ribs, and I kept my arms where they were.
+    She held the lantern up to my face. I could feel the heat of it on my cheek and the case cold on my ribs, and I kept my arms where they were.
     "River, then," said Marrow at last, the way you would to a child who says the dog ate the cheese. She lowered the lantern. She didn't take her eyes off my shirt.
 - -> s05_dawn
 
@@ -178,7 +177,7 @@ I didn't answer. I was working something out. Two people had seen him drown. She
 It got light without any sun in it. Isolde Ferrant climbed down from the cart with a blanket round her shoulders and ink on two fingers. She took a draught to sleep, and nothing short of a fire woke her.
 She was the chronicler the Crown had sent along to write the Lantern's ballad. She had written most of it before we set out.
 She had always been kind to me. She knew my name, and asked after my cough in winter, and I had never worked out what it was for.
-I had sat by him all night in wet clothes. Some time before dawn I had stopped shivering, and Marrow had said that was a bad sign and thrown the horse blanket over me.
+I had sat by him all night in wet clothes, in a stink of horse and wet wool. Some time before dawn I had stopped shivering, and Marrow had said that was a bad sign and thrown the horse blanket over me.
 Isolde looked at the body the way she would look at a page with a blot on it.
 "Did anyone else see?" she said.
 "Just us," said Marrow.
@@ -215,7 +214,7 @@ Isolde nodded and turned to me. "Wren. Tell me how he died."
     ~ ELBOW = "told"
     "He had hold of me," I said. "I hit him. In the face. Then he stopped."
     Nobody spoke. Marrow looked at the sky.
-    "He struck his face on the stones," said Isolde, after a while. "You will not say otherwise again, to me or to anyone, and I will not write it down. That is a kindness, Wren. Remember who did it for you."
+    "He struck his face on the stones," said Isolde, after a while. "You will not say otherwise again, and I will not write it down. That is a kindness, Wren. Remember who did it."
 * [Leave out your elbow]
     ~ ELBOW = "hidden"
     I left out my elbow. It had started to swell, and I kept that arm under the blanket.
@@ -228,12 +227,12 @@ Isolde shut her eyes. "In a ford," she said. "Drunk. A child could have crossed 
 -> s05_plan
 
 = s05_plan
-"Listen. The hill towns didn't surrender to the Crown. They surrendered to him. To his word that nobody hangs."
+"Listen," said Isolde. "The hill towns didn't surrender to the Crown. They surrendered to him. To his word that nobody hangs."
 "His word's on the paper," said Marrow.
 "His word is lying there with its mouth open. The hour the court hears he is dead, the men who sell the army its bread will say the paper died with him. Your hill towns will agree."
-"So ride the paper to the capital. Why haul him?"
-"Because the council will not sign for a rider. They will sign for the Lantern, or for a door with the Lantern behind it." Isolde looked at the body, fondly. "So he isn't dead. He has a fever. He rides in the cart, under canvas, till the King's ink is dry."
-"He'll stink by the fourth day."
+"So ride the paper south," said Marrow. "Why haul him?"
+"Because the council will not sign for a rider. They will sign for the Lantern, or for a door with him behind it." Isolde looked fondly at the body. "So he isn't dead. He has a fever. He rides in the cart till the King's ink is dry."
+"He'll stink by the fourth day," said Marrow.
 "Heroes do. We'll burn something."
 She turned to me. "Nobody will take my word that he is alive in there. They will take his squire's. You carry out his pot. You tell them he is sleeping. Well?"
 * [Say you'll do it]
@@ -253,20 +252,12 @@ She turned to me. "Nobody will take my word that he is alive in there. They will
     "Then nobody lifts it," said Isolde. "It is nine days of madness or ten more years of war, and I know which I would sooner you drove. Unless you have a third thing?"
     I didn't have a third thing. She waited, politely, until all three of us were sure of it.
 - "And the guide who picked the ford?" said Marrow.
-"Is paid for a quiet road, and was never at a ford in her life. We came round by the bridge."
+"Is paid for a quiet road," said Isolde, "and was never at a ford in her life. We came round by the bridge."
 "The bridge is two days east."
 "Then we made excellent time."
-"The fever is for the road," said Isolde. "The dying is for Vellmouth, and for the song. I have been paid for a ballad with a triumph at the end of it, and I have spent the money."
-{ VERSION == "truth":
-    "And how does he die, in Vellmouth?" I said.
-    "Of whatever I can rhyme."
-}
-{ VERSION == "ambush":
-    "He dies of his wounds. Bravely, in the capital, with the bells."
-}
+"The fever is for the road," Isolde said to me. "The dying is for Vellmouth, and for the song. I have been paid for a ballad with a triumph at the end of it, and I have spent the money. {VERSION == "truth":He dies of whatever I can rhyme.}{VERSION == "ambush":He dies of his wounds, in the capital, with the bells.}{VERSION == "hero":He dies of a chill he took pulling you out of a river. Some other river. You are in the song, Wren. Think of that.}"
 { VERSION == "hero":
-    "He dies of the river he pulled you out of. You are in the song, Wren. Think of that."
-    I did think of it. That was the trouble.
+    I did think of it.
 }
 She held out an inky hand to me. "Now. The surrender. Where is it?"
 { LETTER == "body": -> letter_on_body }
@@ -309,7 +300,7 @@ Before I could move she had knelt and unbuckled the case herself. She checked th
         Marrow looked at my shirt, and then at the sky, and scratched her neck.
     }
     "Then we are carrying a dead man nine days," Isolde said at last, "to tell the King the war is over, with nothing to show him."
-    She stood up and shook out the blanket.
+    She looked at my shirt for exactly as long as Marrow had. Then she stood up and shook out the blanket.
     "So we'll find it," she said. "Or something very like it."
 - -> s06_wrap
 
@@ -345,8 +336,8 @@ Nobody asked me why I was doing it.
     ~ TRUST_MARROW -= 1
 }
 { TOLD_MARROW == "truth" && VERSION == "truth":
-    # remember: honest_twice :: Marrow remembers you told it straight, twice.
-    "Twice you told it straight," Marrow said, low. "That's honest or it's stupid, and I can't afford to find out which. You walk in front of me from here."
+    # remember: honest_twice :: Marrow remembers you wouldn't lie for anyone.
+    "You wouldn't lie to save my neck," Marrow said, low. "Then you wouldn't lie for her. That's honest or it's stupid, and I can't afford to find out which. You don't get behind me again."
 }
 { TOLD_MARROW == "ambush" && VERSION == "truth":
     "We had a story," Marrow said, low. "You dropped it in the river with him."
@@ -377,7 +368,7 @@ By full light we were on the road south, with the Lantern under canvas in the ba
 Stint, the toll town where the first bells were waiting, was one night's ride for a man on a good horse. With a cart and a dead man it would take us till dark.
 # know: stint :: Stint: the toll town to the south, where the bells are waiting. The first place anyone will ask to see the Lantern.
 The grey walked behind on a lead rein, with its empty saddle shining.
-Isolde sat by the body with her satchel on her knees and wrote without looking up. Marrow walked ahead and did not look back.
+Isolde sat by the body with her satchel on her knees and wrote without looking up. {TOLD_MARROW == "truth" && VERSION == "truth":Marrow walked behind the cart, where she could see my back.|Marrow walked ahead and did not look back.}
 { WENT_IN:
     I drove. I was coughing up the Greywater a little at a time, and every cough hurt somewhere new.
 - else:

@@ -52,7 +52,7 @@ VAR DEBT_MARROW = false
 { LETTER:
 - "isolde": Isolde carries the surrender now.
 - "wren": You carry the surrender, and everyone knows it.
-- "hidden": You carry the surrender. Isolde believes the river took it.
+- "hidden": You carry the surrender. You told Isolde the river took it.
 }
 
 // ---------------------------------------------------------------
@@ -64,7 +64,7 @@ VAR DEBT_MARROW = false
     Isolde says it is the most honest thing she has ever written, and that it won't last past Stint.
 - "ambush":
     By the Greywater, black as a broken vow,
-    the hill-men waited with their bows.
+    the robbers waited with their bows.
     The Lantern stood where a lesser man fell,
     and how he stood, the river knows.
 - "hero":

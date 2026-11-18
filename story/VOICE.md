@@ -1,6 +1,6 @@
 # Voice reference
 
-**Status: draft (AI, 2026-11-18). The owner edits and approves this; it is locked at M1.** Until then it is the working reference: every prose pass is checked against it, and `tools/test-story.mjs` enforces the mechanical parts (first person, banned phrases, refrain limits).
+**Status: draft (AI, 2026-11-18), revised after three reader-panel rounds. The owner may edit it at any time; it is locked at M1.** Until then it is the working reference: every prose pass is checked against it, and `tools/test-story.mjs` enforces the mechanical parts (first person, banned phrases, refrain limits).
 
 Read `docs/WRITING_GUIDE.md` first for the rules. This file is the sound.
 
@@ -10,9 +10,9 @@ The player should feel they are a small person inside a hard, funny, unfair worl
 
 ## Wren (the narrator)
 
-- First person, past tense, telling it some time afterward. Never says how long afterward, or to whom.
+- First person, past tense, but inside the moment: cold, frightened, in danger now. Hindsight ("since", "later") at most twice a chapter.
 - Counts everything: wages, days, what a thing weighs, what a person wants.
-- Admits the shabby motive in the second sentence, after trying the noble one in the first. "I would like to say… What I did was…"
+- Thinks the ugly thing plainly and does not apologise for it. Says one thing aloud and thinks another in the same breath.
 - Judges people by what their kindness is for.
 - Feels it in the body first: feet, hands, cold, weight, smell.
 - Never explains what a choice meant. Never speaks to the player as a player.
@@ -23,9 +23,9 @@ The player should feel they are a small person inside a hard, funny, unfair worl
 
 | Who | Sound | How they lie | What they call Wren |
 |---|---|---|---|
-| **Aubric** (dead; quoted and remembered) | Warm, loud, generous with words, repeats his best lines. Jokes at his own expense that are really boasts. | By believing it first. | "Wren", always, fondly. The only one who used the name for free. |
-| **Marrow** | Short. Prices things. Says the worst part first. Jokes flat, without smiling. Swears once per scene at most. | Rarely; she changes the subject to money. | "Squire". Later, whatever the road calls you. |
-| **Isolde** | Whole, graceful sentences. Asks after your health. Two voices: the warm one and the working one. | With the truth, arranged. | "Wren", but only when she is taking something. |
+| **Aubric** (dead; quoted and remembered) | Warm, loud, generous with words, repeats his best lines. His wit is boasting dressed as modesty. | By believing it first. | "Wren", always, fondly. The only one who used the name for free. |
+| **Marrow** | Short. Prices things ("That's my fee gone"). Says the worst part first. Her wit is arithmetic. Swears. | Rarely; she changes the subject to money. | "Squire". Later, whatever the road calls you. |
+| **Isolde** | Whole, gracious sentences. Asks after your health. Her wit is courtesy with a blade in it ("Then we made excellent time"). | With the truth, arranged. | "Wren", but only when she is taking something. |
 | **Tobin** | Gentle, slow, full of small practical kindnesses. Talks about roofs, bread, feet. | By calling it mercy. | "Child", "my friend". |
 | **Coste** | Speaks about you to other people while you stand there. Tidy, tired, reasonable. | By offering you what you want. | "The Lantern's squire". Your name once, with the offer. |
 | **Hesper** | Blunt as a ledger. Not cruel. No patience for songs. | She doesn't. That is the problem. | Asks what your name is. Nobody else in the game does. |
@@ -37,18 +37,22 @@ The first six are from the prologue as built. The last four are register samples
 **1. Opening a scene (where, who, want, why now, in one breath).**
 The Greywater was loud in the dark, fast and black and no deeper than a man's belt, and Sir Aubric Dane had decided to cross it drunk.
 
-**2. Charm, and what it costs.**
-In six years he had never once paid me, either. But he said it so warmly that I only remembered that afterward. That was his gift. You warmed your hands at him and didn't count your fingers till later.
+**2. Charm, shown, and what it costs.**
+He pulled off his riding gloves, the good ones with the fleece inside, and dropped them into my hands. "Can't have you sneezing through my triumph. Your mother would never forgive me. How is her chest?"
+My mother washed shirts for the army and had spoken to him once, six years ago. He had asked after her chest every winter since. It would have been easier to hate him if he had forgotten.
 
-**3. The shabby motive, admitted.**
-I knelt by him a while. I would like to tell you I wept. What I did was sums.
+**3. The ugly thought, unapologised.**
+"Get up," I said. I was crying. I was so cold my teeth hurt.
+And under the crying, small and perfectly clear, I thought that I would not have to be up before dawn to arm him.
+Then I sat back on my heels and did sums.
 
 **4. Violence: clumsy, and shameful for whoever did it.**
-I hit him. I am fairly sure of that. I hit the Lantern in the face with my elbow until he let go, and I came up, and breathed. By the time I had a strap in my fist and had started to pull, he had stopped helping.
+I couldn't get his fingers open. My chest was going. So I hit him. I hit the Lantern in the face with my elbow, three times, four, and felt something in his nose give, and he let go.
+I came up and breathed and was sick. By the time I had a strap in my fist and had started to pull, he had stopped helping.
 
 **5. A joke inside the worst moment, from the people in it.**
-"He'll stink by the fourth," said Marrow.
-"Heroes do," said Isolde. "We'll say it's the wound."
+"He'll stink by the fourth day," said Marrow.
+"Heroes do. We'll burn something."
 
 **6. Ending a scene on the turn.**
 Somewhere ahead, in Stint, they would be ringing the bells for him. I caught myself hoping he would enjoy it.
@@ -67,7 +71,15 @@ By the third day we had stopped saying *fever*. Isolde bought lavender from a wo
 **10. A thought choice, thrown back.** *(sample)*
 I took the silver. *For the peace*, I had told myself on the bank, with the canvas in my hands. The peace was not mentioned in the price.
 
+## Saying one thing, thinking another
+
+"He fell on the stones," I said. What I thought was: four times.
+
 ## Never
+
+- The narrator reviewing their own shabbiness ("I am not proud of that").
+- Three paragraphs in a row that end on a neat turn.
+- A joke that could be moved to another character's mouth.
 
 - Wren narrated in third person, or a narrator who is not Wren.
 - A line that tells the player what to feel, or what a choice meant.

@@ -35,7 +35,7 @@ Then he noticed my feet. I had been in and out of the shallows with the horses, 
 
 He pulled off his riding gloves, the good ones with the fleece inside, and dropped them into my hands. "Can't have you sneezing through my triumph. Your mother would never forgive me. How is her chest?"
 
-My mother washed shirts for the army and had spoken to him once, six years ago. He had asked after her chest every winter since. It would have been easier to hate him if he had forgotten. I put the gloves on.
+My mother washed shirts for the army and had spoken to him once, six years ago. He had asked after her chest every winter since. It would have been easier to hate him if he had forgotten. I put the gloves on. The mud at the river's edge sucked at my boots and stank of dead reeds.
 
 He gathered the reins. Behind us the cart sat dark on the bank, with the chronicler asleep in it. There was nobody awake to stop him but me.
 
@@ -78,17 +78,17 @@ It took longer to get him onto the stones than it had taken him to die.
 
 * * *
 
-He lay on his back on the near bank with the river running out of him.
+He lay on his back on the near bank with the river running out of him. He smelled of wine and river mud.
 
 I shook him. I thumped his breastplate with both fists, which did nothing but hurt my hands, so I heaved him over on his side. A great deal of water came out of him, and most of the wine, and no breath.
 
 "Get up," I said. I was crying. I was so cold my teeth hurt.
 
-And under the crying, small and perfectly clear, I thought that I would not have to be up before dawn to arm him. I am not proud of that.
+And under the crying, small and perfectly clear, I thought that I would not have to be up before dawn to arm him.
 
 Then I sat back on my heels and did sums.
 
-Six years' wages, which he had always been about to pay. His purse hung on his belt, and it was not heavy. He gave silver to beggars where people could see, and owed it everywhere else.
+Six years' wages, which he had always been about to pay. His purse hung on his belt. He gave silver to beggars where people could see, and owed it everywhere else.
 
 **The game offers:**
 - Take what he owed you
@@ -165,7 +165,7 @@ She was the chronicler the Crown had sent along to write the Lantern's ballad. S
 
 She had always been kind to me. She knew my name, and asked after my cough in winter, and I had never worked out what it was for.
 
-I had sat by him all night in wet clothes. Some time before dawn I had stopped shivering, and Marrow had said that was a bad sign and thrown the horse blanket over me.
+I had sat by him all night in wet clothes, in a stink of horse and wet wool. Some time before dawn I had stopped shivering, and Marrow had said that was a bad sign and thrown the horse blanket over me.
 
 Isolde looked at the body the way she would look at a page with a blot on it.
 
@@ -194,17 +194,17 @@ Isolde shut her eyes. "In a ford," she said. "Drunk. A child could have crossed 
 
 "Nothing happens to anybody," said Isolde, pleasantly, "because nobody is going to tell it. If I hear it from a tollkeeper, Wren, I shall know whose mouth it came out of. I should hate that."
 
-"Listen. The hill towns didn't surrender to the Crown. They surrendered to him. To his word that nobody hangs."
+"Listen," said Isolde. "The hill towns didn't surrender to the Crown. They surrendered to him. To his word that nobody hangs."
 
 "His word's on the paper," said Marrow.
 
 "His word is lying there with its mouth open. The hour the court hears he is dead, the men who sell the army its bread will say the paper died with him. Your hill towns will agree."
 
-"So ride the paper to the capital. Why haul him?"
+"So ride the paper south," said Marrow. "Why haul him?"
 
-"Because the council will not sign for a rider. They will sign for the Lantern, or for a door with the Lantern behind it." Isolde looked at the body, fondly. "So he isn't dead. He has a fever. He rides in the cart, under canvas, till the King's ink is dry."
+"Because the council will not sign for a rider. They will sign for the Lantern, or for a door with him behind it." Isolde looked fondly at the body. "So he isn't dead. He has a fever. He rides in the cart till the King's ink is dry."
 
-"He'll stink by the fourth day."
+"He'll stink by the fourth day," said Marrow.
 
 "Heroes do. We'll burn something."
 
@@ -223,17 +223,13 @@ I didn't have a third thing. She waited, politely, until all three of us were su
 
 "And the guide who picked the ford?" said Marrow.
 
-"Is paid for a quiet road, and was never at a ford in her life. We came round by the bridge."
+"Is paid for a quiet road," said Isolde, "and was never at a ford in her life. We came round by the bridge."
 
 "The bridge is two days east."
 
 "Then we made excellent time."
 
-"The fever is for the road," said Isolde. "The dying is for Vellmouth, and for the song. I have been paid for a ballad with a triumph at the end of it, and I have spent the money."
-
-"And how does he die, in Vellmouth?" I said.
-
-"Of whatever I can rhyme."
+"The fever is for the road," Isolde said to me. "The dying is for Vellmouth, and for the song. I have been paid for a ballad with a triumph at the end of it, and I have spent the money. He dies of whatever I can rhyme."
 
 She held out an inky hand to me. "Now. The surrender. Where is it?"
 
@@ -269,9 +265,9 @@ He never paid me. He gave me his gloves. I couldn't make the two come out even, 
 
 > *Marrow remembers you took his bridle.*
 
-"Twice you told it straight," Marrow said, low. "That's honest or it's stupid, and I can't afford to find out which. You walk in front of me from here."
+"You wouldn't lie to save my neck," Marrow said, low. "Then you wouldn't lie for her. That's honest or it's stupid, and I can't afford to find out which. You don't get behind me again."
 
-> *Marrow remembers you told it straight, twice.*
+> *Marrow remembers you wouldn't lie for anyone.*
 
 When it was done, Marrow wiped her hands on her coat and went to see to the grey without being asked.
 
@@ -286,7 +282,7 @@ Stint, the toll town where the first bells were waiting, was one night's ride fo
 
 The grey walked behind on a lead rein, with its empty saddle shining.
 
-Isolde sat by the body with her satchel on her knees and wrote without looking up. Marrow walked ahead and did not look back.
+Isolde sat by the body with her satchel on her knees and wrote without looking up. Marrow walked behind the cart, where she could see my back.
 
 I drove. I was coughing up the Greywater a little at a time, and every cough hurt somewhere new.
 

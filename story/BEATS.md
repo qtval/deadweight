@@ -17,9 +17,9 @@ A chapter is 15–20 scenes, 20–30 minutes, one main location. Each one has al
 | **Meanwhile** | One thing each companion did off-screen for their own reasons, discovered, not announced. | Nobody waits for the protagonist. |
 | **The turn** | The last scene ends on a line that changes what the chapter meant. | Leave on the snap. |
 
-Across the game: Wren's hurt from the prologue (the cough, or the raw hands) is mentioned at least once per chapter until it heals or gets worse. What people call Wren changes with what Wren has done (see `story/VOICE.md`).
+Across the game: Wren's hurt from the prologue (the cough, or the bad knee) is mentioned at least once per chapter until it heals or gets worse. What people call Wren changes with what Wren has done (see `story/VOICE.md`).
 
-## Prologue — The Greywater (as built, 2026-11-18)
+## Prologue — The Greywater (as built, 2026-11-18, after reader-panel round 3)
 
 Missing by design: no fire scene, no nobody, no bill (nothing earlier to bill). Chapter 1 is the first full chapter.
 
@@ -29,7 +29,7 @@ Place:         The Greywater ford, near bank, night
 Purpose:       Make the player like Aubric, and show what Wren is to him.
 Present:       Wren, Aubric (drunk, mounted). Marrow across the river. Isolde asleep in the cart.
 Wants:         Aubric — to arrive by sunrise for the bells. Marrow — to wait for morning. Wren — a bed.
-Choice:        Drink with him / hand the skin back. Then: take his bridle / shout for Marrow / say nothing.
+Choice:        Drink with him / hand the skin back. (He gives Wren his gloves.) Then: take his bridle / shout for Marrow / say nothing.
 Immediate:     None of it stops him.
 Delayed:       DRANK → Marrow smells it (s04). AT_FORD → Marrow's regard (s04, s06).
 Body:          Wet feet, tired.
@@ -43,7 +43,7 @@ Place:         Mid-ford
 Purpose:       The hero dies stupidly, and Wren is part of it either way.
 Choice:        Go in after him / run for the rope.
 Immediate:     In: he drags Wren under; Wren hits him to get free. Rope: the horse drags him out face down.
-Delayed:       WENT_IN → the "hero" lie is believable or not (s05); Wren's hurt (cough / raw palms) from s07 on.
+Delayed:       WENT_IN → the "hero" lie is believable or not (s05); Wren's hurt (cough / bad knee) from s07 on. In: the broken nose, which Marrow sees (s04).
 Turn:          It took longer to get him out than it took him to die.
 Panel:         greywater_water_churn
 ```
@@ -72,7 +72,7 @@ ID:            ch00_s05_dawn
 Place:         By the cart, dawn
 Purpose:       Isolde's want: a usable death. She makes the plan: he is "wounded", nine days under canvas.
 Wants:         Isolde — to control the story before anyone else has one.
-Choice:        Tell her the truth / Marrow's ambush / that he died saving you. Then: who carries the letter (or "the river took it").
+Choice:        Tell her the truth (and, if Wren went in: admit the elbow / leave it out) / Marrow's ambush / that he died saving you. Then: answer her plan (agree / ask what's in it for you / call it madness). Then: who carries the letter (or "the river took it").
 Delayed:       VERSION → the ballad. LETTER = hidden → Isolde will forge or search.
 Panel:         greywater_dawn_cart
 ```
@@ -81,7 +81,7 @@ Panel:         greywater_dawn_cart
 ID:            ch00_s06_wrap
 Place:         Near bank, morning
 Purpose:       The title image: carrying him. Wren's excuse. The first bills arrive.
-Choice:        THOUGHT — tell yourself it's for the peace / for him / for the wages (SELF).
+Choice:        THOUGHT — For the peace. / For him. / For what I'm owed. (SELF). Under review: readers found it abstract.
 Immediate:     Remember-lines for the bridle, the purse, lying for one and not the other, dry to the knee.
 Delayed:       SELF is quoted back whenever Wren acts against it.
 Panel:         greywater_wrapping
@@ -91,7 +91,7 @@ Panel:         greywater_wrapping
 ID:            ch00_s07_road
 Place:         The road to Stint, full light
 Purpose:       Set the company and the clock: eight days, three people, one corpse.
-Body:          The cough, or the raw palms.
+Body:          The cough, or the bad knee.
 Turn:          Hoping he would enjoy the bells.
 Panel:         road_to_stint_morning
 ```

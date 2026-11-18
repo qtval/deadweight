@@ -26,11 +26,26 @@ The first demo had the right plot and no vibe. These are the things that were mi
 8. **End the scene on the turn.** The last line of a scene changes what the scene meant.
 9. **One refrain, ours, used sparingly.** Wren's is "Squires carry things": at most four times a chapter, meaning something different each time.
 
+## What the reader panel taught us (2026-11-18)
+
+Nine blind readers over three rounds (`reports/readers/2026-11-18-prologue.md`). These are now rules.
+
+- **Show the warmth, don't report it.** "That was his gift" scored 3. The gloves and "How is her chest?" scored 4 from everyone.
+- **Think the ugly thing and don't apologise.** Wren's worst thought goes on the page plain. No "I am not proud of that", no hindsight ("a long time since").
+- **Say one line, think another, in the same breath**, at least twice a scene: `"He fell on the stones," I said. What I thought was: four times.`
+- **Stay in the moment.** Wren is cold, frightened and in danger now. The telling-it-later frame is used at most twice a chapter.
+- **Unbutton.** Not every paragraph ends on a turn. If three in a row do, flatten two. Save the turn for the scene's end.
+- **Three kinds of wit.** Aubric boasts warmly. Marrow prices things. Isolde is gracious and exact. Wren's jokes are thought, rarely said. If a line could be moved to another mouth, rewrite it.
+- **Explanation is an argument.** Anything the player must understand is fought over by two people who want different things, in plain words, with speaker tags. Never a briefing.
+- **Honesty costs on the spot.** A truthful choice that everyone overrules reads as a choice that did not count.
+- **Dirt.** Smell, mud, sick, blood, swearing. Clean prose reads young.
+- **Check the ledger.** Every remember-line and every later reference must be true on the path that reaches it.
+
 ## Immersion devices (how the player ends up *in* it)
 
 These are structural, and the beat sheet schedules them (`story/BEATS.md`).
 
-- **Thought choices.** Label starts "Tell yourself…". The options are excuses, not actions, and all of them are partly true. Two or three per chapter. Each sets a variable; a later scene quotes the chosen excuse in italics at the moment Wren acts against it. Never punish a thought choice; only remember it.
+- **Thought choices** (under review: readers found the first version abstract; see the reader report). The label is the thought itself ("For him."), or better, a small concrete act that carries the excuse. The options are excuses, not plot actions, and all of them are partly true. Two or three per chapter. Each sets a variable; a later scene quotes the chosen excuse in italics at the moment Wren acts against it. Never punish a thought choice; only remember it.
 - **Fire scenes.** One per chapter, at night. The player picks one companion to sit with. 150–250 words, food or a small task, one confidence, one thing they want from Wren that is not the plot. No plot decision is made at a fire. Reuses the chapter's camp panel.
 - **The body, twice.** (a) Every scene has one physical sensation of Wren's in its first three nodes. (b) Every chapter's first scene states Aubric's condition and what the lie now requires (more lavender, a closed cart, a story about the wound).
 - **Names.** Characters address Wren as listed in `story/VOICE.md`. Using Wren's name is an event. No one refers to Wren in the third person with a pronoun; they say "the squire" or talk to Wren directly.
@@ -96,7 +111,7 @@ A checklist. If a draft trips any of these, rewrite it.
 ## How AI is used in the writing
 
 - Image generation is AI (see `docs/ART_PIPELINE.md`).
-- Prose is human-led (the prologue demo is an AI draft to the owner's direction, awaiting his edit and verdict). AI is otherwise used as an editor, continuity checker, and sparring partner for choices and consequences. Reason: a consistent voice is the one thing a 3-hour VN cannot fake, and AI drafts drift. If AI drafts a node, it is rewritten in the voice before it is committed.
+- Prose is drafted by AI to the owner's direction and gated by the blind reader panel (`docs/TESTING.md`, layer 3); the owner edits when he chooses. AI is also used as an editor, continuity checker, and sparring partner for choices and consequences. Reason: a consistent voice is the one thing a 3-hour VN cannot fake, and AI drafts drift. If AI drafts a node, it is rewritten in the voice before it is committed.
 - `story/VOICE.md` holds the reference paragraphs and each character's way of talking. It is a draft until the owner approves it in M1. `tools/test-story.mjs` enforces the mechanical parts of the voice on every path: first person, banned phrases and names, refrain limits.
 
 ## Scene template (used in the beat sheet, `story/BEATS.md`)
