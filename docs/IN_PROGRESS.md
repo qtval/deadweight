@@ -12,4 +12,4 @@ One chat works on this repo at a time. This file is the lock.
 
 ## Current claim
 
-**FREE** — last released 2026-11-19 01:10 (Asia/Ho_Chi_Minh), after the owner's rule change and panel rounds 22–25.
+**CLAIMED** — 2026-11-19 00:30 (Asia/Ho_Chi_Minh) — Prologue: split the dawn scene; then chapter 1 scenes 1–3 (roadmap: M0.5 exit test, then M1).
