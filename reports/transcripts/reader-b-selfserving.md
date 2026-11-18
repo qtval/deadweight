@@ -216,17 +216,17 @@ Isolde looked me over. I was mud to the knee and dry above it. She nodded anyway
 
 I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 
-"The council must sign under his name before the month is out," said Isolde, "and that is nine days, and they will not sign under a dead man. So we go back up, and the hill towns sign again, for somebody living."
+"The council must sign it under his name," said Isolde. "They have nine days, to the end of the month. And they will not put their names under a dead man's, because a dead man cannot be made to keep his word."
 
-"They signed for him," said Marrow. "They'd not open the gate to you."
+"So we go back up, and the hill towns sign again, for somebody living."
+
+"They'd not open the gate to you," said Marrow.
 
 "Then we bury him, and say he follows."
 
 "For nine days?"
 
 "Then it is void," said Isolde, "and Marshal Sayle has his war back. He has lived off it ten years."
-
-She looked at the river. Her lips were moving.
 
 "Three of us know," she said. "I need the guide for the road." She was looking at me. "What would it cost, if the squire had gone into the river as well?"
 
@@ -245,11 +245,19 @@ Isolde began to count silver onto his breastplate. The fourth rolled off into th
 
 "I write his letters," I said, all at once. "All of them, six years, I do his hand, I do his name. If he's sick they'll want a letter from him, the council, and I can write it, nobody else can, you can't, I've seen yours—"
 
-"Seven," said Isolde, and stopped. "He never used a comma in his life until he had you. I did wonder. So that is what the squire is for."
+"Show me," said Isolde. She laid a page on his breastplate and put her pen in my hand. Marrow kept hold of my hair.
+
+I wrote his name. My hand shook, and it came out like a child's.
+
+"That is not his," said Isolde. "Five."
+
+I wrote it again, with the big loop. I wrote it a third time without being asked.
+
+Isolde looked at it for some while. "He never used a comma in his life until he had you. I did wonder. So that is what the squire is for."
 
 It was the one thing I had to sell, and I had just given it away on my knees.
 
-She picked the coins up again. Marrow let go of my hair, and wiped her hand.
+Isolde picked the coins up again. Marrow let go of my hair, and wiped her hand.
 
 "So he is not dead," said Isolde, and now she was quick. "He has a fever. He rides in the cart to Vellmouth, and the council signs at the door of his sickroom, with a letter in his hand pushed under it. You will write that, Wren."
 

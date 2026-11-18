@@ -228,17 +228,17 @@ She looked at his nose. "And they broke that for him. Good. It looks like a figh
 
 I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 
-"The council must sign under his name before the month is out," said Isolde, "and that is nine days, and they will not sign under a dead man. So we go back up, and the hill towns sign again, for somebody living."
+"The council must sign it under his name," said Isolde. "They have nine days, to the end of the month. And they will not put their names under a dead man's, because a dead man cannot be made to keep his word."
 
-"They signed for him," said Marrow. "They'd not open the gate to you."
+"So we go back up, and the hill towns sign again, for somebody living."
+
+"They'd not open the gate to you," said Marrow.
 
 "Then we bury him, and say he follows."
 
 "For nine days?"
 
 "Then it is void," said Isolde, "and Marshal Sayle has his war back. He has lived off it ten years."
-
-She looked at the river. Her lips were moving.
 
 "Three of us know," she said. "I need the guide for the road." She was looking at me. "What would it cost, if the squire had gone into the river as well?"
 
@@ -257,17 +257,19 @@ Isolde began to count silver onto his breastplate. The fourth rolled off into th
 
 "Please," I said. "Please. I'll say what you like. I never saw it, I was asleep, I'll go back to the tubs, please—"
 
-"Seven," said Isolde, and turned her purse out. Nothing else fell.
+"Seven," said Isolde, and turned her purse out. Nothing else fell. She pulled a ring off her thumb and held it up.
 
-"Ten, I said." Marrow took the knife away. "I don't work on account."
+Marrow took the knife away to take it, and bit it. I knelt there and watched her bite it.
+
+"Plate," she said, and threw it back. "Ten, I said. I don't work on account."
 
 I thanked her. I thanked both of them.
 
-She picked the coins up again. Marrow let go of my hair, and wiped her hand.
+Isolde picked the coins up again. Marrow let go of my hair, and wiped her hand.
 
-"So he is not dead," said Isolde, and now she was quick. "He took an arrow from robbers and has a fever of it. He rides in the cart to Vellmouth, and the council signs at the door of his sickroom, with a letter in his hand pushed under it. Wren will write that. He never used a comma in his life until he had you, Wren. Did you think nobody could tell?"
+"So he is not dead," said Isolde, and now she was quick. "He took an arrow from robbers and has a fever of it. He rides in the cart to Vellmouth, and the council signs at the door of his sickroom, with a letter in his hand pushed under it. I write a fair hand."
 
-It was the one thing I had to sell. She'd had it all along.
+I wrote a better one. I kept that to myself. It was the one thing I had left to sell.
 
 "His men in Stint will not take my word that he is alive in there," she said. "They will take yours. Well?"
 

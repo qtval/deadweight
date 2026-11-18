@@ -226,17 +226,17 @@ Isolde shut her eyes. "In a ford. Drunk. Nobody will ever hear that."
 
 I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 
-"The council must sign under his name before the month is out," said Isolde, "and that is nine days, and they will not sign under a dead man. So we go back up, and the hill towns sign again, for somebody living."
+"The council must sign it under his name," said Isolde. "They have nine days, to the end of the month. And they will not put their names under a dead man's, because a dead man cannot be made to keep his word."
 
-"They signed for him," said Marrow. "They'd not open the gate to you."
+"So we go back up, and the hill towns sign again, for somebody living."
+
+"They'd not open the gate to you," said Marrow.
 
 "Then we bury him, and say he follows."
 
 "For nine days?"
 
 "Then it is void," said Isolde, "and Marshal Sayle has his war back. He has lived off it ten years."
-
-She looked at the river. Her lips were moving.
 
 "Three of us know," she said. "I need the guide for the road." She was looking at me. "What would it cost, if the squire had gone into the river as well?"
 
@@ -255,13 +255,21 @@ Isolde began to count silver onto his breastplate. The fourth rolled off into th
 
 "His men," I said, all at once. "In Stint. They know me, they'll ask where his squire is, they always ask me what he wants, they'll not ask you, they don't know you—"
 
-"Seven," said Isolde, and stopped. "That is true. They would ask. So that is what the squire is for."
+"What do they call you?" said Isolde. "His men."
 
-She picked the coins up again. Marrow let go of my hair, and wiped her hand.
+"The wick," I said.
 
-"So he is not dead," said Isolde, and now she was quick. "He has a fever. He rides in the cart to Vellmouth, and the council signs at the door of his sickroom, with a letter in his hand pushed under it. Wren will write that. He never used a comma in his life until he had you, Wren. Did you think nobody could tell?"
+"Louder."
 
-It was the one thing I had to sell. She'd had it all along.
+"The wick. The Lantern's wick." Marrow's fist was shaking in my hair. She was laughing.
+
+"Then they would ask for it," said Isolde. She put the fifth coin back in her purse. "So that is what the squire is for."
+
+Isolde picked the coins up again. Marrow let go of my hair, and wiped her hand.
+
+"So he is not dead," said Isolde, and now she was quick. "He has a fever. He rides in the cart to Vellmouth, and the council signs at the door of his sickroom, with a letter in his hand pushed under it. I write a fair hand."
+
+I wrote a better one. I kept that to myself. It was the one thing I had left to sell.
 
 "His men in Stint will not take my word that he is alive in there," she said. "They will take yours. Well?"
 

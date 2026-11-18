@@ -264,13 +264,13 @@ Isolde shut her eyes. "In a ford. Drunk. Nobody will ever hear that."
 = s05_plan
 "Close his mouth, Wren," said Isolde. "He looks surprised."
 I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
-"The council must sign under his name before the month is out," said Isolde, "and that is nine days, and they will not sign under a dead man. So we go back up, and the hill towns sign again, for somebody living."
-"They signed for him," said Marrow. "They'd not open the gate to you."
+"The council must sign it under his name," said Isolde. "They have nine days, to the end of the month. And they will not put their names under a dead man's, because a dead man cannot be made to keep his word."
+"So we go back up, and the hill towns sign again, for somebody living."
+"They'd not open the gate to you," said Marrow.
 "Then we bury him, and say he follows."
 "For nine days?"
 "Then it is void," said Isolde, "and Marshal Sayle has his war back. He has lived off it ten years."
 # know: sayle :: Marshal Sayle, who has commanded the army for all ten years of the war. If the Lantern is known to be dead before the council signs, he will have the surrender thrown out.
-She looked at the river. Her lips were moving.
 "Three of us know," she said. "I need the guide for the road." She was looking at me. "What would it cost, if the squire had gone into the river as well?"
 Marrow had my hair in her fist and the knife under my jaw. "Ten," she said.
 "For that? Six."
@@ -279,22 +279,31 @@ Isolde began to count silver onto his breastplate. The fourth rolled off into th
 * [Tell them you write his letters. You can sign for him.]
     ~ SOLD = "hand"
     "I write his letters," I said, all at once. "All of them, six years, I do his hand, I do his name. If he's sick they'll want a letter from him, the council, and I can write it, nobody else can, you can't, I've seen yours—"
-    "Seven," said Isolde, and stopped. "He never used a comma in his life until he had you. I did wonder. So that is what the squire is for."
+    "Show me," said Isolde. She laid a page on his breastplate and put her pen in my hand. Marrow kept hold of my hair.
+    I wrote his name. My hand shook, and it came out like a child's.
+    "That is not his," said Isolde. "Five."
+    I wrote it again, with the big loop. I wrote it a third time without being asked.
+    Isolde looked at it for some while. "He never used a comma in his life until he had you. I did wonder. So that is what the squire is for."
     It was the one thing I had to sell, and I had just given it away on my knees.
 * [Tell them his men in Stint know your face]
     ~ SOLD = "face"
     "His men," I said, all at once. "In Stint. They know me, they'll ask where his squire is, they always ask me what he wants, they'll not ask you, they don't know you—"
-    "Seven," said Isolde, and stopped. "That is true. They would ask. So that is what the squire is for."
+    "What do they call you?" said Isolde. "His men."
+    "The wick," I said.
+    "Louder."
+    "The wick. The Lantern's wick." Marrow's fist was shaking in my hair. She was laughing.
+    "Then they would ask for it," said Isolde. She put the fifth coin back in her purse. "So that is what the squire is for."
 * [Beg]
     ~ SOLD = "begged"
     "Please," I said. "Please. I'll say what you like. I never saw it, I was asleep, I'll go back to the tubs, please—"
-    "Seven," said Isolde, and turned her purse out. Nothing else fell.
-    "Ten, I said." Marrow took the knife away. "I don't work on account."
+    "Seven," said Isolde, and turned her purse out. Nothing else fell. She pulled a ring off her thumb and held it up.
+    Marrow took the knife away to take it, and bit it. I knelt there and watched her bite it.
+    "Plate," she said, and threw it back. "Ten, I said. I don't work on account."
     I thanked her. I thanked both of them.
-- She picked the coins up again. Marrow let go of my hair, and wiped her hand.
-"So he is not dead," said Isolde, and now she was quick. "He {VERSION == "ambush":took an arrow from robbers and has a fever of it|has a fever}. He rides in the cart to Vellmouth, and the council signs at the door of his sickroom, with a letter in his hand pushed under it. {SOLD == "hand":You will write that, Wren.|Wren will write that. He never used a comma in his life until he had you, Wren. Did you think nobody could tell?}"
+- Isolde picked the coins up again. Marrow let go of my hair, and wiped her hand.
+"So he is not dead," said Isolde, and now she was quick. "He {VERSION == "ambush":took an arrow from robbers and has a fever of it|has a fever}. He rides in the cart to Vellmouth, and the council signs at the door of his sickroom, with a letter in his hand pushed under it. {SOLD == "hand":You will write that, Wren.|I write a fair hand.}"
 { SOLD != "hand":
-    It was the one thing I had to sell. She'd had it all along.
+    I wrote a better one. I kept that to myself. It was the one thing I had left to sell.
 }
 "His men in Stint will not take my word that he is alive in there," she said. "They will take yours. Well?"
 I was still on my knees. A man with a fever can sign his name.
