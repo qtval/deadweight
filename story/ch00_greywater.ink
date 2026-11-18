@@ -31,7 +31,7 @@ He had never once paid me, either. But he said it so warmly that I forgot to min
 * [Hand the skin back untouched]
     I handed it back. "One of us should be able to find the road," I said.
     "One of us is a horse," said Aubric, and slapped the animal's neck, and laughed until I was laughing as well.
-- He sat up straight in the saddle. "I shall be modest. 'Good people, I did nothing. A little talking.' Then I look at my boots. Do I look at my boots, or is that too much?"
+- He sat up straight. "I shall be modest. 'Good people, I did nothing. A little talking.' Then I look at my boots. Do I look at my boots, or is that too much?"
 "The boots are good, Sir Aubric."
 "Then they shout 'The Lantern!' and I wave. Like this." He waved, and nearly came off the horse. "The third verse of my song doesn't scan, mind. I must have that mended before the bells. And you'll be paid. Every penny, the day we ride in. And the room. A room in my house in the capital, with a door on it. Remind me of the door. Bring me that paper of yours in Stint and I'll sign it."
 He had been promising me that room four years. It had not had a door before.
@@ -39,7 +39,7 @@ I had it written out. I wrote all his letters, in his hand, and four winters run
 He saw me shaking.
 He pulled off his riding gloves, the good ones with the fleece inside, and dropped them into my hands. "Can't have you sneezing through my triumph. Your mother would never forgive me. How is her chest?"
 My mother washed shirts for the army and had spoken to him once. He had asked after her chest every winter since. It would have been easier to hate him if he had forgotten. I put the gloves on.
-He gathered the reins. Nobody was awake to stop him but me.
+He gathered the reins. Nobody was awake but me.
 He was to sign my paper tomorrow. In six years I had not seen him sign a thing for anybody who had crossed him the night before.
 * [Grab his bridle. He'll hate you for it.]
     ~ AT_FORD = "bridle"

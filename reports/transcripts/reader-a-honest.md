@@ -33,7 +33,7 @@ I handed it back. "One of us should be able to find the road," I said.
 
 "One of us is a horse," said Aubric, and slapped the animal's neck, and laughed until I was laughing as well.
 
-He sat up straight in the saddle. "I shall be modest. 'Good people, I did nothing. A little talking.' Then I look at my boots. Do I look at my boots, or is that too much?"
+He sat up straight. "I shall be modest. 'Good people, I did nothing. A little talking.' Then I look at my boots. Do I look at my boots, or is that too much?"
 
 "The boots are good, Sir Aubric."
 
@@ -49,7 +49,7 @@ He pulled off his riding gloves, the good ones with the fleece inside, and dropp
 
 My mother washed shirts for the army and had spoken to him once. He had asked after her chest every winter since. It would have been easier to hate him if he had forgotten. I put the gloves on.
 
-He gathered the reins. Nobody was awake to stop him but me.
+He gathered the reins. Nobody was awake but me.
 
 He was to sign my paper tomorrow. In six years I had not seen him sign a thing for anybody who had crossed him the night before.
 
