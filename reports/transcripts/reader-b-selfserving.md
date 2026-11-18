@@ -218,13 +218,19 @@ I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 
 Isolde sat down on the cart step and held her satchel.
 
-"Listen to me, both of you," she said. "The hill towns signed because he gave his word that nobody would hang. The council signs under his name because his name is that word, and a dead man's word binds nobody. The council sits until the end of the month, which is nine days, and then it rises until spring. If his name is not under theirs by then, the war begins again, and Marshal Sayle, who has been paid for every year of it, will be very glad."
+"Ride the paper south," said Marrow. "Leave him."
 
-"So we go back up," she said. "The hill towns sign again, for somebody living."
+"The council signs under his name," said Isolde. "The hill towns signed because he swore nobody would hang. A dead man's oath binds nobody."
 
-"They shut the gate behind him," said Marrow. "Won't open it for you."
+"Then they sign quick."
 
-Isolde was quiet. Then she had her whole sentences back.
+"They rise at the end of the month. Nine days. After that it is spring, and the war, and Marshal Sayle has it back. He has been paid for every year of it."
+
+"Then we go back up," said Isolde. "The hill towns sign again, for somebody living."
+
+"Shut the gate behind him. Won't open it for you."
+
+Isolde looked at the river for a while.
 
 "Then he is not dead. He has a fever. He rides under the canvas to Vellmouth, and the council signs at the door of his sickroom."
 
@@ -244,6 +250,8 @@ Isolde was quiet. Then she had her whole sentences back.
 Isolde tore a strip from the foot of a page, wrote on her knee, and blew on it. "A place in a household in Vellmouth. Written down, this time."
 
 She knew about the promise. I had never told her about the promise. I took the paper anyway, and I did not tell her about the one in my pack.
+
+"He sold himself for a strip of paper," Isolde said to Marrow, not to me. "Someone will offer him two."
 
 "He'll stink by day three," said Marrow.
 
@@ -282,7 +290,7 @@ They came back up the bank. Marrow had her knife out and was looking at it, not 
 
 "What would it cost," Isolde said to her, quietly, as if I were the horse, "if the squire had gone into the river as well?"
 
-Marrow had my hair in her fist and the knife under my jaw. "Ten."
+Marrow came round behind me. I heard her boots on the gravel and didn't turn round, because turning round would make it true. Then she had my hair in her fist and my head pulled back, and the knife under my jaw. "Ten."
 
 "Six."
 
@@ -329,8 +337,6 @@ I did think of it. I thought of the line through the verse.
 Isolde went to the body and looked at his belt herself. The buckle was undone, not torn. She looked at it, and then at the river, and not at me.
 
 "Then we're carrying a dead man nine days," she said, "to tell the council the war's over, with nothing to show them. So we'll find it. Or something very like it. You'll write it."
-
-She was clipping her words again. She did that when she was frightened.
 
 Behind her, where only I could see, Marrow looked at my shirt and rubbed her finger and thumb together.
 

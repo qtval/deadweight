@@ -230,13 +230,19 @@ I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 
 Isolde sat down on the cart step and held her satchel.
 
-"Listen to me, both of you," she said. "The hill towns signed because he gave his word that nobody would hang. The council signs under his name because his name is that word, and a dead man's word binds nobody. The council sits until the end of the month, which is nine days, and then it rises until spring. If his name is not under theirs by then, the war begins again, and Marshal Sayle, who has been paid for every year of it, will be very glad."
+"Ride the paper south," said Marrow. "Leave him."
 
-"So we go back up," she said. "The hill towns sign again, for somebody living."
+"The council signs under his name," said Isolde. "The hill towns signed because he swore nobody would hang. A dead man's oath binds nobody."
 
-"They shut the gate behind him," said Marrow. "Won't open it for you."
+"Then they sign quick."
 
-Isolde was quiet. Then she had her whole sentences back.
+"They rise at the end of the month. Nine days. After that it is spring, and the war, and Marshal Sayle has it back. He has been paid for every year of it."
+
+"Then we go back up," said Isolde. "The hill towns sign again, for somebody living."
+
+"Shut the gate behind him. Won't open it for you."
+
+Isolde looked at the river for a while.
 
 "Then he is not dead. He has a fever. He rides under the canvas to Vellmouth, and the council signs at the door of his sickroom."
 
@@ -251,7 +257,7 @@ Isolde was quiet. Then she had her whole sentences back.
 
 "I'll do it," I said. It came out too quick, and she heard it.
 
-"How good of you," said Isolde.
+"How good of you," said Isolde. To Marrow she said, "He said yes very quickly. He will say yes as quickly to the Marshal's men."
 
 "He'll stink by day three," said Marrow.
 
@@ -290,7 +296,7 @@ They came back up the bank. Marrow had her knife out and was looking at it, not 
 
 "What would it cost," Isolde said to her, quietly, as if I were the horse, "if the squire had gone into the river as well?"
 
-Marrow had my hair in her fist and the knife under my jaw. "Ten."
+Marrow came round behind me. I heard her boots on the gravel and didn't turn round, because turning round would make it true. Then she had my hair in her fist and my head pulled back, and the knife under my jaw. "Ten."
 
 "Six."
 
