@@ -19,7 +19,7 @@ A light moved on the far bank, under the alders. That was Marrow, the guide. She
 
 He held the last of the wine down to me. "Drink, Wren. Tomorrow you're squire to the man who ended the war. You'll never pay for a cup again."
 
-In all that time he had never once paid me, either. But he said it so warmly that I forgot to mind. You warmed your hands at him and didn't count your fingers till later.
+He had never once paid me, either. But he said it so warmly that I forgot to mind. You warmed your hands at him and didn't count your fingers till later.
 
 **The game offers:**
 - **▶ Drink with him**  (chosen)
@@ -27,9 +27,17 @@ In all that time he had never once paid me, either. But he said it so warmly tha
 
 I drank. It was sweet and strong, and I had not eaten since noon, and it went straight to my knees.
 
-"There," he said, pleased, as if he had taught me something.
+"There," he said.
 
-Then he noticed my feet. I had been in and out of the shallows with the horses. I was wet to the shins and shaking, and drunk as he was, he saw it.
+"I shall be modest," he said. "I've been practising. 'Good people, I did nothing. A little talking.' Then I look at my boots. Do I look at my boots, Wren, or is that too much?"
+
+"The boots are good, Sir Aubric."
+
+"The boots are good. Then somebody shouts 'The Lantern!' and I say 'No, no,' and wave. Like this." He waved, and nearly came off the horse. "I sent the escort on ahead two days ago to see they have the bells ready. And you'll be paid, Wren. Every penny, the day we ride in. Remind me."
+
+I had reminded him in four towns.
+
+He noticed my feet. I had been in and out of the shallows with the horses. I was wet to the shins and shaking, and drunk as he was, he saw it.
 
 He pulled off his riding gloves, the good ones with the fleece inside, and dropped them into my hands. "Can't have you sneezing through my triumph. Your mother would never forgive me. How is her chest?"
 
@@ -57,7 +65,7 @@ It went down on one shoulder. Aubric went off sideways, without a word, in sixty
 
 I waited for him to stand up. The river came no higher than his belt. Any moment he would rise up roaring and blame the horse, and I would spend tomorrow drying armor.
 
-A gauntlet came out of the water, opened, closed on nothing, and went back in.
+A hand came out of the water, bare and white, opened, closed on nothing, and went back in.
 
 **The game offers:**
 - **▶ Go into the river after him**  (chosen)
@@ -112,7 +120,7 @@ Out on the water, Marrow's light was coming back, low and quick.
 - **▶ Take the case and hide it under your shirt**  (chosen)
 - Leave it on his belt
 
-The buckle was stiff with cold, and my hands were worse. I got it open and pushed the case inside my shirt, flat against my ribs, where it sat like ice.
+The buckle was stiff with cold, and my hands were worse. I got it open and pushed the case inside my shirt, flat against my ribs. It was colder than I was.
 
 
 * * *
@@ -127,7 +135,7 @@ She leaned in and sniffed, and it wasn't him she was sniffing. "Two drunks and a
 
 > *Marrow remembers the wine on your breath.*
 
-His nose was bent flat to one side and leaking blood. I had pulled his wet hair across it, and it would not stay. I had hit him, and then he had stopped.
+His nose was bent flat to one side and leaking blood. I had pulled his wet hair across it, and it would not stay.
 
 She turned his face to the light with one finger. She looked at his nose, then at my elbow, then at me. "River do that?"
 
@@ -139,7 +147,7 @@ She turned his face to the light with one finger. She looked at his nose, then a
 
 She crouched across the body from me. There was a short knife on her belt. I had watched her gut a hare with it at noon.
 
-"Here's how it goes," she said. "A Crown hero drowns at a ford. The guide who picked the ford is a hill-town deserter. Who hangs?"
+"Here's how it goes," she said. "A Crown hero drowns at a ford. The guide who picked the ford used to fight for the hill towns. Who hangs?"
 
 I didn't answer. Two people had seen him drown. She only needed there to be one.
 
@@ -154,9 +162,7 @@ I didn't answer. Two people had seen him drown. She only needed there to be one.
 
 "Dawn's when she wakes up." Marrow jerked her head at the cart. "Decide before. Her kind don't ask what you saw. They tell you."
 
-She took out the knife then, and started cleaning her nails with it.
-
-Her eyes went to his belt, and the empty buckle. "Where's his letter?" She hadn't raised her voice.
+Her eyes went to his belt, and the empty buckle. "Where's his letter?"
 
 **The game offers:**
 - **▶ Show her you have it**  (chosen)
@@ -173,13 +179,13 @@ It got light without any sun in it. Mist stood on the water, and the first fly f
 
 I had sat by him all night in wet clothes. Some time before dawn I had stopped shivering. Marrow had looked at me, sworn, and thrown the horse blanket at my head.
 
-He had begun to smell, or I had. One of us had pissed himself in the river, and I couldn't have said which.
+He had begun to smell, or I had. One of us had pissed himself in the night, and I couldn't have said which.
 
 Isolde Ferrant climbed down from the cart with ink on two fingers. She had slept through all of it.
 
-She was the Crown's chronicler, sent along to write the Lantern's ballad, and she had written most of it before we set out. She had always been kind to me. She knew my name and used it, and I had never worked out what that was for.
+She was the Crown's chronicler, sent along to write the Lantern's ballad, and she had written most of it before we set out. She knew my name and used it, and I had never worked out what that was for.
 
-She looked at the body the way she would look at a page with a blot on it.
+She looked at the body. Her hand went up to her mouth and stayed there. When it came down her face was in order again.
 
 "Did anyone else see?" she said.
 
@@ -204,27 +210,13 @@ I was pleased that she was pleased. I noticed it, and I disliked us both.
 
 "Close his mouth, Wren," said Isolde. "He looks surprised."
 
-I pushed his jaw up. It came down again. I tied it shut with my neckcloth, like a child with toothache.
+I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 
-"Now. Who did the hill towns surrender to?"
+"Now listen, both of you. The hill towns did not surrender to the Crown. They surrendered to him, on his word that nobody would hang. If he is dead, his word is dead. There are rich men at court who want this war to go on, and they will tear that paper up."
 
-**The game offers:**
-- "The Crown."
-- **▶ "Him."**  (chosen)
+"So ride the paper south," said Marrow, "and leave him here."
 
-"Him," I said. "His word that nobody hangs. He said it at every inn."
-
-"So somebody was listening." Isolde looked at me a moment longer than I liked.
-
-"And his word," she said, "is lying there in a squire's neckcloth. The hour the court hears he is dead, the men who sell the army its bread will say the paper died with him. The hill towns will agree."
-
-"So ride the paper south," said Marrow, "and leave him for the crows."
-
-"The council will not sign for a rider. They will sign for the Lantern, or for a door with him behind it. So he has a fever. He rides in the cart till the King's ink is dry."
-
-"He'll stink by the fourth day."
-
-"Heroes do. We'll burn something." She turned to me. "They will not take my word that he is alive. They will take his squire's. You carry out his pot. You tell them he is sleeping. Well?"
+"The council will not sign unless he stands in front of them and swears to it. Or unless they believe he would, if he could get out of bed. So he has a fever. He rides in the cart till the King's ink is dry. And they will not take my word that he is alive, Wren. They will take his squire's. You carry out his pot. You tell them he is sleeping. Well?"
 
 **The game offers:**
 - **▶ Say you'll do it**  (chosen)
@@ -235,7 +227,11 @@ I pushed his jaw up. It came down again. I tied it shut with my neckcloth, like 
 
 "Of course you will." Isolde worked the signet off his finger. It took some twisting. She put it in my hand, still wet. "Then you speak for him. Try not to enjoy it."
 
-"And the guide who picked the ford?" said Marrow.
+"He'll stink by the fourth day," said Marrow.
+
+"Heroes do. We'll burn something."
+
+"And the guide who picked the ford?"
 
 "Is paid for a quiet road," said Isolde, "and was never at a ford in her life. We came round by the bridge."
 
@@ -270,7 +266,7 @@ Before the canvas went over his hands, I saw my own. I was still wearing his glo
 - **▶ Fold his hands on his sword, like the songs**  (chosen)
 - Keep them. He gave them to you.
 
-I folded his hands on his sword hilt, the way they lie in the songs. Somebody would lift that canvas in the end, and he had to look like what we were selling. That was for the peace. I kept the gloves on to do it.
+I folded his hands on his sword hilt, the way they lie in the songs. Somebody would lift that canvas in the end, and he had to look like what we were selling. It was the peace I was thinking of. That is what I would have said if anybody had asked. I kept the gloves on to do it.
 
 When it was done, Marrow wiped her hands on her coat and went to see to the horse without being asked.
 
@@ -282,8 +278,6 @@ Isolde tied the canvas down herself, with a knot I didn't know. I would never ge
 By full light we were on the road south, with the Lantern under canvas in the back of the cart. The road ran between wet black hedges, past fields nobody had ploughed in ten years and a mill with its roof burned off.
 
 Stint, the toll town where the first bells were waiting, was one night's ride for a man on a good horse. With a cart and a dead man it would take us till dark.
-
-His horse walked behind on a lead rein, with its empty saddle shining.
 
 Isolde sat by the body with her satchel on her knees and wrote without looking up. I drove. I was coughing up the Greywater a little at a time, and every cough hurt somewhere new.
 

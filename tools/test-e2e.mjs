@@ -29,7 +29,7 @@ const check = (name, pass, detail = "") => { results.push({ name, pass: !!pass, 
 const ROUTES = {
   "first options": { plan: [0, 0, 0, 0, 0, 0, 0, 0, 0], expectText: ["Marrow remembers you took his bridle.", "Marrow remembers the wine on your breath.", "Marrow remembers the purse was gone.", "Marrow remembers the Lantern's broken nose."], expectRecap: "you took his bridle" },
   "last options": { plan: ["last", "last", "last", "last", "last", "last", "last", "last"], expectText: [], expectRecap: "you said nothing" },
-  "secret letter, false hero": { plan: [1, 2, 1, 1, 0, 0, 1, 2, 0, 0, 2], expectText: ["Isolde remembers you were dry above the knee."], expectRecap: "told isolde the river took it" },
+  "secret letter, false hero": { plan: [1, 2, 1, 1, 0, 0, 1, 2, 0, 2], expectText: ["Isolde remembers you were dry above the knee."], expectRecap: "told isolde the river took it, and she let you" },
 };
 
 const browser = await chromium.launch();

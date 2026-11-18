@@ -11,7 +11,7 @@ VAR WENT_IN = false
 VAR DRANK = false
 VAR PURSE = false
 
-// Where the surrender is: "body" (on Aubric's belt) | "wren" | "isolde" | "hidden" (Wren has it; Isolde thinks it's lost)
+// Where the surrender is: "body" (on Aubric's belt) | "wren" | "isolde" | "hidden" (Wren has it and says the river took it; Isolde knows better and holds that over Wren)
 VAR LETTER = ""
 VAR MARROW_KNOWS_LETTER = false
 
@@ -54,7 +54,7 @@ VAR DEBT_MARROW = false
 { LETTER:
 - "isolde": Isolde carries the surrender now.
 - "wren": You carry the surrender, and everyone knows it.
-- "hidden": You carry the surrender. You told Isolde the river took it.
+- "hidden": You carry the surrender. You told Isolde the river took it, and she let you.
 }
 
 // ---------------------------------------------------------------

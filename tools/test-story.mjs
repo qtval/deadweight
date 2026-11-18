@@ -47,7 +47,7 @@ function unknownCapitals(line) {
     const word = m[2].replace(/'s$/, ""), idx = m.index + m[1].length;
     if (/^I'/.test(m[2])) continue;
     const before = line.slice(0, idx).trimEnd();
-    const sentenceStart = before === "" || /[.!?:"“—*(]$/.test(before);
+    const sentenceStart = before === "" || /[.!?:"“—*('‘]$/.test(before);
     if (sentenceStart || ignore.has(word)) continue;
     if (!surfaces.some((s) => s.split(" ").includes(word))) out.push(word);
   }

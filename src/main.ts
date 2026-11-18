@@ -31,7 +31,7 @@ const ROAD = [
 ];
 const OUTCOME_WORDS: Record<string, Record<string, string>> = {
   VERSION: { truth: "you told the truth", ambush: "you told Marrow's lie", hero: "you made him a hero" },
-  LETTER: { isolde: "Isolde holds the surrender", wren: "you hold the surrender", hidden: "you secretly hold the surrender" },
+  LETTER: { isolde: "Isolde holds the surrender", wren: "you hold the surrender", hidden: "you hold the surrender and deny it" },
 };
 
 type Vars = Record<string, any>;
