@@ -198,7 +198,7 @@ Then he put the pencil away. "And the surrender. The Marshal would like it kept 
 
 "How kind," said Isolde. "It is in my satchel, and it stays there until I put it in the council's hands. You may write that down."
 
-Lidd smiled at her. Then, out of habit, he looked at my shirt.
+Out of habit, Lidd looked at my shirt.
 
 "The ring," said Lidd. He tried it on his little finger, and gave it back warm.
 

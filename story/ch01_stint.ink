@@ -227,7 +227,7 @@ His pencil was over the page. Isolde was standing a yard from me{VERSION != "tru
 - Then he put the pencil away. "And the surrender. The Marshal would like it kept safe. I'll carry it."
 { LETTER == "isolde":
     "How kind," said Isolde. "It is in my satchel, and it stays there until I put it in the council's hands. You may write that down."
-    Lidd smiled at her. Then, out of habit, he looked at my shirt.
+    Out of habit, Lidd looked at my shirt.
     -> s04_bills
 }
 "Squire looks like a thief," said Lidd, to his men, quite pleasantly. "Turn him out. The tollkeeper mentioned a purse."
