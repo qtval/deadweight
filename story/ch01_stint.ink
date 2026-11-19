@@ -33,11 +33,11 @@ Isolde untied the canvas, with her back to me, so I wouldn't learn her knot. He 
 {SELF != "him":I was still wearing his gloves. I took them off to touch him.}
 Marrow looked at the armor, and not at him. "Sixty pound of plate. That's a farm."
 "It is sixty pounds of proof that he is not in bed," said Isolde. "It goes in the pond." There was a pond below the trees, black, with leaves lying on it.
-Isolde wouldn't touch him. She stood by the horse with her sleeve over her nose and told me which arm first. Marrow would touch him, and did, and went on looking at the plate while she did it.
+Isolde wouldn't touch him. She stood by the horse with her sleeve over her nose and told me which arm first.
 The neck and the shoulders and the breastplate were only buckles. Then there were his arms. A stiff arm won't go into a shirt sleeve unless somebody takes it at the elbow and the wrist and leans.
 * [Let Marrow do it. You don't want to hear it go.]
     ~ ARMS = "marrow"
-    Marrow leaned. It made a noise like a green branch. She did the other one as well, while I held his hand, and the whole time she was looking at me and not at him.
+    Marrow leaned. It made a noise like a green branch. She did the other one as well, while I held his hand, and the whole time she was looking at me.
 * [Do it yourself. He was your knight.]
     ~ ARMS = "wren"
     Marrow held his shoulders and I leaned. It made a noise like a green branch{WENT_IN:, and my own elbow answered it}. I did the other one too, so she wouldn't. Her knife was on her belt, at the height of my eyes, the whole time.
@@ -51,7 +51,7 @@ The neck and the shoulders and the breastplate were only buckles. Then there wer
 { VERSION == "ambush":
     The hole she had put under his arm had started to smell sweet. Isolde had me bind it with a strip off his shirt, so there would be a bandage to show.
 }
-The rest had to be me. Nobody else knew he couldn't bear a tight collar. And if Marrow had his arming coat off him she'd have gone through it for coin, and that wasn't right, not with him lying there. When she went to see to the horse I went through it myself, to be sure she hadn't. There was nothing.
+The rest had to be me. I was the one who knew he couldn't bear a tight collar. And if Marrow had his arming coat off him she'd have gone through it for coin, and that wasn't right, not with him lying there. When she went to see to the horse I went through it myself, to be sure she hadn't. There was nothing.
 { DEED == "signed":
     My promise, the one with his name on it, crackled in my shirt every time I bent. I bent as little as I could.
 }
@@ -65,12 +65,12 @@ Then the armor lay in a heap with his badge on the breast, the lantern in blue e
     I laid it flat on the cart bed, under where he would lie. When the cart moved it knocked, plate on plate, at every rut.
     "Everyone'll hear that," said Marrow. "Think it's him moving. Could be good."
     "It is not good," said Isolde. "Take it out."
-    "No," I said. I had never said it to her. It was his. Nobody could sell it while he was lying on it, and that went for her too.
+    "No," I said. I had never said it to her. It was his. It couldn't be sold while he was lying on it, and that went for her too.
     "Then you will explain the knocking," said Isolde, "to everyone who asks."
 * [Let Marrow sell it. Take half. You haven't eaten since the ford.]
     ~ ARMOUR = "sold"
     "Half," I said. It came out before I'd decided to say it.
-    "Half," said Marrow, and looked at me properly for the first time that day. She sat down in the leaves with a file and the breastplate across her knees and began to take the lantern off it. The enamel came away in blue flakes.
+    "Half," said Marrow, and looked at me properly. She sat down in the leaves with a file and the breastplate across her knees and began to take the lantern off it. The enamel came away in blue flakes.
     She was quick, and she missed a rivet on the left shoulder that had a small lantern stamped in its head. I saw it. Half of a farm was more money than I had ever stood near, and she knew her business better than I did.
     "If one piece of that is found with his badge on it," said Isolde, "we hang. All three."
     "Won't be," said Marrow, and went on filing.
@@ -91,12 +91,12 @@ Six men in his colors were waiting at our end of the bridge, before the tollhous
 * [Wave his glove from the canvas. Let them shout for you.]
     ~ WAVED = true
     {SELF == "him":The gloves were on his hands. I got one off him, which took longer than I had, and it was cold inside.|I pulled one of his gloves back on.}
-    I knelt up beside him where nobody could see my face, and put my arm out through the gap, and moved it from side to side.
-    I have never heard a noise like it. It was for him. But it was my arm they were looking at, and nobody had ever shouted for any part of me before, and I left it out there for about as long as it takes to say a prayer.
+    I knelt up beside him where my face wouldn't show, and put my arm out through the gap, and moved it from side to side.
+    The noise was for him. But it was my arm they were looking at, and nobody had ever shouted for any part of me before, and I left it out there for about as long as it takes to say a prayer.
     Then a child up on the wall said, quite clearly, in a gap, "That's not him. That's a little arm."
     People laughed. It was a friendly laugh. I got my arm in so fast I caught the canvas.
 * [Stand up and tell them he's sleeping]
-    {PLAN == "objected":I put my head and shoulders out through the gap|I stood up on the driving board{not WENT_IN:, on the bad knee}}. "He's sleeping," I said. Nobody heard. I said it again as loud as I could, and my voice went up and cracked{WENT_IN:, and then I coughed, so that it sounded as if I had it too}. "He's sleeping. He has a fever. He can't be woken."
+    {PLAN == "objected":I put my head and shoulders out through the gap|I stood up on the driving board{not WENT_IN:, on the bad knee}}. "He's sleeping," I said. It didn't carry. I said it again as loud as I could, and my voice went up and cracked{WENT_IN:, and then I coughed, so that it sounded as if I had it too}. "He's sleeping. He has a fever. He can't be woken."
     It went along the bridge from the front to the back. I watched it go. The shouting stopped. The bells didn't, because nobody had told the bells.
     Something hit the side of the cart, hard, and rolled away. It was a turnip. Two hundred people had walked in from the farms to see the Lantern, and what they had got was me.
 * [Let Isolde talk. She's better at it, and it'll be her lie.]
@@ -115,7 +115,7 @@ His hand went in under the blanket, looking for the feet, and the whole bridge w
 * [Knock his hand away. In front of his men.]
     ~ DOBB = "struck"
     I hit his hand. I hit it hard, on the burn, and he took it out from under the canvas and held it against his chest.
-    "Don't touch him," I said. My voice had gone high. "Nobody touches him. That's what she said, the chronicler. Nobody but me."
+    "Don't touch him," I said. My voice had gone high. "He's not to be touched. That's what she said, the chronicler. Only me."
     His men had seen it. Everybody on that end of the bridge had seen it. Dobb held the hand against his chest and didn't say anything. One of his men spat on the bridge, near my boot.
     "I'll sit with him tonight all the same," he said. "He'll ask for me."
 * [Tell him it's catching. Let the bridge hear.]
@@ -133,29 +133,29 @@ His hand went in under the blanket, looking for the feet, and the whole bridge w
     "He said that," said Dobb.
     "Yes, Corporal."
     He went back to his men and didn't look round again. He was rubbing his fingers together, as if there were still something on them.
-- Behind me I heard Marrow put her knife away. I hadn't known she'd had it out, or which of us it was for.
+- Behind me I heard Marrow put her knife away. I hadn't seen her take it out.
 -> s03_toll
 
 // ---------------------------------------------------------------
 = s03_toll
 # scene: c1_s03_toll
 # panel: stint_tollhouse
-The tollhouse stood halfway over the bridge, and the cart had to stop at it like any other.
-Four horses stood at the rail outside it, with the Marshal's grey cloth over the saddles. Their riders were inside, at a bench against the wall, drinking out of the tollkeeper's jug. One of them had his boots up.
+Halfway over, the bridge narrowed to get round the tollhouse, and the cart had to stop at it like any other.
+Four horses with the Marshal's grey cloth over their saddles stood at the rail. Their riders were inside on a bench, drinking the tollkeeper's jug. One of them had his boots up.
 The tollkeeper was a long man with a boil on the side of his neck that had come to a head. He had a book open on a slope and a pen behind his ear.
 "Cart's fourpence," he said. "And what's in it?"
 "The Lantern," I said.
 "I know who. I'm asking what. Sick or dead? Sick's a penny more. Dead's sixpence a head, since the war. There was that many. I've to write the one or the other, and somebody puts their name."
-"Sick," I said.
+"Sick," I said. Dead was cheaper. I thought that, and was ashamed, and thought it again.
 "Sick." He wrote it slowly, breathing through his mouth. He turned the book round on the slope and held out the pen.
 "Sergeant reads it every night," he said, and tipped his head at the bench.
-The man with his boots up was the sergeant, Lidd, picking his teeth with a straw.
+The man with his boots up was the sergeant, Lidd, eating the tollkeeper's onions out of a bowl.
 Dobb and his men had followed, close enough to hear. Marrow was in the doorway behind me.
 * [Sign your own name. It's never been in a book.]
     ~ TOLL = "sick"
-    I can write. I wrote my name. It was the first time I had written it in a book that somebody kept, and I had wanted that to be a different book. This one said that I, Wren, gave my word the man in the cart was sick, and it had the day on it.
+    I can write. I wrote my name. Now it was in a book that somebody kept, and I had wanted that to be a different book. This one said that I, Wren, gave my word the man in the cart was sick, and it had the day on it.
     He blotted it. "You write a fair hand. Better than the sergeant."
-    The sergeant laughed, through the straw.
+    Lidd laughed with his mouth full.
 * [Sign his name. You do it better than he did.]
     ~ TOLL = "forged"
     I signed it Aubric Dane, with the loop he made when he was pleased. If he'd been well he'd have signed it himself. He was only sick.
@@ -169,12 +169,12 @@ Dobb and his men had followed, close enough to hear. Marrow was in the doorway b
     ~ TOLL = "ring"
     I took the ring out of my shirt and held it where he could see. I didn't put it on. It would have gone round my thumb.
     He looked at it for a while. "That's his. I've seen it on him." He shut the book without writing in it. "Lantern crosses free, cart and all. Always has."
-    It was easy. I was still thinking how easy when Lidd said, from the bench, "Squire's got his ring."
+    He waved the cart on. Lidd said, from the bench, "Squire's got his ring."
 * [Pay for the cart and sign nothing]
     ~ TOLL = "paid"
     "I'll pay for the cart," I said. "I'm no surgeon. I can't give my word what he is."
     He looked at me. Then he wrote, and said it aloud as he wrote, so that I should know. "Squire. Would. Not. Say." He looked out at the sun on the water, and wrote the hour.
-    On the bench the sergeant took the straw out of his mouth to listen, and put it back.
+    On the bench Lidd stopped chewing to listen.
 - { TOLL != "ring":
     { PURSE:
         I paid the fivepence out of the purse. The tollkeeper took it, and then he took hold of the purse itself by the strings and turned it to the light.
@@ -193,7 +193,7 @@ He was asking me. I looked round for somebody else he might be asking. Marrow an
     ~ RINGERS = "yes"
     "He'll spare them," I said. "For Annis."
     The tollkeeper shut his eyes for a moment. "God keep him," he said. "Tell him that from me."
-    It was the first thing I had ever given anybody. It wasn't mine, and it felt wonderful.
+    I'd given away his bells. They weren't mine, and it felt wonderful.
 * [Say he's too ill to be asked anything]
     ~ RINGERS = "no"
     "He's too ill to be asked," I said. "I'm sorry."
@@ -209,8 +209,7 @@ I said I would. With Lidd that close I'd have said the Lantern could dance.
 The square was under the bell tower, and the bells were right over us.
 Eight of the Marshal's riders were drawn up across it. Lidd walked ahead of the cart, and when he got to them he turned round, and they all looked at us.
 At a table outside the inn a man in a black coat was eating a pie with his fingers. A surgeon's bag sat by his plate.
-"The Marshal's surgeon," said Lidd. "Sent out to meet your master. Thoughtful. Sent him the day before yesterday."
-The day before yesterday he hadn't been sick.
+"The Marshal's surgeon," said Lidd. "Sent out to meet your master. Sent him the day before yesterday, before your master was ill." He let me think about that. I didn't want to.
 {WAVED:"He waved, I'm told," said Lidd. "Then he can sit up for a surgeon."}
 Lidd took a little book out of his coat, and a pencil. "How did he take sick, squire? And where? I like to have it right."
 His pencil was over the page. Isolde was a yard from me, listening.
@@ -245,9 +244,9 @@ Two of them took my arms. I pulled, once, and one of them put his knee in the ba
     I lay still with my cheek on the stones. His hands came down over my ribs, and down, and his fingers touched the edge of the case through my shirt, and stopped.
 * [Kick. Make them hold you instead of searching you.]
     ~ SEARCH = "kicked"
-    I kicked. I caught somebody's shin, and then they stopped searching and started kicking back, the toe of a boot in the ribs, twice, and the second time something in there clicked. I couldn't get my breath. Nobody was searching me any more.
+    I kicked. I caught somebody's shin, and then they stopped searching and started kicking back, the toe of a boot in the ribs, twice, and the second time something in there clicked. I couldn't get my breath. The searching had stopped.
 - ~ STOPPED = "dobb"
-Then Dobb was there, with his burned hand on the rider's wrist. "That's the Lantern's squire."
+Then Dobb was there, with his hand on the rider's wrist. "That's the Lantern's squire."
 Lidd hit him in the mouth, not hard. Dobb's lip split. He didn't let go, and in the end the rider let go of me.
 -> s04_bills
 
@@ -270,6 +269,7 @@ Lidd's riders went in to their supper. Dobb walked me to the horse trough{STOPPE
 {ARMOUR == "sold":He had a shoulder piece under his arm. He set it on the edge of the trough, rivet up. "Smith by the gate had this. A boy brought it him an hour since, for a woman who wouldn't come in. Badge filed off. Missed one."}
 "I had his foot, Wren," he said. "On the bridge."{STOPPED == "dobb": He touched his lip. "I took that for you. So you'll answer me."}{DOBB == "struck": He held up the burned hand, where I'd hit it.}{DOBB == "refused": "And he never said not me. Not in twenty years."}{DOBB == "catching": "I've had the cold sweats. They're not that cold."}
 "I've laid out more of his lads than you've met. I know cold."
+I knew it too, now. I'd slept beside it two nights. "He's my knight too," I said, which was true, and was no kind of answer.
 Marrow sat on the tailboard with an apple, watching his back.
 * [Say the cold comes before the sweat. Say it like a surgeon.]
     ~ FOOT = "fever"
@@ -283,11 +283,11 @@ Marrow sat on the tailboard with an apple, watching his back.
     "I never said dead," he said. "I said cold." He said it loud enough for his men, and they heard him back off, and one of them walked away across the square and didn't come back.
 * [Say nothing. Let him decide what he felt.]
     ~ FOOT = "silent"
-    I didn't say anything. I looked at him till he looked away first. I'd never done that to anybody.
+    I didn't say anything. I looked at him till he looked away first. I didn't know I could do that to a man.
     "Right," said Dobb. He wiped his lip on his sleeve. "Then I don't know anything, do I. Not till you tell me." He picked up the trough's dipper and drank, and put it back. "I'll be asking again, Wren."
 - {ARMOUR == "sold":He took the shoulder piece back under his arm. I watched it go.}
 Marrow threw her apple core into the trough. "Corporal's a problem," she said. "Problems cost."
-Across the square the surgeon wiped his fingers. "Fever, is it? Then he's to be bled. I'll bring the bowl at first light." He took another bite. "Bleeding never killed a man who wasn't going anyway."
+Across the square the surgeon wiped his fingers. "Fever, is it? Then he's to be bled. I'll bring the bowl at first light." He took another bite. "Two pints. He'll feel better or he won't."
 A dead man doesn't bleed.
 -> s05_friar
 
@@ -299,20 +299,22 @@ The square emptied with the light.
 An old friar came round to the downwind side of the cart, knelt, and had my boot off before I'd agreed to it.
 "Brother Tobin," he said, to my foot. "That's how a toe goes black." He rubbed it hard between his hands. Nobody had touched my feet since my mother. I'd have let him do the other one.
 "He can't lie in a cart tonight," he said. "I have a chapel. Eleven under the roof, cripples from both sides and four children, and it leaks. A saint under it one night, and I'd have pilgrims till the slates were paid for. No steel past the door. Not even a surgeon's."
+A saint. He'd have liked that. He'd have liked the pilgrims' money better.
 "Inn yard," said Dobb. "My lads round him."
+"The chapel," said Isolde, before I could open my mouth. "A vigil in a chapel scans. An inn yard does not."
 "Or the barn behind my house," said the tollkeeper, locking up. "Fourpence, and nobody's business."
 * [The chapel. A bolt, no steel, and Tobin holds the key.]
     ~ LODGING = "chapel"
-    "The chapel," I said.
+    "The chapel," I said. Let it scan.
     Tobin nodded as if I'd said grace. Dobb spat on the stones and went to tell his men. Within the hour two of Lidd's riders were standing at the chapel door, and I was lying across the step inside it, with the bolt above my head and the key in Tobin's belt.
 * [The inn yard. Dobb and five swords round him.]
     ~ LODGING = "yard"
-    "The yard," I said. "With Dobb."
+    "The yard," I said. "With Dobb." Isolde wrote something down, and crossed it out.
     "As you think best, child," said Tobin, and went to fetch vinegar anyway. Dobb put the cart against the stable wall and sat down on the tailboard, a foot from the canvas. "I'll not go under," he said. "Chronicler says it's catching."
-* [The tollkeeper's barn. Nobody's eyes on him but yours.]
+* [The tollkeeper's barn. No eyes on him but yours.]
     ~ LODGING = "barn"
-    "The barn," I said. "The tollkeeper's. Nobody touches him but me."
-    It cost fourpence. {PURSE:I paid it out of the purse, and I saw the tollkeeper's boy see the purse.|Marrow paid it, and held up a fifth finger at me.} Nobody would sit with him there. That meant nobody would turn him but me.
+    "The barn," I said. "The tollkeeper's. Just me."
+    It cost fourpence. {PURSE:I paid it out of the purse, and I saw the tollkeeper's boy see the purse.|Marrow paid it, and held up a fifth finger at me.} There'd be no one to sit with him there, and no one to turn him but me.
 - Tobin was tying my boot up again, slowly, because his hands were old.
 "And who is it turns him, child?" he said, without looking up. "A man in a fever wants turning, or he gets sores. Every few hours. You'll know that, being his squire."
 I didn't know it. He knew I didn't.

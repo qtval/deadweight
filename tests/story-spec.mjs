@@ -77,6 +77,18 @@ export const spec = {
       [/\bi caught myself\b|\bi found (i|her|him|it)\b/g, 2],
       [/\blong (while|moment)\b/g, 1],
     ],
+    // Tics the chapter 1 panels flagged (2026-11-19, rounds 9-16). Max uses on any one path through ONE chapter.
+    // A failure in chapter 1 or later; a warning in the prologue (written before these were found).
+    chapterLimits: [
+      [/\b(the first (time|thing)|i had never|i'd never|i have never|never before|nobody had ever)\b/g, 2, "first-time / never-before beats"],
+      [/\bburned hand\b/g, 2, "\"burned hand\""],
+      [/\bin front of (his|the|her) men\b/g, 1, "\"in front of his men\""],
+      [/\band not at\b/g, 1, "\"looked at X, and not at Y\""],
+      [/\bthe way you'?d\b/g, 1, "\"the way you'd\" similes"],
+      [/\bnobody\b/g, 5, "\"nobody\""],
+    ],
+    // Scenes ending on a one-line kicker (a last paragraph of 7 words or fewer). More than this per chapter path warns.
+    maxKickerEndings: 2,
     // Never: borrowed mantras and names (do-not-copy list), the old project's names, and stock phrases.
     banned: [
       "say one thing", "back to the mud", "have to be realistic", "body found floating", "once you've got a task",

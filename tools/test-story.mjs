@@ -97,6 +97,7 @@ function processTags(ctx, tags) {
         const idx = spec.sceneOrder.indexOf(val);
         if (idx === -1) fail(`unknown scene id "${val}" (add it to spec.sceneOrder)`, ctx.route);
         else if (idx < ctx.sceneIdx) fail(`scene order goes backwards: ${ctx.scene} → ${val}`, ctx.route);
+        if (ctx.scene && ctx.lastLen > 0 && ctx.lastLen <= 7) ctx.refrains.kick = (ctx.refrains.kick ?? 0) + 1;
         ctx.sceneIdx = idx; ctx.scene = val; ctx.sceneNew = 0;
         break;
       }
@@ -128,7 +129,7 @@ function processLine(ctx, line) {
   if (!text) return;
   if (!ctx.panel) fail("text shown before any panel", ctx.route);
   const n = text.split(/\s+/).length;
-  ctx.words += n; ctx.wordsSinceChoice += n;
+  ctx.words += n; ctx.wordsSinceChoice += n; ctx.lastLen = n;
   for (const term of termsIn(text)) {
     if (!ctx.seen.has(term)) { ctx.seen.add(term); ctx.sceneNew++; }
   }
@@ -141,6 +142,7 @@ function processLine(ctx, line) {
     for (const b of spec.voice.banned) if (new RegExp(`\\b${b}\\b`).test(low)) fail(`voice: banned phrase "${b}" in "${text.slice(0, 60)}…"`, ctx.route);
     for (const r of Object.keys(spec.voice.refrains)) if (low.includes(r)) ctx.refrains[r] = (ctx.refrains[r] ?? 0) + 1;
     (spec.voice.limits ?? []).forEach(([re], i) => { const n = (low.match(re) ?? []).length; if (n) ctx.refrains[`#${i}`] = (ctx.refrains[`#${i}`] ?? 0) + n; });
+    (spec.voice.chapterLimits ?? []).forEach(([re], i) => { const n = (low.match(re) ?? []).length; if (n) ctx.refrains[`c${i}`] = (ctx.refrains[`c${i}`] ?? 0) + n; });
   }
   for (const w of unknownCapitals(text)) fail(`unknown proper noun "${w}" (add to story/GLOSSARY.json or rephrase)`, ctx.route);
 }
@@ -173,7 +175,7 @@ function run(ctx, depth) {
       if (!fresh.length) return;
       fresh.forEach((p) => boundarySeen.add(p));
       entryStates++;
-      ctx.refrains = {}; ctx.wordsSinceChoice = 0; ctx.chapter = (ctx.chapter ?? 0) + 1;
+      ctx.refrains = {}; ctx.wordsSinceChoice = 0; ctx.lastLen = 0; ctx.chapter = (ctx.chapter ?? 0) + 1;
     }
   }
   for (const c of containers) if (story.state.VisitCountAtPathString(c) > 0) covered.add(c);
@@ -206,11 +208,26 @@ function run(ctx, depth) {
   });
 }
 
+// Per-chapter tics and kicker endings (spec.voice.chapterLimits, maxKickerEndings).
+function checkChapterTics(ctx) {
+  if (!spec.voice) return;
+  const where = ctx.chapter ? `chapter ${ctx.chapter}` : "the prologue";
+  const report = ctx.chapter ? fail : warn;
+  (spec.voice.chapterLimits ?? []).forEach(([re, max, label], i) => {
+    const n = ctx.refrains[`c${i}`] ?? 0;
+    if (n > max) report(`voice: ${label} used ${n} times on one path through ${where} (max ${max})`, ctx.route);
+  });
+  const kicks = (ctx.refrains.kick ?? 0) + (ctx.lastLen > 0 && ctx.lastLen <= 7 ? 1 : 0);
+  if (spec.voice.maxKickerEndings != null && kicks > spec.voice.maxKickerEndings)
+    warn(`voice: ${kicks} scenes end on a one-line kicker in ${where} (max ${spec.voice.maxKickerEndings})`, ctx.route);
+}
+
 function finish(ctx) {
   const v = vars();
   if (!ctx.endId) fail("dead end: story stopped with no choices and no `# end:` tag", ctx.route);
   else if (!spec.endIds.includes(ctx.endId)) fail(`unexpected end id "${ctx.endId}"`, ctx.route);
   for (const [name, check] of spec.endState) if (!check(v)) fail(`end state broken: ${name}`, ctx.route);
+  checkChapterTics(ctx);
   if (ctx.chapter) {
     // A later chapter's ending: voice limits apply per chapter; prologue outcomes were counted at its end.
     for (const [r, max] of Object.entries(spec.voice?.refrains ?? {})) if ((ctx.refrains[r] ?? 0) > max) fail(`voice: refrain "${r}" used ${ctx.refrains[r]} times in one chapter (max ${max})`, ctx.route);
