@@ -197,13 +197,13 @@ Then he put the pencil away. "And the surrender. The Marshal would like it kept 
 
 "Does it," said Lidd. "Squire looks like a thief to me." He said it to his men, pleasantly. "Turn his shirt out."
 
-Two of them took my arms. I pulled, once, and one of them put his knee in the back of mine, and I went down on the stones. A third knelt and started down my sides with flat hands. The case was under my shirt, against my belly.
+Two of them took my arms. I pulled, once, and one of them put his knee in the back of mine, and I went down on the stones. A third knelt and pulled at my boots. My shirt would be next. The case was under it, against my belly.
 
 **The game offers:**
 - **▶ Give them money. A thief would have some.**  (chosen)
 - Kick. Make them hold you instead of searching you.
 
-"My boot," I said into the stones. "Four pennies." He pulled the boot off and shook them out. That was all I owned. "There," said Lidd. "A thief, and his takings." He wrote it down. He'd found what he said he would.
+"My boot," I said into the stones. "Four pennies." He pulled the boot off and shook them out. That was all I owned. "There," said Lidd. "A thief, and his takings." He wrote it down. He'd found what he said he would. For tonight that was enough.
 
 They let go of my arms.
 
@@ -217,17 +217,15 @@ Lidd touched my ear with one finger. "Who marked your ear, squire?"
 
 Lidd's riders went in to their supper. Dobb walked me to the horse trough with his hand on my shoulder as if he were helping me. His men stood round us.
 
-"I had his foot, Wren," he said. "On the bridge."
+"I had his foot, Wren," he said. "On the bridge. And I picked you up off the stones in front of the Marshal's men, so you'll answer me."
 
 I waited for him to say the rest of it. He didn't. He wanted me to.
-
-"I picked you up in front of the Marshal's men," he said. "So you'll answer me."
 
 He held up the burned hand, where I'd hit it.
 
 "I've laid out more of his lads than you've met," he said. "I know cold."
 
-So did I, now. I'd slept beside it last night. "He's my knight too," I said. Dobb waited for the rest of it.
+So did I, now. I'd slept beside it last night. "He's my knight too," I said. Dobb didn't move.
 
 Marrow sat on the tailboard with an apple, watching his back.
 

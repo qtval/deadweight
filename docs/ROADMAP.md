@@ -13,22 +13,20 @@ Guiding rules (carried over from the previous project because they were right):
 
 ---
 
-## Where we are (updated 2026-11-19, late)
+## Where we are (updated 2026-11-20, early)
 
-**Owner's decision (20:21): perfect the prologue and chapter 1 scenes 1–5 before writing scenes 6–12.**
+**Owner's decision (2026-11-19, 20:21): perfect the prologue and chapter 1 scenes 1–5 before writing scenes 6–12.**
 
-**The demo runs from the prologue into chapter 1, scenes 1–5**, then the "End of the demo" card, which now lists only the choices made in Stint. Latest pass: Wren gets out of Lidd's search alone, at a cost (the purse, or the boots); Dobb's confrontation at the trough has Wren's thoughts between his lines; Marrow and Isolde argue over where the body sleeps; my continuity and arithmetic errors fixed.
-
-**New test:** the story test now checks the tics the readers flagged, per chapter (first-time beats, "burned hand", "in front of his men", "and not at", "the way you'd", "nobody"), and counts scenes ending on one-line kickers. Chapter 1 passes; the prologue gets warnings for "nobody" (up to 10 on a path).
+**The demo runs from the prologue into chapter 1, scenes 1–5**, then the "End of the demo" card. Latest: the surgeon is off stage (Lidd speaks for him: a bleeding at first light); the plate is sold to a tinker in the wood; the lodging argument is Isolde (the chapel, "a verse") against Marrow (the barn, "the key's ours"); several of my own continuity slips fixed.
 
 **Tests:** all pass. Story test: all 217,728 prologue paths, then chapter 1 from 17 prologue end states (215,784 paths), 0 failures, 5 warnings (prologue "nobody"); browser test 43/43.
 
-**Reader panel:** chapter 1 has had 19 rounds and has not passed. Rounds 17–19: humour 3.67 every round, First Law 3. Report: `reports/readers/2026-11-19-prologue-26-31-ch01-3-6.md`.
+**Reader panel:** chapter 1 has had 22 rounds and has not passed. Rounds 16–22 are one plateau: about 4 on everything; humour and temptation 3.33–4 depending on the reader; First Law 3. Recommendation recorded in the report: stop line-edit rounds on chapter 1; what would move it is the owner's own read, or merging two gatekeeper scenes (owner's call). Report: `reports/readers/2026-11-19-prologue-26-31-ch01-3-6.md`.
 
 **Next tasks, in order (owner: no new scenes until these are done):**
-1. Chapter 1: fold the surgeon into Lidd (Lidd announces the bleeding at first light), so the square has one new threat; then two fresh panel rounds.
-2. Prologue: the same tic pass ("nobody", kicker endings, first-time beats), then two panel rounds.
-3. Interface: a full screen-by-screen review at phone size (reading, choices, journal, save/continue, end cards), fixing what looks off.
+1. Prologue: the tic pass ("nobody" up to 10 on a path, kicker endings, first-time beats), then two panel rounds.
+2. Interface: a full screen-by-screen review at phone size (reading, choices, journal, save/continue, end cards), fixing what looks off.
+3. Owner's call: merge the toll and the square into one longer scene with Lidd (the First Law reader's standing note), or accept chapter 1 scenes 1–5 as they are.
 
 **One chat at a time:** `docs/IN_PROGRESS.md` is the lock. Read it first.
 
@@ -238,3 +236,5 @@ Combat systems, inventory, character creator beyond name/pronouns, voice acting,
 | 2026-11-19 | Story test checks per-chapter tics and kicker endings (spec.voice.chapterLimits, maxKickerEndings); failures in chapter 1+, warnings in the prologue | Readers flagged the same tics round after round; a machine check is cheaper than a panel |
 | 2026-11-19 | Chapter 1 search: no rescue. SEARCH = paid (purse or four pennies; "thief" in Lidd's book) / kicked; Dobb picks Wren up afterwards | Rounds 17–18: Dobb's rescue let Wren off free |
 | 2026-11-19 | Demo end card lists only the chapter's own choices | 25 lines on a phone; screenshot review |
+| 2026-11-20 | Chapter 1: the surgeon off stage until s09; Lidd announces the bleeding | Rounds 12–19: too many new people in the square |
+| 2026-11-20 | Stop line-edit panel rounds on chapter 1 scenes 1–5 at a plateau (rounds 16–22) | The remaining fails move with the reader on the same text; the First Law note is structural |

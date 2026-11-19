@@ -210,7 +210,7 @@ I waited for him to say the rest of it. He didn't. He wanted me to.
 
 "I've laid out more of his lads than you've met," he said. "I know cold."
 
-So did I, now. I'd slept beside it last night. "He's my knight too," I said. Dobb waited for the rest of it.
+So did I, now. I'd slept beside it last night. "He's my knight too," I said. Dobb didn't move.
 
 Marrow sat on the tailboard with an apple, watching his back.
 

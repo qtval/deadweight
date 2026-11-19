@@ -198,7 +198,7 @@ The square was under the bell tower, and the bells were right over us.
 
 Eight of the Marshal's riders were drawn up across it. Lidd walked ahead of the cart, and when he got to them he turned round, and they all looked at us.
 
-"The Marshal's surgeon is upstairs at his supper," said Lidd, and nodded at the inn. "Sent out to meet your master. Sent him the day before yesterday, before your master was ill. He'll bleed him at first light. Two pints for a fever, he says. He waved, I'm told. Then he can sit up for the bowl."
+"The Marshal's surgeon is upstairs at his supper," said Lidd, and nodded at the inn. "Sent out to meet your master. Sent him the day before yesterday, before your master was ill. He'll bleed him at first light. Two pints for a fever, he says. He waved from the cart, I'm told, so he's well enough to sit up for it."
 
 Lidd took a little book out of his coat, and a pencil. "How did he take sick, squire? And where? I like to have it right."
 
@@ -219,13 +219,13 @@ Then he put the pencil away. "And the surrender. The Marshal would like it kept 
 
 "Does it," said Lidd. "Squire looks like a thief to me." He said it to his men, pleasantly. "Turn his shirt out."
 
-Two of them took my arms. I pulled, once, and one of them put his knee in the back of mine, and I went down on the stones. A third knelt and started down my sides with flat hands. The case was under my shirt, against my belly.
+Two of them took my arms. I pulled, once, and one of them put his knee in the back of mine, and I went down on the stones. A third knelt and pulled at my boots. My shirt would be next. The case was under it, against my belly.
 
 **The game offers:**
 - **▶ Give them money. A thief would have some.**  (chosen)
 - Kick. Make them hold you instead of searching you.
 
-"In my shirt," I said into the stones. "The purse." I got it out myself and held it up. Lidd weighed it. "There," he said, pleased. "A thief, and his takings." He wrote it down and pocketed the purse. He'd found what he said he would. That was all he'd wanted.
+"In my shirt," I said into the stones. "The purse." I got it out myself and held it up. Lidd weighed it. "There," he said, pleased. "A thief, and his takings." He wrote it down and pocketed the purse. He'd found what he said he would. For tonight that was enough.
 
 They let go of my arms.
 
@@ -239,17 +239,15 @@ Lidd's riders went in to their supper. Dobb walked me to the horse trough with h
 
 He had a shoulder piece under his arm. He set it on the edge of the trough, rivet up. "Tinker sold it the smith at the bridge end. Had it off a woman in the beech wood. Badge filed off. Missed one."
 
-"I had his foot, Wren," he said. "On the bridge."
+"I had his foot, Wren," he said. "On the bridge. And I picked you up off the stones in front of the Marshal's men, so you'll answer me."
 
 I waited for him to say the rest of it. He didn't. He wanted me to.
-
-"I picked you up in front of the Marshal's men," he said. "So you'll answer me."
 
 "And he never said not me," said Dobb. "Not in twenty years."
 
 "I've laid out more of his lads than you've met," he said. "I know cold."
 
-So did I, now. I'd slept beside it last night. "He's my knight too," I said. Dobb waited for the rest of it.
+So did I, now. I'd slept beside it last night. "He's my knight too," I said. Dobb didn't move.
 
 Marrow sat on the tailboard with an apple, watching his back.
 
