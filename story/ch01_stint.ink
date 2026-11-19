@@ -208,9 +208,8 @@ I said I would.
 # panel: stint_square_bells
 The square was under the bell tower, and the bells were right over us.
 Eight of the Marshal's riders were drawn up across it. Lidd walked ahead of the cart, and when he got to them he turned round, and they all looked at us.
-At a table outside the inn a man in a black coat was eating a pie with his fingers. A surgeon's bag sat by his plate.
-"The Marshal's surgeon," said Lidd. "Sent out to meet your master. Sent him the day before yesterday, before your master was ill."
-{WAVED:"He waved, I'm told," said Lidd. "Then he can sit up for a surgeon."}
+"The Marshal's surgeon is upstairs at his supper," said Lidd, and nodded at the inn. "Sent out to meet your master. Sent him the day before yesterday, before your master was ill. He'll bleed him at first light. Two pints for a fever, he says."
+{WAVED:"He waved, I'm told," said Lidd. "Then he can sit up for the bowl."}
 Lidd took a little book out of his coat, and a pencil. "How did he take sick, squire? And where? I like to have it right."
 His pencil was over the page. Isolde was a yard from me, listening.
 * [Tell it the way you all agreed it]
@@ -295,8 +294,7 @@ Marrow sat on the tailboard with an apple, watching his back.
     "Right," said Dobb. "Then I don't know anything, do I. Not till you tell me." He picked up the trough's dipper and drank, and put it back. "I'll be asking again, Wren."
 - {ARMOUR == "sold":He took the shoulder piece back under his arm. I watched it go.}
 Marrow threw her apple core into the trough. "Corporal's a problem," she said. "Problems cost."
-Across the square the surgeon wiped his fingers. "Fever, is it? Then he's to be bled. I'll bring the bowl at first light." He took another bite. "Two pints. He'll feel better or he won't."
-I'd held the bowl for him at his last marsh fever. He'd filled it twice.
+First light, Lidd had said, and two pints. I'd held the bowl for him at his last marsh fever. He'd filled it twice.
 -> s05_friar
 
 // ---------------------------------------------------------------

@@ -177,9 +177,7 @@ The square was under the bell tower, and the bells were right over us.
 
 Eight of the Marshal's riders were drawn up across it. Lidd walked ahead of the cart, and when he got to them he turned round, and they all looked at us.
 
-At a table outside the inn a man in a black coat was eating a pie with his fingers. A surgeon's bag sat by his plate.
-
-"The Marshal's surgeon," said Lidd. "Sent out to meet your master. Sent him the day before yesterday, before your master was ill."
+"The Marshal's surgeon is upstairs at his supper," said Lidd, and nodded at the inn. "Sent out to meet your master. Sent him the day before yesterday, before your master was ill. He'll bleed him at first light. Two pints for a fever, he says."
 
 Lidd took a little book out of his coat, and a pencil. "How did he take sick, squire? And where? I like to have it right."
 
@@ -229,9 +227,7 @@ I said it again, the same words. My eyes were running. He let go. I couldn't clo
 
 Marrow threw her apple core into the trough. "Corporal's a problem," she said. "Problems cost."
 
-Across the square the surgeon wiped his fingers. "Fever, is it? Then he's to be bled. I'll bring the bowl at first light." He took another bite. "Two pints. He'll feel better or he won't."
-
-I'd held the bowl for him at his last marsh fever. He'd filled it twice.
+First light, Lidd had said, and two pints. I'd held the bowl for him at his last marsh fever. He'd filled it twice.
 
 
 * * *

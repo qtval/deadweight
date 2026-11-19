@@ -153,7 +153,7 @@ Choice:        Put on his glove and put an arm out under the hood (they cheer; i
                Stand up and say he is sleeping — and be the one who sent two hundred people home /
                Say nothing, and let Isolde do it — she does it better, and takes the reins from you in front of his men
 Immediate:     Wave: the cheer; then a child, loudly: "That's not him, that's a little arm." Laughter. Dobb does not laugh. Tell: the cheer dies; a turnip hits the cart; Dobb takes his cap off, slowly, the way you do for worse news. Nothing: Isolde is gracious; Dobb looks at Wren as a man looks at a dog that did not bark. (If Wren objected to the plan in the prologue, Wren is under the hood beside him for all of this, and the choice is made from in there.)
-Delayed:       WAVED → Lidd, in s04: "He waved, I'm told. Then he can sit up for a surgeon."
+Delayed:       WAVED → Lidd, in s04: "He waved, I'm told. Then he can sit up for the bowl."
 Body:          The bells in Wren's teeth. The cough, or the knee on the cart step.
 Turn:          Dobb, at the tailboard, cap in hand: "I'll sit with him tonight, then. I always have when he's poorly."
 Panel:         stint_bridge_dusk
@@ -182,13 +182,13 @@ ID:            ch01_s04_square
 Place:         The square, under the bell tower, then the horse trough at its edge
 Purpose:       The Marshal gets a face in this town; the death story is told to somebody who wants it false; the surrender is asked for. Then ONE confrontation that runs long: Dobb, who had hold of the cold foot on the bridge, and Wren has to lie through him.
                (Fourth draft, 2026-11-19, after chapter 1 rounds 9–13: fewer threads, one long confrontation, Isolde acts for herself, Marrow's back-road rescue cut.)
-Present:       Wren, Isolde, Marrow, Dobb and his men. Sergeant Lidd (named at the toll) and eight riders. The Marshal's surgeon, unnamed until s09, eating.
+Present:       Wren, Isolde, Marrow, Dobb and his men. Sergeant Lidd (named at the toll) and eight riders. The Marshal's surgeon is upstairs in the inn, not on stage (rounds 12–19: too many new people in the square); Lidd speaks for him. He is first seen, and named, in s09.
 Wants:         Lidd — the surrender, and the story in his book. Dobb — the truth about the foot, without having to say the word in front of the Marshal's men. Isolde — to be on record as never having been under the canvas. Wren — to get through it.
 Can hurt Wren: Lidd's riders, on the stones. Then Dobb, at the trough: he loves the man, and he knows cold.
 Choices:       SAID (what Wren tells Lidd) as before. If Wren carries the letter: the search, and Wren gets out of it alone, at a cost: SEARCH = paid (gives up Aubric's purse, or Wren's own four pennies; Lidd writes "thief") / kicked (boots in the ribs, something clicks; Lidd stops it because the Marshal wants him walking). Dobb picks Wren up off the stones afterwards, in front of the Marshal's men, and uses it at the trough. (Rounds 17–18: Dobb's rescue let Wren off free.)
                FOOT, at the trough: the cold comes before the sweat (Dobb crushes Wren's wrist and asks again) / tell him to say it louder, Lidd's at the window (Dobb backs down in front of his men; one walks off) / say nothing (Dobb: "I'll be asking again").
 Bills:         the ring (TOLL ring), the ear or the flask (TOLD_MARROW), Isolde's line into Lidd's book ("the nursing is the squire's"), and if the armour was sold, Dobb sets the stamped shoulder piece on the trough before he asks.
-Turn:          The surgeon, from across the square: he will bleed the patient at first light. A dead man doesn't bleed.
+Turn:          Lidd says it at the start: the surgeon will bleed the patient at first light, two pints. The scene ends on Wren remembering the bowl at Aubric's last fever: he filled it twice.
 Panel:         stint_square_bells
 ```
 
