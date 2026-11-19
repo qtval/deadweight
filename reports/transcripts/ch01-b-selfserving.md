@@ -249,7 +249,7 @@ The square emptied with the light, except for two of Lidd's men at the inn door.
 
 A friar came round to the downwind side of the cart. He was old, with his habit patched at the knees. He knelt down and had my boot off before I'd agreed to it.
 
-"Brother Tobin," he said, to my foot. "You've been wet a day and a night in these. That's how a toe goes black." He rubbed it hard between his hands.
+"Brother Tobin," he said, to my foot. "Wet a day and a night in these. That's how a toe goes black." He rubbed it hard between his hands.
 
 "I have a chapel," he said. "Eleven under the roof, cripples from both sides and four children, and it leaks. No steel past the door. Not even a surgeon's."
 
