@@ -106,6 +106,33 @@ for (const [name, r] of Object.entries(ROUTES)) {
   await ctx.close();
 }
 
+// --- on into chapter 1 ------------------------------------------------------------
+{
+  const errors = [];
+  const { ctx, page } = await newPage(errors);
+  await page.goto(URL_);
+  await page.locator('[data-testid="begin"]').click();
+  await playRoute(page, [0], "chapter 1");
+  check("[chapter 1] prologue end card offers Continue", await page.locator('[data-testid="to-ch1"]').count() === 1);
+  await page.locator('[data-testid="to-ch1"]').click();
+  let steps = 0, sawTitle = false, sawStint = false;
+  while (steps++ < 300 && !(await page.locator('[data-testid="demo-end"]').count())) {
+    if (await page.locator('[data-testid="chapter-card"]').count()) { sawTitle = true; await page.locator('[data-testid="chapter-card"]').click(); continue; }
+    const box = (await page.locator(".box").innerText().catch(() => "")) || "";
+    if (box.includes("beech wood")) sawStint = true;
+    const n = await page.locator(".choice").count();
+    if (n) await page.locator(".choice").nth(0).click();
+    else await page.locator('[data-testid="stage"]').click({ position: { x: 195, y: 500 } });
+  }
+  check("[chapter 1] shows the chapter title card", sawTitle);
+  check("[chapter 1] opens in the beech wood", sawStint);
+  check("[chapter 1] reaches the end of the demo", await page.locator('[data-testid="demo-end"]').count() === 1, `${steps} taps`);
+  await page.waitForTimeout(600);
+  await page.screenshot({ path: join(shots, "chapter-1-end.png") });
+  check("[chapter 1] no console or page errors", errors.length === 0, errors.slice(0, 2).join(" | "));
+  await ctx.close();
+}
+
 // --- save and resume -------------------------------------------------------------
 {
   const errors = [];

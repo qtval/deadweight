@@ -12,4 +12,4 @@ One chat works on this repo at a time. This file is the lock.
 
 ## Current claim
 
-**CLAIMED** — 2026-11-19 10:05 (Asia/Ho_Chi_Minh) — Chapter 1 scenes 1–3 panel pair; per-chapter story test; link chapter 1 into the demo (roadmap: M1).
+**FREE** — last released 2026-11-19 (Asia/Ho_Chi_Minh, midday), after linking chapter 1 into the demo.

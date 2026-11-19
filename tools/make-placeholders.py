@@ -265,6 +265,36 @@ def breastplate_silver():
     return p
 
 
+def beech_wood():
+    p = Panel(21)
+    p.gradient("#9a9a9a", "#2a2a2a")
+    p.strokes(0, 0, W, 0, H, (30, 60), "#111", (0.5, 0.9), (14, 40), 85, 95)  # beech trunks
+    p.add('<rect x="0" y="1500" width="1080" height="420" fill="#1a1a1a"/>')  # mud road
+    p.add('<rect x="260" y="1250" width="520" height="220" fill="#000" opacity="0.85"/>')  # cart
+    p.add('<ellipse cx="820" cy="1700" rx="200" ry="60" fill="#050505"/>')  # black pond
+    return p
+
+
+def stint_bridge():
+    p = Panel(22)
+    p.gradient("#7d7d7d", "#1c1c1c")
+    p.add('<rect x="0" y="1150" width="1080" height="120" fill="#0d0d0d"/>')  # bridge deck
+    p.strokes(0, 1060, W, 1060, 1160, (60, 90), "#000", (0.6, 0.9), (6, 14), 85, 95)  # crowd
+    p.add('<rect x="140" y="1180" width="360" height="160" fill="#000"/>')  # covered cart
+    p.add('<circle cx="900" cy="980" r="16" fill="#d9a441"/>')  # a lantern on the far bank (amber: real light)
+    return p
+
+
+def stint_tollhouse():
+    p = Panel(23)
+    p.gradient("#8a8a8a", "#222")
+    p.add('<rect x="300" y="700" width="480" height="700" fill="#111"/>')  # tollhouse
+    p.add('<rect x="420" y="900" width="240" height="180" fill="#3a3a3a"/>')  # window
+    p.add('<rect x="0" y="1400" width="1080" height="80" fill="#0a0a0a"/>')  # bridge
+    p.strokes(820, 1150, 1060, 1150, 1400, (4, 4), "#000", (0.9, 1), (18, 26), 88, 92)  # horses at the rail
+    return p
+
+
 PANELS = {
     "greywater_ford_night": ford_night,
     "greywater_water_churn": water_churn,
@@ -273,6 +303,9 @@ PANELS = {
     "greywater_dawn_cart": dawn_cart,
     "greywater_breastplate_silver": breastplate_silver,
     "greywater_wrapping": wrapping,
+    "road_beech_wood_noon": beech_wood,
+    "stint_bridge_dusk": stint_bridge,
+    "stint_tollhouse": stint_tollhouse,
     "road_to_stint_morning": road_to_stint,
 }
 

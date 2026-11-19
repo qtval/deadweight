@@ -1,17 +1,67 @@
 {
   "_note": "Every proper noun the player can read. The story test fails on a capitalized mid-sentence word that isn't here, and counts how many of these each scene introduces.",
   "terms": {
-    "Aubric":   { "aka": ["Aubric Dane", "Sir Aubric", "Lantern"], "what": "Sir Aubric Dane, the Lantern. Dies in the prologue." },
-    "Wren":     { "what": "The player. Aubric's squire." },
-    "Marrow":   { "what": "Road-guide, deserter from the hill towns' side." },
-    "Isolde":   { "aka": ["Isolde Ferrant"], "what": "The Crown's chronicler." },
-    "Greywater":{ "what": "The river and ford where Aubric drowns." },
-    "Vellmouth":{ "what": "The capital, where the surrender must be countersigned." },
-    "Crown":    { "what": "The kingdom's government." },
-    "King":     { "what": "The king, unnamed so far." },
-    "Sayle":    { "aka": ["Marshal Sayle"], "what": "The Marshal: commander of the Crown's army for the whole war. Profits if the surrender dies." },
-    "Stint":    { "what": "Toll town a day south of the Greywater." },
-    "Prologue": { "what": "UI word" }
+    "Aubric": {
+      "aka": [
+        "Aubric Dane",
+        "Sir Aubric",
+        "Lantern"
+      ],
+      "what": "Sir Aubric Dane, the Lantern. Dies in the prologue."
+    },
+    "Wren": {
+      "what": "The player. Aubric's squire."
+    },
+    "Marrow": {
+      "what": "Road-guide, deserter from the hill towns' side."
+    },
+    "Isolde": {
+      "aka": [
+        "Isolde Ferrant"
+      ],
+      "what": "The Crown's chronicler."
+    },
+    "Greywater": {
+      "what": "The river and ford where Aubric drowns."
+    },
+    "Vellmouth": {
+      "what": "The capital, where the surrender must be countersigned."
+    },
+    "Crown": {
+      "what": "The kingdom's government."
+    },
+    "King": {
+      "what": "The king, unnamed so far."
+    },
+    "Sayle": {
+      "aka": [
+        "Marshal Sayle"
+      ],
+      "what": "The Marshal: commander of the Crown's army for the whole war. Profits if the surrender dies."
+    },
+    "Stint": {
+      "what": "Toll town a day south of the Greywater."
+    },
+    "Prologue": {
+      "what": "UI word"
+    },
+    "Dobb": {
+      "what": "Corporal Dobb, twenty years Aubric's man; burned hand. Chapter 1.",
+      "aka": [
+        "Corporal Dobb",
+        "Corporal"
+      ]
+    },
+    "Annis": {
+      "what": "The Stint tollkeeper's daughter, to be married. Chapter 1."
+    }
   },
-  "ignore": ["I", "Sir", "Not", "Good", "Then", "Of"]
+  "ignore": [
+    "I",
+    "Sir",
+    "Not",
+    "Good",
+    "Then",
+    "Of"
+  ]
 }

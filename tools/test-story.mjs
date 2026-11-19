@@ -76,6 +76,9 @@ const paths = [];
 const rememberFired = new Map(); // id -> count
 const decisionPoints = new Map(); // key -> {scene, options: Map(label -> count)}
 const outcomes = new Map();
+const boundarySeen = new Set();
+let laterPaths = 0;
+let entryStates = 0;
 let maxDepth = 0;
 
 function newCtx() {
@@ -113,6 +116,7 @@ function processTags(ctx, tags) {
         break;
       }
       case "end": ctx.endId = val; break;
+      case "chapterend": ctx.chapterEnd = val; break;
       case "title": case "know": break;
       default: fail(`unknown tag "${t}"`, ctx.route);
     }
@@ -156,6 +160,21 @@ function run(ctx, depth) {
     processLine(ctx, line);
     checkVars(ctx);
     if (runtimeErrors.length) { fail(`ink runtime error: ${runtimeErrors.join("; ")}`, ctx.route); runtimeErrors.length = 0; }
+    if (ctx.chapterEnd) {
+      // End of a chapter: run the end-of-chapter checks here, then walk the next chapter only once per
+      // distinct combination of the variables it reads (spec.chapterKeys), so paths don't multiply.
+      const done = ctx.chapterEnd; ctx.chapterEnd = null;
+      ctx.endId = done; finish(ctx); ctx.endId = null;
+      // Walk the next chapter from this state only if it brings a value of a variable that chapter reads
+      // (spec.chapterKeys) that no earlier entry state brought: every value is tested at least once.
+      const keys = spec.chapterKeys?.[done] ?? [];
+      const v = vars();
+      const fresh = keys.map((k) => `${done}|${k}=${v[k]}`).filter((p) => !boundarySeen.has(p));
+      if (!fresh.length) return;
+      fresh.forEach((p) => boundarySeen.add(p));
+      entryStates++;
+      ctx.refrains = {}; ctx.wordsSinceChoice = 0; ctx.chapter = (ctx.chapter ?? 0) + 1;
+    }
   }
   for (const c of containers) if (story.state.VisitCountAtPathString(c) > 0) covered.add(c);
 
@@ -192,6 +211,12 @@ function finish(ctx) {
   if (!ctx.endId) fail("dead end: story stopped with no choices and no `# end:` tag", ctx.route);
   else if (!spec.endIds.includes(ctx.endId)) fail(`unexpected end id "${ctx.endId}"`, ctx.route);
   for (const [name, check] of spec.endState) if (!check(v)) fail(`end state broken: ${name}`, ctx.route);
+  if (ctx.chapter) {
+    // A later chapter's ending: voice limits apply per chapter; prologue outcomes were counted at its end.
+    for (const [r, max] of Object.entries(spec.voice?.refrains ?? {})) if ((ctx.refrains[r] ?? 0) > max) fail(`voice: refrain "${r}" used ${ctx.refrains[r]} times in one chapter (max ${max})`, ctx.route);
+    laterPaths++;
+    return;
+  }
 
   for (const [r, max] of Object.entries(spec.voice?.refrains ?? {})) if ((ctx.refrains[r] ?? 0) > max) fail(`voice: refrain "${r}" used ${ctx.refrains[r]} times on one path (max ${max})`, ctx.route);
 
@@ -279,9 +304,9 @@ mkdirSync(join(root, "reports"), { recursive: true });
 writeFileSync(join(root, "reports/story-report.md"), md.join("\n") + "\n");
 writeFileSync(join(root, "reports/story-paths.json"), JSON.stringify(paths, null, 1));
 // Stats the game itself shows on the end screen, so it never states a stale number.
-writeFileSync(join(root, "src/generated/story-stats.json"), JSON.stringify({ paths: paths.length, outcomes: outcomes.size }));
+writeFileSync(join(root, "src/generated/story-stats.json"), JSON.stringify({ paths: paths.length, outcomes: outcomes.size, chapter1Paths: laterPaths, chapter1Entries: entryStates }));
 
-console.log(`${ok ? "PASS" : "FAIL"}: ${paths.length} paths, ${covered.size}/${containers.length} knots, ${combos.filter((c) => outcomes.has(c)).length}/${combos.length} outcomes, ${failures.size} failures, ${warnings.size} warnings`);
+console.log(`${ok ? "PASS" : "FAIL"}: ${paths.length} prologue paths, chapter 1 from ${entryStates} entry states (${laterPaths} paths), ${covered.size}/${containers.length} knots, ${combos.filter((c) => outcomes.has(c)).length}/${combos.length} outcomes, ${failures.size} failures, ${warnings.size} warnings`);
 for (const [m, r] of failures) console.log(`  ✗ ${m}${r ? `\n      route: ${r}` : ""}`);
 for (const [m] of warnings) console.log(`  ! ${m}`);
 console.log("report: reports/story-report.md");

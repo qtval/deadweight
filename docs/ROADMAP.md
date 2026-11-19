@@ -13,13 +13,15 @@ Guiding rules (carried over from the previous project because they were right):
 
 ---
 
-## Where we are (updated 2026-11-19, morning)
+## Where we are (updated 2026-11-19, midday)
 
-**The demo (the prologue):** every automated test passes (217,728 paths; browser playthroughs). The dawn scene is now two scenes: the lie and the plan (s05), then the price on Wren's life and the letter (s05b, new placeholder panel). **Reader panel, 31 rounds: not passed.** Four of the last six rounds passed all nine feel criteria; the First Law reader gave 4 in rounds 27 and 28 and 3 otherwise; round 28 met every feel rule but round 29 (same text) did not repeat it. Nothing has ever been judged copied. Report: `reports/readers/2026-11-19-prologue-26-31-ch01-3-6.md`.
+**The demo now runs from the prologue into chapter 1.** The prologue ends on its end card (what you did, the ballad) with a **Continue to Chapter 1** button; chapter 1 plays its first three scenes (the beech wood, the bridge, the toll) and ends on a short "End of the demo" card. Three new placeholder panels and a prompt pack, `art/prompts/ch01.md`.
 
-**Chapter 1, scenes 1–3:** third draft written (danger inside the cart, Dobb's hand under the blanket, a forgery option at the toll, the Marshal's sergeant). Four panel rounds, not passed: temptation and worry for the narrator hover at 3.67, the First Law reader gives 3. Rounds 5–6 also failed on a bug of mine (a speech attributed to the wrong woman), now fixed and not yet re-read.
+**Tests:** all pass. The story test walks all 217,728 prologue paths, then chapter 1 from 17 prologue end states chosen so every value of every variable chapter 1 reads appears at least once (3,564 chapter 1 paths). The browser test has five new checks for going on into chapter 1 (43/43).
 
-**Next task:** chapter 1 scenes 1–3, one pair of rounds on the fixed text. Then the per-chapter story test and linking chapter 1 into the demo. Stop re-running the prologue panel; the owner can pass it by playing it.
+**Reader panel:** the prologue has not passed in 31 rounds (most rounds pass the nine feel criteria; the First Law reader gives 3 or 4). Chapter 1 scenes 1–3 have had 8 rounds and have not passed: temptation and worry for the narrator sit at 3.33–3.67, the First Law reader gives 3. Report: `reports/readers/2026-11-19-prologue-26-31-ch01-3-6.md`.
+
+**Next task:** chapter 1 scene 4 onward (the square, Sergeant Lidd, the surgeon), per `story/BEATS.md`, carrying the one note every chapter 1 reader gives: Wren must stay afraid of Marrow and Isolde, and the danger must sit inside the cart as well as outside it. Then re-read scenes 1–3 together with the new ones.
 
 **One chat at a time:** `docs/IN_PROGRESS.md` is the lock. Read it first.
 
@@ -218,3 +220,6 @@ Combat systems, inventory, character creator beyond name/pronouns, voice acting,
 | 2026-11-19 | Prologue dawn scene split into s05 (lie and plan) and s05b_price (alone, the price, the knife, the letter); new choice READ_BALLAD; new placeholder panel and prompt | The structural option from round 25; both First Law readers and phone readers asked for room |
 | 2026-11-19 | Wren's sex stays unstated; nobody calls Wren "he" or "she" | Readers kept guessing; CAST.md uses "they" |
 | 2026-11-19 | Chapter 1 scenes 1–3 third draft: Dobb's burn (was missing fingers, too near an Abercrombie veteran); DOBB choice; forged toll signature; the Marshal's sergeant | Chapter 1 opening report, open items 1–7 |
+| 2026-11-19 | Chapter 1 linked into the demo; the prologue end card gets Continue; new `# chapterend:` tag | Owner: go ahead after round 31 |
+| 2026-11-19 | Per-chapter story test: chapter 1 is walked from prologue end states chosen so every value of each variable it reads (spec.chapterKeys) appears at least once | Walking every combined path would be over 20 million; every combination of those variables was too slow for CI |
+| 2026-11-19 | Chapter 1: new first choice (ARMS: who breaks the dead man's arms) | A choice was needed inside a 520-word stretch, and readers asked for fear of Marrow inside the cart |

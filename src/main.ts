@@ -57,6 +57,9 @@ let panel: string | null = null;
 let knows = new Map<string, string>();
 let route: string[] = [];
 let ended = false;
+let endId = "";
+// Set by `# chapterend:`; the reader stops pulling, shows the chapter's end card, and Continue resumes.
+let chapterBreak = false;
 let unseenJournal = false;
 let current: Beat | null = null;
 
@@ -124,7 +127,7 @@ function toastJournal(name: string) {
 // Story flow
 function pull(): boolean {
   // Pull lines from ink until at least one beat is queued. Returns false if nothing more.
-  while (queue.length === 0 && story.canContinue) {
+  while (queue.length === 0 && story.canContinue && !chapterBreak) {
     const line = story.Continue()!.trim();
     const after: Beat[] = [];
     for (const raw of story.currentTags ?? []) {
@@ -141,7 +144,8 @@ function pull(): boolean {
           break;
         }
         case "remember": after.push({ kind: "remember", text: b }); break;
-        case "end": ended = true; break;
+        case "end": ended = true; endId = val; break;
+        case "chapterend": chapterBreak = true; break;
       }
     }
     if (line) queue.push({ kind: "text", text: line });
@@ -155,7 +159,8 @@ function advance() {
   if (layer.querySelector(".chapter-card")) return;
   if (!pull()) {
     if (story.currentChoices.length) return renderChoices();
-    if (ended || !story.canContinue) return showEnd();
+    if (chapterBreak) return showEnd(true);
+    if (ended || !story.canContinue) return showEnd(false);
     return;
   }
   current = queue.shift()!;
@@ -236,7 +241,7 @@ function showTitle() {
 
 function start(saved: Save | null) {
   story = new Story(storyJson as any);
-  queue = []; knows = new Map(); route = []; ended = false; unseenJournal = false; current = null;
+  queue = []; knows = new Map(); route = []; ended = false; endId = ""; chapterBreak = false; unseenJournal = false; current = null;
   if (saved) {
     try {
       story.state.LoadJson(saved.ink);
@@ -254,29 +259,51 @@ function inkText(fn: string) {
   try { return (story.EvaluateFunction(fn, [], true) as any).output.trim() as string; } catch { return ""; }
 }
 
-function showEnd() {
-  store.del(SAVE_KEY);
+function showEnd(chapterDone: boolean) {
   bar.hidden = true; stage.hidden = true;
-  const v = vars();
-  const recap = inkText("recap").split("\n").filter(Boolean);
-  const ballad = inkText("ballad");
-  layer.innerHTML = `
-    <div class="card end-card" data-testid="end-card">
-      <span class="kicker">End of the prologue</span>
-      <h2>Eight days to Vellmouth</h2>
-      <section><h3>What you did</h3>${recap.map((l) => `<p>${esc(l)}</p>`).join("")}</section>
-      <section><h3>Isolde's ballad, as it stands</h3><p class="ballad" data-testid="ballad">${esc(ballad)}</p></section>
-      <section><h3>Your choices</h3><ol class="route">${route.map((r) => `<li><span>${esc(r)}</span></li>`).join("")}</ol></section>
-      <section>
-        <h3>Paths</h3>
-        <p class="stat">This prologue has <b>${stats.paths}</b> paths and <b>${stats.outcomes}</b> outcomes. Yours: <b>${OUTCOME_WORDS.VERSION[v.VERSION] ?? "?"}</b>, and <b>${OUTCOME_WORDS.LETTER[v.LETTER] ?? "?"}</b>.</p>
-        <p class="quiet">Next, in Chapter 1: Stint. A friar wants the body for his chapel. The Marshal's riders want to escort the hero. Neither must see under the canvas.</p>
-      </section>
-      <div class="actions">
-        <button class="btn" data-testid="again">Play again</button>
-        <button class="btn ghost" data-testid="end-journal">Open the journal</button>
-      </div>
-    </div>`;
+  if (!chapterDone && endId === "ch01_preview") {
+    store.del(SAVE_KEY);
+    layer.innerHTML = `
+      <div class="card end-card" data-testid="demo-end">
+        <span class="kicker">End of the demo</span>
+        <h2>Stint, the first evening</h2>
+        <section><p>Chapter 1 goes on from here: Corporal Dobb means to sit with him tonight, and the Marshal comes to pay his respects in the morning.</p></section>
+        <section><h3>Your choices</h3><ol class="route">${route.map((r) => `<li><span>${esc(r)}</span></li>`).join("")}</ol></section>
+        <div class="actions">
+          <button class="btn" data-testid="again">Play again</button>
+          <button class="btn ghost" data-testid="end-journal">Open the journal</button>
+        </div>
+      </div>`;
+  } else {
+    if (!chapterDone) store.del(SAVE_KEY);
+    const v = vars();
+    const recap = inkText("recap").split("\n").filter(Boolean);
+    const ballad = inkText("ballad");
+    layer.innerHTML = `
+      <div class="card end-card" data-testid="end-card">
+        <span class="kicker">End of the prologue</span>
+        <h2>Eight days to Vellmouth</h2>
+        <section><h3>What you did</h3>${recap.map((l) => `<p>${esc(l)}</p>`).join("")}</section>
+        <section><h3>Isolde's ballad, as it stands</h3><p class="ballad" data-testid="ballad">${esc(ballad)}</p></section>
+        <section><h3>Your choices</h3><ol class="route">${route.map((r) => `<li><span>${esc(r)}</span></li>`).join("")}</ol></section>
+        <section>
+          <h3>Paths</h3>
+          <p class="stat">This prologue has <b>${stats.paths}</b> paths and <b>${stats.outcomes}</b> outcomes. Yours: <b>${OUTCOME_WORDS.VERSION[v.VERSION] ?? "?"}</b>, and <b>${OUTCOME_WORDS.LETTER[v.LETTER] ?? "?"}</b>.</p>
+          <p class="quiet">Next, Chapter 1: Stint. The bells are ringing for him, and his own men are waiting on the bridge.</p>
+        </section>
+        <div class="actions">
+          ${chapterDone ? `<button class="btn" data-testid="to-ch1">Continue to Chapter 1</button>` : ""}
+          <button class="btn ${chapterDone ? "ghost" : ""}" data-testid="again">Play again</button>
+          <button class="btn ghost" data-testid="end-journal">Open the journal</button>
+        </div>
+      </div>`;
+    layer.querySelector('[data-testid="to-ch1"]')?.addEventListener("click", () => {
+      chapterBreak = false;
+      layer.innerHTML = "";
+      bar.hidden = false; stage.hidden = false;
+      advance();
+    });
+  }
   layer.querySelector('[data-testid="again"]')!.addEventListener("click", () => start(null));
   layer.querySelector('[data-testid="end-journal"]')!.addEventListener("click", () => openJournal("travelers"));
 }

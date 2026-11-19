@@ -499,6 +499,5 @@ He would have signed it. He had said so last night. It wasn't forging. It was fi
 * [Not here. In Vellmouth, with his seal and a witness]
     ~ DEED = "waiting"
     I put it back. Not with her ink, and not on a cart. In Vellmouth, with his seal, and somebody respectable watching a sick man's hand move. I had waited four years. I could wait eight days.
-- Somewhere ahead they would be ringing the bells for him. I caught myself hoping he would enjoy it. {DEED == "signed":He had signed a paper for me the day after he died, and it was drying against my ribs.|I needed him in a good temper. He had signing to do.}
-# end: ch00
--> END
+- Somewhere ahead they would be ringing the bells for him. I caught myself hoping he would enjoy it. {DEED == "signed":He had signed a paper for me the day after he died, and it was drying against my ribs.|I needed him in a good temper. He had signing to do.} # chapterend: ch00
+-> ch01

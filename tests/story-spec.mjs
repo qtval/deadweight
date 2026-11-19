@@ -3,10 +3,12 @@
 
 export const spec = {
   // Scenes must be visited in this order on every path (skipping is allowed, going back is not).
-  sceneOrder: ["s01_ford", "s02_water", "s03_bank", "s04_marrow", "s05_dawn", "s05b_price", "s06_wrap", "s07_road"],
+  sceneOrder: ["s01_ford", "s02_water", "s03_bank", "s04_marrow", "s05_dawn", "s05b_price", "s06_wrap", "s07_road", "c1_s01_armour", "c1_s02_bells", "c1_s03_toll"],
 
   // Every path must end at one of these `# end:` ids.
-  endIds: ["ch00"],
+  endIds: ["ch00", "ch01_preview"],
+  // Chapter 1 reads only these prologue variables; the story test walks it from enough prologue end states that every value of each appears.
+  chapterKeys: { ch00: ["SELF", "SOLD", "WENT_IN", "TOLD_MARROW", "VERSION", "DEED", "PLAN", "LETTER", "RING", "PURSE", "DEBT_MARROW"] },
 
   // Each `# remember: <id>` may only fire when its condition holds (checked at the moment it fires),
   // and must fire on at least one path. `when` gets the current ink variables.
@@ -20,6 +22,7 @@ export const spec = {
     honest_twice:             (v) => v.TOLD_MARROW === "truth" && v.VERSION === "truth",
     left_purse:               (v) => v.PURSE === false,
     light_purse:              (v) => v.PURSE === true,
+    purse_at_toll:            (v) => v.PURSE === true,
     deed_signed:              (v) => v.DEED === "signed",
     dry_to_the_knee:          (v) => v.VERSION === "hero" && !v.WENT_IN,
   },
