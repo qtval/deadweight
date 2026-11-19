@@ -261,14 +261,14 @@ Lidd hit him in the mouth, not hard. Dobb's lip split. He didn't let go, and in 
     "The cart," I said. Lidd looked at Marrow.
 }
 { TOLD_MARROW == "ambush":
-    He took Marrow's flask off her belt, drank, and gave it back. "Hill stuff," he said. "Thought so."
+    Lidd took Marrow's flask off her belt, drank, and gave it back. "Hill stuff," he said. "Thought so."
 }
 "Sergeant," said Isolde. "You may write that the chronicler has never been under the canvas. The nursing is the squire's." Lidd wrote it, and she watched him do it.
 -> s04_dobb
 
 = s04_dobb
 Lidd's riders went in to their supper. Dobb walked me to the horse trough{STOPPED == "dobb":, bleeding into his beard}, with his hand on my shoulder as if he were helping me. His men stood round us, with their backs to the square.
-{ARMOUR == "sold":He had a shoulder piece under his arm. He set it on the edge of the trough, rivet up. "Smith by the gate had this. Woman sold it him this morning, badge filed off. Missed one."}
+{ARMOUR == "sold":He had a shoulder piece under his arm. He set it on the edge of the trough, rivet up. "Smith by the gate had this. Woman sold it him an hour since, badge filed off. Missed one."}
 "I had his foot, Wren," he said. "On the bridge."
 {DOBB == "struck":He held up the burned hand, where I'd hit it.}{DOBB == "refused":"He never said not me. Not in twenty years."}{DOBB == "catching":"I've had the cold sweats. They're not that cold."}
 "I've laid out more of his lads than you've met. I know cold."
