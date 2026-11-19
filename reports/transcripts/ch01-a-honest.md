@@ -92,7 +92,9 @@ Corporal Dobb came on to the back of the cart. He put his burned hand flat on th
 
 "Marsh one, then. He's had it before. He wants his feet rubbing for it, or he gets the cramps." He was already lifting the edge of the canvas. "Let's have them."
 
-His hand went in under the blanket, looking for the feet, and the whole bridge watched it go. In a moment he would have hold of a foot that had been cold since last night. I watched his face. I couldn't tell if he had found it.
+His hand went in under the blanket, looking for the feet, and the whole bridge watched it go. I watched his face, and I saw the moment he found one. It had been cold since last night.
+
+"He's cold," said Dobb. He said it to me, not loud. His hand stayed where it was.
 
 **The game offers:**
 - **▶ Knock his hand away. In front of his men.**  (chosen)
@@ -106,6 +108,8 @@ I hit his hand. I hit it hard, on the burn, and he took it out from under the ca
 His men had seen it. Everybody on that end of the bridge had seen it. Dobb held the hand against his chest and didn't say anything. One of his men spat on the bridge, near my boot.
 
 "I'll sit with him tonight all the same," he said. "He'll ask for me."
+
+Behind me I heard Marrow put her knife away. I hadn't known she'd had it out, or which of us it was for.
 
 
 * * *
@@ -130,7 +134,7 @@ The tollkeeper was a long man with a boil on the side of his neck that had come 
 
 The man with his boots up was the sergeant, picking his teeth with a straw.
 
-Dobb and his men had followed the cart, close enough to hear. Marrow had come into the doorway behind me. Isolde stayed in the cart, where she could see the sergeant's face and he couldn't see hers.
+Dobb and his men had followed, close enough to hear. Marrow was in the doorway behind me.
 
 **The game offers:**
 - **▶ Sign your own name. It's never been in a book.**  (chosen)
@@ -159,9 +163,11 @@ He was asking me. I looked round for somebody else he might be asking. Marrow an
 
 The tollkeeper shut his eyes for a moment. "God keep him," he said. "Tell him that from me."
 
-"That's his bells, given away," said Marrow, in the doorway, "by his squire."
+It was the first thing I had ever given anybody. It wasn't mine, and it felt wonderful.
 
 The sergeant put a hand on the back of my neck, friendly, the way you'd hold a pup to look at its teeth. "Marshal's in Stint tomorrow," he said. "He'll want to pay his respects. Make sure your master's awake."
+
+I said I would. With his hand there I'd have said I could make him dance.
 
 
 * * *
@@ -172,15 +178,15 @@ Eight of the Marshal's riders were drawn up across it. The sergeant from the tol
 
 At a table outside the inn a man in a black coat was eating a pie with his fingers. A surgeon's bag sat by his plate.
 
-"Master Venn," said Lidd. "Surgeon. The Marshal sent him out to meet your master. Thoughtful. Sent him the day before yesterday."
+"The Marshal's surgeon," said Lidd. "Sent out to meet your master. Thoughtful. Sent him the day before yesterday."
 
-The day before yesterday he hadn't been sick.
+The day before yesterday he hadn't been sick. Somebody had expected him to be.
 
 Marrow had got down behind the horse. Lidd looked over it anyway. "Marrow," he said. "Still guiding." She didn't answer. He wrote something in a little book.
 
 "How did he take sick, squire? And where? I like to have it right."
 
-His pencil was over the page. Isolde was standing a yard from me, and whatever I said now, she would have to live with.
+His pencil was over the page. Isolde was a yard from me, listening.
 
 **The game offers:**
 - Tell it the way you all agreed it
@@ -197,9 +203,9 @@ Then he put the pencil away. "And the surrender. The Marshal would like it kept 
 
 "Does it," said Lidd. "Squire looks like a thief to me." He said it to his men, pleasantly. "Turn him out."
 
-Two of them took my arms. A third put his hands flat on my ribs and went down my sides, slowly, the way you feel a horse's legs. He was one hand short of the case.
+Two of them took my arms. I pulled, once, and one of them put his knee in the back of mine, and I went down on the stones. A third knelt and went down my sides with flat hands. The case was under my shirt, against my belly, an inch below where his hands had got to. Somebody in the crowd laughed.
 
-I looked round.
+I got my head round.
 
 **The game offers:**
 - **▶ Look at Dobb**  (chosen)
@@ -208,36 +214,32 @@ I looked round.
 
 Dobb came across the square and put his burned hand on the rider's wrist. "That's the Lantern's squire."
 
-Lidd hit him in the mouth, not hard, the way you'd tap a door. Dobb's lip split. He didn't let go of the wrist, and in the end the rider let go of me.
+Lidd hit him in the mouth, not hard. Dobb's lip split. He didn't let go of the wrist, and in the end the rider let go of me.
 
 "Who marked your ear, squire?" He touched it, with one finger.
 
 "The cart," I said. Lidd looked at Marrow.
 
-Master Venn wiped his fingers. "Where am I to see him?"
+The surgeon wiped his fingers. "Fever," he said. "Then he's to be bled. I'll bring the bowl at first light." He took another bite. "Bleeding never killed a man who wasn't going anyway."
 
-"Tomorrow," said Isolde. "He is sleeping."
-
-Venn sat back and finished his pie. He didn't ask what was wrong with him.
+A dead man doesn't bleed. I'd held the bowl for pigs. I knew.
 
 
 * * *
 
 The square emptied with the light.
 
-A friar came round to the downwind side of the cart. He was old, with his habit patched at the knees. He knelt down and had my boot off before I'd agreed to it.
+An old friar came round to the downwind side of the cart, knelt, and had my boot off before I'd agreed to it.
 
-"Brother Tobin," he said, to my foot. "That's how a toe goes black." He rubbed it hard between his hands.
+"Brother Tobin," he said, to my foot. "That's how a toe goes black." He rubbed it hard between his hands. Nobody had touched my feet since my mother. I'd have let him do the other one.
 
 "You gave Annis her bells," he said. "I trained those ringers."
 
-"He can't lie in a cart tonight," he said. "I have a chapel. Eleven under the roof, cripples from both sides and four children. No steel past the door. Not even a surgeon's."
+"He can't lie in a cart tonight," he said. "I have a chapel. Eleven under the roof, cripples from both sides and four children, and it leaks. A saint under it one night, and I'd have pilgrims till the slates were paid for. No steel past the door. Not even a surgeon's."
 
 "Inn yard," said Dobb. "My lads round him."
 
-"Or the barn behind my house," said the tollkeeper, who had come down to lock the toll box. "Fourpence, and nobody's business."
-
-Isolde said nothing. She was watching Tobin's hands on my foot.
+"Or the barn behind my house," said the tollkeeper, locking up. "Fourpence, and nobody's business."
 
 **The game offers:**
 - **▶ The chapel. A bolt, no steel, and Tobin holds the key.**  (chosen)

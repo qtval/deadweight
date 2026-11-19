@@ -94,22 +94,26 @@ Corporal Dobb came on to the back of the cart. He put his burned hand flat on th
 
 "Marsh one, then. He's had it before. He wants his feet rubbing for it, or he gets the cramps." He was already lifting the edge of the canvas. "Let's have them."
 
-His hand went in under the blanket, looking for the feet, and the whole bridge watched it go. In a moment he would have hold of a foot that had been cold since last night. I watched his face. I couldn't tell if he had found it.
+His hand went in under the blanket, looking for the feet, and the whole bridge watched it go. I watched his face, and I saw the moment he found one. It had been cold since last night.
+
+"He's cold," said Dobb. He said it to me, not loud. His hand stayed where it was.
 
 **The game offers:**
 - Knock his hand away. In front of his men.
 - **▶ Tell him it's catching. Let the bridge hear.**  (chosen)
 - Tell him Aubric asked not to see him like this
 
-"It's catching," I said, loud. "The sweating sort. You've children here."
+"It's catching," I said, loud. "Cold sweats. You've children here."
 
-The woman with the baby heard it first. She turned round with it into the crowd, and the crowd went back off the bridge after her. The children came down off the wall.
+The woman with the baby turned round into the crowd with it, and the crowd went back off the bridge after her.
 
 Dobb didn't move his hand. "Had the sweats at the siege," he said. "Can't have them twice." Then he took it out from under the blanket, slowly, because his men were looking at him, and wiped it on his coat.
 
-"Thank you, Wren," said Isolde, very quietly. "They had come to sing."
+Isolde took the reins out of my hands, in front of his men, and kept them.
 
 "I'll sit with him tonight," said Dobb. "Since I can't catch it."
+
+Behind me I heard Marrow put her knife away. I hadn't known she'd had it out, or which of us it was for.
 
 
 * * *
@@ -134,7 +138,7 @@ The tollkeeper was a long man with a boil on the side of his neck that had come 
 
 The man with his boots up was the sergeant, picking his teeth with a straw.
 
-Dobb and his men had followed the cart, close enough to hear. Marrow had come into the doorway behind me. Isolde stayed in the cart, where she could see the sergeant's face and he couldn't see hers.
+Dobb and his men had followed, close enough to hear. Marrow was in the doorway behind me.
 
 **The game offers:**
 - Sign your own name. It's never been in a book.
@@ -162,9 +166,11 @@ He was asking me. I looked round for somebody else he might be asking. Marrow an
 
 The tollkeeper shut his eyes for a moment. "God keep him," he said. "Tell him that from me."
 
-"That's his bells, given away," said Marrow, in the doorway, "by his squire."
+It was the first thing I had ever given anybody. It wasn't mine, and it felt wonderful.
 
 The sergeant put a hand on the back of my neck, friendly, the way you'd hold a pup to look at its teeth. "Marshal's in Stint tomorrow," he said. "He'll want to pay his respects. Make sure your master's awake."
+
+I said I would. With his hand there I'd have said I could make him dance.
 
 
 * * *
@@ -175,15 +181,15 @@ Eight of the Marshal's riders were drawn up across it. The sergeant from the tol
 
 At a table outside the inn a man in a black coat was eating a pie with his fingers. A surgeon's bag sat by his plate.
 
-"Master Venn," said Lidd. "Surgeon. The Marshal sent him out to meet your master. Thoughtful. Sent him the day before yesterday."
+"The Marshal's surgeon," said Lidd. "Sent out to meet your master. Thoughtful. Sent him the day before yesterday."
 
-The day before yesterday he hadn't been sick.
+The day before yesterday he hadn't been sick. Somebody had expected him to be.
 
 Marrow had got down behind the horse. Lidd looked over it anyway. "Marrow," he said. "Still guiding." She didn't answer. He wrote something in a little book.
 
 "How did he take sick, squire? And where? I like to have it right."
 
-His pencil was over the page. Isolde was standing a yard from me, and whatever I said now, she would have to live with.
+His pencil was over the page. Isolde was a yard from me, listening.
 
 **The game offers:**
 - **▶ Tell it the way you all agreed it**  (chosen)
@@ -200,32 +206,28 @@ Then he put the pencil away. "And the surrender. The Marshal would like it kept 
 
 Lidd looked at my shirt anyway.
 
-"And the ring you showed at the toll," said Lidd, and held his hand out. He tried it on his little finger, and gave it back warm.
+"And the ring you showed at the toll," said Lidd. He tried it on his little finger, and gave it back warm.
 
-Master Venn wiped his fingers. "Where am I to see him?"
+The surgeon wiped his fingers. "Fever," he said. "Then he's to be bled. I'll bring the bowl at first light." He took another bite. "Bleeding never killed a man who wasn't going anyway."
 
-"Tomorrow," said Isolde. "He is sleeping."
-
-Venn sat back and finished his pie. He didn't ask what was wrong with him.
+A dead man doesn't bleed. I'd held the bowl for pigs. I knew.
 
 
 * * *
 
 The square emptied with the light.
 
-A friar came round to the downwind side of the cart. He was old, with his habit patched at the knees. He knelt down and had my boot off before I'd agreed to it.
+An old friar came round to the downwind side of the cart, knelt, and had my boot off before I'd agreed to it.
 
-"Brother Tobin," he said, to my foot. "That's how a toe goes black." He rubbed it hard between his hands.
+"Brother Tobin," he said, to my foot. "That's how a toe goes black." He rubbed it hard between his hands. Nobody had touched my feet since my mother. I'd have let him do the other one.
 
 "You gave Annis her bells," he said. "I trained those ringers."
 
-"He can't lie in a cart tonight," he said. "I have a chapel. Eleven under the roof, cripples from both sides and four children. No steel past the door. Not even a surgeon's."
+"He can't lie in a cart tonight," he said. "I have a chapel. Eleven under the roof, cripples from both sides and four children, and it leaks. A saint under it one night, and I'd have pilgrims till the slates were paid for. No steel past the door. Not even a surgeon's."
 
 "Inn yard," said Dobb. "My lads round him."
 
-"Or the barn behind my house," said the tollkeeper, who had come down to lock the toll box. "Fourpence, and nobody's business."
-
-Isolde said nothing. She was watching Tobin's hands on my foot.
+"Or the barn behind my house," said the tollkeeper, locking up. "Fourpence, and nobody's business."
 
 **The game offers:**
 - The chapel. A bolt, no steel, and Tobin holds the key.
