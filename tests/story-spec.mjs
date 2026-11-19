@@ -3,7 +3,7 @@
 
 export const spec = {
   // Scenes must be visited in this order on every path (skipping is allowed, going back is not).
-  sceneOrder: ["s01_ford", "s02_water", "s03_bank", "s04_marrow", "s05_dawn", "s05b_price", "s06_wrap", "s07_road", "c1_s01_armour", "c1_s02_bells", "c1_s03_toll"],
+  sceneOrder: ["s01_ford", "s02_water", "s03_bank", "s04_marrow", "s05_dawn", "s05b_price", "s06_wrap", "s07_road", "c1_s01_armour", "c1_s02_bells", "c1_s03_toll", "c1_s04_square", "c1_s05_friar"],
 
   // Every path must end at one of these `# end:` ids.
   endIds: ["ch00", "ch01_preview"],

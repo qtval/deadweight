@@ -295,6 +295,26 @@ def stint_tollhouse():
     return p
 
 
+def stint_square():
+    p = Panel(24)
+    p.gradient("#6f6f6f", "#161616")
+    p.add('<rect x="420" y="200" width="240" height="1100" fill="#0b0b0b"/>')  # bell tower
+    p.add('<rect x="0" y="1300" width="1080" height="620" fill="#1a1a1a"/>')  # square
+    for i in range(8):
+        p.add(f'<rect x="{120+i*110}" y="1380" width="40" height="140" fill="#000"/>')  # riders in a line
+    return p
+
+
+def chapel_door():
+    p = Panel(25)
+    p.gradient("#5c5c5c", "#101010")
+    p.add('<rect x="340" y="600" width="400" height="900" fill="#0a0a0a"/>')  # chapel door
+    p.add('<rect x="380" y="640" width="320" height="820" fill="#2a2a2a"/>')
+    p.add('<circle cx="540" cy="560" r="14" fill="#d9a441"/>')  # a candle above the door (amber: real light)
+    p.add('<rect x="0" y="1500" width="1080" height="420" fill="#141414"/>')
+    return p
+
+
 PANELS = {
     "greywater_ford_night": ford_night,
     "greywater_water_churn": water_churn,
@@ -306,6 +326,8 @@ PANELS = {
     "road_beech_wood_noon": beech_wood,
     "stint_bridge_dusk": stint_bridge,
     "stint_tollhouse": stint_tollhouse,
+    "stint_square_bells": stint_square,
+    "stint_chapel_door": chapel_door,
     "road_to_stint_morning": road_to_stint,
 }
 

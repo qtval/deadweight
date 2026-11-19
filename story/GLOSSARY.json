@@ -54,6 +54,24 @@
     },
     "Annis": {
       "what": "The Stint tollkeeper's daughter, to be married. Chapter 1."
+    },
+    "Lidd": {
+      "aka": [
+        "Sergeant Lidd"
+      ],
+      "what": "Sergeant of the Marshal's riders in Stint. Chapter 1."
+    },
+    "Venn": {
+      "aka": [
+        "Master Venn"
+      ],
+      "what": "The surgeon the Marshal sent on Tuesday. Chapter 1."
+    },
+    "Tobin": {
+      "aka": [
+        "Brother Tobin"
+      ],
+      "what": "Brother Tobin Ask, friar of Stint; runs a leaking chapel for cripples from both armies. Chapter 1."
     }
   },
   "ignore": [

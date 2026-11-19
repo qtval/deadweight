@@ -10,6 +10,10 @@ VAR ARMOUR = ""
 VAR WAVED = false
 VAR DOBB = ""
 VAR TOLL = ""
+VAR RINGERS = ""
+VAR SAID = ""
+VAR STOPPED = ""
+VAR LODGING = ""
 
 === ch01 ===
 # title: Chapter 1 :: Stint
@@ -181,7 +185,109 @@ Dobb and his men had followed the cart, close enough to hear. Marrow had come in
 }
 He put the pen back behind his ear and didn't go on to the next cart. There wasn't one. He scratched beside the boil.
 "My girl's to be married tomorrow," he said. "Annis. He's had my ringers three days, practising for him. They're my ringers. I pay them. Would he spare them an hour in the morning, for the chapel? I'd not ask. Only he's a generous man. Everyone says it."
-He was asking me. I looked round for somebody else he might be asking. There was only Marrow, and the sergeant.
-The sergeant put a hand on the back of my neck, friendly, the way you'd hold a pup to look at its teeth. "Marshal's in Stint tomorrow," he said. "He'll want to pay his respects. Make sure your master's awake."
+He was asking me. I looked round for somebody else he might be asking. There was only Marrow, and the sergeant, and they were both waiting to hear what the Lantern would say.
+* [Say yes, in his name. He'd have said yes.]
+    ~ RINGERS = "yes"
+    "He'll spare them," I said. "For Annis."
+    The tollkeeper shut his eyes for a moment. "God keep him," he said. "Tell him that from me."
+    "That's his bells, given away," said Marrow, in the doorway, "by his squire."
+* [Say he's too ill to be asked anything]
+    ~ RINGERS = "no"
+    "He's too ill to be asked," I said. "I'm sorry."
+    "Course he is." The tollkeeper put the pen back behind his ear. "Course he is. I'd not have asked." He went back to his book, and didn't look up again.
+- The sergeant put a hand on the back of my neck, friendly, the way you'd hold a pup to look at its teeth. "Marshal's in Stint tomorrow," he said. "He'll want to pay his respects. Make sure your master's awake."
+-> s04_square
+
+// ---------------------------------------------------------------
+= s04_square
+# scene: c1_s04_square
+# panel: stint_square_bells
+The square was under the bell tower, and the bells were right over us, so that I felt them in my teeth.
+Eight of the Marshal's riders were drawn up across it. The sergeant from the tollhouse walked ahead of the cart, and when he got to them he turned round, and they all looked at us. His name was Lidd.
+At a table outside the inn a man in a black coat was eating a pie with his fingers. A surgeon's bag sat by his plate.
+"Master Venn," said Lidd. "Surgeon. The Marshal sent him out to meet your master." "Thoughtful. Sent him the day before yesterday."
+The day before yesterday the Lantern had been drinking with the hill towns and singing. Nobody had been ill.
+Marrow had got down on the far side of the cart, where the horse was between her and the riders. Lidd looked over the horse at her anyway. "Marrow," he said. "Still guiding." She didn't answer. He wrote something in a little book.
+{ARMOUR == "sold":On the way across, Dobb had stopped at a stall. He was holding a shoulder piece up to the light with a lantern stamped in the rivet, and turning it over, and over.}
+{WAVED:"He waved, I'm told," said Lidd. "Then he can sit up for a surgeon."}
+"How did he take sick, squire? And where? I like to have it right."
+His pencil was over the page. Isolde was standing a yard from me{VERSION != "truth":, and she knew which story I'd told her}.
+* [Tell it the way you all agreed it]
+    ~ SAID = "public"
+    "A fever, sergeant. {VERSION == "ambush":He took an arrow from robbers on the road, and it went bad.|{VERSION == "hero":He took a chill in a river, pulling me out.|It came on him on the road.}}"
+    He wrote it all down, slowly, saying the words. {VERSION == "ambush":"Robbers. On the Marshal's road." He looked up. "Then the Marshal will want somebody hanged for it. He's particular about his road."|"A fever." He underlined it.}
+* [Say less. "A fever. I'm not a surgeon."]
+    ~ SAID = "less"
+    "A fever. I'm not a surgeon."
+    "No." He wrote. "Squire. Could. Not. Say." He showed me the page, as if I might want to check his spelling.
+* [Say more. Give him a detail, to make it live.]
+    ~ SAID = "more"
+    "He was sick in his helmet," I said. "Twice. At the ford. He made me promise not to tell anyone."
+    Lidd wrote it down, all of it, and then he read it back to me. Isolde didn't move. I had made it up in the time it took to open my mouth, and now it was in his book, and it would have to stay true for seven days.
+- Then he put the pencil away. "And the surrender. The Marshal would like it kept safe. I'll carry it."
+{ LETTER == "isolde":
+    "How kind," said Isolde. "It is in my satchel, and it stays there until I put it in the council's hands. You may write that down."
+    Lidd smiled at her. Then, out of habit, he looked at my shirt.
+    -> s04_bills
+}
+"Squire looks like a thief," said Lidd, to his men, quite pleasantly. "Turn him out. The tollkeeper mentioned a purse."
+Two of them took my arms. A third put his hands flat on my ribs and went down my sides, slowly, the way you feel a horse's legs. He was one hand short of the case.
+I looked round for somebody. Anybody.
+* [Look at Dobb]
+    ~ STOPPED = "dobb"
+    Dobb came across the square and put his burned hand on the rider's wrist. "That's the Lantern's squire."
+    Lidd hit him in the mouth, not hard, the way you'd tap a door. Dobb's lip split. He didn't let go of the wrist, and in the end the rider let go of me.
+* [Look at Marrow]
+    ~ STOPPED = "marrow"
+    Marrow came round the horse into the open, where Lidd could see her properly. "Sergeant. You still owe me for the back road round the wood."
+    Lidd looked at her for a long while, and then he smiled, and waved his man off me. Marrow didn't look at me. She'd spent something on me, and I didn't know what.
+* [Look at Isolde]
+    ~ STOPPED = "isolde"
+    "The squire carries the Lantern's linen," said Isolde, "which he has been sick in. Would the sergeant like to search it? Or wash it?"
+    His men laughed. The hands came off me. Isolde didn't look at me either, and I knew she'd put it on my account.
+- -> s04_bills
+
+= s04_bills
+{ TOLL == "ring":
+    "The ring," said Lidd. He tried it on his little finger, and gave it back warm.
+}
+{ TOLD_MARROW == "truth":
+    "Who marked your ear, squire?" He touched it, with one finger.
+    "The cart," I said. He looked at Marrow.
+}
+{ TOLD_MARROW == "ambush":
+    He took Marrow's flask off her belt as he passed, and drank, and gave it back. "Hill stuff," he said. "Thought so."
+}
+Master Venn wiped his fingers. "Where am I to see him?"
+"Tomorrow," said Isolde. "He is sleeping."
+Venn sat back. He looked like a man who had been told what he would find.
+-> s05_friar
+
+// ---------------------------------------------------------------
+= s05_friar
+# scene: c1_s05_friar
+# panel: stint_chapel_door
+The square emptied with the light, except for two of Lidd's men at the inn door.
+A friar came round to the downwind side of the cart. He was old, with his habit patched at the knees. He knelt down and had my boot off before I'd agreed to it.
+"Brother Tobin," he said, to my foot. "You've been wet a day and a night in these. That's how a toe goes black." He rubbed it hard between his hands.
+{RINGERS == "yes":"You gave Annis her bells," he said. "I trained those ringers."}
+"I have a chapel," he said. "Eleven under the roof, cripples from both sides and four children, and it leaks. No steel past the door. Not even a surgeon's."
+"Inn yard," said Dobb. "My lads round him."
+Isolde said nothing. She was watching Tobin's hands on my foot as if he were counting her money.
+* [The chapel. A bolt, no steel, and Tobin holds the key.]
+    ~ LODGING = "chapel"
+    "The chapel," I said.
+    Tobin nodded as if I'd said grace. Dobb spat on the stones and went to tell his men. Within the hour two of Lidd's riders were standing at the chapel door, and I was lying across the step inside it, with the bolt above my head and the key in Tobin's belt.
+* [The inn yard. Dobb and five swords round him.]
+    ~ LODGING = "yard"
+    "The yard," I said. "With Dobb."
+    "As you think best, child," said Tobin, and went to fetch vinegar anyway. Dobb put the cart against the stable wall and sat down on the tailboard, a foot from the canvas. "I'll not go under," he said. "Chronicler says it's catching." He said it as if he were saying it to himself, so he'd remember.
+* [The tollkeeper's barn. Nobody's hands but yours.]
+    ~ LODGING = "barn"
+    "The barn," I said. "The tollkeeper's. Nobody touches him but me."
+    It cost fourpence I didn't have. {PURSE:I paid it out of the purse, and I saw the tollkeeper's boy see the purse.|Marrow paid it, and held up a fifth finger at me.} Nobody would sit with him there. That meant nobody would turn him but me.
+- Tobin was tying my boot up again, slowly, because his hands were old.
+"And who is it turns him, child?" he said, without looking up. "A man in a fever wants turning, or he gets sores. Every few hours. You'll know that, being his squire."
+I didn't know it. He knew I didn't.
 # end: ch01_preview
 -> END

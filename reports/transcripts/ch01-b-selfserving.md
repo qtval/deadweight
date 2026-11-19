@@ -11,7 +11,7 @@ Marrow turned the cart in under the beeches, where it couldn't be seen from the 
 
 I did know the buckles. There were thirty-one, and four laces, and a pin at the neck that stuck. I had done them up every morning for six years.
 
-Isolde untied the canvas. She had tied it herself at dawn, with a knot none of us knew, and she untied it with her back to me so I wouldn't learn it. We opened it up. He had been in it since dawn, in his plate, and the flies had found the way in before we did. He had gone stiff.
+Isolde untied the canvas, with her back to me, so I wouldn't learn her knot. He had gone stiff in his plate.
 
 I was still wearing his gloves. I took them off to touch him.
 
@@ -21,13 +21,19 @@ Marrow looked at the armor, and not at him. "Sixty pound of plate. That's a farm
 
 Isolde wouldn't touch him. She stood by the horse with her sleeve over her nose and told me which arm first. Marrow would touch him, and did, and went on looking at the plate while she did it.
 
-The neck and the shoulders and the breastplate were only buckles. Then there were his arms. A stiff arm won't come out of its armor and it won't go into a shirt sleeve, unless somebody takes it at the elbow and the wrist and leans. Marrow showed me where to lean. It made a noise like a green branch. I did the other one myself, so she wouldn't, and it made the same noise.
+The neck and the shoulders and the breastplate were only buckles. Then there were his arms. A stiff arm won't go into a shirt sleeve unless somebody takes it at the elbow and the wrist and leans.
+
+**The game offers:**
+- **▶ Let Marrow lean on it. She knows how.**  (chosen)
+- Do it yourself, with her knife a foot from your face
+
+Marrow leaned. It made a noise like a green branch. She did the other one as well, while I held his hand, and the whole time she was looking at me and not at him.
 
 It had to be me. Nobody else knew he couldn't bear a tight collar. And if Marrow had his arming coat off him she'd have gone through it for coin, and that wasn't right, not with him lying there. When she went to see to the horse I went through it myself, to be sure she hadn't. There was nothing.
 
 My promise, the one with his name on it, crackled in my shirt every time I bent. I bent as little as I could.
 
-Then the armor lay in a heap with his badge on the breast of it, the lantern in blue enamel, and the three of us stood and looked at it. I had not eaten since yesterday noon, and I looked at it the way Marrow did.
+Then the armor lay in a heap with his badge on the breast, the lantern in blue enamel. I had not eaten since yesterday noon, and I looked at it the way Marrow did.
 
 **The game offers:**
 - Sink it in the pond
@@ -36,7 +42,7 @@ Then the armor lay in a heap with his badge on the breast of it, the lantern in 
 
 "Half," I said. It came out before I'd decided to say it.
 
-Marrow looked at me properly for the first time that day. "Half." She had a file in her pack. She sat down in the leaves with the breastplate across her knees and began to take the lantern off it. The enamel came away in blue flakes.
+"Half," said Marrow, and looked at me properly for the first time that day. She sat down in the leaves with a file and the breastplate across her knees and began to take the lantern off it. The enamel came away in blue flakes.
 
 She was quick, and she missed a rivet on the left shoulder that had a small lantern stamped in its head. I saw it. Half of a farm was more money than I had ever stood near, and she knew her business better than I did.
 
@@ -44,32 +50,28 @@ She was quick, and she missed a rivet on the left shoulder that had a small lant
 
 "Won't be," said Marrow, and went on filing.
 
-We put the canvas back up over the cart for a cover, and laid him under it in his shirt, on his back, with two blankets up to his chin.
+We laid him back under the canvas in his shirt, with two blankets up to his chin.
 
-Without the plate he wasn't very big. He had a grey chest and a soft belly, and his jaw was tied up with my neckcloth. He looked like somebody's father.
+Without the plate he wasn't very big. He had a grey chest and a soft belly. He looked like somebody's father.
 
 
 * * *
 
-They had every bell in Stint going, in no order. Under the bells there was another noise, and it was people.
+Every bell in Stint was going.
 
-The bridge beyond the north gate was lined on both sides. There were children up on the wall of it, and a man with a drum, and a woman holding up a baby to see. When the cart came out from under the gate they saw his grey horse on its lead rein with the saddle empty, and the noise dropped. Then it came up louder. Somebody had worked out that he must be in the cart.
+The road came out of the trees onto the bridge, and Stint was on the far bank. The bridge was lined on both sides. There were children up on the wall of it, and a woman holding up a baby to see. They saw his grey horse on its lead rein with the saddle empty, and the noise dropped, and came up louder.
 
 I had the reins, and my hands were wet on them.
 
-"One wave," said Isolde, not moving her mouth. "One, from inside the cart. Then you tell them he is resting."
+"One wave from inside the cart," said Isolde, not moving her mouth. "Then you tell them he is resting."
 
-"Yes," I said. I thought I was going to be sick, and the case under my shirt had slipped round to my back, where I couldn't get at it.
-
-Six men in his colors were waiting at the town end of the bridge, past the tollhouse. I knew all six. The one in front was Corporal Dobb, who had been with him twenty years and had taught me how to clean a horse's bit. The back of his left hand was shiny where it had been burned at the siege, and that was the hand he reached out with. He came down the bridge to meet us. He always took the bridle.
+Six men in his colors were waiting at our end of the bridge, before the tollhouse. The one in front was Corporal Dobb, who had been with him twenty years. The back of his left hand was shiny from a burn at the siege. He came to meet us. He always took the bridle.
 
 "Six of his," said Marrow, from behind the cart. "They look under there, I'm off. You're not."
 
-They had started to shout for him to sit up.
-
 **The game offers:**
 - **▶ Wave his glove from the canvas. Let them shout for you.**  (chosen)
-- Stand up and tell them he's sleeping. Two hundred people will go home.
+- Stand up and tell them he's sleeping
 - Say nothing. If it goes wrong, it was her voice.
 
 I pulled one of his gloves back on.
@@ -111,14 +113,14 @@ He wouldn't have wanted Dobb to see him like this. Anybody would say so.
 
 "Yes, Corporal."
 
-He put his helmet back on. He went back to his five men and stood in front of them, with his back to the cart, and didn't look round again. Behind me Marrow let out her breath. "That's one won't come near," she said.
+He went back to his men and didn't look round again. Behind me Marrow let out her breath. "That's one won't come near," she said.
 
 
 * * *
 
-The tollhouse was built into the bridge, halfway over, and the cart had to stop at it like any other cart.
+The tollhouse stood halfway over the bridge, and the cart had to stop at it like any other.
 
-Four horses stood at the rail outside it, with the Marshal's grey cloth over the saddles. Their riders were inside, at a bench against the wall, drinking out of the tollkeeper's jug. One of them had his boots up. None of them looked at us, the way you don't look at a thing you mean to look at later.
+Four horses stood at the rail outside it, with the Marshal's grey cloth over the saddles. Their riders were inside, at a bench against the wall, drinking out of the tollkeeper's jug. One of them had his boots up.
 
 The tollkeeper was a long man with a boil on the side of his neck that had come to a head. He had a book open on a slope and a pen behind his ear.
 
@@ -130,13 +132,13 @@ The tollkeeper was a long man with a boil on the side of his neck that had come 
 
 "Sick," I said.
 
-"Sick." He wrote it slowly, breathing through his mouth. One cart. One sick man. He turned the book round on the slope and held out the pen.
+"Sick." He wrote it slowly, breathing through his mouth. He turned the book round on the slope and held out the pen.
 
-"Sergeant reads it through every night," he said, and tipped his head at the bench. "Likes to know who's crossed."
+"Sergeant reads it every night," he said, and tipped his head at the bench.
 
-The man with his boots up was the sergeant. He was picking his teeth with a straw.
+The man with his boots up was the sergeant, picking his teeth with a straw.
 
-Marrow had come into the doorway behind me. Isolde stayed in the cart, where she could see the sergeant's face and he couldn't see hers.
+Dobb and his men had followed the cart, close enough to hear. Marrow had come into the doorway behind me. Isolde stayed in the cart, where she could see the sergeant's face and he couldn't see hers.
 
 **The game offers:**
 - Sign your own name. It's never been in a book.
@@ -171,9 +173,104 @@ He put the pen back behind his ear and didn't go on to the next cart. There wasn
 
 "My girl's to be married tomorrow," he said. "Annis. He's had my ringers three days, practising for him. They're my ringers. I pay them. Would he spare them an hour in the morning, for the chapel? I'd not ask. Only he's a generous man. Everyone says it."
 
-He was asking me. I looked round for somebody else he might be asking. There was only Marrow, and the sergeant.
+He was asking me. I looked round for somebody else he might be asking. There was only Marrow, and the sergeant, and they were both waiting to hear what the Lantern would say.
+
+**The game offers:**
+- Say yes, in his name. He'd have said yes.
+- **▶ Say he's too ill to be asked anything**  (chosen)
+
+"He's too ill to be asked," I said. "I'm sorry."
+
+"Course he is." The tollkeeper put the pen back behind his ear. "Course he is. I'd not have asked." He went back to his book, and didn't look up again.
 
 The sergeant put a hand on the back of my neck, friendly, the way you'd hold a pup to look at its teeth. "Marshal's in Stint tomorrow," he said. "He'll want to pay his respects. Make sure your master's awake."
+
+
+* * *
+
+The square was under the bell tower, and the bells were right over us, so that I felt them in my teeth.
+
+Eight of the Marshal's riders were drawn up across it. The sergeant from the tollhouse walked ahead of the cart, and when he got to them he turned round, and they all looked at us. His name was Lidd.
+
+At a table outside the inn a man in a black coat was eating a pie with his fingers. A surgeon's bag sat by his plate.
+
+"Master Venn," said Lidd. "Surgeon. The Marshal sent him out to meet your master." "Thoughtful. Sent him the day before yesterday."
+
+The day before yesterday the Lantern had been drinking with the hill towns and singing. Nobody had been ill.
+
+Marrow had got down on the far side of the cart, where the horse was between her and the riders. Lidd looked over the horse at her anyway. "Marrow," he said. "Still guiding." She didn't answer. He wrote something in a little book.
+
+On the way across, Dobb had stopped at a stall. He was holding a shoulder piece up to the light with a lantern stamped in the rivet, and turning it over, and over.
+
+"He waved, I'm told," said Lidd. "Then he can sit up for a surgeon."
+
+"How did he take sick, squire? And where? I like to have it right."
+
+His pencil was over the page. Isolde was standing a yard from me, and she knew which story I'd told her.
+
+**The game offers:**
+- Tell it the way you all agreed it
+- Say less. "A fever. I'm not a surgeon."
+- **▶ Say more. Give him a detail, to make it live.**  (chosen)
+
+"He was sick in his helmet," I said. "Twice. At the ford. He made me promise not to tell anyone."
+
+Lidd wrote it down, all of it, and then he read it back to me. Isolde didn't move. I had made it up in the time it took to open my mouth, and now it was in his book, and it would have to stay true for seven days.
+
+Then he put the pencil away. "And the surrender. The Marshal would like it kept safe. I'll carry it."
+
+"Squire looks like a thief," said Lidd, to his men, quite pleasantly. "Turn him out. The tollkeeper mentioned a purse."
+
+Two of them took my arms. A third put his hands flat on my ribs and went down my sides, slowly, the way you feel a horse's legs. He was one hand short of the case.
+
+I looked round for somebody. Anybody.
+
+**The game offers:**
+- Look at Dobb
+- **▶ Look at Marrow**  (chosen)
+- Look at Isolde
+
+Marrow came round the horse into the open, where Lidd could see her properly. "Sergeant. You still owe me for the back road round the wood."
+
+Lidd looked at her for a long while, and then he smiled, and waved his man off me. Marrow didn't look at me. She'd spent something on me, and I didn't know what.
+
+He took Marrow's flask off her belt as he passed, and drank, and gave it back. "Hill stuff," he said. "Thought so."
+
+Master Venn wiped his fingers. "Where am I to see him?"
+
+"Tomorrow," said Isolde. "He is sleeping."
+
+Venn sat back. He looked like a man who had been told what he would find.
+
+
+* * *
+
+The square emptied with the light, except for two of Lidd's men at the inn door.
+
+A friar came round to the downwind side of the cart. He was old, with his habit patched at the knees. He knelt down and had my boot off before I'd agreed to it.
+
+"Brother Tobin," he said, to my foot. "You've been wet a day and a night in these. That's how a toe goes black." He rubbed it hard between his hands.
+
+"I have a chapel," he said. "Eleven under the roof, cripples from both sides and four children, and it leaks. No steel past the door. Not even a surgeon's."
+
+"Inn yard," said Dobb. "My lads round him."
+
+Isolde said nothing. She was watching Tobin's hands on my foot as if he were counting her money.
+
+**The game offers:**
+- The chapel. A bolt, no steel, and Tobin holds the key.
+- The inn yard. Dobb and five swords round him.
+- **▶ The tollkeeper's barn. Nobody's hands but yours.**  (chosen)
+
+"The barn," I said. "The tollkeeper's. Nobody touches him but me."
+
+It cost fourpence I didn't have. I paid it out of the purse, and I saw the tollkeeper's boy see the purse. Nobody would sit with him there. That meant nobody would turn him but me.
+
+Tobin was tying my boot up again, slowly, because his hands were old.
+
+"And who is it turns him, child?" he said, without looking up. "A man in a fever wants turning, or he gets sores. Every few hours. You'll know that, being his squire."
+
+I didn't know it. He knew I didn't.
 
 * * *
 
