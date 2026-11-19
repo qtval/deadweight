@@ -158,7 +158,7 @@ Every choice point, and on how many of the 217728 paths each option is taken.
 - **s05b_price**: Give it to her (9072) · Keep it. "I'll carry it. I was his squire." (9072) · Tell her the river took it (9072)
 - **s06_wrap**: Put the gloves back on his hands (36288) · Fold his hands on his sword, like the songs (36288) · Keep them. He gave them to you. (36288)
 - **s07_road**: Sign it now, in his hand (108864) · Not here. In Vellmouth, with his seal and a witness (108864)
-- **c1_s01_armour**: Let Marrow do it. You don't want to hear it go. (17) · Do it yourself. He was your knight. (17)
+- **c1_s01_armour**: Let Marrow do it. You don't want to hear it go. (17) · Do it yourself. (17)
 - **c1_s01_armour**: Sink it in the pond (34) · Keep it in the cart, under him. It's his. (34) · Let Marrow sell it. Take half. You haven't eaten since the ford. (34)
 - **c1_s02_bells**: Wave his glove from the canvas. Let them shout for you. (102) · Stand up and tell them he's sleeping (102) · Let Isolde talk. She's better at it, and it'll be her lie. (102)
 - **c1_s02_bells**: Knock his hand away. In front of his men. (306) · Tell him it's catching. Let the bridge hear. (306) · Tell him Aubric asked not to see him like this (306)
@@ -167,7 +167,7 @@ Every choice point, and on how many of the 217728 paths each option is taken.
 - **c1_s04_square**: Tell it the way you all agreed it (7128) · Say less. "A fever. I'm not a surgeon." (7128) · Say more. Give him a detail, to make it live. (7128)
 - **c1_s04_square**: Say the cold comes before the sweat. Say it like a surgeon. (23976) · Tell him to say it louder. Lidd's at the window. (23976) · Say nothing. Let him decide what he felt. (23976)
 - **c1_s05_friar**: The chapel. A bolt, no steel, and Tobin holds the key. (71928) · The inn yard. Dobb and five swords round him. (71928) · The tollkeeper's barn. No eyes on him but yours. (71928)
-- **c1_s04_square**: Lie still. A thief would fight. (2592) · Kick. Make them hold you instead of searching you. (2592)
+- **c1_s04_square**: Give them money. A thief would have some. (2592) · Kick. Make them hold you instead of searching you. (2592)
 - **c1_s03_toll**: Sign your own name. It's never been in a book. (108) · Sign his name. You do it better than he did. (108) · Pay for the cart and sign nothing (108)
 - **s05b_price**: Let her take it (4536) · Hold out your hand. "I'm his squire. I carry it." (4536)
 
