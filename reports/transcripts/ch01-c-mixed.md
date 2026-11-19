@@ -46,9 +46,7 @@ Then the armor lay in a heap with his badge on the breast, the lantern in blue e
 
 I carried it down in four loads and waded in to my thighs, coughing. The breastplate went last, badge up, and I watched the blue go down.
 
-When I came up the bank Marrow took me by the collar, the way she'd had my hair at dawn, and walked me back against a tree.
-
-"Farm," she said. "I say a thing's a farm, you listen." She held me there long enough for me to think of the knife.
+Marrow watched the last of it go down. "That's a farm in a pond," she said. "I'll remember whose."
 
 We laid him back under the canvas in his shirt, with two blankets up to his chin.
 
@@ -168,9 +166,9 @@ The tollkeeper shut his eyes for a moment. "God keep him," he said. "Tell him th
 
 It was the first thing I had ever given anybody. It wasn't mine, and it felt wonderful.
 
-Lidd put a hand on the back of my neck, friendly, the way you'd hold a pup to look at its teeth. "Marshal's in Stint tomorrow," he said. "He'll want to pay his respects. Make sure your master's awake."
+Lidd came and stood behind me, close enough that I could smell the tollkeeper's jug on him. "Marshal's in Stint tomorrow," he said. "He'll want to pay his respects. Make sure your master's awake."
 
-I said I would. With his hand there I'd have said I could make him dance.
+I said I would. With him there I'd have said I could make him dance.
 
 
 * * *
@@ -185,7 +183,7 @@ At a table outside the inn a man in a black coat was eating a pie with his finge
 
 The day before yesterday he hadn't been sick.
 
-"How did he take sick, squire? And where? I like to have it right."
+Lidd took a little book out of his coat, and a pencil. "How did he take sick, squire? And where? I like to have it right."
 
 His pencil was over the page. Isolde was a yard from me, listening.
 
@@ -206,7 +204,7 @@ Lidd looked at my shirt anyway.
 
 "And the ring you showed at the toll," said Lidd. He tried it on his little finger, and gave it back warm.
 
-"Sergeant," said Isolde. "You may write that the chronicler has never been under the canvas. The nursing is the squire's." Lidd wrote it, and she watched him do it.
+"Sergeant," said Isolde. "When the Marshal comes, I should like a quarter of an hour with him. Alone. A chronicler hears a great many things on the road." Lidd wrote that down too. She didn't look at me while he did it.
 
 Lidd's riders went in to their supper. Dobb walked me to the horse trough, with his hand on my shoulder as if he were helping me. His men stood round us, with their backs to the square.
 
@@ -229,7 +227,7 @@ Marrow sat on the tailboard with an apple, watching his back.
 
 I said it again, all of it, the same words. My eyes were running. He let go. I couldn't close that hand properly till it was dark.
 
-Marrow threw the core into the trough. She'd eaten the pips too.
+"Big man," said Marrow, when he'd gone. "Bleeds easy, though." She threw the apple core into the trough.
 
 Across the square the surgeon wiped his fingers. "Fever, is it? Then he's to be bled. I'll bring the bowl at first light." He took another bite. "Bleeding never killed a man who wasn't going anyway."
 
@@ -267,4 +265,4 @@ I didn't know it. He knew I didn't.
 
 * * *
 
-*(The chapter continues. Only its first three scenes are written.)*
+*(The chapter continues. Only its first five scenes are written.)*

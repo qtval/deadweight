@@ -59,8 +59,7 @@ Then the armor lay in a heap with his badge on the breast, the lantern in blue e
 * [Sink it in the pond]
     ~ ARMOUR = "ditch"
     I carried it down in four loads and waded in to my thighs{WENT_IN:, coughing|, on the bad knee}. The breastplate went last, badge up, and I watched the blue go down.
-    When I came up the bank Marrow took me by the collar, the way she'd had my hair at dawn, and walked me back against a tree.
-    "Farm," she said. "I say a thing's a farm, you listen." She held me there long enough for me to think of the knife.
+    Marrow watched the last of it go down. "That's a farm in a pond," she said. "I'll remember whose."
 * [Keep it in the cart, under him. It's his.]
     ~ ARMOUR = "cart"
     I laid it flat on the cart bed, under where he would lie. When the cart moved it knocked, plate on plate, at every rut.
@@ -184,7 +183,7 @@ Dobb and his men had followed, close enough to hear. Marrow was in the doorway b
         # remember: purse_at_toll :: The tollkeeper remembers whose purse it was.
         "Did he?" He let go. He liked a thing written down right, and he was deciding how to write it.
     - else:
-        I had no fivepence. I have never had fivepence. Marrow came off the doorpost and put five pennies on the slope, one at a time, out of the purse she'd cut off him. "Five," she said to me. "{DEBT_MARROW:Price was doubled at the river. Now it's doubled and five.|That's the first you owe me.}"
+        I had no fivepence. Marrow came off the doorpost and put five pennies on the slope, one at a time, out of the purse she'd cut off him. "Five," she said to me. "{DEBT_MARROW:Price was doubled at the river. Now it's doubled and five.|That's the first you owe me.}"
     }
 }
 He put the pen back behind his ear and didn't go on to the next cart. There wasn't one. He scratched beside the boil.
@@ -199,8 +198,8 @@ He was asking me. I looked round for somebody else he might be asking. Marrow an
     ~ RINGERS = "no"
     "He's too ill to be asked," I said. "I'm sorry."
     "Course he is." The tollkeeper put the pen back behind his ear. "Course he is. I'd not have asked." He went back to his book, and didn't look up again.
-- Lidd put a hand on the back of my neck, friendly, the way you'd hold a pup to look at its teeth. "Marshal's in Stint tomorrow," he said. "He'll want to pay his respects. Make sure your master's awake."
-I said I would. With his hand there I'd have said I could make him dance.
+- Lidd came and stood behind me, close enough that I could smell the tollkeeper's jug on him. "Marshal's in Stint tomorrow," he said. "He'll want to pay his respects. Make sure your master's awake."
+I said I would. With him there I'd have said I could make him dance.
 -> s04_square
 
 // ---------------------------------------------------------------
@@ -213,7 +212,7 @@ At a table outside the inn a man in a black coat was eating a pie with his finge
 "The Marshal's surgeon," said Lidd. "Sent out to meet your master. Thoughtful. Sent him the day before yesterday."
 The day before yesterday he hadn't been sick.
 {WAVED:"He waved, I'm told," said Lidd. "Then he can sit up for a surgeon."}
-"How did he take sick, squire? And where? I like to have it right."
+Lidd took a little book out of his coat, and a pencil. "How did he take sick, squire? And where? I like to have it right."
 His pencil was over the page. Isolde was a yard from me, listening.
 * [Tell it the way you all agreed it]
     ~ SAID = "public"
@@ -243,7 +242,7 @@ His pencil was over the page. Isolde was a yard from me, listening.
 Two of them took my arms. I pulled, once, and one of them put his knee in the back of mine, and I went down on the stones. A third knelt and started down my sides with flat hands. The case was under my shirt, against my belly.
 * [Lie still. A thief would fight.]
     ~ SEARCH = "still"
-    I lay still with my cheek on the stones. His hands came down over my ribs, and down, and his fingers touched the edge of the case through my shirt and stopped there, as if they were thinking.
+    I lay still with my cheek on the stones. His hands came down over my ribs, and down, and his fingers touched the edge of the case through my shirt, and stopped.
 * [Kick. Make them hold you instead of searching you.]
     ~ SEARCH = "kicked"
     I kicked. I caught somebody's shin, and then they stopped searching and started kicking back, the toe of a boot in the ribs, twice, and the second time something in there clicked. I couldn't get my breath. Nobody was searching me any more.
@@ -263,12 +262,13 @@ Lidd hit him in the mouth, not hard. Dobb's lip split. He didn't let go, and in 
 { TOLD_MARROW == "ambush":
     Lidd took Marrow's flask off her belt, drank, and gave it back. "Hill stuff," he said. "Thought so."
 }
-"Sergeant," said Isolde. "You may write that the chronicler has never been under the canvas. The nursing is the squire's." Lidd wrote it, and she watched him do it.
+"Sergeant," said Isolde. "When the Marshal comes, I should like a quarter of an hour with him. Alone. A chronicler hears a great many things on the road." Lidd wrote that down too. She didn't look at me while he did it.
 -> s04_dobb
 
 = s04_dobb
 Lidd's riders went in to their supper. Dobb walked me to the horse trough{STOPPED == "dobb":, bleeding into his beard}, with his hand on my shoulder as if he were helping me. His men stood round us, with their backs to the square.
 {ARMOUR == "sold":He had a shoulder piece under his arm. He set it on the edge of the trough, rivet up. "Smith by the gate had this. Woman sold it him an hour since, badge filed off. Missed one."}
+{STOPPED == "dobb":He touched his lip. "I took that for you," he said. "So you'll answer me."}
 "I had his foot, Wren," he said. "On the bridge."
 {DOBB == "struck":He held up the burned hand, where I'd hit it.}{DOBB == "refused":"He never said not me. Not in twenty years."}{DOBB == "catching":"I've had the cold sweats. They're not that cold."}
 "I've laid out more of his lads than you've met. I know cold."
@@ -288,7 +288,7 @@ Marrow sat on the tailboard with an apple, watching his back.
     I didn't say anything. I looked at him till he looked away first. I'd never done that to anybody.
     "Right," said Dobb. He wiped his lip on his sleeve. "Then I don't know anything, do I. Not till you tell me." He picked up the trough's dipper and drank, and put it back. "I'll be asking again, Wren."
 - {ARMOUR == "sold":He took the shoulder piece back under his arm. I watched it go.}
-Marrow threw the core into the trough. She'd eaten the pips too.
+"Big man," said Marrow, when he'd gone. "Bleeds easy, though." She threw the apple core into the trough.
 Across the square the surgeon wiped his fingers. "Fever, is it? Then he's to be bled. I'll bring the bowl at first light." He took another bite. "Bleeding never killed a man who wasn't going anyway."
 A dead man doesn't bleed.
 -> s05_friar

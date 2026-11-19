@@ -267,7 +267,7 @@ function showEnd(chapterDone: boolean) {
       <div class="card end-card" data-testid="demo-end">
         <span class="kicker">End of the demo</span>
         <h2>Stint, the first evening</h2>
-        <section><p>Chapter 1 goes on from here: Corporal Dobb means to sit with him tonight, and the Marshal comes to pay his respects in the morning.</p></section>
+        <section><p>Chapter 1 goes on from here: the night, the surgeon's bowl at first light, and the Marshal come to pay his respects.</p></section>
         <section><h3>Your choices</h3><ol class="route">${route.map((r) => `<li><span>${esc(r)}</span></li>`).join("")}</ol></section>
         <div class="actions">
           <button class="btn" data-testid="again">Play again</button>

@@ -187,9 +187,9 @@ He was asking me. I looked round for somebody else he might be asking. Marrow an
 
 "Course he is." The tollkeeper put the pen back behind his ear. "Course he is. I'd not have asked." He went back to his book, and didn't look up again.
 
-Lidd put a hand on the back of my neck, friendly, the way you'd hold a pup to look at its teeth. "Marshal's in Stint tomorrow," he said. "He'll want to pay his respects. Make sure your master's awake."
+Lidd came and stood behind me, close enough that I could smell the tollkeeper's jug on him. "Marshal's in Stint tomorrow," he said. "He'll want to pay his respects. Make sure your master's awake."
 
-I said I would. With his hand there I'd have said I could make him dance.
+I said I would. With him there I'd have said I could make him dance.
 
 
 * * *
@@ -206,7 +206,7 @@ The day before yesterday he hadn't been sick.
 
 "He waved, I'm told," said Lidd. "Then he can sit up for a surgeon."
 
-"How did he take sick, squire? And where? I like to have it right."
+Lidd took a little book out of his coat, and a pencil. "How did he take sick, squire? And where? I like to have it right."
 
 His pencil was over the page. Isolde was a yard from me, listening.
 
@@ -231,7 +231,7 @@ Two of them took my arms. I pulled, once, and one of them put his knee in the ba
 - **▶ Lie still. A thief would fight.**  (chosen)
 - Kick. Make them hold you instead of searching you.
 
-I lay still with my cheek on the stones. His hands came down over my ribs, and down, and his fingers touched the edge of the case through my shirt and stopped there, as if they were thinking.
+I lay still with my cheek on the stones. His hands came down over my ribs, and down, and his fingers touched the edge of the case through my shirt, and stopped.
 
 Then Dobb was there, with his burned hand on the rider's wrist. "That's the Lantern's squire."
 
@@ -239,11 +239,13 @@ Lidd hit him in the mouth, not hard. Dobb's lip split. He didn't let go, and in 
 
 Lidd took Marrow's flask off her belt, drank, and gave it back. "Hill stuff," he said. "Thought so."
 
-"Sergeant," said Isolde. "You may write that the chronicler has never been under the canvas. The nursing is the squire's." Lidd wrote it, and she watched him do it.
+"Sergeant," said Isolde. "When the Marshal comes, I should like a quarter of an hour with him. Alone. A chronicler hears a great many things on the road." Lidd wrote that down too. She didn't look at me while he did it.
 
 Lidd's riders went in to their supper. Dobb walked me to the horse trough, bleeding into his beard, with his hand on my shoulder as if he were helping me. His men stood round us, with their backs to the square.
 
 He had a shoulder piece under his arm. He set it on the edge of the trough, rivet up. "Smith by the gate had this. Woman sold it him an hour since, badge filed off. Missed one."
+
+He touched his lip. "I took that for you," he said. "So you'll answer me."
 
 "I had his foot, Wren," he said. "On the bridge."
 
@@ -266,7 +268,7 @@ Dobb looked up at the inn. There was a face at the window, or there was the lamp
 
 He took the shoulder piece back under his arm. I watched it go.
 
-Marrow threw the core into the trough. She'd eaten the pips too.
+"Big man," said Marrow, when he'd gone. "Bleeds easy, though." She threw the apple core into the trough.
 
 Across the square the surgeon wiped his fingers. "Fever, is it? Then he's to be bled. I'll bring the bowl at first light." He took another bite. "Bleeding never killed a man who wasn't going anyway."
 
@@ -304,4 +306,4 @@ I didn't know it. He knew I didn't.
 
 * * *
 
-*(The chapter continues. Only its first three scenes are written.)*
+*(The chapter continues. Only its first five scenes are written.)*

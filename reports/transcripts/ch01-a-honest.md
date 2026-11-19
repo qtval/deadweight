@@ -147,7 +147,7 @@ He blotted it. "You write a fair hand. Better than the sergeant."
 
 The sergeant laughed, through the straw.
 
-I had no fivepence. I have never had fivepence. Marrow came off the doorpost and put five pennies on the slope, one at a time, out of the purse she'd cut off him. "Five," she said to me. "That's the first you owe me."
+I had no fivepence. Marrow came off the doorpost and put five pennies on the slope, one at a time, out of the purse she'd cut off him. "Five," she said to me. "That's the first you owe me."
 
 He put the pen back behind his ear and didn't go on to the next cart. There wasn't one. He scratched beside the boil.
 
@@ -165,9 +165,9 @@ The tollkeeper shut his eyes for a moment. "God keep him," he said. "Tell him th
 
 It was the first thing I had ever given anybody. It wasn't mine, and it felt wonderful.
 
-Lidd put a hand on the back of my neck, friendly, the way you'd hold a pup to look at its teeth. "Marshal's in Stint tomorrow," he said. "He'll want to pay his respects. Make sure your master's awake."
+Lidd came and stood behind me, close enough that I could smell the tollkeeper's jug on him. "Marshal's in Stint tomorrow," he said. "He'll want to pay his respects. Make sure your master's awake."
 
-I said I would. With his hand there I'd have said I could make him dance.
+I said I would. With him there I'd have said I could make him dance.
 
 
 * * *
@@ -182,7 +182,7 @@ At a table outside the inn a man in a black coat was eating a pie with his finge
 
 The day before yesterday he hadn't been sick.
 
-"How did he take sick, squire? And where? I like to have it right."
+Lidd took a little book out of his coat, and a pencil. "How did he take sick, squire? And where? I like to have it right."
 
 His pencil was over the page. Isolde was a yard from me, listening.
 
@@ -207,7 +207,7 @@ Two of them took my arms. I pulled, once, and one of them put his knee in the ba
 - **▶ Lie still. A thief would fight.**  (chosen)
 - Kick. Make them hold you instead of searching you.
 
-I lay still with my cheek on the stones. His hands came down over my ribs, and down, and his fingers touched the edge of the case through my shirt and stopped there, as if they were thinking.
+I lay still with my cheek on the stones. His hands came down over my ribs, and down, and his fingers touched the edge of the case through my shirt, and stopped.
 
 Then Dobb was there, with his burned hand on the rider's wrist. "That's the Lantern's squire."
 
@@ -217,9 +217,11 @@ Lidd hit him in the mouth, not hard. Dobb's lip split. He didn't let go, and in 
 
 "The cart," I said. Lidd looked at Marrow.
 
-"Sergeant," said Isolde. "You may write that the chronicler has never been under the canvas. The nursing is the squire's." Lidd wrote it, and she watched him do it.
+"Sergeant," said Isolde. "When the Marshal comes, I should like a quarter of an hour with him. Alone. A chronicler hears a great many things on the road." Lidd wrote that down too. She didn't look at me while he did it.
 
 Lidd's riders went in to their supper. Dobb walked me to the horse trough, bleeding into his beard, with his hand on my shoulder as if he were helping me. His men stood round us, with their backs to the square.
+
+He touched his lip. "I took that for you," he said. "So you'll answer me."
 
 "I had his foot, Wren," he said. "On the bridge."
 
@@ -238,7 +240,7 @@ I didn't say anything. I looked at him till he looked away first. I'd never done
 
 "Right," said Dobb. He wiped his lip on his sleeve. "Then I don't know anything, do I. Not till you tell me." He picked up the trough's dipper and drank, and put it back. "I'll be asking again, Wren."
 
-Marrow threw the core into the trough. She'd eaten the pips too.
+"Big man," said Marrow, when he'd gone. "Bleeds easy, though." She threw the apple core into the trough.
 
 Across the square the surgeon wiped his fingers. "Fever, is it? Then he's to be bled. I'll bring the bowl at first light." He took another bite. "Bleeding never killed a man who wasn't going anyway."
 
@@ -276,4 +278,4 @@ I didn't know it. He knew I didn't.
 
 * * *
 
-*(The chapter continues. Only its first three scenes are written.)*
+*(The chapter continues. Only its first five scenes are written.)*

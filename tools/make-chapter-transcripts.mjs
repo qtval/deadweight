@@ -51,7 +51,7 @@ for (const [name, { vars, plan }] of Object.entries(ENTRIES)) {
     story.ChooseChoiceIndex(i);
     picks++;
   }
-  md.push("* * *", "", "*(The chapter continues. Only its first three scenes are written.)*", "");
+  md.push("* * *", "", "*(The chapter continues. Only its first five scenes are written.)*", "");
   writeFileSync(join(out, `${knot}-${name}.md`), md.join("\n"));
   console.log(`transcript: reports/transcripts/${knot}-${name}.md (${picks} choices, ${md.join(" ").split(/\s+/).length} words)`);
 }
