@@ -12,4 +12,4 @@ One chat works on this repo at a time. This file is the lock.
 
 ## Current claim
 
-**FREE** — last released 2026-11-19 (Asia/Ho_Chi_Minh, midday), after linking chapter 1 into the demo.
+**CLAIMED** — 2026-11-19 11:45 (Asia/Ho_Chi_Minh) — Chapter 1 scenes 4–5 (roadmap: M1).
