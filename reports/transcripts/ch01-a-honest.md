@@ -132,7 +132,7 @@ The tollkeeper was a long man with a boil on the side of his neck that had come 
 
 "Sergeant reads it every night," he said, and tipped his head at the bench.
 
-The man with his boots up was the sergeant, picking his teeth with a straw.
+The man with his boots up was the sergeant, Lidd, picking his teeth with a straw.
 
 Dobb and his men had followed, close enough to hear. Marrow was in the doorway behind me.
 
@@ -165,7 +165,7 @@ The tollkeeper shut his eyes for a moment. "God keep him," he said. "Tell him th
 
 It was the first thing I had ever given anybody. It wasn't mine, and it felt wonderful.
 
-The sergeant put a hand on the back of my neck, friendly, the way you'd hold a pup to look at its teeth. "Marshal's in Stint tomorrow," he said. "He'll want to pay his respects. Make sure your master's awake."
+Lidd put a hand on the back of my neck, friendly, the way you'd hold a pup to look at its teeth. "Marshal's in Stint tomorrow," he said. "He'll want to pay his respects. Make sure your master's awake."
 
 I said I would. With his hand there I'd have said I could make him dance.
 
@@ -174,13 +174,13 @@ I said I would. With his hand there I'd have said I could make him dance.
 
 The square was under the bell tower, and the bells were right over us.
 
-Eight of the Marshal's riders were drawn up across it. The sergeant from the tollhouse walked ahead of the cart, and when he got to them he turned round, and they all looked at us. His name was Lidd.
+Eight of the Marshal's riders were drawn up across it. Lidd walked ahead of the cart, and when he got to them he turned round, and they all looked at us.
 
 At a table outside the inn a man in a black coat was eating a pie with his fingers. A surgeon's bag sat by his plate.
 
 "The Marshal's surgeon," said Lidd. "Sent out to meet your master. Thoughtful. Sent him the day before yesterday."
 
-The day before yesterday he hadn't been sick. Somebody had expected him to be.
+The day before yesterday he hadn't been sick.
 
 Marrow had got down behind the horse. Lidd looked over it anyway. "Marrow," he said. "Still guiding." She didn't answer. He wrote something in a little book.
 
@@ -203,7 +203,7 @@ Then he put the pencil away. "And the surrender. The Marshal would like it kept 
 
 "Does it," said Lidd. "Squire looks like a thief to me." He said it to his men, pleasantly. "Turn him out."
 
-Two of them took my arms. I pulled, once, and one of them put his knee in the back of mine, and I went down on the stones. A third knelt and went down my sides with flat hands. The case was under my shirt, against my belly, an inch below where his hands had got to. Somebody in the crowd laughed.
+Two of them took my arms. I pulled, once, and one of them put his knee in the back of mine, and I went down on the stones. A third knelt and went down my sides with flat hands. The case was under my shirt, against my belly, an inch below where his hands had got to. Isolde took a step back from me, so as not to be in the same sentence.
 
 I got my head round.
 
@@ -222,7 +222,7 @@ Lidd hit him in the mouth, not hard. Dobb's lip split. He didn't let go of the w
 
 The surgeon wiped his fingers. "Fever," he said. "Then he's to be bled. I'll bring the bowl at first light." He took another bite. "Bleeding never killed a man who wasn't going anyway."
 
-A dead man doesn't bleed. I'd held the bowl for pigs. I knew.
+A dead man doesn't bleed.
 
 
 * * *
@@ -232,8 +232,6 @@ The square emptied with the light.
 An old friar came round to the downwind side of the cart, knelt, and had my boot off before I'd agreed to it.
 
 "Brother Tobin," he said, to my foot. "That's how a toe goes black." He rubbed it hard between his hands. Nobody had touched my feet since my mother. I'd have let him do the other one.
-
-"You gave Annis her bells," he said. "I trained those ringers."
 
 "He can't lie in a cart tonight," he said. "I have a chapel. Eleven under the roof, cripples from both sides and four children, and it leaks. A saint under it one night, and I'd have pilgrims till the slates were paid for. No steel past the door. Not even a surgeon's."
 

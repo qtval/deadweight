@@ -13,15 +13,15 @@ Guiding rules (carried over from the previous project because they were right):
 
 ---
 
-## Where we are (updated 2026-11-19, afternoon)
+## Where we are (updated 2026-11-19, evening)
 
-**The demo runs from the prologue into chapter 1, now five scenes long:** the beech wood, the bridge, the toll, the square (Sergeant Lidd, the Marshal's surgeon Master Venn) and Brother Tobin at nightfall, where you choose where the dead man lies: the chapel, the inn yard with Dobb, or the tollkeeper's barn. Then the "End of the demo" card. Two new placeholder panels (the square, the chapel door).
+**The demo runs from the prologue into chapter 1, scenes 1–5** (beech wood, bridge, toll, square, Brother Tobin at nightfall), then the "End of the demo" card. A structural pass today: Dobb finds the cold foot on the bridge; Lidd's men put Wren on the stones; the surgeon is unnamed and threatens a bleeding at first light; Tobin wants a saint for the pilgrims' money; side characters no longer sum up Wren's choices.
 
-**Tests:** all pass. The story test walks all 217,728 prologue paths, then chapter 1 from 17 prologue end states (79,704 chapter 1 paths), 0 warnings; browser test 43/43.
+**Tests:** all pass. Story test: all 217,728 prologue paths, then chapter 1 from 17 prologue end states (79,704 paths), 0 warnings; browser test 43/43.
 
-**Reader panel:** chapter 1 scenes 1–5 had three rounds (9–11). **Not passed.** Worry for the narrator now passes every round; temptation passed once after the labels were rewritten; funny-and-grim sits at 3.67; the First Law reader gives chapter 1 a 3 and the prologue a 4. A transcript fault was found and fixed (the prologue transcript ran on into chapter 1). Report: `reports/readers/2026-11-19-prologue-26-31-ch01-3-6.md`.
+**Reader panel:** chapter 1 has had 13 rounds and has not passed. The First Law reader gives it 3 every time (the prologue 4). Temptation and humour move between 3 and 4 with the reader on the same text. Dobb's cold foot is now every reader's strongest moment. Report: `reports/readers/2026-11-19-prologue-26-31-ch01-3-6.md`.
 
-**Next task:** chapter 1 scenes 1–5, one structural pass on "Still open" in that report: let one threat actually go wrong on the page in Stint (not tomorrow), cut or delay Venn, give Tobin a want of his own, and stop side characters summing up each choice. Then a fresh pair of rounds on the same text. After that, scenes 6–12.
+**Next task:** a beat-sheet change to chapter 1 scenes 3–4 (`story/BEATS.md`), then rewrite them: fewer threads in the square, one confrontation that runs long (Dobb and the cold foot, or the rivet) which Wren has to lie through, a self-interested move for Isolde, and Marrow's back-road rescue earned or cut. Then a fresh pair of rounds. After that, scenes 6–12.
 
 **One chat at a time:** `docs/IN_PROGRESS.md` is the lock. Read it first.
 
@@ -225,3 +225,4 @@ Combat systems, inventory, character creator beyond name/pronouns, voice acting,
 | 2026-11-19 | Chapter 1: new first choice (ARMS: who breaks the dead man's arms) | A choice was needed inside a 520-word stretch, and readers asked for fear of Marrow inside the cart |
 | 2026-11-19 | Chapter 1 scenes 4–5 written: four new choices (SAID what you tell Lidd; STOPPED who stops the search; LODGING chapel / inn yard / barn; RINGERS at the toll). New names: Lidd (the sergeant, named in the square), Venn, Tobin | Beat sheet scenes 4–5; one new proper noun per scene except the square (Lidd was already on stage, unnamed) |
 | 2026-11-19 | Prologue reader transcripts stop at the chapter break | Since linking, readers were reading chapter 1 twice on two routes |
+| 2026-11-19 | Chapter 1 structural pass: Dobb finds the cold foot; the surgeon stays unnamed until his own scene (s09); Lidd is named at the toll; Tobin's want is the pilgrims' money | Rounds 9–11: nothing went wrong on the page, too many names in the square, Tobin had no want |

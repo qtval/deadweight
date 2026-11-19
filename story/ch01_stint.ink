@@ -148,7 +148,7 @@ The tollkeeper was a long man with a boil on the side of his neck that had come 
 "Sick," I said.
 "Sick." He wrote it slowly, breathing through his mouth. He turned the book round on the slope and held out the pen.
 "Sergeant reads it every night," he said, and tipped his head at the bench.
-The man with his boots up was the sergeant, picking his teeth with a straw.
+The man with his boots up was the sergeant, Lidd, picking his teeth with a straw.
 Dobb and his men had followed, close enough to hear. Marrow was in the doorway behind me.
 * [Sign your own name. It's never been in a book.]
     ~ TOLL = "sick"
@@ -160,7 +160,7 @@ Dobb and his men had followed, close enough to hear. Marrow was in the doorway b
     I signed it Aubric Dane, with the loop he made when he was pleased. If he'd been well he'd have signed it himself. He was only sick.
     The tollkeeper turned the book round and read it. "Sick man signs a good hand."
     "He woke for it," I said. "Just for that."
-    The sergeant took his boots off the bench. He came over, not hurrying, and took my right hand by the wrist and turned it over, and looked at the ink on my fingers. Then he read the page upside down.
+    Lidd took his boots off the bench. He came over, not hurrying, and took my right hand by the wrist and turned it over, and looked at the ink on my fingers. Then he read the page upside down.
     "I've had letters from him," he said. "Lovely letters. He promised me a lieutenancy in one of them. In that hand." He didn't let go of my wrist. "Does he remember that, do you think? When he wakes?"
     "I'll ask him," I said.
     "Do." He let go.
@@ -168,7 +168,7 @@ Dobb and his men had followed, close enough to hear. Marrow was in the doorway b
     ~ TOLL = "ring"
     I took the ring out of my shirt and held it where he could see. I didn't put it on. It would have gone round my thumb.
     He looked at it for a while. "That's his. I've seen it on him." He shut the book without writing in it. "Lantern crosses free, cart and all. Always has."
-    It was easy. I was still thinking how easy when the sergeant said, from the bench, not loudly, "Squire's got his ring."
+    It was easy. I was still thinking how easy when Lidd said, from the bench, "Squire's got his ring."
 * [Pay for the cart and sign nothing]
     ~ TOLL = "paid"
     "I'll pay for the cart," I said. "I'm no surgeon. I can't give my word what he is."
@@ -197,7 +197,7 @@ He was asking me. I looked round for somebody else he might be asking. Marrow an
     ~ RINGERS = "no"
     "He's too ill to be asked," I said. "I'm sorry."
     "Course he is." The tollkeeper put the pen back behind his ear. "Course he is. I'd not have asked." He went back to his book, and didn't look up again.
-- The sergeant put a hand on the back of my neck, friendly, the way you'd hold a pup to look at its teeth. "Marshal's in Stint tomorrow," he said. "He'll want to pay his respects. Make sure your master's awake."
+- Lidd put a hand on the back of my neck, friendly, the way you'd hold a pup to look at its teeth. "Marshal's in Stint tomorrow," he said. "He'll want to pay his respects. Make sure your master's awake."
 I said I would. With his hand there I'd have said I could make him dance.
 -> s04_square
 
@@ -206,10 +206,10 @@ I said I would. With his hand there I'd have said I could make him dance.
 # scene: c1_s04_square
 # panel: stint_square_bells
 The square was under the bell tower, and the bells were right over us.
-Eight of the Marshal's riders were drawn up across it. The sergeant from the tollhouse walked ahead of the cart, and when he got to them he turned round, and they all looked at us. His name was Lidd.
+Eight of the Marshal's riders were drawn up across it. Lidd walked ahead of the cart, and when he got to them he turned round, and they all looked at us.
 At a table outside the inn a man in a black coat was eating a pie with his fingers. A surgeon's bag sat by his plate.
 "The Marshal's surgeon," said Lidd. "Sent out to meet your master. Thoughtful. Sent him the day before yesterday."
-The day before yesterday he hadn't been sick. Somebody had expected him to be.
+The day before yesterday he hadn't been sick.
 Marrow had got down behind the horse. Lidd looked over it anyway. "Marrow," he said. "Still guiding." She didn't answer. He wrote something in a little book.
 {ARMOUR == "sold":Marrow had sold the plate to a smith by the gate while we waited at the toll. Now the smith had a shoulder piece out on his stall, and Dobb had stopped there. He was turning it over in his hands. The rivet with the lantern on it was facing up. My stomach went to water.}
 {WAVED:"He waved, I'm told," said Lidd. "Then he can sit up for a surgeon."}
@@ -240,7 +240,7 @@ His pencil was over the page. Isolde was a yard from me, listening.
     -> s04_bills
 }
 "Does it," said Lidd. "Squire looks like a thief to me." He said it to his men, pleasantly. "Turn him out."
-Two of them took my arms. I pulled, once, and one of them put his knee in the back of mine, and I went down on the stones. A third knelt and went down my sides with flat hands. The case was under my shirt, against my belly, an inch below where his hands had got to. Somebody in the crowd laughed.
+Two of them took my arms. I pulled, once, and one of them put his knee in the back of mine, and I went down on the stones. A third knelt and went down my sides with flat hands. The case was under my shirt, against my belly, an inch below where his hands had got to. Isolde took a step back from me, so as not to be in the same sentence.
 I got my head round.
 * [Look at Dobb]
     ~ STOPPED = "dobb"
@@ -268,7 +268,7 @@ I got my head round.
     He took Marrow's flask off her belt, drank, and gave it back. "Hill stuff," he said. "Thought so."
 }
 The surgeon wiped his fingers. "Fever," he said. "Then he's to be bled. I'll bring the bowl at first light." He took another bite. "Bleeding never killed a man who wasn't going anyway."
-A dead man doesn't bleed. I'd held the bowl for pigs. I knew.
+A dead man doesn't bleed.
 -> s05_friar
 
 // ---------------------------------------------------------------
@@ -278,9 +278,8 @@ A dead man doesn't bleed. I'd held the bowl for pigs. I knew.
 The square emptied with the light.
 An old friar came round to the downwind side of the cart, knelt, and had my boot off before I'd agreed to it.
 "Brother Tobin," he said, to my foot. "That's how a toe goes black." He rubbed it hard between his hands. Nobody had touched my feet since my mother. I'd have let him do the other one.
-{RINGERS == "yes":"You gave Annis her bells," he said. "I trained those ringers."}
 "He can't lie in a cart tonight," he said. "I have a chapel. Eleven under the roof, cripples from both sides and four children, and it leaks. A saint under it one night, and I'd have pilgrims till the slates were paid for. No steel past the door. Not even a surgeon's."
-"Inn yard," said Dobb. "My lads round him."
+"Inn yard," said Dobb. "My lads round him."{ARMOUR == "sold": He had the shoulder piece under his arm. He hadn't put it down.}
 "Or the barn behind my house," said the tollkeeper, locking up. "Fourpence, and nobody's business."
 * [The chapel. A bolt, no steel, and Tobin holds the key.]
     ~ LODGING = "chapel"
@@ -289,7 +288,7 @@ An old friar came round to the downwind side of the cart, knelt, and had my boot
 * [The inn yard. Dobb and five swords round him.]
     ~ LODGING = "yard"
     "The yard," I said. "With Dobb."
-    "As you think best, child," said Tobin, and went to fetch vinegar anyway. Dobb put the cart against the stable wall and sat down on the tailboard, a foot from the canvas. "I'll not go under," he said. "Chronicler says it's catching." He said it as if he were saying it to himself, so he'd remember.
+    "As you think best, child," said Tobin, and went to fetch vinegar anyway. Dobb put the cart against the stable wall and sat down on the tailboard, a foot from the canvas. "I'll not go under," he said. "Chronicler says it's catching."
 * [The tollkeeper's barn. Nobody's eyes on him but yours.]
     ~ LODGING = "barn"
     "The barn," I said. "The tollkeeper's. Nobody touches him but me."
