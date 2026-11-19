@@ -13,15 +13,15 @@ Guiding rules (carried over from the previous project because they were right):
 
 ---
 
-## Where we are (updated 2026-11-19, evening)
+## Where we are (updated 2026-11-19, night)
 
-**The demo runs from the prologue into chapter 1, scenes 1–5** (beech wood, bridge, toll, square, Brother Tobin at nightfall), then the "End of the demo" card. A structural pass today: Dobb finds the cold foot on the bridge; Lidd's men put Wren on the stones; the surgeon is unnamed and threatens a bleeding at first light; Tobin wants a saint for the pilgrims' money; side characters no longer sum up Wren's choices.
+**The demo runs from the prologue into chapter 1, scenes 1–5**, then the "End of the demo" card. The square is rebuilt to a new beat sheet (`story/BEATS.md`, s04 fourth draft): one search with a choice (lie still, or kick and take the boots); Dobb stops it and takes Lidd's blow; then one long confrontation at the horse trough, where Dobb, who had the cold foot, makes Wren answer. Isolde asks Lidd for a private quarter hour with the Marshal. The surgeon closes the scene: a bleeding at first light.
 
-**Tests:** all pass. Story test: all 217,728 prologue paths, then chapter 1 from 17 prologue end states (79,704 paths), 0 warnings; browser test 43/43.
+**Tests:** all pass. Story test: all 217,728 prologue paths, then chapter 1 from 17 prologue end states (215,784 paths), 0 warnings; browser test 43/43.
 
-**Reader panel:** chapter 1 has had 13 rounds and has not passed. The First Law reader gives it 3 every time (the prologue 4). Temptation and humour move between 3 and 4 with the reader on the same text. Dobb's cold foot is now every reader's strongest moment. Report: `reports/readers/2026-11-19-prologue-26-31-ch01-3-6.md`.
+**Reader panel:** chapter 1 has had 16 rounds and has not passed. Round 16 is the first to pass all nine feel criteria; round 15 was the first time the First Law reader gave chapter 1 a 4 (rounds 14 and 16: 3). Report: `reports/readers/2026-11-19-prologue-26-31-ch01-3-6.md`.
 
-**Next task:** a beat-sheet change to chapter 1 scenes 3–4 (`story/BEATS.md`), then rewrite them: fewer threads in the square, one confrontation that runs long (Dobb and the cold foot, or the rivet) which Wren has to lie through, a self-interested move for Isolde, and Marrow's back-road rescue earned or cut. Then a fresh pair of rounds. After that, scenes 6–12.
+**Next task:** two fresh panel rounds on chapter 1 scenes 1–5 exactly as they stand (small fixes after round 16 are unread). If both pass with First Law 4, tick scenes 1–5. If not, record the First Law score as this panel's ceiling and go on to scenes 6–12 (the night, the fire scene, the surgeon's inspection), a few scenes at a time.
 
 **One chat at a time:** `docs/IN_PROGRESS.md` is the lock. Read it first.
 
@@ -226,3 +226,4 @@ Combat systems, inventory, character creator beyond name/pronouns, voice acting,
 | 2026-11-19 | Chapter 1 scenes 4–5 written: four new choices (SAID what you tell Lidd; STOPPED who stops the search; LODGING chapel / inn yard / barn; RINGERS at the toll). New names: Lidd (the sergeant, named in the square), Venn, Tobin | Beat sheet scenes 4–5; one new proper noun per scene except the square (Lidd was already on stage, unnamed) |
 | 2026-11-19 | Prologue reader transcripts stop at the chapter break | Since linking, readers were reading chapter 1 twice on two routes |
 | 2026-11-19 | Chapter 1 structural pass: Dobb finds the cold foot; the surgeon stays unnamed until his own scene (s09); Lidd is named at the toll; Tobin's want is the pilgrims' money | Rounds 9–11: nothing went wrong on the page, too many names in the square, Tobin had no want |
+| 2026-11-19 | Chapter 1 s04 fourth draft: Marrow's back-road rescue cut; new SEARCH choice (still / kicked); new FOOT confrontation with Dobb at the trough (fever / lidd / silent); the surgeon's threat moved to the end of the scene | Readers: one confrontation should run long, the rescue was unearned, nothing landed on Wren's body |

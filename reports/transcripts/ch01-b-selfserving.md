@@ -173,7 +173,7 @@ I paid the fivepence out of the purse. The tollkeeper took it, and then he took 
 
 > *The tollkeeper remembers whose purse it was.*
 
-He put the pen back behind his ear and didn't go on to the next cart. There wasn't one. He scratched beside the boil.
+The tollkeeper put the pen back behind his ear and didn't go on to the next cart. There wasn't one. He scratched beside the boil.
 
 "My girl's to be married tomorrow," he said. "Annis. He's had my ringers three days, practising for him. They're my ringers. I pay them. Would he spare them an hour in the morning, for the chapel? I'd not ask. Only he's a generous man. Everyone says it."
 
@@ -189,7 +189,7 @@ He was asking me. I looked round for somebody else he might be asking. Marrow an
 
 Lidd came and stood behind me, close enough that I could smell the tollkeeper's jug on him. "Marshal's in Stint tomorrow," he said. "He'll want to pay his respects. Make sure your master's awake."
 
-I said I would. With him there I'd have said I could make him dance.
+I said I would. With Lidd that close I'd have said the Lantern could dance.
 
 
 * * *
@@ -223,7 +223,7 @@ Then he put the pencil away. "And the surrender. The Marshal would like it kept 
 
 "The river took it," I said. Isolde didn't look at me. She'd heard me say it before.
 
-"Does it," said Lidd. "Squire looks like a thief to me." He said it to his men, pleasantly. "Turn him out."
+"Does it," said Lidd. "Squire looks like a thief to me." He said it to his men, pleasantly. "Turn his shirt out."
 
 Two of them took my arms. I pulled, once, and one of them put his knee in the back of mine, and I went down on the stones. A third knelt and started down my sides with flat hands. The case was under my shirt, against my belly.
 
@@ -243,13 +243,9 @@ Lidd took Marrow's flask off her belt, drank, and gave it back. "Hill stuff," he
 
 Lidd's riders went in to their supper. Dobb walked me to the horse trough, bleeding into his beard, with his hand on my shoulder as if he were helping me. His men stood round us, with their backs to the square.
 
-He had a shoulder piece under his arm. He set it on the edge of the trough, rivet up. "Smith by the gate had this. Woman sold it him an hour since, badge filed off. Missed one."
+He had a shoulder piece under his arm. He set it on the edge of the trough, rivet up. "Smith by the gate had this. A boy brought it him an hour since, for a woman who wouldn't come in. Badge filed off. Missed one."
 
-He touched his lip. "I took that for you," he said. "So you'll answer me."
-
-"I had his foot, Wren," he said. "On the bridge."
-
-"He never said not me. Not in twenty years."
+"I had his foot, Wren," he said. "On the bridge." He touched his lip. "I took that for you. So you'll answer me." "And he never said not me. Not in twenty years."
 
 "I've laid out more of his lads than you've met. I know cold."
 
@@ -268,7 +264,7 @@ Dobb looked up at the inn. There was a face at the window, or there was the lamp
 
 He took the shoulder piece back under his arm. I watched it go.
 
-"Big man," said Marrow, when he'd gone. "Bleeds easy, though." She threw the apple core into the trough.
+Marrow threw her apple core into the trough. "Corporal's a problem," she said. "Problems cost."
 
 Across the square the surgeon wiped his fingers. "Fever, is it? Then he's to be bled. I'll bring the bowl at first light." He took another bite. "Bleeding never killed a man who wasn't going anyway."
 

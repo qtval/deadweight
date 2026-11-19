@@ -149,7 +149,7 @@ The sergeant laughed, through the straw.
 
 I had no fivepence. Marrow came off the doorpost and put five pennies on the slope, one at a time, out of the purse she'd cut off him. "Five," she said to me. "That's the first you owe me."
 
-He put the pen back behind his ear and didn't go on to the next cart. There wasn't one. He scratched beside the boil.
+The tollkeeper put the pen back behind his ear and didn't go on to the next cart. There wasn't one. He scratched beside the boil.
 
 "My girl's to be married tomorrow," he said. "Annis. He's had my ringers three days, practising for him. They're my ringers. I pay them. Would he spare them an hour in the morning, for the chapel? I'd not ask. Only he's a generous man. Everyone says it."
 
@@ -167,7 +167,7 @@ It was the first thing I had ever given anybody. It wasn't mine, and it felt won
 
 Lidd came and stood behind me, close enough that I could smell the tollkeeper's jug on him. "Marshal's in Stint tomorrow," he said. "He'll want to pay his respects. Make sure your master's awake."
 
-I said I would. With him there I'd have said I could make him dance.
+I said I would. With Lidd that close I'd have said the Lantern could dance.
 
 
 * * *
@@ -199,7 +199,7 @@ Then he put the pencil away. "And the surrender. The Marshal would like it kept 
 
 "It stays with him," I said. "Under his pillow."
 
-"Does it," said Lidd. "Squire looks like a thief to me." He said it to his men, pleasantly. "Turn him out."
+"Does it," said Lidd. "Squire looks like a thief to me." He said it to his men, pleasantly. "Turn his shirt out."
 
 Two of them took my arms. I pulled, once, and one of them put his knee in the back of mine, and I went down on the stones. A third knelt and started down my sides with flat hands. The case was under my shirt, against my belly.
 
@@ -213,7 +213,7 @@ Then Dobb was there, with his burned hand on the rider's wrist. "That's the Lant
 
 Lidd hit him in the mouth, not hard. Dobb's lip split. He didn't let go, and in the end the rider let go of me.
 
-"Who marked your ear, squire?" He touched it, with one finger.
+Lidd touched my ear with one finger. "Who marked your ear, squire?"
 
 "The cart," I said. Lidd looked at Marrow.
 
@@ -221,11 +221,7 @@ Lidd hit him in the mouth, not hard. Dobb's lip split. He didn't let go, and in 
 
 Lidd's riders went in to their supper. Dobb walked me to the horse trough, bleeding into his beard, with his hand on my shoulder as if he were helping me. His men stood round us, with their backs to the square.
 
-He touched his lip. "I took that for you," he said. "So you'll answer me."
-
-"I had his foot, Wren," he said. "On the bridge."
-
-He held up the burned hand, where I'd hit it.
+"I had his foot, Wren," he said. "On the bridge." He touched his lip. "I took that for you. So you'll answer me." He held up the burned hand, where I'd hit it.
 
 "I've laid out more of his lads than you've met. I know cold."
 
@@ -240,7 +236,7 @@ I didn't say anything. I looked at him till he looked away first. I'd never done
 
 "Right," said Dobb. He wiped his lip on his sleeve. "Then I don't know anything, do I. Not till you tell me." He picked up the trough's dipper and drank, and put it back. "I'll be asking again, Wren."
 
-"Big man," said Marrow, when he'd gone. "Bleeds easy, though." She threw the apple core into the trough.
+Marrow threw her apple core into the trough. "Corporal's a problem," she said. "Problems cost."
 
 Across the square the surgeon wiped his fingers. "Fever, is it? Then he's to be bled. I'll bring the bowl at first light." He took another bite. "Bleeding never killed a man who wasn't going anyway."
 
