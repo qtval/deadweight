@@ -13,15 +13,15 @@ Guiding rules (carried over from the previous project because they were right):
 
 ---
 
-## Where we are (updated 2026-11-19, midday)
+## Where we are (updated 2026-11-19, afternoon)
 
-**The demo now runs from the prologue into chapter 1.** The prologue ends on its end card (what you did, the ballad) with a **Continue to Chapter 1** button; chapter 1 plays its first three scenes (the beech wood, the bridge, the toll) and ends on a short "End of the demo" card. Three new placeholder panels and a prompt pack, `art/prompts/ch01.md`.
+**The demo runs from the prologue into chapter 1, now five scenes long:** the beech wood, the bridge, the toll, the square (Sergeant Lidd, the Marshal's surgeon Master Venn) and Brother Tobin at nightfall, where you choose where the dead man lies: the chapel, the inn yard with Dobb, or the tollkeeper's barn. Then the "End of the demo" card. Two new placeholder panels (the square, the chapel door).
 
-**Tests:** all pass. The story test walks all 217,728 prologue paths, then chapter 1 from 17 prologue end states chosen so every value of every variable chapter 1 reads appears at least once (3,564 chapter 1 paths). The browser test has five new checks for going on into chapter 1 (43/43).
+**Tests:** all pass. The story test walks all 217,728 prologue paths, then chapter 1 from 17 prologue end states (79,704 chapter 1 paths), 0 warnings; browser test 43/43.
 
-**Reader panel:** the prologue has not passed in 31 rounds (most rounds pass the nine feel criteria; the First Law reader gives 3 or 4). Chapter 1 scenes 1–3 have had 8 rounds and have not passed: temptation and worry for the narrator sit at 3.33–3.67, the First Law reader gives 3. Report: `reports/readers/2026-11-19-prologue-26-31-ch01-3-6.md`.
+**Reader panel:** chapter 1 scenes 1–5 had three rounds (9–11). **Not passed.** Worry for the narrator now passes every round; temptation passed once after the labels were rewritten; funny-and-grim sits at 3.67; the First Law reader gives chapter 1 a 3 and the prologue a 4. A transcript fault was found and fixed (the prologue transcript ran on into chapter 1). Report: `reports/readers/2026-11-19-prologue-26-31-ch01-3-6.md`.
 
-**Next task:** chapter 1 scene 4 onward (the square, Sergeant Lidd, the surgeon), per `story/BEATS.md`, carrying the one note every chapter 1 reader gives: Wren must stay afraid of Marrow and Isolde, and the danger must sit inside the cart as well as outside it. Then re-read scenes 1–3 together with the new ones.
+**Next task:** chapter 1 scenes 1–5, one structural pass on "Still open" in that report: let one threat actually go wrong on the page in Stint (not tomorrow), cut or delay Venn, give Tobin a want of his own, and stop side characters summing up each choice. Then a fresh pair of rounds on the same text. After that, scenes 6–12.
 
 **One chat at a time:** `docs/IN_PROGRESS.md` is the lock. Read it first.
 
@@ -223,3 +223,5 @@ Combat systems, inventory, character creator beyond name/pronouns, voice acting,
 | 2026-11-19 | Chapter 1 linked into the demo; the prologue end card gets Continue; new `# chapterend:` tag | Owner: go ahead after round 31 |
 | 2026-11-19 | Per-chapter story test: chapter 1 is walked from prologue end states chosen so every value of each variable it reads (spec.chapterKeys) appears at least once | Walking every combined path would be over 20 million; every combination of those variables was too slow for CI |
 | 2026-11-19 | Chapter 1: new first choice (ARMS: who breaks the dead man's arms) | A choice was needed inside a 520-word stretch, and readers asked for fear of Marrow inside the cart |
+| 2026-11-19 | Chapter 1 scenes 4–5 written: four new choices (SAID what you tell Lidd; STOPPED who stops the search; LODGING chapel / inn yard / barn; RINGERS at the toll). New names: Lidd (the sergeant, named in the square), Venn, Tobin | Beat sheet scenes 4–5; one new proper noun per scene except the square (Lidd was already on stage, unnamed) |
+| 2026-11-19 | Prologue reader transcripts stop at the chapter break | Since linking, readers were reading chapter 1 twice on two routes |

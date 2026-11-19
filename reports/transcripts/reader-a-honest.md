@@ -183,7 +183,7 @@ It was. She kept her hands on her knees.
 
 * * *
 
-It got light without any sun in it. Mist stood on the water, and the first fly found him. Over the river stood a mill with no roof.
+It got light without any sun in it. Mist stood on the water, and the first fly found him. Over the river stood a mill with no roof. The war had been through twice, once each way.
 
 I had sat by him all night in wet clothes, holding my ear. It had stopped bleeding and started to beat. Marrow had the horse blanket round her own shoulders, and I had stopped shivering, which I knew was bad.
 
@@ -276,7 +276,7 @@ The mist had come off the water and lay on the gravel. I sat by him with my hand
 
 Down the bank Isolde was talking and Marrow was not. I heard "three", and "river", and then Marrow said a number. Once she looked back at me, and then at the river. I had watched her look at fords like that all week.
 
-It was all right. They needed me. Somebody had to carry the pot and say he was sleeping, and his men knew me, and Isolde was clever and would see it, and if she didn't I would tell her. And Marrow had only taken an ear. I had done nothing. I had stood on a bank. Nobody hangs a squire for doing as he's told.
+It was all right. They needed me. Somebody had to carry the pot and say he was sleeping, and his men knew me, and Isolde was clever and would see it, and if she didn't I would tell her. And Marrow had only taken an ear. I had done nothing. I had gone in after him. Nobody hangs a squire for doing as he's told.
 
 Isolde's satchel lay open on the cart step, a yard from my hand.
 

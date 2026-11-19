@@ -24,16 +24,16 @@ Isolde wouldn't touch him. She stood by the horse with her sleeve over her nose 
 The neck and the shoulders and the breastplate were only buckles. Then there were his arms. A stiff arm won't go into a shirt sleeve unless somebody takes it at the elbow and the wrist and leans.
 
 **The game offers:**
-- Let Marrow lean on it. She knows how.
-- **▶ Do it yourself, with her knife a foot from your face**  (chosen)
+- Let Marrow do it. It's her trade, and your hands stay clean.
+- **▶ Do it yourself. He was your knight.**  (chosen)
 
 Marrow held his shoulders and I leaned. It made a noise like a green branch, and my own elbow answered it. I did the other one too, so she wouldn't. Her knife was on her belt, at the height of my eyes, the whole time.
 
 His nose had gone black down one side.
 
-The hole she had put under his arm had gone black round the edge. Isolde had me bind it with a strip off his shirt, so there would be a bandage to show.
+The hole she had put under his arm had started to smell sweet. Isolde had me bind it with a strip off his shirt, so there would be a bandage to show.
 
-It had to be me. Nobody else knew he couldn't bear a tight collar. And if Marrow had his arming coat off him she'd have gone through it for coin, and that wasn't right, not with him lying there. When she went to see to the horse I went through it myself, to be sure she hadn't. There was nothing.
+The rest had to be me. Nobody else knew he couldn't bear a tight collar. And if Marrow had his arming coat off him she'd have gone through it for coin, and that wasn't right, not with him lying there. When she went to see to the horse I went through it myself, to be sure she hadn't. There was nothing.
 
 My promise, the one with his name on it, crackled in my shirt every time I bent. I bent as little as I could.
 
@@ -42,11 +42,11 @@ Then the armor lay in a heap with his badge on the breast, the lantern in blue e
 **The game offers:**
 - **▶ Sink it in the pond**  (chosen)
 - Keep it in the cart, under him. It's his.
-- Let Marrow sell it in Stint, and take half
+- Let Marrow sell it. Take half. You haven't eaten since the ford.
 
 I carried it down in four loads and waded in to my thighs, coughing. The breastplate went last, badge up, and I watched the blue go down.
 
-When I came up the bank Marrow took me by the collar, the way she had at the river, and walked me back against a tree.
+When I came up the bank Marrow took me by the collar, the way she'd had my hair at dawn, and walked me back against a tree.
 
 "Farm," she said. "I say a thing's a farm, you listen." She held me there long enough for me to think of the knife.
 
@@ -72,7 +72,7 @@ Six men in his colors were waiting at our end of the bridge, before the tollhous
 **The game offers:**
 - Wave his glove from the canvas. Let them shout for you.
 - Stand up and tell them he's sleeping
-- **▶ Say nothing. If it goes wrong, it was her voice.**  (chosen)
+- **▶ Let Isolde talk. She's better at it, and it'll be her lie.**  (chosen)
 
 I sat there with my mouth open, and nothing came out of it.
 
@@ -80,7 +80,7 @@ Isolde waited as long as she could. Then she stood up, with a hand on my shoulde
 
 "Good people of Stint," she said, and they went quiet for her as they would never have gone quiet for me. "The Lantern thanks you for your bells. He has taken a fever on the road, and he sleeps. His squire has the nursing of him. Ring for him again in the morning. Softer."
 
-Some of them laughed at softer, and one woman cried. She had told two hundred people that if he died it was my nursing.
+Some of them laughed at softer, and one woman cried. Isolde had told two hundred people that if he died it was my nursing.
 
 Corporal Dobb came on to the back of the cart. He put his burned hand flat on the canvas, where the feet were.
 
@@ -152,7 +152,7 @@ He put the pen back behind his ear and didn't go on to the next cart. There wasn
 
 "My girl's to be married tomorrow," he said. "Annis. He's had my ringers three days, practising for him. They're my ringers. I pay them. Would he spare them an hour in the morning, for the chapel? I'd not ask. Only he's a generous man. Everyone says it."
 
-He was asking me. I looked round for somebody else he might be asking. There was only Marrow, and the sergeant, and they were both waiting to hear what the Lantern would say.
+He was asking me. I looked round for somebody else he might be asking. Marrow and the sergeant were both waiting to hear what the Lantern would say, and Dobb behind them.
 
 **The game offers:**
 - **▶ Say yes, in his name. He'd have said yes.**  (chosen)
@@ -169,7 +169,7 @@ The sergeant put a hand on the back of my neck, friendly, the way you'd hold a p
 
 * * *
 
-The square was under the bell tower, and the bells were right over us, so that I felt them in my teeth.
+The square was under the bell tower, and the bells were right over us.
 
 Eight of the Marshal's riders were drawn up across it. The sergeant from the tollhouse walked ahead of the cart, and when he got to them he turned round, and they all looked at us. His name was Lidd.
 
@@ -177,13 +177,13 @@ At a table outside the inn a man in a black coat was eating a pie with his finge
 
 "Master Venn," said Lidd. "Surgeon. The Marshal sent him out to meet your master. Thoughtful. Sent him the day before yesterday."
 
-The day before yesterday the Lantern had been drinking with the hill towns and singing. Nobody had been ill.
+The day before yesterday he hadn't been sick.
 
-Marrow had got down on the far side of the cart, where the horse was between her and the riders. Lidd looked over the horse anyway. "Marrow," he said. "Still guiding." She didn't answer. He wrote something in a little book.
+Marrow had got down behind the horse. Lidd looked over it anyway. "Marrow," he said. "Still guiding." She didn't answer. He wrote something in a little book.
 
 "How did he take sick, squire? And where? I like to have it right."
 
-His pencil was over the page. Isolde was standing a yard from me, and she knew which story I'd told her.
+His pencil was over the page. Isolde was standing a yard from me, and whatever I said now, she would have to live with.
 
 **The game offers:**
 - **▶ Tell it the way you all agreed it**  (chosen)
@@ -192,43 +192,45 @@ His pencil was over the page. Isolde was standing a yard from me, and she knew w
 
 "A fever, sergeant. He took an arrow from robbers on the road, and it went bad."
 
-He wrote it all down, slowly, saying the words. "Robbers. On the Marshal's road." He looked up. "Then the Marshal will want somebody hanged for it. He's particular about his road."
+He wrote it all down, saying the words. "Robbers. On the Marshal's road." He looked up. "Then the Marshal will want somebody hanged for it. He's particular about his road."
 
 Then he put the pencil away. "And the surrender. The Marshal would like it kept safe. I'll carry it."
 
-"How kind," said Isolde. "It is in my satchel, and it stays there until I put it in the council's hands. You may write that down."
+"How kind," said Isolde. "It stays in my satchel until the council has it. You may write that down."
 
-Out of habit, Lidd looked at my shirt.
+Lidd looked at my shirt anyway.
 
-"The ring," said Lidd. He tried it on his little finger, and gave it back warm.
+"And the ring you showed at the toll," said Lidd, and held his hand out. He tried it on his little finger, and gave it back warm.
 
 Master Venn wiped his fingers. "Where am I to see him?"
 
 "Tomorrow," said Isolde. "He is sleeping."
 
-Venn sat back. He looked like a man who had been told what he would find.
+Venn sat back and finished his pie. He didn't ask what was wrong with him.
 
 
 * * *
 
-The square emptied with the light, except for two of Lidd's men at the inn door.
+The square emptied with the light.
 
 A friar came round to the downwind side of the cart. He was old, with his habit patched at the knees. He knelt down and had my boot off before I'd agreed to it.
 
-"Brother Tobin," he said, to my foot. "Wet a day and a night in these. That's how a toe goes black." He rubbed it hard between his hands.
+"Brother Tobin," he said, to my foot. "That's how a toe goes black." He rubbed it hard between his hands.
 
 "You gave Annis her bells," he said. "I trained those ringers."
 
-"I have a chapel," he said. "Eleven under the roof, cripples from both sides and four children, and it leaks. No steel past the door. Not even a surgeon's."
+"He can't lie in a cart tonight," he said. "I have a chapel. Eleven under the roof, cripples from both sides and four children. No steel past the door. Not even a surgeon's."
 
 "Inn yard," said Dobb. "My lads round him."
 
-Isolde said nothing. She was watching Tobin's hands on my foot as if he were counting her money.
+"Or the barn behind my house," said the tollkeeper, who had come down to lock the toll box. "Fourpence, and nobody's business."
+
+Isolde said nothing. She was watching Tobin's hands on my foot.
 
 **The game offers:**
 - The chapel. A bolt, no steel, and Tobin holds the key.
 - **▶ The inn yard. Dobb and five swords round him.**  (chosen)
-- The tollkeeper's barn. Nobody's hands but yours.
+- The tollkeeper's barn. Nobody's eyes on him but yours.
 
 "The yard," I said. "With Dobb."
 

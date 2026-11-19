@@ -133,7 +133,7 @@ Marrow came up out of the river with her lantern, and stopped when the light rea
 
 She put her ear to his mouth and kept it there, too long. "Come on," she said, to him.
 
-Then she sat up. "That's my fee gone. Saw you. Not a word out of you."
+Then she sat up. "That's my fee gone. Saw you stood there. Never said a word to stop him."
 
 She leaned in and sniffed me. "Two drunks. One river."
 
@@ -158,7 +158,7 @@ She got her breath. "So he didn't drown. Hill stragglers. Dark. An arrow, and hi
 
 The knife came off my wrist. She looked at it, and put it away.
 
-"Good. Learn quicker than him." She unstoppered her flask and passed it over the body. It was hot all the way down.
+"Good. You learn quicker than he did." She unstoppered her flask and passed it over the body. It was hot all the way down.
 
 Her eyes went to his belt, and the empty buckle. "Where's his letter?"
 
@@ -175,7 +175,7 @@ Marrow took hold of my shirt and opened it, not roughly, the way you'd open a sa
 
 * * *
 
-It got light without any sun in it. Mist stood on the water, and the first fly found him. Over the river stood a mill with no roof.
+It got light without any sun in it. Mist stood on the water, and the first fly found him. Over the river stood a mill with no roof. The war had been through twice, once each way.
 
 I had sat by him all night. Some time in the dark Marrow had thrown the horse blanket over me and called me an idiot for needing it.
 

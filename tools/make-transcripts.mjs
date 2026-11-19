@@ -18,8 +18,9 @@ for (const [name, plan] of Object.entries(spec.readerRoutes)) {
   const story = new Story(json);
   const md = [];
   let picks = 0;
+  let chapterDone = false;
   for (;;) {
-    while (story.canContinue) {
+    while (story.canContinue && !chapterDone) {
       const line = story.Continue().trim();
       const after = [];
       for (const raw of story.currentTags ?? []) {
@@ -27,13 +28,14 @@ for (const [name, plan] of Object.entries(spec.readerRoutes)) {
         const val = rest.join(":").trim();
         if (key.trim() === "title") md.push(`# ${val.replace("::", "—")}`, "");
         if (key.trim() === "scene") md.push("", "* * *", "");
+        if (key.trim() === "chapterend") chapterDone = true; // the prologue transcript stops at the chapter break
         if (key.trim() === "remember") after.push(`> *${val.split("::")[1].trim()}*`, "");
       }
       if (line) md.push(line, "");
       md.push(...after);
     }
     const choices = story.currentChoices;
-    if (!choices.length) break;
+    if (chapterDone || !choices.length) break;
     const want = plan[picks] ?? 0;
     const i = want === "last" ? choices.length - 1 : Math.min(want, choices.length - 1);
     md.push("**The game offers:**", ...choices.map((c, k) => `- ${k === i ? "**▶ " + c.text.trim() + "**  (chosen)" : c.text.trim()}`), "");
