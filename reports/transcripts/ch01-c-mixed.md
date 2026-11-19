@@ -175,11 +175,11 @@ Eight of the Marshal's riders were drawn up across it. The sergeant from the tol
 
 At a table outside the inn a man in a black coat was eating a pie with his fingers. A surgeon's bag sat by his plate.
 
-"Master Venn," said Lidd. "Surgeon. The Marshal sent him out to meet your master." "Thoughtful. Sent him the day before yesterday."
+"Master Venn," said Lidd. "Surgeon. The Marshal sent him out to meet your master. Thoughtful. Sent him the day before yesterday."
 
 The day before yesterday the Lantern had been drinking with the hill towns and singing. Nobody had been ill.
 
-Marrow had got down on the far side of the cart, where the horse was between her and the riders. Lidd looked over the horse at her anyway. "Marrow," he said. "Still guiding." She didn't answer. He wrote something in a little book.
+Marrow had got down on the far side of the cart, where the horse was between her and the riders. Lidd looked over the horse anyway. "Marrow," he said. "Still guiding." She didn't answer. He wrote something in a little book.
 
 "How did he take sick, squire? And where? I like to have it right."
 
