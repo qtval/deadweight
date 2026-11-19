@@ -12,9 +12,9 @@ const storyDir = join(root, "story");
 const [file = "ch01_stint", knot = "ch01"] = process.argv.slice(2);
 
 const ENTRIES = {
-  "a-honest":      { vars: { AT_FORD: '"bridle"', WENT_IN: true, PURSE: false, LETTER: '"wren"', MARROW_KNOWS_LETTER: true, TOLD_MARROW: '"truth"', VERSION: '"truth"', ELBOW: '"hidden"', PLAN: '"objected"', SOLD: '"face"', SELF: '"him"', DEED: '"waiting"', RING: false, DEBT_MARROW: false }, plan: [1, 1, 1, 0, 0, 0, 1, 0, 0] },
-  "b-selfserving": { vars: { AT_FORD: '"silent"', DRANK: true, WENT_IN: false, PURSE: true, LETTER: '"hidden"', MARROW_KNOWS_LETTER: true, TOLD_MARROW: '"ambush"', VERSION: '"hero"', PLAN: '"bargained"', ISOLDE_OWES: true, SOLD: '"hand"', READ_BALLAD: true, SELF: '"wages"', DEED: '"signed"', RING: false, DEBT_MARROW: true }, plan: [0, 2, 0, 2, 1, 1, 2, 1, 2] },
-  "c-mixed":       { vars: { AT_FORD: '"called"', DRANK: true, WENT_IN: true, PURSE: false, LETTER: '"isolde"', MARROW_KNOWS_LETTER: true, TOLD_MARROW: '"wait"', VERSION: '"ambush"', PLAN: '"agreed"', SOLD: '"begged"', READ_BALLAD: true, SELF: '"peace"', DEED: '"signed"', RING: true, DEBT_MARROW: false }, plan: [1, 0, 2, 1, 2, 0, 0, 1] },
+  "a-honest":      { vars: { AT_FORD: '"bridle"', WENT_IN: true, PURSE: false, LETTER: '"wren"', MARROW_KNOWS_LETTER: true, TOLD_MARROW: '"truth"', VERSION: '"truth"', ELBOW: '"hidden"', PLAN: '"objected"', SOLD: '"face"', SELF: '"him"', DEED: '"waiting"', RING: false, DEBT_MARROW: false }, plan: [1, 1, 1, 0, 0, 0, 1, 0, 2, 0] },
+  "b-selfserving": { vars: { AT_FORD: '"silent"', DRANK: true, WENT_IN: false, PURSE: true, LETTER: '"hidden"', MARROW_KNOWS_LETTER: true, TOLD_MARROW: '"ambush"', VERSION: '"hero"', PLAN: '"bargained"', ISOLDE_OWES: true, SOLD: '"hand"', READ_BALLAD: true, SELF: '"wages"', DEED: '"signed"', RING: false, DEBT_MARROW: true }, plan: [0, 2, 0, 2, 1, 1, 2, 0, 1, 2] },
+  "c-mixed":       { vars: { AT_FORD: '"called"', DRANK: true, WENT_IN: true, PURSE: false, LETTER: '"isolde"', MARROW_KNOWS_LETTER: true, TOLD_MARROW: '"wait"', VERSION: '"ambush"', PLAN: '"agreed"', SOLD: '"begged"', READ_BALLAD: true, SELF: '"peace"', DEED: '"signed"', RING: true, DEBT_MARROW: false }, plan: [1, 0, 2, 1, 2, 0, 0, 0, 1] },
 };
 
 const out = join(root, "reports/transcripts");

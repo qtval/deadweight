@@ -179,20 +179,16 @@ Panel:         stint_tollhouse
 
 ```
 ID:            ch01_s04_square
-Place:         The square, under the bell tower
-Purpose:       The Marshal gets a face in this town. The death story is told aloud to somebody who wants it to be false. The surrender is asked for.
-Present:       Wren, Isolde, Marrow, Dobb and his five. Sergeant Lidd and eight of the Marshal's riders. Master Venn, eating.
-Wants:         Lidd — to deliver the Lantern to the Marshal, and to have it written that he did; and the surrender "for safe keeping". Venn — to do what he was sent to do and not learn why. Dobb — Lidd's hands off his knight. Marrow — not to be seen by Lidd, who knows her.
-Can hurt Wren: Lidd. He has eight men, the toll book, and a use for a thief.
-Reveals:       The surgeon was sent before anyone was ill (meanwhile: Sayle). Lidd knows Marrow. He asks how the Lantern took sick, and where, and writes down the answer.
-Choice:        What Wren says when Lidd asks how he took sick. It must match what Wren told Isolde (VERSION), or she is standing right there:
-               the public story as agreed (a fever; and a robber's arrow, or a river chill, behind it) /
-               less than that: "A fever. I'm not a surgeon." — Lidd writes that the squire could not say /
-               more than that: a detail of Wren's own, to make it live — Lidd writes it down, and it will have to stay true for seven days
-Immediate:     Then Lidd asks for the surrender. If Isolde holds it, she declines beautifully and Lidd looks at Wren's shirt out of habit. If Wren holds it, Lidd has Wren turned out in front of the square "for the purse", because the tollkeeper has mentioned a purse or Wren looks like a thief: a rider's hands go down Wren's sides and stop one hand short. What stops him: Dobb (it costs Dobb a blow in the mouth from Lidd), or Marrow (she walks into Lidd's sight to do it, and he smiles), or Isolde (she says the squire carries the Lantern's linen and would the sergeant like to wash it). Bills: the notched ear ("who marked you?") or Marrow's flask in Lidd's hand, by TOLD_MARROW; the signet, if Wren showed it at the toll (Lidd asks to see it, and tries it on); the wave; and if the armour was sold, Dobb stops at a stall on the way across the square, picks up a pauldron, and turns it over.
-Delayed:       SAID. If the story is an arrow on the Marshal's road, Lidd must hang somebody for it, and says so.
-Body:          A stranger's hands, flat, going down Wren's ribs.
-Turn:          Venn, mouth full: "Fever. Then he's to be bled. I'll bring the bowl at first light."
+Place:         The square, under the bell tower, then the horse trough at its edge
+Purpose:       The Marshal gets a face in this town; the death story is told to somebody who wants it false; the surrender is asked for. Then ONE confrontation that runs long: Dobb, who had hold of the cold foot on the bridge, and Wren has to lie through him.
+               (Fourth draft, 2026-11-19, after chapter 1 rounds 9–13: fewer threads, one long confrontation, Isolde acts for herself, Marrow's back-road rescue cut.)
+Present:       Wren, Isolde, Marrow, Dobb and his men. Sergeant Lidd (named at the toll) and eight riders. The Marshal's surgeon, unnamed until s09, eating.
+Wants:         Lidd — the surrender, and the story in his book. Dobb — the truth about the foot, without having to say the word in front of the Marshal's men. Isolde — to be on record as never having been under the canvas. Wren — to get through it.
+Can hurt Wren: Lidd's riders, on the stones. Then Dobb, at the trough: he loves the man, and he knows cold.
+Choices:       SAID (what Wren tells Lidd) as before. If Wren carries the letter: the search, SEARCH = still (fingers stop on the edge of the case) / kicked (boots in the ribs, something clicks; nobody searches). Dobb always stops it and takes Lidd's blow.
+               FOOT, at the trough: the cold comes before the sweat (Dobb crushes Wren's wrist and asks again) / tell him to say it louder, Lidd's at the window (Dobb backs down in front of his men; one walks off) / say nothing (Dobb: "I'll be asking again").
+Bills:         the ring (TOLL ring), the ear or the flask (TOLD_MARROW), Isolde's line into Lidd's book ("the nursing is the squire's"), and if the armour was sold, Dobb sets the stamped shoulder piece on the trough before he asks.
+Turn:          The surgeon, from across the square: he will bleed the patient at first light. A dead man doesn't bleed.
 Panel:         stint_square_bells
 ```
 

@@ -22,7 +22,7 @@ Isolde wouldn't touch him. She stood by the horse with her sleeve over her nose 
 The neck and the shoulders and the breastplate were only buckles. Then there were his arms. A stiff arm won't go into a shirt sleeve unless somebody takes it at the elbow and the wrist and leans.
 
 **The game offers:**
-- Let Marrow do it. It's her trade, and your hands stay clean.
+- Let Marrow do it. You don't want to hear it go.
 - **▶ Do it yourself. He was your knight.**  (chosen)
 
 Marrow held his shoulders and I leaned. It made a noise like a green branch, and my own elbow answered it. I did the other one too, so she wouldn't. Her knife was on her belt, at the height of my eyes, the whole time.
@@ -182,8 +182,6 @@ At a table outside the inn a man in a black coat was eating a pie with his finge
 
 The day before yesterday he hadn't been sick.
 
-Marrow had got down behind the horse. Lidd looked over it anyway. "Marrow," he said. "Still guiding." She didn't answer. He wrote something in a little book.
-
 "How did he take sick, squire? And where? I like to have it right."
 
 His pencil was over the page. Isolde was a yard from me, listening.
@@ -203,24 +201,46 @@ Then he put the pencil away. "And the surrender. The Marshal would like it kept 
 
 "Does it," said Lidd. "Squire looks like a thief to me." He said it to his men, pleasantly. "Turn him out."
 
-Two of them took my arms. I pulled, once, and one of them put his knee in the back of mine, and I went down on the stones. A third knelt and went down my sides with flat hands. The case was under my shirt, against my belly, an inch below where his hands had got to. Isolde took a step back from me, so as not to be in the same sentence.
-
-I got my head round.
+Two of them took my arms. I pulled, once, and one of them put his knee in the back of mine, and I went down on the stones. A third knelt and started down my sides with flat hands. The case was under my shirt, against my belly.
 
 **The game offers:**
-- **▶ Look at Dobb**  (chosen)
-- Look at Marrow
-- Look at Isolde
+- **▶ Lie still. A thief would fight.**  (chosen)
+- Kick. Make them hold you instead of searching you.
 
-Dobb came across the square and put his burned hand on the rider's wrist. "That's the Lantern's squire."
+I lay still with my cheek on the stones. His hands came down over my ribs, and down, and his fingers touched the edge of the case through my shirt and stopped there, as if they were thinking.
 
-Lidd hit him in the mouth, not hard. Dobb's lip split. He didn't let go of the wrist, and in the end the rider let go of me.
+Then Dobb was there, with his burned hand on the rider's wrist. "That's the Lantern's squire."
+
+Lidd hit him in the mouth, not hard. Dobb's lip split. He didn't let go, and in the end the rider let go of me.
 
 "Who marked your ear, squire?" He touched it, with one finger.
 
 "The cart," I said. Lidd looked at Marrow.
 
-The surgeon wiped his fingers. "Fever," he said. "Then he's to be bled. I'll bring the bowl at first light." He took another bite. "Bleeding never killed a man who wasn't going anyway."
+"Sergeant," said Isolde. "You may write that the chronicler has never been under the canvas. The nursing is the squire's." Lidd wrote it, and she watched him do it.
+
+Lidd's riders went in to their supper. Dobb walked me to the horse trough, bleeding into his beard, with his hand on my shoulder as if he were helping me. His men stood round us, with their backs to the square.
+
+"I had his foot, Wren," he said. "On the bridge."
+
+He held up the burned hand, where I'd hit it.
+
+"I've laid out more of his lads than you've met. I know cold."
+
+Marrow sat on the tailboard with an apple, watching his back.
+
+**The game offers:**
+- Say the cold comes before the sweat. Say it like a surgeon.
+- Tell him to say it louder. Lidd's at the window.
+- **▶ Say nothing. Let him decide what he felt.**  (chosen)
+
+I didn't say anything. I looked at him till he looked away first. I'd never done that to anybody.
+
+"Right," said Dobb. He wiped his lip on his sleeve. "Then I don't know anything, do I. Not till you tell me." He picked up the trough's dipper and drank, and put it back. "I'll be asking again, Wren."
+
+Marrow threw the core into the trough. She'd eaten the pips too.
+
+Across the square the surgeon wiped his fingers. "Fever, is it? Then he's to be bled. I'll bring the bowl at first light." He took another bite. "Bleeding never killed a man who wasn't going anyway."
 
 A dead man doesn't bleed.
 

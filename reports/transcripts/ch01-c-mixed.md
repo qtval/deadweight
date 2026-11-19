@@ -24,7 +24,7 @@ Isolde wouldn't touch him. She stood by the horse with her sleeve over her nose 
 The neck and the shoulders and the breastplate were only buckles. Then there were his arms. A stiff arm won't go into a shirt sleeve unless somebody takes it at the elbow and the wrist and leans.
 
 **The game offers:**
-- Let Marrow do it. It's her trade, and your hands stay clean.
+- Let Marrow do it. You don't want to hear it go.
 - **▶ Do it yourself. He was your knight.**  (chosen)
 
 Marrow held his shoulders and I leaned. It made a noise like a green branch, and my own elbow answered it. I did the other one too, so she wouldn't. Her knife was on her belt, at the height of my eyes, the whole time.
@@ -185,8 +185,6 @@ At a table outside the inn a man in a black coat was eating a pie with his finge
 
 The day before yesterday he hadn't been sick.
 
-Marrow had got down behind the horse. Lidd looked over it anyway. "Marrow," he said. "Still guiding." She didn't answer. He wrote something in a little book.
-
 "How did he take sick, squire? And where? I like to have it right."
 
 His pencil was over the page. Isolde was a yard from me, listening.
@@ -208,7 +206,32 @@ Lidd looked at my shirt anyway.
 
 "And the ring you showed at the toll," said Lidd. He tried it on his little finger, and gave it back warm.
 
-The surgeon wiped his fingers. "Fever," he said. "Then he's to be bled. I'll bring the bowl at first light." He took another bite. "Bleeding never killed a man who wasn't going anyway."
+"Sergeant," said Isolde. "You may write that the chronicler has never been under the canvas. The nursing is the squire's." Lidd wrote it, and she watched him do it.
+
+Lidd's riders went in to their supper. Dobb walked me to the horse trough, with his hand on my shoulder as if he were helping me. His men stood round us, with their backs to the square.
+
+"I had his foot, Wren," he said. "On the bridge."
+
+"I've had the cold sweats. They're not that cold."
+
+"I've laid out more of his lads than you've met. I know cold."
+
+Marrow sat on the tailboard with an apple, watching his back.
+
+**The game offers:**
+- **▶ Say the cold comes before the sweat. Say it like a surgeon.**  (chosen)
+- Tell him to say it louder. Lidd's at the window.
+- Say nothing. Let him decide what he felt.
+
+"It's the fever," I said. "The cold comes first, then the sweat. Ask anyone." I didn't know if it was true. I said it the way the tollkeeper said his prices.
+
+"Ask anyone," said Dobb. He took my wrist and squeezed until the little bones moved against each other. "I'm asking you."
+
+I said it again, all of it, the same words. My eyes were running. He let go. I couldn't close that hand properly till it was dark.
+
+Marrow threw the core into the trough. She'd eaten the pips too.
+
+Across the square the surgeon wiped his fingers. "Fever, is it? Then he's to be bled. I'll bring the bowl at first light." He took another bite. "Bleeding never killed a man who wasn't going anyway."
 
 A dead man doesn't bleed.
 
