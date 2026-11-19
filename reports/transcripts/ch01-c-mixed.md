@@ -128,7 +128,7 @@ The tollkeeper was a long man with a boil on his neck that had come to a head. H
 
 "I know who. I'm asking what. Sick or dead? Sick's a penny more. Dead's sixpence a head, since the war. There was that many. I've to write the one or the other, and somebody puts their name."
 
-"Sick," I said. It was cheaper. That wasn't why I said it, and it was.
+"Sick," I said. It was cheaper.
 
 "Sick." He wrote it slowly, breathing through his mouth. He turned the book round on the slope and held out the pen.
 
@@ -208,9 +208,9 @@ I waited for him to say the rest of it. He didn't. He wanted me to.
 
 "I've had the cold sweats," said Dobb. "They're not that cold."
 
-"I've laid out more of his lads than you've met. I know cold."
+"I've laid out more of his lads than you've met," he said. "I know cold."
 
-So did I, now. I'd slept beside it last night. "He's my knight too," I said. It was the only true thing I had, and I said it to see if it would do. It didn't.
+So did I, now. I'd slept beside it last night. "He's my knight too," I said. Dobb waited for the rest of it.
 
 Marrow sat on the tailboard with an apple, watching his back.
 
@@ -246,13 +246,11 @@ A saint. Aubric would have liked that. He'd have liked the money better.
 
 "The chapel," said Isolde, before I could open my mouth. "A vigil in a chapel is a verse. An inn yard is a footnote."
 
-"Barn," said Marrow. "Fourpence, and the key's ours."
+"Tollkeeper's barn," said Marrow. "Fourpence, and the key's ours."
 
 "Then you may sleep in it," said Isolde.
 
 "Will."
-
-"Or the barn behind my house," said the tollkeeper, locking up. "Fourpence, and nobody's business."
 
 **The game offers:**
 - The chapel. A bolt, no steel, and Tobin holds the key.

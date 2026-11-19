@@ -78,7 +78,7 @@ I put my head and shoulders out through the gap. "He's sleeping," I said. It did
 
 It went along the bridge from the front to the back. I watched it go. The shouting stopped. The bells didn't, because nobody had told the bells.
 
-Something hit the side of the cart, hard, and rolled away. It was a turnip. Two hundred people had walked in from the farms to see the Lantern, and what they had got was me.
+Something hit the side of the cart and rolled away. It was a turnip. Somebody had carried it six miles for his horse.
 
 Corporal Dobb came on to the back of the cart. He put his burned hand flat on the canvas, where the feet were.
 
@@ -126,7 +126,7 @@ The tollkeeper was a long man with a boil on his neck that had come to a head. H
 
 "I know who. I'm asking what. Sick or dead? Sick's a penny more. Dead's sixpence a head, since the war. There was that many. I've to write the one or the other, and somebody puts their name."
 
-"Sick," I said. It was cheaper. That wasn't why I said it, and it was.
+"Sick," I said. It was cheaper.
 
 "Sick." He wrote it slowly, breathing through his mouth. He turned the book round on the slope and held out the pen.
 
@@ -203,7 +203,7 @@ Two of them took my arms. I pulled, once, and one of them put his knee in the ba
 - **▶ Give them money. A thief would have some.**  (chosen)
 - Kick. Make them hold you instead of searching you.
 
-"My boot," I said into the stones. "Four pennies." He pulled the boot off and shook them out. That was all I owned. Lidd wrote "thief" in his book, and his man kept the pennies.
+"My boot," I said into the stones. "Four pennies." He pulled the boot off and shook them out. That was all I owned. "There," said Lidd. "A thief, and his takings." He wrote it down. He'd found what he said he would.
 
 They let go of my arms.
 
@@ -223,11 +223,11 @@ I waited for him to say the rest of it. He didn't. He wanted me to.
 
 "I picked you up in front of the Marshal's men," he said. "So you'll answer me."
 
-He held up the burned hand, where I'd hit it, so I'd remember that too.
+He held up the burned hand, where I'd hit it.
 
-"I've laid out more of his lads than you've met. I know cold."
+"I've laid out more of his lads than you've met," he said. "I know cold."
 
-So did I, now. I'd slept beside it last night. "He's my knight too," I said. It was the only true thing I had, and I said it to see if it would do. It didn't.
+So did I, now. I'd slept beside it last night. "He's my knight too," I said. Dobb waited for the rest of it.
 
 Marrow sat on the tailboard with an apple, watching his back.
 
@@ -261,13 +261,11 @@ A saint. Aubric would have liked that. He'd have liked the money better.
 
 "The chapel," said Isolde, before I could open my mouth. "A vigil in a chapel is a verse. An inn yard is a footnote."
 
-"Barn," said Marrow. "Fourpence, and the key's ours."
+"Tollkeeper's barn," said Marrow. "Fourpence, and the key's ours."
 
 "Then you may sleep in it," said Isolde.
 
 "Will."
-
-"Or the barn behind my house," said the tollkeeper, locking up. "Fourpence, and nobody's business."
 
 **The game offers:**
 - **▶ The chapel. A bolt, no steel, and Tobin holds the key.**  (chosen)
@@ -276,7 +274,7 @@ A saint. Aubric would have liked that. He'd have liked the money better.
 
 "The chapel," I said. Let it be a verse.
 
-Tobin nodded as if I'd said grace. Dobb spat on the stones and went to tell his men. Within the hour two of Lidd's riders were standing at the chapel door, and I was lying across the step inside it, with the bolt above my head and the key in Tobin's belt.
+Tobin nodded as if I'd said grace. Dobb spat on the stones and went to tell his men. Within the hour two of Lidd's riders were standing outside the chapel door with their swords on, and I was lying across the step inside it, with the bolt above my head and the key in Tobin's belt.
 
 Tobin was tying my boot up again, slowly, because his hands were old.
 
