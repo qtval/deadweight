@@ -11,7 +11,7 @@ Marrow turned the cart in under the beeches, where it couldn't be seen from the 
 
 I did know the buckles. There were thirty-one, and four laces, and a pin at the neck that stuck. I had done them up every morning for six years.
 
-Isolde untied the canvas, with her back to me, so I wouldn't learn her knot. He had gone stiff in his plate.
+Isolde untied the canvas. He had gone stiff in his plate.
 
 I was still wearing his gloves. I took them off to touch him.
 
@@ -42,7 +42,7 @@ Then the armor lay in a heap with his badge on the breast, the lantern in blue e
 
 "Half," I said. It came out before I'd decided to say it.
 
-"Half," said Marrow, and looked at me properly. She sat down in the leaves with a file and the breastplate across her knees and began to take the lantern off it. The enamel came away in blue flakes.
+"Half," said Marrow, and looked at me properly. She sat in the leaves with a file and began taking the lantern off the breastplate. The enamel came away in blue flakes.
 
 She was quick, and she missed a rivet on the left shoulder that had a small lantern stamped in its head. I saw it. Half of a farm was more money than I had ever stood near, and she knew her business better than I did.
 
@@ -57,7 +57,7 @@ Without the plate he wasn't very big. He had a grey chest and a soft belly. He l
 
 * * *
 
-Every bell in Stint was going.
+Every bell in Stint was going. At the bridge Marrow sold the plate to a waiting smith without getting down.
 
 The road came out of the trees onto the bridge, and Stint was on the far bank. The bridge was lined on both sides. There were children up on the wall of it, and a woman holding up a baby to see. They saw his grey horse on its lead rein with the saddle empty, and the noise dropped, and came up louder.
 
@@ -65,7 +65,7 @@ I had the reins, and my hands were wet on them.
 
 "One wave from inside the cart," said Isolde, not moving her mouth. "Then you tell them he is resting."
 
-Six men in his colors were waiting at our end of the bridge, before the tollhouse. The one in front was Corporal Dobb, who had been with him twenty years. The back of his left hand was shiny from a burn at the siege. He came to meet us. He always took the bridle.
+Six men in his colors were waiting at our end of the bridge. The one in front was Corporal Dobb, who had been with him twenty years. The back of his left hand was shiny from a burn at the siege. He came to meet us. He always took the bridle.
 
 "Six of his," said Marrow, from behind the cart. "They look under there, I'm off. You're not."
 
@@ -122,7 +122,7 @@ Behind me I heard Marrow put her knife away. I hadn't seen her take it out.
 
 * * *
 
-Halfway over, the bridge narrowed to get round the tollhouse, and the cart had to stop at it like any other. At the bridge end Marrow had sold the sack of plate to a smith without getting down.
+Halfway over, the bridge narrowed to get round the tollhouse, and the cart had to stop at it like any other.
 
 Four horses with the Marshal's grey cloth over their saddles stood at the rail. Their riders were inside on a bench, drinking the tollkeeper's jug. One of them had his boots up.
 
@@ -134,7 +134,7 @@ The tollkeeper was a long man with a boil on his neck that had come to a head. H
 
 "I know who. I'm asking what. Sick or dead? Sick's a penny more. Dead's sixpence a head, since the war. There was that many. I've to write the one or the other, and somebody puts their name."
 
-"Sick," I said. Sick was cheaper. I thought that, and was ashamed, and thought it again.
+"Sick," I said. It was cheaper. That wasn't why I said it, and it was.
 
 "Sick." He wrote it slowly, breathing through his mouth. He turned the book round on the slope and held out the pen.
 
@@ -189,7 +189,7 @@ He was asking me. I looked round for somebody else he might be asking. Marrow an
 
 Lidd came and stood behind me, close enough that I could smell the tollkeeper's jug on him. "Marshal's in Stint tomorrow," he said. "He'll want to pay his respects. Make sure your master's awake."
 
-I said I would. With Lidd that close I'd have said the Lantern could dance.
+I said I would.
 
 
 * * *
@@ -229,7 +229,7 @@ Two of them took my arms. I pulled, once, and one of them put his knee in the ba
 - **▶ Give them money. A thief would have some.**  (chosen)
 - Kick. Make them hold you instead of searching you.
 
-"In my shirt," I said into the stones. "The purse." I got it out myself and held it up. Lidd weighed it. "Thief," he said, pleased, and wrote it down, and pocketed the purse. It had been the only money we had.
+"In my shirt," I said into the stones. "The purse." I got it out myself and held it up. Lidd weighed it. "Thief," he said, pleased, and wrote it down, and pocketed the purse. It had been Aubric's. Now it was Lidd's, and in his book.
 
 They let go of my arms.
 
@@ -245,13 +245,15 @@ He had a shoulder piece under his arm. He set it on the edge of the trough, rive
 
 "I had his foot, Wren," he said. "On the bridge."
 
+I waited for him to say the rest of it. He didn't. He wanted me to.
+
 "I picked you up in front of the Marshal's men," he said. "So you'll answer me."
 
-"And he never said not me," said Dobb. "Not in twenty years."
+"And he never said not me," said Dobb. "Not in twenty years." He'd been chewing on that all afternoon.
 
 "I've laid out more of his lads than you've met. I know cold."
 
-I knew it too, now. I'd slept beside it last night. "He's my knight too," I said. Dobb waited for the rest of it.
+So did I, now. I'd slept beside it last night. "He's my knight too," I said. It was the only true thing I had, and I said it to see if it would do. It didn't.
 
 Marrow sat on the tailboard with an apple, watching his back.
 
@@ -272,24 +274,30 @@ Marrow threw her apple core into the trough. "Corporal's a problem," she said. "
 
 Across the square the surgeon wiped his fingers. "Fever, is it? Then he's to be bled. I'll bring the bowl at first light." He took another bite. "Two pints. He'll feel better or he won't."
 
-I'd held the bowl for him the last time he had the marsh fever. He'd filled it twice. He wouldn't fill it now.
+I'd held the bowl for him at his last marsh fever. He'd filled it twice.
 
 
 * * *
 
 The square emptied with the light.
 
-An old friar came round to the downwind side of the cart, knelt, and had my boot off before I'd agreed to it.
+An old friar came round to the downwind side of the cart and had my boot off before I'd agreed to it.
 
-"Brother Tobin," he said, to my foot. "That's how a toe goes black." He rubbed it hard between his hands. Nobody had touched my feet since my mother. I'd have let him do the other one.
+"Brother Tobin," he said, to my foot. "That's how toes go black." He rubbed it between his hands. Nobody had touched my feet since my mother. I'd have let him do the other one.
 
-"He can't lie in a cart tonight," he said. "I have a chapel. Eleven under the roof, cripples from both sides, and it leaks. A saint under it one night, and I'd have pilgrims till the slates were paid for. No steel past the door. Not even a surgeon's."
+"He can't lie in a cart tonight," he said. "I have a chapel. Eleven under the roof, and it leaks. A saint under it one night, and I'd have pilgrims till the slates were paid for. No steel past the door. Not even a surgeon's."
 
 A saint. Aubric would have liked that. He'd have liked the money better.
 
 "Inn yard," said Dobb. "My lads round him."
 
 "The chapel," said Isolde, before I could open my mouth. "A vigil in a chapel is a verse. An inn yard is a footnote."
+
+"Barn," said Marrow. "Fourpence, and the key's ours."
+
+"Then you may sleep in it," said Isolde.
+
+"Will."
 
 "Or the barn behind my house," said the tollkeeper, locking up. "Fourpence, and nobody's business."
 

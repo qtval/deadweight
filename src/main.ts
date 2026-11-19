@@ -56,6 +56,7 @@ let queue: Beat[] = [];
 let panel: string | null = null;
 let knows = new Map<string, string>();
 let route: string[] = [];
+let chapterStart = 0; // index in route where the current chapter began (for the demo end card)
 let ended = false;
 let endId = "";
 // Set by `# chapterend:`; the reader stops pulling, shows the chapter's end card, and Continue resumes.
@@ -241,7 +242,7 @@ function showTitle() {
 
 function start(saved: Save | null) {
   story = new Story(storyJson as any);
-  queue = []; knows = new Map(); route = []; ended = false; endId = ""; chapterBreak = false; unseenJournal = false; current = null;
+  queue = []; knows = new Map(); route = []; chapterStart = 0; ended = false; endId = ""; chapterBreak = false; unseenJournal = false; current = null;
   if (saved) {
     try {
       story.state.LoadJson(saved.ink);
@@ -267,8 +268,8 @@ function showEnd(chapterDone: boolean) {
       <div class="card end-card" data-testid="demo-end">
         <span class="kicker">End of the demo</span>
         <h2>Stint, the first evening</h2>
-        <section><p>Chapter 1 goes on from here: the night, the surgeon's bowl at first light, and the Marshal come to pay his respects.</p></section>
-        <section><h3>Your choices</h3><ol class="route">${route.map((r) => `<li><span>${esc(r)}</span></li>`).join("")}</ol></section>
+        <section><p>Chapter 1 goes on from here: the night, the surgeon's bowl at first light, and the Marshal, who is coming to pay his respects.</p></section>
+        <section><h3>Your choices in Stint</h3><ol class="route">${route.slice(chapterStart).map((r) => `<li><span>${esc(r)}</span></li>`).join("")}</ol></section>
         <div class="actions">
           <button class="btn" data-testid="again">Play again</button>
           <button class="btn ghost" data-testid="end-journal">Open the journal</button>
@@ -298,6 +299,7 @@ function showEnd(chapterDone: boolean) {
         </div>
       </div>`;
     layer.querySelector('[data-testid="to-ch1"]')?.addEventListener("click", () => {
+      chapterStart = route.length;
       chapterBreak = false;
       layer.innerHTML = "";
       bar.hidden = false; stage.hidden = false;
