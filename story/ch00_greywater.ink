@@ -269,7 +269,7 @@ Isolde sat down on the cart step and held her satchel.
 Isolde looked at the river for a while.
 "Then he is not dead. He has a fever. He rides under the canvas to Vellmouth, and the council signs at the door of his sickroom."
 "Three of us know," said Marrow.
-"Three of us know," said Isolde. She looked at me the way she looked at a line that would not scan. "You carry out his pot, Wren, and you say he is sleeping. Well?"
+"Three of us know," said Isolde. She looked at me as if I were a line she meant to cut. "You carry out his pot, Wren, and you say he is sleeping. Well?"
 * [Say you'll do it]
     ~ PLAN = "agreed"
     ~ RING = true
