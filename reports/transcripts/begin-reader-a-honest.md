@@ -176,9 +176,7 @@ Then she cut me. She took the top of my left ear between her finger and thumb an
 
 She let go. I stayed where she had put me, with my blood dripping on his breastplate.
 
-Her eyes went to the oilskin case on his belt. "That dry?"
-
-It was. She pulled its buckle a hole tighter.
+Her eyes went to the oilskin case on his belt. She pulled its buckle a hole tighter.
 
 "You left it." She looked at me then, not at the case. "My people signed that paper. It gets where it's going. It stays on him. Go near that belt, I'll know what for."
 

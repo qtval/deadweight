@@ -158,8 +158,7 @@ She got her breath. "So he didn't drown. He was shot, in the dark, with his swor
     "Chronicler wakes at dawn." Marrow jerked her head at the cart. "Decide before. She'll not ask what you saw. She'll tell you."
     She came round the body with a length of cord off the cart, and tied my left wrist to her right, with a knot I couldn't see. "So you don't decide somewhere else." Then she sat down against me with the knife across her knees. The cord was tight enough that my hand went cold.
 - { LETTER == "body":
-    Her eyes went to the oilskin case on his belt. "That dry?"
-    It was. She pulled its buckle a hole tighter.
+    Her eyes went to the oilskin case on his belt. She pulled its buckle a hole tighter.
     "You left it." She looked at me then, not at the case. "My people signed that paper. It gets where it's going. It stays on him. Go near that belt, I'll know what for."
     ~ MARROW_KNOWS_LETTER = true
 - else:
