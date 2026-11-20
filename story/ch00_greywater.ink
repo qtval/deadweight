@@ -96,10 +96,10 @@ Six years' wages, which he had always been about to pay. His purse hung on his b
     I let it hang. I am not a thief. I weighed it in my hand first, only to be sure of that.
 - My paper wanted his name, and he was past signing. I could sign it for him now, and who would say he hadn't? I put that thought down quickly. It would keep. {AT_FORD == "bridle":He had been going to talk about it another day. }Without him I was a laundress's child who could read.
 Then there was the letter.
-It was on the same belt, in an oilskin case: the surrender. The council at Vellmouth would never have let the hill towns off the rope for anyone but him. They would not do it for his corpse.
+It was on the same belt, in an oilskin case: the surrender. The council at Vellmouth, the capital, would never have let the hill towns off the rope for anyone but him. They would not do it for his corpse.
 # know: letter :: The surrender, signed by the hill towns on Aubric's word. The council in Vellmouth, the capital, must sign it too within nine days, and must not learn he is dead first, or the war starts again.
 Out on the water, Marrow's light had turned.
-The case was dry. Men had bowed to him for carrying it.
+The case was dry. With it in my shirt I was the Lantern's squire, carrying the peace. Without it I was a servant sitting by a body.
 * [Take it]
     ~ LETTER = "wren"
     The buckle was stiff with cold, and my hands were worse. I got it open and pushed the case inside my shirt, flat against my ribs. Then I did his buckle up again, so he would look right.
@@ -135,7 +135,7 @@ She crouched across the body from me. There was a short knife on her belt. I had
 She reached over him and took my wrist, and laid the flat of the blade on the inside of it, above the glove. She didn't press. Her hand was shaking worse than mine.
 "Crown hero drowns at a ford," she said, all in one breath. "Guide that picked the ford used to fight for the hill towns. Who hangs? Guide hangs."
 I didn't answer. I was the only other one who had seen it. I looked at the knife.
-She got her breath. "So he didn't drown. Hill stragglers. Dark. An arrow, and his sword out. Stragglers hang for that. They're hanging anyway."
+She got her breath. "So he didn't drown. Hill stragglers. Dark. An arrow, and his sword out. Stragglers never signed. His promise doesn't cover them. They hang anyway."
 * [Agree. An ambush, and nobody here hangs.]
     ~ TOLD_MARROW = "ambush"
     ~ TRUST_MARROW += 1

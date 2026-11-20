@@ -116,11 +116,11 @@ My paper wanted his name, and he was past signing. I could sign it for him now, 
 
 Then there was the letter.
 
-It was on the same belt, in an oilskin case: the surrender. The council at Vellmouth would never have let the hill towns off the rope for anyone but him. They would not do it for his corpse.
+It was on the same belt, in an oilskin case: the surrender. The council at Vellmouth, the capital, would never have let the hill towns off the rope for anyone but him. They would not do it for his corpse.
 
 Out on the water, Marrow's light had turned.
 
-The case was dry. Men had bowed to him for carrying it.
+The case was dry. With it in my shirt I was the Lantern's squire, carrying the peace. Without it I was a servant sitting by a body.
 
 **The game offers:**
 - **▶ Take it**  (chosen)
@@ -159,7 +159,7 @@ She reached over him and took my wrist, and laid the flat of the blade on the in
 
 I didn't answer. I was the only other one who had seen it. I looked at the knife.
 
-She got her breath. "So he didn't drown. Hill stragglers. Dark. An arrow, and his sword out. Stragglers hang for that. They're hanging anyway."
+She got her breath. "So he didn't drown. Hill stragglers. Dark. An arrow, and his sword out. Stragglers never signed. His promise doesn't cover them. They hang anyway."
 
 **The game offers:**
 - Agree. An ambush, and nobody here hangs.
