@@ -15,11 +15,11 @@ The hill towns had sent him off with two skins of their wine. He had drunk most 
 
 His escort had gone ahead to Stint, the next town, to get the ringers sober. That left him a squire, a guide, and a chronicler asleep in the cart, with wax in her ears against his singing. She was paid by the verse, and she had the last one written already: he died old, in a bed. He had wept at it and paid her double.
 
-He sat his grey horse in full armor, polished for the bells by me.
+He sat his grey horse in full armor, polished for the bells by me. The horse steamed. The air off the river smelled of cold stone and rotten leaves.
 
 A light moved on the far bank, under the alders. That was Marrow, the guide. She had waded over to test the bottom and shouted back three words: "Wait for morning."
 
-"Ten years of war, Wren, and I talked the hill towns out of it in an afternoon. I promised them no one hangs." He slapped the oilskin case on his belt. "The council wants forty of them on a rope. But the whole country is singing about me, so they'll sign. Nine days to the capital, before they go home for the winter. From any other man's hand they'd wipe their arses on it."
+"Ten years of war, Wren, and I talked the hill towns out of it in an afternoon." He slapped the oilskin case on his belt. "Their surrender. All it cost was my word that no one hangs."
 
 He held the last of the wine down to me. "Drink, Wren. Tomorrow you're squire to the man who ended the war. You'll never pay for a cup again."
 
@@ -39,11 +39,13 @@ He sat up straight. "I shall be modest. 'Good people, I did nothing. A little ta
 
 "Then they shout 'The Lantern!' and I wave. Like this." He waved, and nearly came off the horse.
 
-"The third verse of my song doesn't scan, mind. I must have that mended before the bells. And you'll be paid, the day we ride in. And the room. A room in my house in the capital, with a door on it. Remind me of the door. Bring me that paper of yours in Stint and I'll sign it."
+"The council wants forty of those hill men on a rope, you know. They'll sign my peace all the same, with the whole country singing about me. Nine days to the capital, before the council goes home for the winter. From any other man's hand they'd wipe their arses on it."
+
+"The third verse of my song doesn't scan, mind. Have her mend it. And you'll be paid, the day we ride in. And the room. A room in my house in the capital, with a door on it. Remind me of the door. Bring me that paper of yours in Stint and I'll sign it."
 
 He had been promising me that room four years. It had not had a door before.
 
-I had it written out. I wrote all his letters, in his hand, and four winters running I had made a fair copy of that promise. I could do his name better than he could. While he lived that was no use. He would only say he had never signed it.
+I had it written out, four winters running, in a fair copy. I wrote all his letters, and did his name better than he could.
 
 He saw me shaking.
 
@@ -120,18 +122,18 @@ It was still on his belt in its oilskin case: the surrender, for the council at 
 
 Out on the water, Marrow's light had turned.
 
-The case was dry. Whoever held it was worth keeping alive. Whoever held it was worth robbing, too.
+The case was dry. That was her people's paper in it, and she was coming with a knife on her belt.
 
 **The game offers:**
 - Take it
 - **▶ Leave it on his belt**  (chosen)
 
-I took my hand off it. That was a knight's to carry, and I was glad of it. I pulled his cloak half over the case so she wouldn't see it straight off.
+I took my hand off it, and wiped the hand on my breeches. Let her find it on him, and not on me.
 
 
 * * *
 
-Marrow came up out of the river with her lantern, and stopped when the light reached him.
+Marrow came up out of the river with her lantern, smelling of wet wool, and stopped when the light reached him.
 
 She put her ear to his mouth and kept it there, too long. "Come on," she said, to him.
 
@@ -151,11 +153,11 @@ She crouched across the body from me. There was a short knife on her belt. I had
 
 She reached over him and took my wrist, and laid the flat of the blade on the inside of it, above the glove. She didn't press. Her hand was shaking worse than mine.
 
-"Crown hero drowns at a ford," she said, all in one breath. "Guide that picked the ford used to fight for the hill towns. Who hangs? Guide hangs."
+"Crown hero drowns at a ford," she said, in one breath. "Guide that picked the ford used to fight for the hill towns. Who hangs? Guide hangs."
 
 I didn't answer. I was the only other one who had seen it. I looked at the knife.
 
-She got her breath. "So he didn't drown. Hill stragglers. Dark. An arrow, and his sword out. Stragglers never signed. His promise doesn't cover them. They hang anyway."
+She got her breath. "So he didn't drown. He was shot, in the dark, with his sword out. Hill stragglers did it, the ones who wouldn't sign. His promise never covered them. The Crown hangs those anyway."
 
 **The game offers:**
 - Agree. An ambush, and nobody here hangs.
@@ -176,9 +178,9 @@ She let go. I stayed where she had put me, with my blood dripping on his breastp
 
 Her eyes went to the oilskin case on his belt. "That dry?"
 
-She pulled its buckle a hole tighter.
+It was. She pulled its buckle a hole tighter.
 
-"My people signed that paper. Hill towns. It gets where it's going." She looked at me then, not at the case. "It stays on him. Go near that belt, I'll know what for."
+"You left it." She looked at me then, not at the case. "My people signed that paper. It gets where it's going. It stays on him. Go near that belt, I'll know what for."
 
 * * *
 

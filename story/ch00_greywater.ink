@@ -18,10 +18,10 @@ I had been his squire six years.
 # know: aubric :: Sir Aubric Dane, called the Lantern. The only knight anyone has a ballad about. Drunk tonight.
 The hill towns had sent him off with two skins of their wine. He had drunk most of both.
 His escort had gone ahead to Stint, the next town, to get the ringers sober. That left him a squire, a guide, and a chronicler asleep in the cart, with wax in her ears against his singing. She was paid by the verse, and she had the last one written already: he died old, in a bed. He had wept at it and paid her double.
-He sat his grey horse in full armor, polished for the bells by me.
+He sat his grey horse in full armor, polished for the bells by me. The horse steamed. The air off the river smelled of cold stone and rotten leaves.
 A light moved on the far bank, under the alders. That was Marrow, the guide. She had waded over to test the bottom and shouted back three words: "Wait for morning."
 # know: marrow :: The road-guide. A deserter from the hill towns' side, paid in silver to know the fords. Said the river should wait for morning.
-"Ten years of war, Wren, and I talked the hill towns out of it in an afternoon. I promised them no one hangs." He slapped the oilskin case on his belt. "The council wants forty of them on a rope. But the whole country is singing about me, so they'll sign. Nine days to the capital, before they go home for the winter. From any other man's hand they'd wipe their arses on it."
+"Ten years of war, Wren, and I talked the hill towns out of it in an afternoon." He slapped the oilskin case on his belt. "Their surrender. All it cost was my word that no one hangs."
 He held the last of the wine down to me. "Drink, Wren. Tomorrow you're squire to the man who ended the war. You'll never pay for a cup again."
 He had never once paid me, either. But he said it so warmly that I forgot to mind. You warmed your hands at him and didn't count your fingers till later.
 * [Drink with him]
@@ -34,9 +34,10 @@ He had never once paid me, either. But he said it so warmly that I forgot to min
 - He sat up straight. "I shall be modest. 'Good people, I did nothing. A little talking.' Then I look at my boots. Do I look at my boots, or is that too much?"
 "The boots are good, Sir Aubric."
 "Then they shout 'The Lantern!' and I wave. Like this." He waved, and nearly came off the horse.
-"The third verse of my song doesn't scan, mind. I must have that mended before the bells. And you'll be paid, the day we ride in. And the room. A room in my house in the capital, with a door on it. Remind me of the door. Bring me that paper of yours in Stint and I'll sign it."
+"The council wants forty of those hill men on a rope, you know. They'll sign my peace all the same, with the whole country singing about me. Nine days to the capital, before the council goes home for the winter. From any other man's hand they'd wipe their arses on it."
+"The third verse of my song doesn't scan, mind. Have her mend it. And you'll be paid, the day we ride in. And the room. A room in my house in the capital, with a door on it. Remind me of the door. Bring me that paper of yours in Stint and I'll sign it."
 He had been promising me that room four years. It had not had a door before.
-I had it written out. I wrote all his letters, in his hand, and four winters running I had made a fair copy of that promise. I could do his name better than he could. While he lived that was no use. He would only say he had never signed it.
+I had it written out, four winters running, in a fair copy. I wrote all his letters, and did his name better than he could.
 He saw me shaking.
 He pulled off his riding gloves, the fleece-lined ones, and dropped them into my hands. "Can't have you sneezing through my triumph. Your mother would never forgive me. How is her chest?"
 My mother washed shirts for the army and had spoken to him once. He had asked after her chest every winter since. I put the gloves on.
@@ -73,7 +74,7 @@ A hand came out of the water, bare and white, opened, closed on nothing, and wen
     I came up and breathed and was sick down my own front. By the time I had a strap in my fist and had started to pull, he had stopped helping.
 * [Stay on the bank. Run for the rope.]
     ~ WENT_IN = false
-    There was a rope on the cart. I ran for it. I had polished that armor every night for six years. Let it rust.
+    There was a rope on the cart. I ran for it, and I was glad to have my back to the water.
     I fell twice in the slop, the second time with my knee on a stone. I threw the rope from the bank and it fell short. I threw it again and it went over him and he didn't take it. I could hear him. It was a noise like a man trying to shout through a wet cloth, and his heels were going on the stones, and I stood on the bank coiling the rope a third time, neatly, the way he liked it coiled.
     By the time I thought of the horse, the noise had stopped. I got a loop over the saddle as it floundered out, and it dragged him ashore by one stirrup, face down, with his mouth full of gravel.
 - It took longer to get him onto the stones than it had taken him to die.
@@ -99,20 +100,20 @@ Then there was the letter.
 It was still on his belt in its oilskin case: the surrender, for the council at Vellmouth, the capital. And he was not going to carry it in.
 # know: letter :: The surrender, signed by the hill towns on Aubric's word. The council in Vellmouth, the capital, must sign it too within nine days, and must not learn he is dead first, or the war starts again.
 Out on the water, Marrow's light had turned.
-The case was dry. Whoever held it was worth keeping alive. Whoever held it was worth robbing, too.
+The case was dry. That was her people's paper in it, and she was coming with a knife on her belt.
 * [Take it]
     ~ LETTER = "wren"
     The buckle was stiff with cold, and my hands were worse. I got it open and pushed the case inside my shirt, flat against my ribs. Then I did his buckle up again, so he would look right.
 * [Leave it on his belt]
     ~ LETTER = "body"
-    I took my hand off it. That was a knight's to carry, and I was glad of it. I pulled his cloak half over the case so she wouldn't see it straight off.
+    I took my hand off it, and wiped the hand on my breeches. Let her find it on him, and not on me.
 - -> s04_marrow
 
 // ---------------------------------------------------------------
 = s04_marrow
 # scene: s04_marrow
 # panel: greywater_marrow_wading
-Marrow came up out of the river with her lantern, and stopped when the light reached him.
+Marrow came up out of the river with her lantern, smelling of wet wool, and stopped when the light reached him.
 She put her ear to his mouth and kept it there, too long. "Come on," she said, to him.
 Then she sat up. "That's my fee gone.{AT_FORD == "called": Heard you shout. Should've run back. Didn't.}{AT_FORD == "silent": Saw you stood there. Never said a word to stop him.}"
 { AT_FORD == "called":
@@ -133,9 +134,9 @@ Then she sat up. "That's my fee gone.{AT_FORD == "called": Heard you shout. Shou
 }
 She crouched across the body from me. There was a short knife on her belt. I had watched her gut a hare with it at noon. Now it was in her hand.
 She reached over him and took my wrist, and laid the flat of the blade on the inside of it, above the glove. She didn't press. Her hand was shaking worse than mine.
-"Crown hero drowns at a ford," she said, all in one breath. "Guide that picked the ford used to fight for the hill towns. Who hangs? Guide hangs."
+"Crown hero drowns at a ford," she said, in one breath. "Guide that picked the ford used to fight for the hill towns. Who hangs? Guide hangs."
 I didn't answer. I was the only other one who had seen it. I looked at the knife.
-She got her breath. "So he didn't drown. Hill stragglers. Dark. An arrow, and his sword out. Stragglers never signed. His promise doesn't cover them. They hang anyway."
+She got her breath. "So he didn't drown. He was shot, in the dark, with his sword out. Hill stragglers did it, the ones who wouldn't sign. His promise never covered them. The Crown hangs those anyway."
 * [Agree. An ambush, and nobody here hangs.]
     ~ TOLD_MARROW = "ambush"
     ~ TRUST_MARROW += 1
@@ -158,8 +159,8 @@ She got her breath. "So he didn't drown. Hill stragglers. Dark. An arrow, and hi
     She came round the body with a length of cord off the cart, and tied my left wrist to her right, with a knot I couldn't see. "So you don't decide somewhere else." Then she sat down against me with the knife across her knees. The cord was tight enough that my hand went cold.
 - { LETTER == "body":
     Her eyes went to the oilskin case on his belt. "That dry?"
-    She pulled its buckle a hole tighter.
-    "My people signed that paper. Hill towns. It gets where it's going." She looked at me then, not at the case. "It stays on him. Go near that belt, I'll know what for."
+    It was. She pulled its buckle a hole tighter.
+    "You left it." She looked at me then, not at the case. "My people signed that paper. It gets where it's going. It stays on him. Go near that belt, I'll know what for."
     ~ MARROW_KNOWS_LETTER = true
 - else:
     Her eyes went to his belt, and the empty buckle. "Where's his letter?"
