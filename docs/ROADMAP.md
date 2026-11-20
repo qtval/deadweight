@@ -13,11 +13,11 @@ Guiding rules (carried over from the previous project because they were right):
 
 ---
 
-## Where we are (updated 2026-11-20, evening)
+## Where we are (updated 2026-11-20, night)
 
 **Owner's decisions:** no new scenes until what exists is perfected (19 Nov); chapter 1 scenes 1–5 stay as they are (20 Nov, 13:45); **the pass rule stays as it is, and the beginning must pass it first** (20 Nov, 15:26).
 
-**Current target: the opening (prologue scenes 1–4: the ford, the water, the bank, Marrow).** Readers get only those scenes (`node tools/make-transcripts.mjs --until s05_dawn`). Three rounds so far (O1–O3), not passed, close: seven of nine scores pass every round, First Law 4 in the last two. Failing: temptation (3.33–3.67) and endings (3.67), plus single clarity points, each fixed after the round that found it. Report: `reports/readers/2026-11-19-prologue-26-31-ch01-3-6.md`.
+**Current target: the opening (prologue scenes 1–4: the ford, the water, the bank, Marrow).** Readers get only those scenes (`node tools/make-transcripts.mjs --until s05_dawn`). Six rounds so far (O1–O6), not passed, very close: rounds O4 and O6 met every score rule and First Law 4 (First Law has been 4 in O2–O6); O5 missed on one reader's 3 for temptation. All three of the last rounds failed only or mainly on clarity (a confusion listed by two readers); each shared point was fixed and did not return. The fixes after O6 are unread. Report: `reports/readers/2026-11-19-prologue-26-31-ch01-3-6.md`.
 
 **The demo runs from the prologue into chapter 1, scenes 1–5**, then the "End of the demo" card.
 
@@ -26,7 +26,7 @@ Guiding rules (carried over from the previous project because they were right):
 **Tests:** all pass. Story test: all 217,728 prologue paths, then chapter 1 from 17 prologue end states (215,784 paths), 0 failures, 0 warnings; browser test 43/43.
 
 **Next tasks, in order:**
-1. The opening: two fresh rounds (O4, O5) on the text as it stands; fix; repeat until two rounds running pass every rule.
+1. The opening: two fresh rounds (O7, O8) on the text as it stands; fix; repeat until two rounds running pass every rule.
 2. Then the next stretch of the prologue (scenes 5–5b: Isolde, the price), the same way.
 3. When the owner sends the 13 panels: process, replace placeholders, test, screen tour, push.
 
