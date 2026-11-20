@@ -37,7 +37,9 @@ He sat up straight. "I shall be modest. 'Good people, I did nothing. A little ta
 
 "The boots are good, Sir Aubric."
 
-"Then they shout 'The Lantern!' and I wave. Like this." He waved, and nearly came off the horse. "And the Marshal has to stand beside me and clap. Ten years he's been paid to fight that war. Watch his face for me, Wren. The third verse of my song doesn't scan, mind. I must have that mended before the bells. And you'll be paid, the day we ride in. And the room. A room in my house in the capital, with a door on it. Remind me of the door. Bring me that paper of yours in Stint and I'll sign it."
+"Then they shout 'The Lantern!' and I wave. Like this." He waved, and nearly came off the horse. "And the Marshal has to stand beside me and clap. Ten years he's been paid to fight that war. Watch his face for me."
+
+"The third verse of my song doesn't scan, mind. I must have that mended before the bells. And you'll be paid, the day we ride in. And the room. A room in my house in the capital, with a door on it. Remind me of the door. Bring me that paper of yours in Stint and I'll sign it."
 
 He had been promising me that room four years. It had not had a door before.
 
@@ -110,15 +112,15 @@ Six years' wages, which he had always been about to pay. His purse hung on his b
 
 I let it hang. I am not a thief. I weighed it in my hand first, only to be sure of that.
 
-My paper wanted his name, and he was past signing. Without him I was a laundress's child who could read.
+My paper wanted his name, and he was past signing. I was not. I put that thought down quickly. Without him I was a laundress's child who could read.
 
 Then there was the letter.
 
-It was on the same belt, in an oilskin case: the surrender, with the hill towns' names on it. Nine days, he had said, and the council in Vellmouth, the capital, signed under his name. Now there was no name to sign under.
+It was on the same belt, in an oilskin case: the surrender, with the hill towns' names on it. The hill towns had signed it on his word that no one would hang. The council in Vellmouth, the capital, had nine days to sign it too, and they would not sign on a dead man's word.
 
 Out on the water, Marrow's light had turned.
 
-The case was dry. Everybody between here and the capital needed that paper to arrive. Whoever had it in their shirt would be worth keeping alive, and worth robbing.
+The case was dry. Whoever walked into the capital with that would be somebody.
 
 The light was nearly on me.
 
@@ -126,7 +128,7 @@ The light was nearly on me.
 - **▶ Take it. They'll need whoever carries it.**  (chosen)
 - Leave it on his belt. Let somebody else be worth robbing.
 
-The buckle was stiff with cold, and my hands were worse. I got it open and pushed the case inside my shirt, flat against my ribs.
+The buckle was stiff with cold, and my hands were worse. I got it open and pushed the case inside my shirt, flat against my ribs. I had never been trusted with anything that mattered. I had to take it off a dead man.
 
 
 * * *

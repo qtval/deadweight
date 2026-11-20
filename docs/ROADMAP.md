@@ -13,23 +13,22 @@ Guiding rules (carried over from the previous project because they were right):
 
 ---
 
-## Where we are (updated 2026-11-20, late afternoon)
+## Where we are (updated 2026-11-20, evening)
 
-**Owner's decisions:** perfect the prologue and chapter 1 scenes 1–5 before writing scenes 6–12 (19 Nov); **chapter 1 scenes 1–5 stay as they are** (20 Nov, 13:45).
+**Owner's decisions:** no new scenes until what exists is perfected (19 Nov); chapter 1 scenes 1–5 stay as they are (20 Nov, 13:45); **the pass rule stays as it is, and the beginning must pass it first** (20 Nov, 15:26).
+
+**Current target: the opening (prologue scenes 1–4: the ford, the water, the bank, Marrow).** Readers get only those scenes (`node tools/make-transcripts.mjs --until s05_dawn`). Three rounds so far (O1–O3), not passed, close: seven of nine scores pass every round, First Law 4 in the last two. Failing: temptation (3.33–3.67) and endings (3.67), plus single clarity points, each fixed after the round that found it. Report: `reports/readers/2026-11-19-prologue-26-31-ch01-3-6.md`.
 
 **The demo runs from the prologue into chapter 1, scenes 1–5**, then the "End of the demo" card.
-
-**Prologue panel:** 40 rounds, not passed. Since round 32 every averaged score is 3.67–4.67; each round fails on one reader's single 3, on a different criterion each time, and the First Law reader alternates 3 and 4. Clarity faults were real and have been fixed one at a time (the last fix: Isolde's plan no longer contradicts her pricing Wren's death; "Ten silver"; the Marshal explained on page one). **Owner decision needed on the rule** (see the report): pass it by reading it once; or let one reader's 3 not fail a round; or keep running rounds. Report: `reports/readers/2026-11-19-prologue-26-31-ch01-3-6.md`.
-
-**Interface:** reviewed screen by screen on 20 Nov (`npm run tour`); eight faults fixed.
 
 **Panels:** prompts handed to the owner as one ChatGPT message (20 Nov); waiting for the 13 images.
 
 **Tests:** all pass. Story test: all 217,728 prologue paths, then chapter 1 from 17 prologue end states (215,784 paths), 0 failures, 0 warnings; browser test 43/43.
 
 **Next tasks, in order:**
-1. When the owner sends the 13 panels: process them (`tools/process-panel.mjs`), replace the placeholders, test, screen tour, push.
-2. Owner's call on the prologue pass rule (above), then act on it.
+1. The opening: two fresh rounds (O4, O5) on the text as it stands; fix; repeat until two rounds running pass every rule.
+2. Then the next stretch of the prologue (scenes 5–5b: Isolde, the price), the same way.
+3. When the owner sends the 13 panels: process, replace placeholders, test, screen tour, push.
 
 **One chat at a time:** `docs/IN_PROGRESS.md` is the lock. Read it first.
 
@@ -245,4 +244,6 @@ Combat systems, inventory, character creator beyond name/pronouns, voice acting,
 | 2026-11-20 | Interface fixes from the first screen tour (title copy, chapter card bleed-through, Continue position, choice wrapping, bar and journal tabs on small phones, chapter 1 place name, restart label); `npm run tour` added | Owner asked for a full interface review |
 | 2026-11-20 | Prologue: the Marshal named in Aubric's first speech; Isolde's motive in her own money terms; three explaining sentences cut | Rounds 35–37: clarity (Sayle late, Isolde's turn), a borrowed proverb, the editor's "every scene ends on a click" |
 | 2026-11-20 | Owner: chapter 1 scenes 1–5 stay as they are (no merge of the toll and the square) | Owner, 13:45 |
+| 2026-11-20 | Owner: keep the panel pass rule; get the beginning to pass it first, then continue. The panel now reads the opening (prologue scenes 1–4) on its own | Owner, 15:26 |
+| 2026-11-20 | Opening: briefing shortened; the Marshal moved into Aubric's vanity; one rationale for the letter; forgery thought and "dead man's word" made plain | Opening rounds O1–O3 |
 | 2026-11-20 | Prologue: Isolde's pot line is a test, not a job, so her pricing Wren's death no longer contradicts her plan | Rounds 32–39: the most repeated clarity fault |

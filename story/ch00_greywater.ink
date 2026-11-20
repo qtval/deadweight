@@ -33,7 +33,8 @@ He had never once paid me, either. But he said it so warmly that I forgot to min
     "One of us is a horse," said Aubric, and slapped the animal's neck, and laughed until I was laughing as well.
 - He sat up straight. "I shall be modest. 'Good people, I did nothing. A little talking.' Then I look at my boots. Do I look at my boots, or is that too much?"
 "The boots are good, Sir Aubric."
-"Then they shout 'The Lantern!' and I wave. Like this." He waved, and nearly came off the horse. "And the Marshal has to stand beside me and clap. Ten years he's been paid to fight that war. Watch his face for me, Wren. The third verse of my song doesn't scan, mind. I must have that mended before the bells. And you'll be paid, the day we ride in. And the room. A room in my house in the capital, with a door on it. Remind me of the door. Bring me that paper of yours in Stint and I'll sign it."
+"Then they shout 'The Lantern!' and I wave. Like this." He waved, and nearly came off the horse. "And the Marshal has to stand beside me and clap. Ten years he's been paid to fight that war. Watch his face for me."
+"The third verse of my song doesn't scan, mind. I must have that mended before the bells. And you'll be paid, the day we ride in. And the room. A room in my house in the capital, with a door on it. Remind me of the door. Bring me that paper of yours in Stint and I'll sign it."
 He had been promising me that room four years. It had not had a door before.
 I had it written out. I wrote all his letters, in his hand, and four winters running I had made a fair copy of that promise. I could do his name better than he could. While he lived that was no use. He would only say he had never signed it.
 He saw me shaking.
@@ -93,16 +94,16 @@ Six years' wages, which he had always been about to pay. His purse hung on his b
     I pulled off the gloves he had given me to do it, and put them on again after. The purse didn't come to six weeks.
 * [Leave it on him.]
     I let it hang. I am not a thief. I weighed it in my hand first, only to be sure of that.
-- My paper wanted his name, and he was past signing. {AT_FORD == "bridle":He had been going to talk about it another day. }Without him I was a laundress's child who could read.
+- My paper wanted his name, and he was past signing. I was not. I put that thought down quickly. {AT_FORD == "bridle":He had been going to talk about it another day. }Without him I was a laundress's child who could read.
 Then there was the letter.
-It was on the same belt, in an oilskin case: the surrender, with the hill towns' names on it. Nine days, he had said, and the council in Vellmouth, the capital, signed under his name. Now there was no name to sign under.
+It was on the same belt, in an oilskin case: the surrender, with the hill towns' names on it. The hill towns had signed it on his word that no one would hang. The council in Vellmouth, the capital, had nine days to sign it too, and they would not sign on a dead man's word.
 # know: letter :: The surrender, signed by the hill towns on Aubric's word. The council in Vellmouth, the capital, must sign it too within nine days, and must not learn he is dead first, or the war starts again.
 Out on the water, Marrow's light had turned.
-The case was dry. Everybody between here and the capital needed that paper to arrive. Whoever had it in their shirt would be worth keeping alive, and worth robbing.
+The case was dry. Whoever walked into the capital with that would be somebody.
 The light was nearly on me.
 * [Take it. They'll need whoever carries it.]
     ~ LETTER = "wren"
-    The buckle was stiff with cold, and my hands were worse. I got it open and pushed the case inside my shirt, flat against my ribs.
+    The buckle was stiff with cold, and my hands were worse. I got it open and pushed the case inside my shirt, flat against my ribs. I had never been trusted with anything that mattered. I had to take it off a dead man.
 * [Leave it on his belt. Let somebody else be worth robbing.]
     ~ LETTER = "body"
     I took my hand off it. I hadn't been told to carry that, and I was glad of it. I pulled his cloak half over the case so she wouldn't see it straight off.

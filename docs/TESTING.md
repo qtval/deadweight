@@ -72,3 +72,7 @@ The reader panel is a stand-in, not a replacement. When real players are availab
 ## Screen tour (interface review)
 
 `npm run tour` builds the game and saves a screenshot of every screen to `reports/screens/tour/`: title, first text, first choice, all four journal tabs, large text, a mid-prologue choice, the journal toasts, the prologue end card, the chapter 1 title card, chapter 1 choices, the demo end card and the title after a reload, then the title, a choice and the journal on a 320×568 phone, and a choice in landscape. Open and look at them after any interface change. First run 2026-11-20 found eight faults; see the decisions log.
+
+## Panel on part of a chapter
+
+`node tools/make-transcripts.mjs --until <scene_id>` writes `reports/transcripts/begin-<route>.md`, stopping before that scene. Used from 2026-11-20 to get the opening (prologue scenes 1–4, `--until s05_dawn`) through the panel on its own, under the same pass rule.
