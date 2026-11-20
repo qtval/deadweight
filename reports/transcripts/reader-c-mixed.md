@@ -19,7 +19,7 @@ He sat his grey horse in full armor, polished for the bells. I had done the poli
 
 A light moved on the far bank, under the alders. That was Marrow, the guide. She had waded over to test the bottom and shouted back three words, and the words were "Wait for morning."
 
-"Nine days, and the council signs under my name, and the war's done," he said. "Under mine. They'd sign under nobody else's."
+"Nine days, and the council signs the peace under my name, and the war's done," he said. "Under mine. They'd sign under nobody else's. The Marshal can go and find himself another war."
 
 He held the last of the wine down to me. "Drink, Wren. Tomorrow you're squire to the man who ended the war. You'll never pay for a cup again."
 
@@ -290,7 +290,7 @@ I put it back as it had been. My hands were not much use for it.
 
 They came back up the bank. Marrow had her knife out and was looking at it, not at me.
 
-"What would it cost," Isolde said to her, quietly, as if I were the horse, "if the squire had gone into the river as well?"
+"Three can keep a secret if one of them is dead," Isolde said to her, quietly, as if I were the horse. "What would it cost, if the squire had gone into the river as well?"
 
 Marrow came round behind me. I heard her boots on the gravel and didn't turn round, because turning round would make it true. Then she had my hair in her fist and my head pulled back, and the knife under my jaw. "Ten."
 
@@ -368,7 +368,7 @@ Marrow cut the purse off his belt with one pull of the knife, weighed it, and pu
 
 > *Marrow remembers you left the purse.*
 
-When it was done, Marrow wiped her hands on her coat and went to see to the horse without being asked.
+When it was done, Marrow wiped her hands on her coat and went to see to the horse.
 
 
 * * *
