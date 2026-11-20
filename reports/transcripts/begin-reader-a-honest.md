@@ -45,7 +45,7 @@ I had it written out. I wrote all his letters, in his hand, and four winters run
 
 He saw me shaking.
 
-He pulled off his riding gloves, the good ones with the fleece inside, and dropped them into my hands. "Can't have you sneezing through my triumph. Your mother would never forgive me. How is her chest?"
+He pulled off his riding gloves, the fleece-lined ones, and dropped them into my hands. "Can't have you sneezing through my triumph. Your mother would never forgive me. How is her chest?"
 
 My mother washed shirts for the army and had spoken to him once. He had asked after her chest every winter since. I put the gloves on.
 

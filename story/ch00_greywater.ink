@@ -37,7 +37,7 @@ He had never once paid me, either. But he said it so warmly that I forgot to min
 He had been promising me that room four years. It had not had a door before.
 I had it written out. I wrote all his letters, in his hand, and four winters running I had made a fair copy of that promise. I could do his name better than he could. While he lived that was no use. He would only say he had never signed it.
 He saw me shaking.
-He pulled off his riding gloves, the good ones with the fleece inside, and dropped them into my hands. "Can't have you sneezing through my triumph. Your mother would never forgive me. How is her chest?"
+He pulled off his riding gloves, the fleece-lined ones, and dropped them into my hands. "Can't have you sneezing through my triumph. Your mother would never forgive me. How is her chest?"
 My mother washed shirts for the army and had spoken to him once. He had asked after her chest every winter since. I put the gloves on.
 He gathered the reins.
 He was to sign my paper tomorrow. In six years I had not seen him sign a thing for anybody who had crossed him the night before.
