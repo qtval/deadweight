@@ -49,7 +49,7 @@ He pulled off his riding gloves, the good ones with the fleece inside, and dropp
 
 My mother washed shirts for the army and had spoken to him once. He had asked after her chest every winter since. It would have been easier to hate him if he had forgotten. I put the gloves on.
 
-He gathered the reins. Nobody was awake but me.
+He gathered the reins. I was the only one awake.
 
 He was to sign my paper tomorrow. In six years I had not seen him sign a thing for anybody who had crossed him the night before.
 
@@ -124,9 +124,9 @@ The light was nearly on me.
 
 **The game offers:**
 - Take it. Whoever holds it gets kept alive.
-- **▶ Leave it on his belt, where it's nobody's neck**  (chosen)
+- **▶ Leave it on his belt, where it's his neck, not yours**  (chosen)
 
-I took my hand off it. Nobody had told me to carry that, and I was glad of it. I pulled his cloak half over the case so it wouldn't be the first thing she saw.
+I took my hand off it. I hadn't been told to carry that, and I was glad of it. I pulled his cloak half over the case so she wouldn't see it straight off.
 
 
 * * *
@@ -321,7 +321,7 @@ Isolde stopped counting. "What do they call you? His men."
 
 Isolde picked the coins up again. Marrow let go of my hair, and wiped her hand.
 
-I stayed where I was. I was crying, and nobody minded.
+I stayed where I was. I was crying, and the two of them let me.
 
 She would write his letters from the sickroom herself, she said; she wrote a fair hand. I wrote a better one. I kept that to myself. It was the one thing I had left to sell.
 
@@ -350,7 +350,7 @@ Isolde put the case in my hand.
 
 We wrapped him in the cart's canvas. It took all three of us to lift him. I took the head, so as to have him between me and Marrow.
 
-I had to shift my grip twice for my elbow. He was heavier than he looked, and he leaked. My breeches had dried on me, and nobody had said anything about them.
+I had to shift my grip twice for my elbow. He was heavier than he looked, and he leaked. My breeches had dried on me, and neither of them had said anything about them.
 
 Before the canvas went over his hands, I saw my own. I was still wearing his gloves.
 

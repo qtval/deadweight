@@ -49,7 +49,7 @@ He pulled off his riding gloves, the good ones with the fleece inside, and dropp
 
 My mother washed shirts for the army and had spoken to him once. He had asked after her chest every winter since. It would have been easier to hate him if he had forgotten. I put the gloves on.
 
-He gathered the reins. Nobody was awake but me.
+He gathered the reins. I was the only one awake.
 
 He was to sign my paper tomorrow. In six years I had not seen him sign a thing for anybody who had crossed him the night before.
 
@@ -122,7 +122,7 @@ The light was nearly on me.
 
 **The game offers:**
 - **▶ Take it. Whoever holds it gets kept alive.**  (chosen)
-- Leave it on his belt, where it's nobody's neck
+- Leave it on his belt, where it's his neck, not yours
 
 The buckle was stiff with cold, and my hands were worse. I got it open and pushed the case inside my shirt, flat against my ribs.
 
@@ -313,7 +313,7 @@ Isolde looked at the page. "He never used a comma in his life until he had you. 
 
 Isolde picked the coins up again. Marrow let go of my hair, and wiped her hand.
 
-I stayed where I was. I was crying, and nobody minded.
+I stayed where I was. I was crying, and the two of them let me.
 
 Marrow moved to spit, and I had my arm up over my face before I knew it. Neither of them looked at me.
 
@@ -341,7 +341,7 @@ Behind her, where only I could see, Marrow looked at my shirt and rubbed her fin
 
 We wrapped him in the cart's canvas. It took all three of us to lift him. I took the head, so as to have him between me and Marrow.
 
-I had to shift my grip twice for my knee. He was heavier than he looked, and he leaked. My breeches had dried on me, and nobody had said anything about them.
+I had to shift my grip twice for my knee. He was heavier than he looked, and he leaked. My breeches had dried on me, and neither of them had said anything about them.
 
 Before the canvas went over his hands, I saw my own. I was still wearing his gloves.
 
@@ -350,7 +350,7 @@ Before the canvas went over his hands, I saw my own. I was still wearing his glo
 - Fold his hands on his sword, like the songs
 - **▶ Keep them. He gave them to you.**  (chosen)
 
-I kept them. They had fleece inside, and he had given them to me with nobody watching, which was the only time he ever gave me anything. If that was my six years' pay, I was having it.
+I kept them. They had fleece inside, and he had given them to me when no one was watching, which was the only time he ever gave me anything. If that was my six years' pay, I was having it.
 
 "Sold my story for a verse," Marrow said.
 

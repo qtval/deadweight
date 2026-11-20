@@ -46,7 +46,7 @@ Then the armor lay in a heap with his badge on the breast, the lantern in blue e
 
 I carried it down in four loads and waded in to my thighs, coughing. The breastplate went last, badge up, and I watched the blue go down.
 
-Marrow watched the last of it go down. "That's a farm in a pond," she said. "I'll remember whose."
+"That's a farm in a pond," said Marrow, when it had gone. "I'll remember whose."
 
 We laid him back under the canvas in his shirt, with two blankets up to his chin.
 
@@ -194,7 +194,7 @@ He wrote it all down, saying the words. "Robbers. On the Marshal's road." He loo
 
 Then he put the pencil away. "And the surrender. The Marshal would like it kept safe. I'll carry it."
 
-"How kind," said Isolde. "It stays in my satchel until the council has it. You may write that down."
+"Sergeant," said Isolde. "It stays in my satchel until the council has it. You may write that down."
 
 Lidd looked at my shirt anyway.
 

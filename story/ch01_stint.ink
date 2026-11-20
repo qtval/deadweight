@@ -59,7 +59,7 @@ Then the armor lay in a heap with his badge on the breast, the lantern in blue e
 * [Sink it in the pond]
     ~ ARMOUR = "ditch"
     I carried it down in four loads and waded in to my thighs{WENT_IN:, coughing|, on the bad knee}. The breastplate went last, badge up, and I watched the blue go down.
-    Marrow watched the last of it go down. "That's a farm in a pond," she said. "I'll remember whose."
+    "That's a farm in a pond," said Marrow, when it had gone. "I'll remember whose."
 * [Keep it in the cart, under him. It's his.]
     ~ ARMOUR = "cart"
     I laid it flat on the cart bed, under where he would lie. When the cart moved it knocked, plate on plate, at every rut.
@@ -231,7 +231,7 @@ His pencil was over the page. Isolde was a yard from me, listening.
     "The river took it," I said. Isolde didn't look at me. She'd heard me say it before.
 }
 { LETTER == "isolde":
-    "How kind," said Isolde. "It stays in my satchel until the council has it. You may write that down."
+    "Sergeant," said Isolde. "It stays in my satchel until the council has it. You may write that down."
     Lidd looked at my shirt anyway.
     -> s04_bills
 }

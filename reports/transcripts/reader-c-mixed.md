@@ -49,7 +49,7 @@ He pulled off his riding gloves, the good ones with the fleece inside, and dropp
 
 My mother washed shirts for the army and had spoken to him once. He had asked after her chest every winter since. It would have been easier to hate him if he had forgotten. I put the gloves on.
 
-He gathered the reins. Nobody was awake but me.
+He gathered the reins. I was the only one awake.
 
 He was to sign my paper tomorrow. In six years I had not seen him sign a thing for anybody who had crossed him the night before.
 
@@ -124,7 +124,7 @@ The light was nearly on me.
 
 **The game offers:**
 - **▶ Take it. Whoever holds it gets kept alive.**  (chosen)
-- Leave it on his belt, where it's nobody's neck
+- Leave it on his belt, where it's his neck, not yours
 
 The buckle was stiff with cold, and my hands were worse. I got it open and pushed the case inside my shirt, flat against my ribs.
 
@@ -319,7 +319,7 @@ I thanked her. I thanked both of them.
 
 Isolde picked the coins up again. Marrow let go of my hair, and wiped her hand.
 
-I stayed where I was. I was crying, and nobody minded.
+I stayed where I was. I was crying, and the two of them let me.
 
 Isolde worked the signet off his finger and put it in my hand, still wet. "You speak for him, then. And if anybody asks afterwards who said he was alive, we shall say it was you."
 
@@ -351,7 +351,7 @@ I took the case out of my shirt and held it out. She had counted out seven for m
 
 We wrapped him in the cart's canvas. It took all three of us to lift him. I took the head, so as to have him between me and Marrow.
 
-I had to shift my grip twice for my elbow. He was heavier than he looked, and he leaked. My breeches had dried on me, and nobody had said anything about them.
+I had to shift my grip twice for my elbow. He was heavier than he looked, and he leaked. My breeches had dried on me, and neither of them had said anything about them.
 
 Before the canvas went over his hands, I saw my own. I was still wearing his gloves.
 

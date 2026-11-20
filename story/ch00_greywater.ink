@@ -39,7 +39,7 @@ I had it written out. I wrote all his letters, in his hand, and four winters run
 He saw me shaking.
 He pulled off his riding gloves, the good ones with the fleece inside, and dropped them into my hands. "Can't have you sneezing through my triumph. Your mother would never forgive me. How is her chest?"
 My mother washed shirts for the army and had spoken to him once. He had asked after her chest every winter since. It would have been easier to hate him if he had forgotten. I put the gloves on.
-He gathered the reins. Nobody was awake but me.
+He gathered the reins. I was the only one awake.
 He was to sign my paper tomorrow. In six years I had not seen him sign a thing for anybody who had crossed him the night before.
 * [Grab his bridle. He'll hate you for it.]
     ~ AT_FORD = "bridle"
@@ -103,9 +103,9 @@ The light was nearly on me.
 * [Take it. Whoever holds it gets kept alive.]
     ~ LETTER = "wren"
     The buckle was stiff with cold, and my hands were worse. I got it open and pushed the case inside my shirt, flat against my ribs.
-* [Leave it on his belt, where it's nobody's neck]
+* [Leave it on his belt, where it's his neck, not yours]
     ~ LETTER = "body"
-    I took my hand off it. Nobody had told me to carry that, and I was glad of it. I pulled his cloak half over the case so it wouldn't be the first thing she saw.
+    I took my hand off it. I hadn't been told to carry that, and I was glad of it. I pulled his cloak half over the case so she wouldn't see it straight off.
 - -> s04_marrow
 
 // ---------------------------------------------------------------
@@ -343,7 +343,7 @@ Isolde began to count silver onto his breastplate. I could not get a breath to g
     "Then the squire will have to be useful," said Isolde.
     I thanked her. I thanked both of them.
 - Isolde picked the coins up again. Marrow let go of my hair, and wiped her hand.
-I stayed where I was. I was crying, and nobody minded.
+I stayed where I was. I was crying, and the two of them let me.
 { RING:
     Isolde worked the signet off his finger and put it in my hand, still wet. "You speak for him, then. And if anybody asks afterwards who said he was alive, we shall say it was you."
 }
@@ -410,7 +410,7 @@ She knelt and unbuckled the case herself, and checked the seal.
 # scene: s06_wrap
 # panel: greywater_wrapping
 We wrapped him in the cart's canvas. It took all three of us to lift him. I took the head, so as to have him between me and Marrow.
-I had to shift my grip twice for my {WENT_IN:elbow|knee}. He was heavier than he looked, and he leaked. My breeches had dried on me, and nobody had said anything about them.
+I had to shift my grip twice for my {WENT_IN:elbow|knee}. He was heavier than he looked, and he leaked. My breeches had dried on me, and neither of them had said anything about them.
 Before the canvas went over his hands, I saw my own. I was still wearing his gloves.
 * [Put the gloves back on his hands]
     ~ SELF = "him"
@@ -420,7 +420,7 @@ Before the canvas went over his hands, I saw my own. I was still wearing his glo
     I folded his hands on his sword hilt, the way they lie in the songs. Somebody would lift that canvas in the end, and he had to look like what we were selling. It was the peace I was thinking of. I kept the gloves on to do it.
 * [Keep them. He gave them to you.]
     ~ SELF = "wages"
-    I kept them. They had fleece inside, and he had given them to me with nobody watching, which was the only time he ever gave me anything. If that was my six years' pay, I was having it.
+    I kept them. They had fleece inside, and he had given them to me when no one was watching, which was the only time he ever gave me anything. If that was my six years' pay, I was having it.
 - { AT_FORD == "bridle":
     ~ TRUST_MARROW += 1
 }
