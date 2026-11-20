@@ -11,15 +11,15 @@ I had been his squire six years. He could not be talked out of it.
 
 "Yes, Sir Aubric," I said. Piss on your bells, I thought. My feet were wet.
 
-The songs called him the Lantern. Three days back he had talked the hill towns into ending ten years of war in one afternoon. They had sent him off with two skins of their wine, and he had drunk most of both.
+The songs called him the Lantern. Three days back he had talked the hill towns out of a ten-year war in one afternoon, and they had sent him off with two skins of their wine. He had drunk most of both.
 
-He had sent his escort on ahead to Stint that morning, to get the ringers sober. That left him a squire, a guide, and a chronicler asleep in the cart. She could sleep through anything he did, and write it up better afterwards.
+His escort had gone ahead to Stint, the next town, to get the ringers sober. That left him a squire, a guide, and a chronicler asleep in the cart. She could sleep through anything he did, and write it up better afterwards.
 
 He sat his grey horse in full armor, polished for the bells by me.
 
 A light moved on the far bank, under the alders. That was Marrow, the guide. She had waded over to test the bottom and shouted back three words, and the words were "Wait for morning."
 
-"Nine days, Wren. I carry their surrender to the council, the council signs it, and the war's done," he said. "The hill towns took my word that no one hangs. Mine. They'd have taken no one else's."
+"Stint tomorrow, Wren, and the capital in nine days. The council signs their surrender before it goes home for the winter, and the war's done," he said. "The hill towns took my word that no one hangs. Mine. They'd have taken no one else's."
 
 He held the last of the wine down to me. "Drink, Wren. Tomorrow you're squire to the man who ended the war. You'll never pay for a cup again."
 
@@ -112,11 +112,11 @@ Six years' wages, which he had always been about to pay. His purse hung on his b
 
 I let it hang. I am not a thief. I weighed it in my hand first, only to be sure of that.
 
-My paper wanted his name, and he was past signing. I was not. I put that thought down quickly. He had been going to talk about it another day. Without him I was a laundress's child who could read.
+My paper wanted his name, and he was past signing. I could still sign for him. I put that thought down quickly. He had been going to talk about it another day. Without him I was a laundress's child who could read.
 
 Then there was the letter.
 
-It was on the same belt, in an oilskin case: the surrender, with the hill towns' names on it. The hill towns had signed it on his word that no one would hang. The council in Vellmouth, the capital, had nine days to sign it too, and they would not sign on a dead man's word.
+It was on the same belt, in an oilskin case: the surrender. The council in Vellmouth, the capital, would not sign it on a dead man's word.
 
 Out on the water, Marrow's light had turned.
 
@@ -125,8 +125,8 @@ The case was dry. Whoever walked into the capital with that would be somebody.
 The light was nearly on me.
 
 **The game offers:**
-- Take it. They'll need whoever carries it.
-- **▶ Leave it on his belt. Let somebody else be worth robbing.**  (chosen)
+- Take it
+- **▶ Leave it on his belt**  (chosen)
 
 I took my hand off it. I hadn't been told to carry that, and I was glad of it. I pulled his cloak half over the case so she wouldn't see it straight off.
 
