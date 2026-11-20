@@ -68,3 +68,7 @@ The reader panel is a stand-in, not a replacement. When real players are availab
 - Any new warnings, and what was done about them.
 - The reader-panel table and its open items, whenever prose changed.
 - Playtest notes, when a milestone ends.
+
+## Screen tour (interface review)
+
+`npm run tour` builds the game and saves a screenshot of every screen to `reports/screens/tour/`: title, first text, first choice, all four journal tabs, large text, a mid-prologue choice, the journal toasts, the prologue end card, the chapter 1 title card, chapter 1 choices, the demo end card and the title after a reload, then the title, a choice and the journal on a 320×568 phone, and a choice in landscape. Open and look at them after any interface change. First run 2026-11-20 found eight faults; see the decisions log.

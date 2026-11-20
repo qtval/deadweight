@@ -64,10 +64,12 @@ button { font: inherit; color: inherit; }
   background: linear-gradient(var(--veil), transparent);
   font-family: var(--label); font-size: 0.82rem; letter-spacing: 0.08em; color: var(--ash);
 }
+.bar .days { min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .bar .days b { color: var(--bone); font-weight: 500; font-variant-numeric: tabular-nums; }
 .journal-btn {
   background: none; border: 1px solid var(--rule); border-radius: 2px;
   padding: 6px 12px; letter-spacing: 0.1em; cursor: pointer; color: var(--bone);
+  white-space: nowrap; flex: none;
 }
 .journal-btn .dot { display: inline-block; width: 6px; height: 6px; border-radius: 50%; background: var(--brass); margin-left: 6px; vertical-align: 2px; }
 
@@ -94,9 +96,10 @@ button { font: inherit; color: inherit; }
   text-align: left; background: rgba(25, 24, 21, 0.85); border: 1px solid var(--rule); border-left: 2px solid var(--brass);
   padding: 12px 14px; font-size: calc(var(--text-size) * 0.95); line-height: 1.35; cursor: pointer; border-radius: 1px;
   animation: rise 0.4s ease both;
+  display: flex; align-items: baseline; /* wrapped lines line up under the text, not the number */
 }
 .choice:hover { background: var(--ink-2); border-color: #4a463d; border-left-color: var(--brass); }
-.choice .k { font-family: var(--label); color: var(--ash); font-size: 0.8em; margin-right: 10px; }
+.choice .k { font-family: var(--label); color: var(--ash); font-size: 0.8em; margin-right: 10px; flex: none; }
 
 /* ---------- full-screen cards (title, chapter, end) ---------- */
 .card {
@@ -142,7 +145,12 @@ button { font: inherit; color: inherit; }
 .tabs { display: flex; gap: 4px; padding: 14px 14px 0; border-bottom: 1px solid var(--rule); overflow-x: auto; }
 .tab { background: none; border: none; border-bottom: 2px solid transparent; padding: 8px 10px 10px; font-family: var(--label); letter-spacing: 0.1em; color: var(--ash); cursor: pointer; white-space: nowrap; }
 .tab[aria-selected="true"] { color: var(--bone); border-bottom-color: var(--brass); }
-.close { margin-left: auto; background: none; border: none; color: var(--ash); font-size: 1.4rem; cursor: pointer; padding: 0 8px; }
+.close { margin-left: auto; background: var(--ink-2); border: none; color: var(--ash); font-size: 1.4rem; cursor: pointer; padding: 0 8px; position: sticky; right: 0; flex: none; }
+@media (max-width: 400px) {
+  .bar { letter-spacing: 0.04em; font-size: 0.78rem; }
+  .tabs { gap: 0; padding: 12px 8px 0; }
+  .tab { padding: 8px 7px 10px; letter-spacing: 0.04em; }
+}
 .sheet-body { padding: 18px 20px 26px; overflow-y: auto; display: flex; flex-direction: column; gap: 16px; }
 .entry h4 { margin: 0 0 4px; font-family: var(--display); font-weight: 500; font-size: 1.35rem; letter-spacing: 0.01em; }
 .entry p { margin: 0; color: var(--bone); line-height: 1.5; opacity: 0.9; }

@@ -82,6 +82,7 @@ Without the plate he wasn't very big. He had a grey chest and a soft belly. He l
 = s02_bells
 # scene: c1_s02_bells
 # panel: stint_bridge_dusk
+~ PLACE = "Stint"
 Every bell in Stint was going.
 The road came out of the trees onto the bridge, and Stint was on the far bank. The bridge was lined on both sides. There were children up on the wall of it, and a woman holding up a baby to see. They saw his grey horse on its lead rein with the saddle empty, and the noise dropped, and came up louder.
 {ARMOUR == "cart":The plate knocked under him at every board of the bridge, and a man by the wheel shouted, "He's moving!" and people cheered that too. }{PLAN == "objected":I was under the canvas with him, where Isolde had put me.|I had the reins, and my hands were wet on them.}

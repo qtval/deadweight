@@ -226,7 +226,7 @@ function showTitle() {
   showPanel("greywater_ford_night");
   layer.innerHTML = `
     <div class="card title-card" data-testid="title-card">
-      <span class="kicker">A story in six chapters · Prologue demo</span>
+      <span class="kicker">A story in six chapters · Demo</span>
       <h1>Dead&shy;weight</h1>
       <div class="rule"></div>
       <p>The realm's one true hero dies stupidly, a day's ride from the end of his famous quest. You are his squire. Carry the body, the letter that ends the war, and the lie, home.</p>
@@ -234,7 +234,7 @@ function showTitle() {
         ${saved ? '<button class="btn" data-testid="continue">Continue</button><button class="btn ghost" data-testid="begin">Start over</button>'
                 : '<button class="btn" data-testid="begin">Begin</button>'}
       </div>
-      <p class="quiet">About 10 minutes. Placeholder art; final panels will be illustrated. Contains war, death and coarse language.</p>
+      <p class="quiet">About 25 minutes: the prologue and the start of chapter 1. Placeholder art; final panels will be illustrated. Contains war, death and coarse language.</p>
     </div>`;
   layer.querySelector('[data-testid="begin"]')!.addEventListener("click", () => start(null));
   layer.querySelector('[data-testid="continue"]')?.addEventListener("click", () => start(saved));
@@ -285,6 +285,7 @@ function showEnd(chapterDone: boolean) {
         <span class="kicker">End of the prologue</span>
         <h2>Eight days to Vellmouth</h2>
         <section><h3>What you did</h3>${recap.map((l) => `<p>${esc(l)}</p>`).join("")}</section>
+        ${chapterDone ? `<div class="actions"><button class="btn" data-testid="to-ch1">Continue to Chapter 1</button></div>` : ""}
         <section><h3>Isolde's ballad, as it stands</h3><p class="ballad" data-testid="ballad">${esc(ballad)}</p></section>
         <section><h3>Your choices</h3><ol class="route">${route.map((r) => `<li><span>${esc(r)}</span></li>`).join("")}</ol></section>
         <section>
@@ -293,7 +294,6 @@ function showEnd(chapterDone: boolean) {
           <p class="quiet">Next, Chapter 1: Stint. The bells are ringing for him, and his own men are waiting on the bridge.</p>
         </section>
         <div class="actions">
-          ${chapterDone ? `<button class="btn" data-testid="to-ch1">Continue to Chapter 1</button>` : ""}
           <button class="btn ${chapterDone ? "ghost" : ""}" data-testid="again">Play again</button>
           <button class="btn ghost" data-testid="end-journal">Open the journal</button>
         </div>
@@ -302,6 +302,7 @@ function showEnd(chapterDone: boolean) {
       chapterStart = route.length;
       chapterBreak = false;
       layer.innerHTML = "";
+      box.innerHTML = ""; // the prologue's last lines must not show behind the chapter 1 title card
       bar.hidden = false; stage.hidden = false;
       advance();
     });
@@ -344,7 +345,7 @@ function openJournal(tab: Tab = "travelers") {
       const size = document.documentElement.dataset.size ?? "m";
       body.innerHTML = `<div><p class="note">Text size</p><div class="seg">${[["s", "Small"], ["m", "Medium"], ["l", "Large"]].map(([k, l]) =>
         `<button data-size="${k}" aria-pressed="${size === k}">${l}</button>`).join("")}</div></div>
-        <button class="danger" data-testid="restart">Restart the prologue</button>
+        <button class="danger" data-testid="restart">Restart from the beginning</button>
         <p class="note">Your place is saved in this browser after every choice.</p>`;
       body.querySelectorAll<HTMLButtonElement>("[data-size]").forEach((b) => b.addEventListener("click", () => {
         document.documentElement.dataset.size = b.dataset.size!;
