@@ -236,7 +236,7 @@ Isolde sat down on the cart step and held her satchel.
 
 "Then they'd best sign before they hear."
 
-"They sit until the end of the month. Nine days. Then they go home until spring, and in spring the war starts again, and Marshal Sayle has it back. He has been paid for every year of it."
+"They sit until the end of the month. Nine days. Then they go home until spring, and in spring the war starts again, and Marshal Sayle has it back. He has been paid for every year of it, and he would pay a great deal to see under that canvas."
 
 Isolde looked at the river for a while.
 
@@ -265,14 +265,14 @@ Isolde looked at the river for a while.
 
 "Bridge is two days east."
 
-"Then we made excellent time." Isolde stood up. "I have been paid for a ballad with a triumph at the end of it, Marrow, and I have spent the money. A word."
+"Then we made excellent time." Isolde stood up. "His men will ask the squire, Marrow, and the squire has a face that answers before the mouth does. I have been paid for a ballad with a triumph at the end of it, and I have spent the money. A word."
 
 They went down the bank together, out of hearing, and left me with him.
 
 
 * * *
 
-The mist had come off the water and lay on the gravel. I sat by him with my hands in my armpits.
+The mist lay on the gravel now. I sat by him with my hands in my armpits.
 
 Down the bank Isolde was talking and Marrow was not. I heard "three", and "river", and then Marrow said a number. Once she looked back at me, and then at the river. I had watched her look at fords like that all week.
 
@@ -317,7 +317,7 @@ Isolde stopped counting. "What do they call you? His men."
 
 "The wick. The Lantern's wick." Marrow's fist was shaking in my hair. She was laughing.
 
-"Then they would miss it," said Isolde. "So that is what the squire is for."
+"Then they would miss it," said Isolde, "and go looking, and look under the canvas first. So that is what the squire is for."
 
 Isolde picked the coins up again. Marrow let go of my hair, and wiped her hand.
 

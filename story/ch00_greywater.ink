@@ -264,7 +264,7 @@ Isolde sat down on the cart step and held her satchel.
 "Ride the paper south," said Marrow. "Leave him."
 "The council will not sign it," said Isolde. "The hill towns signed because he swore that nobody would hang. The council signs under his name to keep that oath. A dead man keeps no oaths."
 "Then they'd best sign before they hear."
-"They sit until the end of the month. Nine days. Then they go home until spring, and in spring the war starts again, and Marshal Sayle has it back. He has been paid for every year of it."
+"They sit until the end of the month. Nine days. Then they go home until spring, and in spring the war starts again, and Marshal Sayle has it back. He has been paid for every year of it, and he would pay a great deal to see under that canvas."
 # know: sayle :: Marshal Sayle, who has commanded the army for all ten years of the war. If the Lantern is known to be dead before the council signs, he will have the surrender thrown out.
 Isolde looked at the river for a while.
 "Then he is not dead. He has a fever. He rides under the canvas to Vellmouth, and the council signs at the door of his sickroom."
@@ -292,7 +292,7 @@ Isolde looked at the river for a while.
 "And the guide that picked the ford?"
 "Was never at a ford in her life. We came round by the bridge."
 "Bridge is two days east."
-"Then we made excellent time." Isolde stood up. "I have been paid for a ballad with a triumph at the end of it, Marrow, and I have spent the money. A word."
+"Then we made excellent time." Isolde stood up. "His men will ask the squire, Marrow, and the squire has a face that answers before the mouth does. I have been paid for a ballad with a triumph at the end of it, and I have spent the money. A word."
 They went down the bank together, out of hearing, and left me with him.
 -> s05b_price
 
@@ -300,7 +300,7 @@ They went down the bank together, out of hearing, and left me with him.
 = s05b_price
 # scene: s05b_price
 # panel: greywater_breastplate_silver
-The mist had come off the water and lay on the gravel. I sat by him with my hands in my armpits.
+The mist lay on the gravel now. I sat by him with my hands in my armpits.
 Down the bank Isolde was talking and Marrow was not. I heard "three", and "river", and then Marrow said a number. Once she looked back at me, and then at the river. I had watched her look at fords like that all week.
 It was all right. They needed me. Somebody had to carry the pot and say he was sleeping, and his men knew me, and Isolde was clever and would see it, and if she didn't I would tell her. {TOLD_MARROW == "ambush":And Marrow had put the blanket over me. }{TOLD_MARROW == "truth":And Marrow had only taken an ear. }{TOLD_MARROW == "wait":And Marrow had tied me to her, not to a tree. }I had done nothing. {WENT_IN:I had gone in after him.|I had stood on a bank.} Nobody hangs a squire for doing as he's told.
 Isolde's satchel lay open on the cart step, a yard from my hand.
@@ -333,7 +333,7 @@ Isolde began to count silver onto his breastplate. I could not get a breath to g
     "The wick," I said.
     "Louder."
     "The wick. The Lantern's wick." Marrow's fist was shaking in my hair. She was laughing.
-    "Then they would miss it," said Isolde. "So that is what the squire is for."
+    "Then they would miss it," said Isolde, "and go looking, and look under the canvas first. So that is what the squire is for."
 * [Beg]
     ~ SOLD = "begged"
     "Please," I said. "Please. I'll say what you like. I never saw it, I was asleep, I'll go back to the tubs, please—"
