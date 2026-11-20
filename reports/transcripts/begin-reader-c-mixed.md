@@ -5,21 +5,21 @@
 
 The Greywater was loud in the dark, fast and black and no deeper than my belt, and Sir Aubric Dane had decided to cross it drunk.
 
-I had been his squire six years. He could not be talked out of it.
+I had been his squire six years.
 
 "By sunrise, Wren," he said, again. "They'll ring every bell in Stint for the Lantern. I'll not turn up at noon like a tinker with a cough."
 
 "Yes, Sir Aubric," I said. Piss on your bells, I thought. My feet were wet.
 
-The songs called him the Lantern. Three days back he had talked the hill towns out of a ten-year war in one afternoon, and they had sent him off with two skins of their wine. He had drunk most of both.
+The hill towns had sent him off with two skins of their wine. He had drunk most of both.
 
-His escort had gone ahead to Stint, the next town, to get the ringers sober. That left him a squire, a guide, and a chronicler asleep in the cart, with wax in her ears against his singing. She was paid by the verse.
+His escort had gone ahead to Stint, the next town, to get the ringers sober. That left him a squire, a guide, and a chronicler asleep in the cart, with wax in her ears against his singing. She was paid by the verse, and she had the last one written already: he died old, in a bed. He had wept at it and paid her double.
 
 He sat his grey horse in full armor, polished for the bells by me.
 
-A light moved on the far bank, under the alders. That was Marrow, the guide. She had waded over to test the bottom and shouted back three words, and the words were "Wait for morning."
+A light moved on the far bank, under the alders. That was Marrow, the guide. She had waded over to test the bottom and shouted back three words: "Wait for morning."
 
-"Nine days to the capital, Wren. The council signs before it goes home for the winter, and the war's done," he said. "I promised the hill towns no one hangs. The council hates that. They'll swallow it from me. They'd not swallow it from any other man alive."
+"Ten years of war, Wren, and I talked the hill towns out of it in an afternoon. I promised them no one hangs." He slapped the oilskin case on his belt. "The council wants forty of them on a rope. But the whole country is singing about me, so they'll sign. Nine days to the capital, before they go home for the winter. From any other man's hand they'd wipe their arses on it."
 
 He held the last of the wine down to me. "Drink, Wren. Tomorrow you're squire to the man who ended the war. You'll never pay for a cup again."
 
@@ -104,7 +104,7 @@ And under the crying I thought, I won't have to be up before dawn to arm him.
 
 Then I sat back on my heels and did sums.
 
-Six years' wages, which he had always been about to pay. His purse hung on his belt. He gave silver to beggars where people could see, and owed it everywhere else. If I left it, it would be in somebody else's coat by morning.
+Six years' wages, which he had always been about to pay. His purse hung on his belt. He gave silver to beggars where people could see, and owed it everywhere else.
 
 **The game offers:**
 - Take your wages. Somebody will.
@@ -112,15 +112,15 @@ Six years' wages, which he had always been about to pay. His purse hung on his b
 
 I let it hang. I am not a thief. I weighed it in my hand first, only to be sure of that.
 
-My paper wanted his name, and he was past signing. I could sign it for him now, and who would say he hadn't? I put that thought down quickly. It would keep. Without him I was a laundress's child who could read.
+Then my paper, the one about the room. He was past signing it. But I could do his name, and now he could never say he hadn't. I left that thought where it lay. Without him I was a laundress's child who could read.
 
 Then there was the letter.
 
-It was on the same belt, in an oilskin case: the surrender. The council at Vellmouth, the capital, would never have let the hill towns off the rope for anyone but him. They would not do it for his corpse.
+It was still on his belt in its oilskin case: the surrender, for the council at Vellmouth, the capital. And he was not going to carry it in.
 
 Out on the water, Marrow's light had turned.
 
-The case was dry. With it in my shirt I was the Lantern's squire, carrying the peace. Without it I was a servant sitting by a body.
+The case was dry. Whoever held it was worth keeping alive. Whoever held it was worth robbing, too.
 
 **The game offers:**
 - **▶ Take it**  (chosen)

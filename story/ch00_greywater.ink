@@ -12,16 +12,16 @@
 # scene: s01_ford
 # panel: greywater_ford_night
 The Greywater was loud in the dark, fast and black and no deeper than my belt, and Sir Aubric Dane had decided to cross it drunk.
-I had been his squire six years. He could not be talked out of it.
+I had been his squire six years.
 "By sunrise, Wren," he said, again. "They'll ring every bell in Stint for the Lantern. I'll not turn up at noon like a tinker with a cough."
 "Yes, Sir Aubric," I said. Piss on your bells, I thought. My feet were wet.
 # know: aubric :: Sir Aubric Dane, called the Lantern. The only knight anyone has a ballad about. Drunk tonight.
-The songs called him the Lantern. Three days back he had talked the hill towns out of a ten-year war in one afternoon, and they had sent him off with two skins of their wine. He had drunk most of both.
-His escort had gone ahead to Stint, the next town, to get the ringers sober. That left him a squire, a guide, and a chronicler asleep in the cart, with wax in her ears against his singing. She was paid by the verse.
+The hill towns had sent him off with two skins of their wine. He had drunk most of both.
+His escort had gone ahead to Stint, the next town, to get the ringers sober. That left him a squire, a guide, and a chronicler asleep in the cart, with wax in her ears against his singing. She was paid by the verse, and she had the last one written already: he died old, in a bed. He had wept at it and paid her double.
 He sat his grey horse in full armor, polished for the bells by me.
-A light moved on the far bank, under the alders. That was Marrow, the guide. She had waded over to test the bottom and shouted back three words, and the words were "Wait for morning."
+A light moved on the far bank, under the alders. That was Marrow, the guide. She had waded over to test the bottom and shouted back three words: "Wait for morning."
 # know: marrow :: The road-guide. A deserter from the hill towns' side, paid in silver to know the fords. Said the river should wait for morning.
-"Nine days to the capital, Wren. The council signs before it goes home for the winter, and the war's done," he said. "I promised the hill towns no one hangs. The council hates that. They'll swallow it from me. They'd not swallow it from any other man alive."
+"Ten years of war, Wren, and I talked the hill towns out of it in an afternoon. I promised them no one hangs." He slapped the oilskin case on his belt. "The council wants forty of them on a rope. But the whole country is singing about me, so they'll sign. Nine days to the capital, before they go home for the winter. From any other man's hand they'd wipe their arses on it."
 He held the last of the wine down to me. "Drink, Wren. Tomorrow you're squire to the man who ended the war. You'll never pay for a cup again."
 He had never once paid me, either. But he said it so warmly that I forgot to mind. You warmed your hands at him and didn't count your fingers till later.
 * [Drink with him]
@@ -45,7 +45,7 @@ He was to sign my paper tomorrow. In six years I had not seen him sign a thing f
 * [Grab his bridle. He'll hate you for it.]
     ~ AT_FORD = "bridle"
     I caught the bridle. The horse tossed its head. Aubric leaned down, breathing wine, and unpicked my fingers one at a time, humming.
-    "I talked ten years of war to death in an afternoon," he said. "I believe I can manage a stream. You're a good squire, Wren. But you are a squire." He had stopped humming. "We'll talk about that door another day."
+    "I ended a war with my mouth," he said. "I believe I can manage a stream. You're a good squire, Wren. But you are a squire." He had stopped humming. "We'll talk about that door another day."
 * [Shout for Marrow. Let her be the one he blames.]
     ~ AT_FORD = "called"
     "Marrow!" Most of it was lost in the noise of the water. Over the river the light stopped, then began to move along the far bank, looking for the shallow way back.
@@ -73,7 +73,7 @@ A hand came out of the water, bare and white, opened, closed on nothing, and wen
     I came up and breathed and was sick down my own front. By the time I had a strap in my fist and had started to pull, he had stopped helping.
 * [Stay on the bank. Run for the rope.]
     ~ WENT_IN = false
-    There was a rope on the cart. I ran for it. A squire who drowns beside his knight is no use to anyone. I had polished that armor every night for six years. Let it rust.
+    There was a rope on the cart. I ran for it. I had polished that armor every night for six years. Let it rust.
     I fell twice in the slop, the second time with my knee on a stone. I threw the rope from the bank and it fell short. I threw it again and it went over him and he didn't take it. I could hear him. It was a noise like a man trying to shout through a wet cloth, and his heels were going on the stones, and I stood on the bank coiling the rope a third time, neatly, the way he liked it coiled.
     By the time I thought of the horse, the noise had stopped. I got a loop over the saddle as it floundered out, and it dragged him ashore by one stirrup, face down, with his mouth full of gravel.
 - It took longer to get him onto the stones than it had taken him to die.
@@ -88,18 +88,18 @@ I shook him. I thumped his breastplate with both fists, then heaved him over on 
 "Get up," I said. "Get up, you stupid old bastard." I was crying. I was so cold my teeth hurt.
 And under the crying I thought, I won't have to be up before dawn to arm him.
 Then I sat back on my heels and did sums.
-Six years' wages, which he had always been about to pay. His purse hung on his belt. He gave silver to beggars where people could see, and owed it everywhere else. If I left it, it would be in somebody else's coat by morning.
+Six years' wages, which he had always been about to pay. His purse hung on his belt. He gave silver to beggars where people could see, and owed it everywhere else.
 * [Take your wages. Somebody will.]
     ~ PURSE = true
     I pulled off the gloves he had given me to do it, and put them on again after. The purse didn't come to six weeks.
 * [Leave it on him.]
     I let it hang. I am not a thief. I weighed it in my hand first, only to be sure of that.
-- My paper wanted his name, and he was past signing. I could sign it for him now, and who would say he hadn't? I put that thought down quickly. It would keep. {AT_FORD == "bridle":He had been going to talk about it another day. }Without him I was a laundress's child who could read.
+- Then my paper, the one about the room. He was past signing it. But I could do his name, and now he could never say he hadn't. I left that thought where it lay. Without him I was a laundress's child who could read.
 Then there was the letter.
-It was on the same belt, in an oilskin case: the surrender. The council at Vellmouth, the capital, would never have let the hill towns off the rope for anyone but him. They would not do it for his corpse.
+It was still on his belt in its oilskin case: the surrender, for the council at Vellmouth, the capital. And he was not going to carry it in.
 # know: letter :: The surrender, signed by the hill towns on Aubric's word. The council in Vellmouth, the capital, must sign it too within nine days, and must not learn he is dead first, or the war starts again.
 Out on the water, Marrow's light had turned.
-The case was dry. With it in my shirt I was the Lantern's squire, carrying the peace. Without it I was a servant sitting by a body.
+The case was dry. Whoever held it was worth keeping alive. Whoever held it was worth robbing, too.
 * [Take it]
     ~ LETTER = "wren"
     The buckle was stiff with cold, and my hands were worse. I got it open and pushed the case inside my shirt, flat against my ribs. Then I did his buckle up again, so he would look right.
@@ -158,8 +158,8 @@ She got her breath. "So he didn't drown. Hill stragglers. Dark. An arrow, and hi
     She came round the body with a length of cord off the cart, and tied my left wrist to her right, with a knot I couldn't see. "So you don't decide somewhere else." Then she sat down against me with the knife across her knees. The cord was tight enough that my hand went cold.
 - { LETTER == "body":
     Her eyes went to the oilskin case on his belt. "That dry?"
-    It was. She kept her hands on her knees.
-    "My people signed that paper. Hill towns. It gets where it's going." She looked at me then, not at the case. "Somebody's got to carry it who they'll let through a gate."
+    She pulled its buckle a hole tighter.
+    "My people signed that paper. Hill towns. It gets where it's going." She looked at me then, not at the case. "It stays on him. Go near that belt, I'll know what for."
     ~ MARROW_KNOWS_LETTER = true
 - else:
     Her eyes went to his belt, and the empty buckle. "Where's his letter?"
