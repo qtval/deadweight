@@ -300,7 +300,7 @@ They went down the bank together, out of hearing, and left me with him.
 = s05b_price
 # scene: s05b_price
 # panel: greywater_breastplate_silver
-The mist lay on the gravel now. I sat by him with my hands in my armpits.
+The mist lay on the gravel now. I sat by him, hands in my armpits.
 Down the bank Isolde was talking and Marrow was not. I heard "three", and "river", and then Marrow said a number. Once she looked back at me, and then at the river. I had watched her look at fords like that all week.
 It was all right. They needed me. Somebody had to carry the pot and say he was sleeping, and his men knew me, and Isolde was clever and would see it, and if she didn't I would tell her. {TOLD_MARROW == "ambush":And Marrow had put the blanket over me. }{TOLD_MARROW == "truth":And Marrow had only taken an ear. }{TOLD_MARROW == "wait":And Marrow had tied me to her, not to a tree. }I had done nothing. {WENT_IN:I had gone in after him.|I had stood on a bank.} Nobody hangs a squire for doing as he's told.
 Isolde's satchel lay open on the cart step, a yard from my hand.

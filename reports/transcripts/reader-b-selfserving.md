@@ -266,7 +266,7 @@ They went down the bank together, out of hearing, and left me with him.
 
 * * *
 
-The mist lay on the gravel now. I sat by him with my hands in my armpits.
+The mist lay on the gravel now. I sat by him, hands in my armpits.
 
 Down the bank Isolde was talking and Marrow was not. I heard "three", and "river", and then Marrow said a number. Once she looked back at me, and then at the river. I had watched her look at fords like that all week.
 
