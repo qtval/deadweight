@@ -302,7 +302,7 @@ They went down the bank together, out of hearing, and left me with him.
 # panel: greywater_breastplate_silver
 The mist lay on the gravel now. I sat by him, hands in my armpits.
 Down the bank Isolde was talking and Marrow was not. I heard "three", and "river", and then Marrow said a number. Once she looked back at me, and then at the river. I had watched her look at fords like that all week.
-It was all right. They needed me. Somebody had to carry the pot and say he was sleeping, and his men knew me, and Isolde was clever and would see it, and if she didn't I would tell her. {TOLD_MARROW == "ambush":And Marrow had put the blanket over me. }{TOLD_MARROW == "truth":And Marrow had only taken an ear. }{TOLD_MARROW == "wait":And Marrow had tied me to her, not to a tree. }I had done nothing. {WENT_IN:I had gone in after him.|I had stood on a bank.} Nobody hangs a squire for doing as he's told.
+It was all right. They needed me. Somebody had to carry the pot, and his men knew me. {TOLD_MARROW == "ambush":And Marrow had put the blanket over me. }{TOLD_MARROW == "truth":And Marrow had only taken an ear. }{TOLD_MARROW == "wait":And Marrow had tied me to her, not to a tree. }I had done nothing. {WENT_IN:I had gone in after him.|I had stood on a bank.} Nobody hangs a squire for doing as he's told.
 Isolde's satchel lay open on the cart step, a yard from my hand.
 * [Read what she's written about him]
     ~ READ_BALLAD = true
@@ -311,7 +311,7 @@ Isolde's satchel lay open on the cart step, a yard from my hand.
 * [Stay where you are, by him]
     I stayed where I was, and put my hand on his breastplate, because it was something to hold. It was cold all the way through.
 - They came back up the bank. Marrow had her knife out and was looking at it, not at me.
-"Three can keep a secret if one of them is dead," Isolde said to her, quietly, as if I were the horse. "What would it cost, if the squire had gone into the river as well?"
+"The fewer of us who know, the cheaper this gets," Isolde said to her, quietly, as if I were the horse. "What would it cost, if the squire had gone into the river as well?"
 Marrow came round behind me. I heard her boots on the gravel and didn't turn round, because turning round would make it true. Then she had my hair in her fist and my head pulled back, and the knife under my jaw. "Ten."
 "Six."
 "Ten. It's me does it. And I'm sick after."
@@ -417,7 +417,7 @@ Before the canvas went over his hands, I saw my own. I was still wearing his glo
     I pulled them off and worked them onto his hands. His fingers had gone stiff. It took a while, and Marrow swore at me for every finger. He ought to go to his bells with his gloves on. Isolde stopped to watch me do it, and I took a little longer over the last one.
 * [Fold his hands on his sword, like the songs]
     ~ SELF = "peace"
-    I folded his hands on his sword hilt, the way they lie in the songs. Somebody would lift that canvas in the end, and he had to look like what we were selling. It was the peace I was thinking of. I kept the gloves on to do it.
+    I folded his hands on his sword hilt, the way they lie in the songs. Somebody would lift that canvas in the end, and he had to look like what we were selling. I kept the gloves on to do it.
 * [Keep them. He gave them to you.]
     ~ SELF = "wages"
     I kept them. They had fleece inside, and he had given them to me when no one was watching, which was the only time he ever gave me anything. If that was my six years' pay, I was having it.
@@ -489,7 +489,7 @@ About noon she stopped over a lot of fresh hoofprints. "Marshal's riders. Same w
 Vellmouth was eight days off by cart. We had eight left.
 Then Isolde went behind the hedge, and left her pen in the inkhorn on the tailboard.
 I had my promise out of the pack and unfolded. The room, the door, six years' wages, to his squire Wren. It wanted his name.{RING: His ring was no use without wax. A name only wants ink.}
-He would have signed it. He had said so last night. It wasn't forging. It was finishing his sentence. And she would not leave a pen lying twice.
+He would have signed it. He had said so last night. And she would not leave a pen lying twice.
 * [Sign it now, in his hand]
     ~ DEED = "signed"
     I signed it on the tailboard, by his feet. Aubric Dane, with the big loop he made when he was pleased. It was the best one I ever did.

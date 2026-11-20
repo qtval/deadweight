@@ -276,7 +276,7 @@ The mist lay on the gravel now. I sat by him, hands in my armpits.
 
 Down the bank Isolde was talking and Marrow was not. I heard "three", and "river", and then Marrow said a number. Once she looked back at me, and then at the river. I had watched her look at fords like that all week.
 
-It was all right. They needed me. Somebody had to carry the pot and say he was sleeping, and his men knew me, and Isolde was clever and would see it, and if she didn't I would tell her. And Marrow had only taken an ear. I had done nothing. I had gone in after him. Nobody hangs a squire for doing as he's told.
+It was all right. They needed me. Somebody had to carry the pot, and his men knew me. And Marrow had only taken an ear. I had done nothing. I had gone in after him. Nobody hangs a squire for doing as he's told.
 
 Isolde's satchel lay open on the cart step, a yard from my hand.
 
@@ -288,7 +288,7 @@ I stayed where I was, and put my hand on his breastplate, because it was somethi
 
 They came back up the bank. Marrow had her knife out and was looking at it, not at me.
 
-"Three can keep a secret if one of them is dead," Isolde said to her, quietly, as if I were the horse. "What would it cost, if the squire had gone into the river as well?"
+"The fewer of us who know, the cheaper this gets," Isolde said to her, quietly, as if I were the horse. "What would it cost, if the squire had gone into the river as well?"
 
 Marrow came round behind me. I heard her boots on the gravel and didn't turn round, because turning round would make it true. Then she had my hair in her fist and my head pulled back, and the knife under my jaw. "Ten."
 
@@ -390,7 +390,7 @@ Then Isolde went behind the hedge, and left her pen in the inkhorn on the tailbo
 
 I had my promise out of the pack and unfolded. The room, the door, six years' wages, to his squire Wren. It wanted his name.
 
-He would have signed it. He had said so last night. It wasn't forging. It was finishing his sentence. And she would not leave a pen lying twice.
+He would have signed it. He had said so last night. And she would not leave a pen lying twice.
 
 **The game offers:**
 - Sign it now, in his hand

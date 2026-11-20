@@ -13,22 +13,24 @@ Guiding rules (carried over from the previous project because they were right):
 
 ---
 
-## Where we are (updated 2026-11-20, midday)
+## Where we are (updated 2026-11-20, afternoon)
 
 **Owner's decision (2026-11-19, 20:21): perfect the prologue and chapter 1 scenes 1–5 before writing scenes 6–12.**
 
 **The demo runs from the prologue into chapter 1, scenes 1–5**, then the "End of the demo" card.
 
-**Prologue:** tic pass done ("nobody" cut to the limit; the story test passes it with 0 warnings). **Reader rounds 32 and 33 met every feel rule and First Law 4 on the same text, the first time in 33 rounds;** they failed clarity only (Isolde's reason for the murder; Marshal Sayle a bare name). Clarity lines added; round 34 on the fixed text: Isolde's reason no longer confusing, Sayle and one Marrow line still were (both fixed since, not re-read); humour and temptation 3.67 and First Law 3 that round.
+**Prologue panel:** 37 rounds, not passed, now one criterion short. Round 37 met every rule (feel, First Law 4, clarity, nothing lifted after one fix) except "endings land", where the editor gave 3. Since then: a borrowed proverb replaced, three explaining sentences cut. Rounds 32–33 had also met every feel rule and First Law 4 on one text, failing only clarity, which round 37 now passes. Report: `reports/readers/2026-11-19-prologue-26-31-ch01-3-6.md`.
 
-**Interface:** full screen review at phone, small-phone and landscape size with a new `npm run tour`. Eight faults fixed: the title still said "Prologue demo · About 10 minutes"; the prologue's last text showed behind the chapter 1 title card; "Continue to Chapter 1" was below a 14-item list; wrapped choice lines started under the number; the top bar wrapped on phones; the journal tabs ran off a 320 px screen and hid the close button; chapter 1's bar said "The road to Stint" in Stint; Settings said "Restart the prologue".
+**Chapter 1 scenes 1–5:** 22 rounds, plateau; line-edit rounds stopped; owner's call pending (merge the toll and the square, or accept).
+
+**Interface:** reviewed screen by screen on 20 Nov (`npm run tour`); eight faults fixed.
 
 **Tests:** all pass. Story test: all 217,728 prologue paths, then chapter 1 from 17 prologue end states (215,784 paths), 0 failures, 0 warnings; browser test 43/43.
 
 **Next tasks, in order (owner: no new scenes until these are done):**
-1. Prologue: two fresh panel rounds on the text as it stands (rounds 32–33 show it can meet every rule).
+1. Prologue: two fresh panel rounds (38 and 39) on the text exactly as it stands. If both meet every rule, the prologue passes.
 2. Owner's call: merge the toll and the square into one longer scene with Lidd, or accept chapter 1 scenes 1–5 as they are.
-3. Panels, when images exist (prompt packs `art/prompts/ch00.md`, `ch01.md`).
+3. Panels, when images exist.
 
 **One chat at a time:** `docs/IN_PROGRESS.md` is the lock. Read it first.
 
@@ -242,3 +244,4 @@ Combat systems, inventory, character creator beyond name/pronouns, voice acting,
 | 2026-11-20 | Stop line-edit panel rounds on chapter 1 scenes 1–5 at a plateau (rounds 16–22) | The remaining fails move with the reader on the same text; the First Law note is structural |
 | 2026-11-20 | Prologue: Isolde says why the squire is a risk before she prices the murder; Sayle given one concrete threat; Marrow's letter line made plain | Rounds 32–34: two readers each round could not see the motive or place Sayle |
 | 2026-11-20 | Interface fixes from the first screen tour (title copy, chapter card bleed-through, Continue position, choice wrapping, bar and journal tabs on small phones, chapter 1 place name, restart label); `npm run tour` added | Owner asked for a full interface review |
+| 2026-11-20 | Prologue: the Marshal named in Aubric's first speech; Isolde's motive in her own money terms; three explaining sentences cut | Rounds 35–37: clarity (Sayle late, Isolde's turn), a borrowed proverb, the editor's "every scene ends on a click" |
