@@ -13,13 +13,13 @@ I had been his squire six years. He could not be talked out of it.
 
 The songs called him the Lantern. Three days back he had talked the hill towns out of a ten-year war in one afternoon, and they had sent him off with two skins of their wine. He had drunk most of both.
 
-His escort had gone ahead to Stint, the next town, to get the ringers sober. That left him a squire, a guide, and a chronicler asleep in the cart, with wax in her ears against his singing.
+His escort had gone ahead to Stint, the next town, to get the ringers sober. That left him a squire, a guide, and a chronicler asleep in the cart, with wax in her ears against his singing. She was paid by the verse.
 
 He sat his grey horse in full armor, polished for the bells by me.
 
 A light moved on the far bank, under the alders. That was Marrow, the guide. She had waded over to test the bottom and shouted back three words, and the words were "Wait for morning."
 
-"Stint tomorrow, Wren, and the capital in nine days. The council signs their surrender before it goes home for the winter, and the war's done," he said. "The hill towns took my word that no one hangs. Mine. They'd have taken no one else's."
+"Nine days to the capital, Wren. The council signs before it goes home for the winter, and the war's done," he said. "I promised the hill towns no one hangs. The council hates that. They'll swallow it from me. They'd not swallow it from any other man alive."
 
 He held the last of the wine down to me. "Drink, Wren. Tomorrow you're squire to the man who ended the war. You'll never pay for a cup again."
 
@@ -37,7 +37,7 @@ He sat up straight. "I shall be modest. 'Good people, I did nothing. A little ta
 
 "The boots are good, Sir Aubric."
 
-"Then they shout 'The Lantern!' and I wave. Like this." He waved, and nearly came off the horse. "And the Marshal has to stand beside me and clap. Ten years he's been paid to fight that war. Watch his face for me."
+"Then they shout 'The Lantern!' and I wave. Like this." He waved, and nearly came off the horse.
 
 "The third verse of my song doesn't scan, mind. I must have that mended before the bells. And you'll be paid, the day we ride in. And the room. A room in my house in the capital, with a door on it. Remind me of the door. Bring me that paper of yours in Stint and I'll sign it."
 
@@ -114,19 +114,17 @@ My paper wanted his name, and he was past signing. I could sign it for him now, 
 
 Then there was the letter.
 
-It was on the same belt, in an oilskin case: the surrender. The council in Vellmouth, the capital, would not sign it on a dead man's word. A dead man can't stop a hanging.
+It was on the same belt, in an oilskin case: the surrender. The council at Vellmouth would never have let the hill towns off the rope for anyone but him. They would not do it for his corpse.
 
 Out on the water, Marrow's light had turned.
 
-The case was dry. Whoever walked into the capital with that would be somebody.
-
-The light was nearly on me.
+The case was dry. Men had bowed to him for carrying it.
 
 **The game offers:**
 - **▶ Take it**  (chosen)
 - Leave it on his belt
 
-The buckle was stiff with cold, and my hands were worse. I got it open and pushed the case inside my shirt, flat against my ribs.
+The buckle was stiff with cold, and my hands were worse. I got it open and pushed the case inside my shirt, flat against my ribs. Then I did his buckle up again, so he would look right.
 
 
 * * *
@@ -147,7 +145,7 @@ She reached over him and took my wrist, and laid the flat of the blade on the in
 
 "Crown hero drowns at a ford," she said, all in one breath. "Guide that picked the ford used to fight for the hill towns. Who hangs? Guide hangs."
 
-I didn't answer. Two people had seen him drown, and she would be safer if it were one. She was working that out too.
+I didn't answer. I was the only other one who had seen it. I looked at the knife.
 
 She got her breath. "So he didn't drown. Hill stragglers. Dark. An arrow, and his sword out. Stragglers hang for that. They're hanging anyway."
 
