@@ -13,6 +13,9 @@ const root = resolve(dirname(new URL(import.meta.url).pathname), "..");
 const json = readFileSync(join(root, "src/generated/story.json"), "utf8");
 const out = join(root, "reports/transcripts");
 mkdirSync(out, { recursive: true });
+// --until <scene_id>: stop before that scene and write begin-<route>.md (for a panel on the opening scenes only).
+const untilAt = process.argv.indexOf("--until");
+const until = untilAt > -1 ? process.argv[untilAt + 1] : null;
 
 for (const [name, plan] of Object.entries(spec.readerRoutes)) {
   const story = new Story(json);
@@ -27,10 +30,12 @@ for (const [name, plan] of Object.entries(spec.readerRoutes)) {
         const [key, ...rest] = raw.split(":");
         const val = rest.join(":").trim();
         if (key.trim() === "title") md.push(`# ${val.replace("::", "—")}`, "");
+        if (key.trim() === "scene" && until && val === until) { chapterDone = true; break; }
         if (key.trim() === "scene") md.push("", "* * *", "");
         if (key.trim() === "chapterend") chapterDone = true; // the prologue transcript stops at the chapter break
         if (key.trim() === "remember") after.push(`> *${val.split("::")[1].trim()}*`, "");
       }
+      if (chapterDone && until) break;
       if (line) md.push(line, "");
       md.push(...after);
     }
@@ -41,6 +46,12 @@ for (const [name, plan] of Object.entries(spec.readerRoutes)) {
     md.push("**The game offers:**", ...choices.map((c, k) => `- ${k === i ? "**▶ " + c.text.trim() + "**  (chosen)" : c.text.trim()}`), "");
     story.ChooseChoiceIndex(i);
     picks++;
+  }
+  if (until) {
+    md.push("* * *", "", "*(The transcript stops here. The chapter goes on.)*", "");
+    writeFileSync(join(out, `begin-${name}.md`), md.join("\n"));
+    console.log(`transcript: reports/transcripts/begin-${name}.md (${picks} choices, up to ${until})`);
+    continue;
   }
   const recap = story.EvaluateFunction("recap", [], true).output.trim();
   const ballad = story.EvaluateFunction("ballad", [], true).output.trim();
