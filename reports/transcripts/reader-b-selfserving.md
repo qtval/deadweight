@@ -5,21 +5,21 @@
 
 The Greywater was loud in the dark, fast and black and no deeper than my belt, and Sir Aubric Dane had decided to cross it drunk.
 
-I had been his squire six years. He could not be talked out of it.
+I had been his squire six years.
 
 "By sunrise, Wren," he said, again. "They'll ring every bell in Stint for the Lantern. I'll not turn up at noon like a tinker with a cough."
 
 "Yes, Sir Aubric," I said. Piss on your bells, I thought. My feet were wet.
 
-The songs called him the Lantern. Three days back he had talked the hill towns out of a ten-year war in one afternoon, and they had sent him off with two skins of their wine. He had drunk most of both.
+The hill towns had sent him off with two skins of their wine. He had drunk most of both.
 
-His escort had gone ahead to Stint, the next town, to get the ringers sober. That left him a squire, a guide, and a chronicler asleep in the cart, with wax in her ears against his singing. She was paid by the verse.
+His escort had gone ahead to Stint, the next town, to get the ringers sober. That left him a squire, a guide, and a chronicler asleep in the cart, with wax in her ears against his singing. She was paid by the verse, and she had the last one written already: he died old, in a bed. He had wept at it and paid her double.
 
-He sat his grey horse in full armor, polished for the bells by me.
+He sat his grey horse in full armor, polished for the bells by me. The horse steamed. The air off the river smelled of cold stone and rotten leaves.
 
-A light moved on the far bank, under the alders. That was Marrow, the guide. She had waded over to test the bottom and shouted back three words, and the words were "Wait for morning."
+A light moved on the far bank, under the alders. That was Marrow, the guide. She had waded over to test the bottom and shouted back three words: "Wait for morning."
 
-"Nine days to the capital, Wren. The council signs before it goes home for the winter, and the war's done," he said. "I promised the hill towns no one hangs. The council hates that. They'll swallow it from me. They'd not swallow it from any other man alive."
+"Ten years of war, Wren, and I talked the hill towns out of it in an afternoon." He slapped the oilskin case on his belt. "Their surrender. All it cost was my word that no one hangs."
 
 He held the last of the wine down to me. "Drink, Wren. Tomorrow you're squire to the man who ended the war. You'll never pay for a cup again."
 
@@ -39,11 +39,13 @@ He sat up straight. "I shall be modest. 'Good people, I did nothing. A little ta
 
 "Then they shout 'The Lantern!' and I wave. Like this." He waved, and nearly came off the horse.
 
-"The third verse of my song doesn't scan, mind. I must have that mended before the bells. And you'll be paid, the day we ride in. And the room. A room in my house in the capital, with a door on it. Remind me of the door. Bring me that paper of yours in Stint and I'll sign it."
+"The council wants forty of those hill men on a rope, you know. They'll sign my peace all the same, with the whole country singing about me. Nine days to the capital, before the council goes home for the winter. From any other man's hand they'd wipe their arses on it."
+
+"The third verse of my song doesn't scan, mind. Have her mend it. And you'll be paid, the day we ride in. And the room. A room in my house in the capital, with a door on it. Remind me of the door. You wrote it all down, didn't you? Bring me the paper in Stint and I'll sign it."
 
 He had been promising me that room four years. It had not had a door before.
 
-I had it written out. I wrote all his letters, in his hand, and four winters running I had made a fair copy of that promise. I could do his name better than he could. While he lived that was no use. He would only say he had never signed it.
+I had it written out, four winters running, in a fair copy. I wrote all his letters, and did his name better than he could.
 
 He saw me shaking.
 
@@ -81,7 +83,7 @@ A hand came out of the water, bare and white, opened, closed on nothing, and wen
 - Go into the river after him
 - **▶ Stay on the bank. Run for the rope.**  (chosen)
 
-There was a rope on the cart. I ran for it. A squire who drowns beside his knight is no use to anyone. I had polished that armor every night for six years. Let it rust.
+There was a rope on the cart. I ran for it, and I was glad to have my back to the water.
 
 I fell twice in the slop, the second time with my knee on a stone. I threw the rope from the bank and it fell short. I threw it again and it went over him and he didn't take it. I could hear him. It was a noise like a man trying to shout through a wet cloth, and his heels were going on the stones, and I stood on the bank coiling the rope a third time, neatly, the way he liked it coiled.
 
@@ -102,7 +104,7 @@ And under the crying I thought, I won't have to be up before dawn to arm him.
 
 Then I sat back on my heels and did sums.
 
-Six years' wages, which he had always been about to pay. His purse hung on his belt. He gave silver to beggars where people could see, and owed it everywhere else. If I left it, it would be in somebody else's coat by morning.
+Six years' wages, which he had always been about to pay. His purse hung on his belt. He gave silver to beggars where people could see, and owed it everywhere else.
 
 **The game offers:**
 - **▶ Take your wages. Somebody will.**  (chosen)
@@ -110,15 +112,15 @@ Six years' wages, which he had always been about to pay. His purse hung on his b
 
 I pulled off the gloves he had given me to do it, and put them on again after. The purse didn't come to six weeks.
 
-My paper wanted his name, and he was past signing. I could sign it for him now, and who would say he hadn't? I put that thought down quickly. It would keep. Without him I was a laundress's child who could read.
+Then my paper, the one about the room. He was past signing it. But I could do his name, and now he could never say he hadn't. I left that thought where it lay. Without him I was a laundress's child who could read.
 
 Then there was the letter.
 
-It was on the same belt, in an oilskin case: the surrender. The council at Vellmouth, the capital, would never have let the hill towns off the rope for anyone but him. They would not do it for his corpse.
+It was still on his belt in its oilskin case: the surrender, for the council in the capital. And he was not going to carry it in.
 
 Out on the water, Marrow's light had turned.
 
-The case was dry. With it in my shirt I was the Lantern's squire, carrying the peace. Without it I was a servant sitting by a body.
+The case was dry. That was her people's paper in it, and she was coming with a knife on her belt.
 
 **The game offers:**
 - **▶ Take it**  (chosen)
@@ -129,7 +131,7 @@ The buckle was stiff with cold, and my hands were worse. I got it open and pushe
 
 * * *
 
-Marrow came up out of the river with her lantern, and stopped when the light reached him.
+Marrow came up out of the river with her lantern, smelling of wet wool, and stopped when the light reached him.
 
 She put her ear to his mouth and kept it there, too long. "Come on," she said, to him.
 
@@ -143,11 +145,11 @@ She crouched across the body from me. There was a short knife on her belt. I had
 
 She reached over him and took my wrist, and laid the flat of the blade on the inside of it, above the glove. She didn't press. Her hand was shaking worse than mine.
 
-"Crown hero drowns at a ford," she said, all in one breath. "Guide that picked the ford used to fight for the hill towns. Who hangs? Guide hangs."
+"Crown hero drowns at a ford," she said, in one breath. "Guide that picked the ford used to fight for the hill towns. Who hangs? Guide hangs."
 
 I didn't answer. I was the only other one who had seen it. I looked at the knife.
 
-She got her breath. "So he didn't drown. Hill stragglers. Dark. An arrow, and his sword out. Stragglers never signed. His promise doesn't cover them. They hang anyway."
+She got her breath. "So he didn't drown. He was shot, in the dark, with his sword out. There's hill men still in the woods who wouldn't sign. Outlaws. They did it. The Crown hangs them when it catches them, peace or no peace."
 
 **The game offers:**
 - **▶ Agree. An ambush, and nobody here hangs.**  (chosen)
@@ -228,7 +230,7 @@ Isolde sat down on the cart step and held her satchel.
 
 Isolde looked at the river for a while.
 
-"Then he is not dead. He has a fever. He rides under the canvas to Vellmouth, and the council signs at the door of his sickroom."
+"Then he is not dead. He has a fever. He rides under the canvas to the capital, and the council signs at the door of his sickroom."
 
 "Three of us know," said Marrow.
 
@@ -243,7 +245,7 @@ Isolde looked at the river for a while.
 
 "Hah," said Marrow.
 
-Isolde tore a strip from the foot of a page, wrote on her knee, and blew on it. "A place in a household in Vellmouth. Written down, this time."
+Isolde tore a strip from the foot of a page, wrote on her knee, and blew on it. "A place in a household in the capital. Written down, this time."
 
 She knew about the promise. He must have told her, the way he told everyone. I took the paper anyway, and I did not tell her about the one in my pack.
 

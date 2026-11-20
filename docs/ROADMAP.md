@@ -13,11 +13,11 @@ Guiding rules (carried over from the previous project because they were right):
 
 ---
 
-## Where we are (updated 2026-11-20, night)
+## Where we are (updated 2026-11-20, late night)
 
 **Owner's decisions:** no new scenes until what exists is perfected (19 Nov); chapter 1 scenes 1–5 stay as they are (20 Nov, 13:45); **the pass rule stays as it is, and the beginning must pass it first** (20 Nov, 15:26).
 
-**Current target: the opening (prologue scenes 1–4: the ford, the water, the bank, Marrow).** Readers get only those scenes (`node tools/make-transcripts.mjs --until s05_dawn`). Nine rounds so far (O1–O9), **not passed**. First Law feel has been 4 in eight rounds running (O2–O9); nothing lifted. O7, O8 and O9 each failed on one different criterion (endings 3.67, other people 3.67, temptation 3.33) and on clarity. Line fixes keep clearing the named confusions but three things recur and need a structural pass: the stakes are told twice and read as exposition; the narrator excuses each selfish choice straight after it, so temptation feels steered, and the letter choice has no cost; only Marrow is a person (the chronicler is one joke). The fixes after O9 are unread. Report: `reports/readers/2026-11-19-prologue-26-31-ch01-3-6.md`.
+**Current target: the opening (prologue scenes 1–4: the ford, the water, the bank, Marrow).** Readers get only those scenes (`node tools/make-transcripts.mjs --until s05_dawn`; run `npm run story` first, or the transcripts are stale). Twelve rounds so far (O1–O12), **not passed**. First Law feel 4 in eleven rounds running; nothing lifted. A structural pass went in before O10 (stakes said once, no self-excusing lines, a want for the chronicler). O10 met every score rule and failed on clarity only; O11 (same text) and O12 failed on temptation (3.67) and clarity. Temptation is the score that keeps failing: readers on the clean routes say the letter choice does nothing and that the choice they want, forging the signature, is raised and withheld. The briefing passages (Aubric's council speech, the escort and chronicler paragraph) are still named as exposition. The fixes after O12 are unread. Report: `reports/readers/2026-11-19-prologue-26-31-ch01-3-6.md`.
 
 **The demo runs from the prologue into chapter 1, scenes 1–5**, then the "End of the demo" card.
 
@@ -26,7 +26,7 @@ Guiding rules (carried over from the previous project because they were right):
 **Tests:** all pass. Story test: all 217,728 prologue paths, then chapter 1 from 17 prologue end states (215,784 paths), 0 failures, 0 warnings; browser test 43/43.
 
 **Next tasks, in order:**
-1. The opening: one structural pass (stakes said once; no self-excusing line after a selfish choice and a real cost on both sides of the letter choice; one want for the chronicler), then two fresh rounds (O10, O11); repeat until two rounds running pass every rule.
+1. The opening: make the forgery a real choice at the body (in place of, or beside, the letter take/leave choice); break the two briefing blocks into things Aubric lets slip; let a few paragraphs end flat. Then two fresh rounds (O13, O14); repeat until two rounds running pass every rule.
 2. Then the next stretch of the prologue (scenes 5–5b: Isolde, the price), the same way.
 3. When the owner sends the 13 panels: process, replace placeholders, test, screen tour, push.
 
@@ -247,4 +247,5 @@ Combat systems, inventory, character creator beyond name/pronouns, voice acting,
 | 2026-11-20 | Owner: keep the panel pass rule; get the beginning to pass it first, then continue. The panel now reads the opening (prologue scenes 1–4) on its own | Owner, 15:26 |
 | 2026-11-20 | Opening: briefing shortened; the Marshal moved into Aubric's vanity; one rationale for the letter; forgery thought and "dead man's word" made plain | Opening rounds O1–O3 |
 | 2026-11-20 | Opening: the Marshal removed from scenes 1–4 (Isolde introduces him); stakes speech rewritten as Aubric's boast; chronicler "paid by the verse"; Vellmouth named as the capital; stragglers "never signed"; next pass on the opening is structural, not line edits | Opening rounds O7–O9: each named confusion cleared, but exposition, steered temptation and a one-person cast recur |
+| 2026-11-20 | Opening structural pass: stakes said once (Aubric, split in two); self-excusing lines cut; chronicler given a want; leaving the letter has a result; Vellmouth not named until the price scene ("the capital" before that); ambush pitch spelled out. Next: the forgery becomes a choice | Opening rounds O10–O12: temptation fails on the clean routes because the letter choice does nothing and the forgery is withheld; Vellmouth confused readers in five rounds |
 | 2026-11-20 | Prologue: Isolde's pot line is a test, not a job, so her pricing Wren's death no longer contradicts her plan | Rounds 32–39: the most repeated clarity fault |

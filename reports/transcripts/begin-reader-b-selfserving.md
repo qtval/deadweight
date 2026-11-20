@@ -41,7 +41,7 @@ He sat up straight. "I shall be modest. 'Good people, I did nothing. A little ta
 
 "The council wants forty of those hill men on a rope, you know. They'll sign my peace all the same, with the whole country singing about me. Nine days to the capital, before the council goes home for the winter. From any other man's hand they'd wipe their arses on it."
 
-"The third verse of my song doesn't scan, mind. Have her mend it. And you'll be paid, the day we ride in. And the room. A room in my house in the capital, with a door on it. Remind me of the door. Bring me that paper of yours in Stint and I'll sign it."
+"The third verse of my song doesn't scan, mind. Have her mend it. And you'll be paid, the day we ride in. And the room. A room in my house in the capital, with a door on it. Remind me of the door. You wrote it all down, didn't you? Bring me the paper in Stint and I'll sign it."
 
 He had been promising me that room four years. It had not had a door before.
 
@@ -116,7 +116,7 @@ Then my paper, the one about the room. He was past signing it. But I could do hi
 
 Then there was the letter.
 
-It was still on his belt in its oilskin case: the surrender, for the council at Vellmouth, the capital. And he was not going to carry it in.
+It was still on his belt in its oilskin case: the surrender, for the council in the capital. And he was not going to carry it in.
 
 Out on the water, Marrow's light had turned.
 
@@ -149,7 +149,7 @@ She reached over him and took my wrist, and laid the flat of the blade on the in
 
 I didn't answer. I was the only other one who had seen it. I looked at the knife.
 
-She got her breath. "So he didn't drown. He was shot, in the dark, with his sword out. Hill stragglers did it, the ones who wouldn't sign. His promise never covered them. The Crown hangs those anyway."
+She got her breath. "So he didn't drown. He was shot, in the dark, with his sword out. There's hill men still in the woods who wouldn't sign. Outlaws. They did it. The Crown hangs them when it catches them, peace or no peace."
 
 **The game offers:**
 - **▶ Agree. An ambush, and nobody here hangs.**  (chosen)
