@@ -178,7 +178,7 @@ Her eyes went to the oilskin case on his belt. "That dry?"
 
 It was. She kept her hands on her knees.
 
-"People I know on that paper."
+"My people signed that paper. Hill towns. I want it where it's going."
 
 
 * * *
@@ -210,7 +210,7 @@ Isolde turned to me. "Wren. Tell me how he died."
 - Tell her Marrow's story: an ambush
 - Tell her he died saving you
 
-I told it straight: the wine, the armor, the hole in the ford. I was careful to get in what I had done to stop him.
+I told it straight: the wine, the armor, the hole in the ford. I made sure to put in everything I'd done to stop him.
 
 **The game offers:**
 - Tell her about your elbow
@@ -232,11 +232,11 @@ Isolde sat down on the cart step and held her satchel.
 
 "Ride the paper south," said Marrow. "Leave him."
 
-"The council will not sign it," said Isolde. "The hill towns signed because he swore that nobody would hang. The council signs under his name to keep that oath. A dead man keeps no oaths."
+"The council will not sign it," said Isolde. "The hill towns only signed because he gave his word that nobody would hang. The council will only sign while he is alive to keep it. A dead man keeps no promises."
 
 "Then they'd best sign before they hear."
 
-"They sit until the end of the month. Nine days. Then they go home until spring, and in spring the war starts again, and Marshal Sayle has it back. He has been paid for every year of it, and he would pay a great deal to see under that canvas."
+"They sit until the end of the month. Nine days. Then they go home until spring, and in spring the war starts again. Marshal Sayle has run it for ten years and been paid for every one. He would pay a great deal to see under that canvas."
 
 Isolde looked at the river for a while.
 

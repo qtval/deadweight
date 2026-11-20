@@ -159,7 +159,7 @@ She got her breath. "So he didn't drown. Hill stragglers. Dark. An arrow, and hi
 - { LETTER == "body":
     Her eyes went to the oilskin case on his belt. "That dry?"
     It was. She kept her hands on her knees.
-    "People I know on that paper."
+    "My people signed that paper. Hill towns. I want it where it's going."
     ~ MARROW_KNOWS_LETTER = true
 - else:
     Her eyes went to his belt, and the empty buckle. "Where's his letter?"
@@ -172,7 +172,7 @@ She got her breath. "So he didn't drown. Hill stragglers. Dark. An arrow, and hi
     ~ MARROW_KNOWS_LETTER = true
     ~ TRUST_MARROW += 1
     I opened my shirt far enough to show the oilskin. My fingers would hardly work the lacing. Marrow looked at it, then at me.
-    "Keep it there. Stop showing people. People I know on that paper."
+    "Keep it there. Stop showing people. My people signed that paper."
 * [Say you haven't seen it]
     ~ MARROW_KNOWS_LETTER = true
     ~ TRUST_MARROW -= 1
@@ -203,7 +203,7 @@ Marrow and I looked at each other.
 Isolde turned to me. "Wren. Tell me how he died."
 * [Tell her the truth: he drowned, drunk]
     ~ VERSION = "truth"
-    I told it straight: the wine, the armor, the hole in the ford. I was careful to get in what I had done to stop him{AT_FORD == "silent":, which took some arranging}.
+    I told it straight: the wine, the armor, the hole in the ford. I made sure to put in everything I'd done to stop him{AT_FORD == "silent":, which took some arranging}.
     { WENT_IN: -> truth_elbow }
     -> truth_told
 * [Tell her Marrow's story: an ambush]
@@ -262,9 +262,9 @@ Isolde looked at him. "Close his mouth. He looks surprised."
 I pushed his jaw up. It came down again. I tied it shut with my neckcloth.
 Isolde sat down on the cart step and held her satchel.
 "Ride the paper south," said Marrow. "Leave him."
-"The council will not sign it," said Isolde. "The hill towns signed because he swore that nobody would hang. The council signs under his name to keep that oath. A dead man keeps no oaths."
+"The council will not sign it," said Isolde. "The hill towns only signed because he gave his word that nobody would hang. The council will only sign while he is alive to keep it. A dead man keeps no promises."
 "Then they'd best sign before they hear."
-"They sit until the end of the month. Nine days. Then they go home until spring, and in spring the war starts again, and Marshal Sayle has it back. He has been paid for every year of it, and he would pay a great deal to see under that canvas."
+"They sit until the end of the month. Nine days. Then they go home until spring, and in spring the war starts again. Marshal Sayle has run it for ten years and been paid for every one. He would pay a great deal to see under that canvas."
 # know: sayle :: Marshal Sayle, who has commanded the army for all ten years of the war. If the Lantern is known to be dead before the council signs, he will have the surrender thrown out.
 Isolde looked at the river for a while.
 "Then he is not dead. He has a fever. He rides under the canvas to Vellmouth, and the council signs at the door of his sickroom."

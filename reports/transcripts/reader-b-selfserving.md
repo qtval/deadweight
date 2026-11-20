@@ -220,11 +220,11 @@ Isolde sat down on the cart step and held her satchel.
 
 "Ride the paper south," said Marrow. "Leave him."
 
-"The council will not sign it," said Isolde. "The hill towns signed because he swore that nobody would hang. The council signs under his name to keep that oath. A dead man keeps no oaths."
+"The council will not sign it," said Isolde. "The hill towns only signed because he gave his word that nobody would hang. The council will only sign while he is alive to keep it. A dead man keeps no promises."
 
 "Then they'd best sign before they hear."
 
-"They sit until the end of the month. Nine days. Then they go home until spring, and in spring the war starts again, and Marshal Sayle has it back. He has been paid for every year of it, and he would pay a great deal to see under that canvas."
+"They sit until the end of the month. Nine days. Then they go home until spring, and in spring the war starts again. Marshal Sayle has run it for ten years and been paid for every one. He would pay a great deal to see under that canvas."
 
 Isolde looked at the river for a while.
 
