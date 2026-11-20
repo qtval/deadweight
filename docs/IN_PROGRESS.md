@@ -12,4 +12,4 @@ One chat works on this repo at a time. This file is the lock.
 
 ## Current claim
 
-**FREE**
+**CLAIMED** — 2026-11-20 20:25 (Asia/Ho_Chi_Minh) — Prologue opening: structural pass, then rounds O10–O11 (roadmap: M1).
