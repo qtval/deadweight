@@ -21,7 +21,7 @@ Stint was the toll town, a day south. He had sent his escort ahead that morning 
 He sat his grey horse in full armor, polished for the bells. I had done the polishing.
 A light moved on the far bank, under the alders. That was Marrow, the guide. She had waded over to test the bottom and shouted back three words, and the words were "Wait for morning."
 # know: marrow :: The road-guide. A deserter from the hill towns' side, paid in silver to know the fords. Said the river should wait for morning.
-"Nine days, and the council signs the peace under my name, and the war's done," he said. "Under mine. They'd sign under nobody else's. The Marshal can go and find himself another war."
+"Nine days, and the council signs the peace under my name, and the war's done," he said. "Under mine. They'd sign under nobody else's. The Marshal who has been running it for ten years can go and find himself another."
 He held the last of the wine down to me. "Drink, Wren. Tomorrow you're squire to the man who ended the war. You'll never pay for a cup again."
 He had never once paid me, either. But he said it so warmly that I forgot to mind. You warmed your hands at him and didn't count your fingers till later.
 * [Drink with him]
@@ -312,7 +312,7 @@ Isolde's satchel lay open on the cart step, a yard from my hand.
     I stayed where I was, and put my hand on his breastplate, because it was something to hold. It was cold all the way through.
 - They came back up the bank. Marrow had her knife out and was looking at it, not at me.
 "The fewer of us who know, the cheaper this gets," Isolde said to her, quietly, as if I were the horse. "What would it cost, if the squire had gone into the river as well?"
-Marrow came round behind me. I heard her boots on the gravel and didn't turn round, because turning round would make it true. Then she had my hair in her fist and my head pulled back, and the knife under my jaw. "Ten."
+Marrow came round behind me. I heard her boots on the gravel and didn't turn round, because turning round would make it true. Then she had my hair in her fist and my head pulled back, and the knife under my jaw. "Ten silver."
 "Six."
 "Ten. It's me does it. And I'm sick after."
 Isolde began to count silver onto his breastplate. I could not get a breath to go in. I watched the coins. One. Two. Three. The fourth rolled off into the gravel, and she went down on her knees after it. The edge moved whenever Marrow breathed. My bladder went.
