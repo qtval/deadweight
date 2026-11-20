@@ -244,7 +244,7 @@ Isolde looked at the river for a while.
 
 "Three of us know," said Marrow.
 
-"Three of us know," said Isolde. She looked at me as if I were a line she meant to cut. "You carry out his pot, Wren, and you say he is sleeping. Well?"
+"Three of us know," said Isolde. She looked at me as if I were a line she meant to cut. "Could you carry out his pot for eight days, Wren, and tell his own men he is sleeping? Well?"
 
 **The game offers:**
 - Say you'll do it
@@ -253,7 +253,7 @@ Isolde looked at the river for a while.
 
 "It's madness," I said. Somebody ought to say so. "He's dead. Anyone who lifts that canvas—"
 
-"That is quite right, and I am obliged to you," said Isolde. "So when they lift it, a squire must be found under there, nursing his master. You will ride in the back and hold his hand." To Marrow she said, "The squire thinks it is madness. The squire will say so, in Stint, to someone."
+"That is quite right, and I am obliged to you," said Isolde. "So when they lift it, somebody must be under there nursing him, and it had better not be somebody who thinks it is madness." To Marrow she said, "The squire thinks it is madness. The squire will say so, in Stint, to someone."
 
 "He'll stink by day three," said Marrow.
 
@@ -369,7 +369,7 @@ Marrow cut the purse off his belt with one pull of the knife, weighed it, and pu
 
 "You didn't want it. I've carried him a night. That's mine."
 
-> *Marrow remembers you left the purse.*
+> *Marrow remembers you didn't take the purse when you could.*
 
 When it was done, Marrow wiped her hands on her coat and went to see to the horse.
 

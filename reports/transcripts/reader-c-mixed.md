@@ -244,7 +244,7 @@ Isolde looked at the river for a while.
 
 "Three of us know," said Marrow.
 
-"Three of us know," said Isolde. She looked at me as if I were a line she meant to cut. "You carry out his pot, Wren, and you say he is sleeping. Well?"
+"Three of us know," said Isolde. She looked at me as if I were a line she meant to cut. "Could you carry out his pot for eight days, Wren, and tell his own men he is sleeping? Well?"
 
 **The game offers:**
 - **▶ Say you'll do it**  (chosen)
@@ -344,7 +344,7 @@ I took the case out of my shirt and held it out. She had counted out seven for m
 
 "Thank you, Wren," she said. My ribs felt cold where it had been.
 
-"That's your neck you gave her," said Marrow, not quietly.
+"That was the only thing keeping you alive," said Marrow, not quietly. "And you gave it her."
 
 
 * * *
@@ -366,7 +366,7 @@ Marrow cut the purse off his belt with one pull of the knife, weighed it, and pu
 
 "You didn't want it. I've carried him a night. That's mine."
 
-> *Marrow remembers you left the purse.*
+> *Marrow remembers you didn't take the purse when you could.*
 
 When it was done, Marrow wiped her hands on her coat and went to see to the horse.
 

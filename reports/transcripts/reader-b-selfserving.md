@@ -232,7 +232,7 @@ Isolde looked at the river for a while.
 
 "Three of us know," said Marrow.
 
-"Three of us know," said Isolde. She looked at me as if I were a line she meant to cut. "You carry out his pot, Wren, and you say he is sleeping. Well?"
+"Three of us know," said Isolde. She looked at me as if I were a line she meant to cut. "Could you carry out his pot for eight days, Wren, and tell his own men he is sleeping? Well?"
 
 **The game offers:**
 - Say you'll do it

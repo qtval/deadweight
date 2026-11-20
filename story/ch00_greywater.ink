@@ -269,7 +269,7 @@ Isolde sat down on the cart step and held her satchel.
 Isolde looked at the river for a while.
 "Then he is not dead. He has a fever. He rides under the canvas to Vellmouth, and the council signs at the door of his sickroom."
 "Three of us know," said Marrow.
-"Three of us know," said Isolde. She looked at me as if I were a line she meant to cut. "You carry out his pot, Wren, and you say he is sleeping. Well?"
+"Three of us know," said Isolde. She looked at me as if I were a line she meant to cut. "Could you carry out his pot for eight days, Wren, and tell his own men he is sleeping? Well?"
 * [Say you'll do it]
     ~ PLAN = "agreed"
     ~ RING = true
@@ -286,7 +286,7 @@ Isolde looked at the river for a while.
 * [Tell her it's madness]
     ~ PLAN = "objected"
     "It's madness," I said. Somebody ought to say so. "He's dead. Anyone who lifts that canvas—"
-    "That is quite right, and I am obliged to you," said Isolde. "So when they lift it, a squire must be found under there, nursing his master. You will ride in the back and hold his hand." To Marrow she said, "The squire thinks it is madness. The squire will say so, in Stint, to someone."
+    "That is quite right, and I am obliged to you," said Isolde. "So when they lift it, somebody must be under there nursing him, and it had better not be somebody who thinks it is madness." To Marrow she said, "The squire thinks it is madness. The squire will say so, in Stint, to someone."
 - "He'll stink by day three," said Marrow.
 "Heroes do. We shall burn something."
 "And the guide that picked the ford?"
@@ -391,7 +391,7 @@ She knelt and unbuckled the case herself, and checked the seal.
     ~ TRUST_ISOLDE += 1
     I took the case out of my shirt and held it out. She had counted out seven for my throat. I would have given her my teeth. Isolde checked the seal, didn't open it, and put it in her satchel beside the ballad.
     "Thank you, Wren," she said. My ribs felt cold where it had been.
-    "That's your neck you gave her," said Marrow, not quietly.
+    "That was the only thing keeping you alive," said Marrow, not quietly. "And you gave it her."
 * [Keep it. "I'll carry it. I was his squire."]
     ~ LETTER = "wren"
     ~ TRUST_ISOLDE -= 1
@@ -447,7 +447,7 @@ Before the canvas went over his hands, I saw my own. I was still wearing his glo
 }
 { not PURSE:
     Marrow cut the purse off his belt with one pull of the knife, weighed it, and put it in her coat.
-    # remember: left_purse :: Marrow remembers you left the purse.
+    # remember: left_purse :: Marrow remembers you didn't take the purse when you could.
     "You didn't want it. I've carried him a night. That's mine."
 }
 { PURSE:
