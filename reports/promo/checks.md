@@ -1,0 +1,48 @@
+# Promo checks
+
+**Result: PASS** — 44/44
+
+- ✅ runs about a minute and a half (85-95 s) — 90.0s
+- ✅ 1920x1080 at 30 fps — 1920x1080 30/1
+- ✅ has sound
+- ✅ loudness near -16 LUFS (web/social standard) — -15.6 LUFS
+- ✅ true peak below -1 dBFS — -1.9 dBFS
+- ✅ game copy public/promo.mp4 exists and is under 15 MB — 6.9 MB
+- ✅ game copy public/promo.webm exists and is under 15 MB — 4.3 MB
+- ✅ full-size file under 60 MB — 18.8 MB
+- ✅ caption readable in time (6 words, 2.8s): The songs called him the Lantern.… — 2.1 words/s
+- ✅ caption readable in time (11 words, 3.4s): He had talked a ten-year war to death in… — 3.2 words/s
+- ✅ caption readable in time (8 words, 2.9s): I had been his squire six years, unpaid.… — 2.8 words/s
+- ✅ caption readable in time (14 words, 4.3s): “By sunrise, Wren,” he said. “They’ll ri… — 3.3 words/s
+- ✅ dialogue is in the game: “By sunrise, Wren,”
+- ✅ dialogue is in the game: “They’ll ring every bell in Stint for the Lantern.”
+- ✅ caption readable in time (8 words, 3.0s): He meant to cross the river tonight, dru… — 2.7 words/s
+- ✅ choice is word for word from the game: Grab his bridle. He’ll hate you for it.
+- ✅ choice is word for word from the game: Shout for Marrow. Let her be the one he blames.
+- ✅ choice is word for word from the game: Say nothing. Tomorrow he pays you.
+- ✅ choices stay up long enough to read before the pick — 2.8s
+- ✅ caption readable in time (12 words, 4.6s): He rode into the Greywater. It came no h… — 2.6 words/s
+- ✅ caption readable in time (14 words, 4.2s): A hand came out of the water, bare and w… — 3.3 words/s
+- ✅ caption readable in time (16 words, 5.6s): It took longer to get him onto the stone… — 2.9 words/s
+- ✅ caption readable in time (9 words, 2.9s): On his belt: the surrender that ended th… — 3.1 words/s
+- ✅ caption readable in time (11 words, 3.5s): The council would sign it for him and no… — 3.1 words/s
+- ✅ caption readable in time (12 words, 3.7s): “Crown hero drowns at a ford,” said Marr… — 3.2 words/s
+- ✅ dialogue is in the game: “Crown hero drowns at a ford,”
+- ✅ dialogue is in the game: “Who hangs?”
+- ✅ caption readable in time (2 words, 2.4s): “Guide hangs.”… — 0.8 words/s
+- ✅ dialogue is in the game: “Guide hangs.”
+- ✅ choice is word for word from the game: Agree. An ambush, and nobody here hangs.
+- ✅ choice is word for word from the game: Refuse, with her knife on your wrist
+- ✅ choice is word for word from the game: Tell her you’ll decide by dawn
+- ✅ choices stay up long enough to read before the pick — 2.5s
+- ✅ caption readable in time (12 words, 3.8s): “Then he is not dead,” said the chronicl… — 3.2 words/s
+- ✅ dialogue is in the game: “Then he is not dead,”
+- ✅ dialogue is in the game: “He has a fever.”
+- ✅ caption readable in time (7 words, 3.0s): “He’ll stink by day three,” said Marrow.… — 2.3 words/s
+- ✅ dialogue is in the game: “He’ll stink by day three,”
+- ✅ caption readable in time (10 words, 3.1s): Then they worked out what I would cost t… — 3.2 words/s
+- ✅ caption readable in time (8 words, 3.1s): “Ten silver,” said Marrow. “Six,” said t… — 2.6 words/s
+- ✅ dialogue is in the game: “Ten silver,”
+- ✅ dialogue is in the game: “Six,”
+- ✅ caption readable in time (5 words, 2.5s): Nine days to the capital.… — 2.0 words/s
+- ✅ caption readable in time (9 words, 3.8s): Carry the body. Carry the letter. Carry … — 2.4 words/s

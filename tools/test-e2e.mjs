@@ -13,7 +13,7 @@ const dist = join(root, "dist");
 const shots = join(root, "reports/screens");
 mkdirSync(shots, { recursive: true });
 
-const types = { ".html": "text/html", ".js": "text/javascript", ".css": "text/css", ".svg": "image/svg+xml", ".json": "application/json", ".webp": "image/webp" };
+const types = { ".html": "text/html", ".js": "text/javascript", ".css": "text/css", ".svg": "image/svg+xml", ".json": "application/json", ".webp": "image/webp", ".mp4": "video/mp4", ".webm": "video/webm", ".jpg": "image/jpeg" };
 const server = createServer((req, res) => {
   const p = join(dist, decodeURIComponent(req.url.split("?")[0]).replace(/\/$/, "/index.html"));
   if (!p.startsWith(dist) || !existsSync(p)) { res.writeHead(404); return res.end(); }
@@ -167,6 +167,33 @@ for (const [name, r] of Object.entries(ROUTES)) {
     await page.screenshot({ path: join(shots, "bank-choice.png") });
   }
   check("[save] no console or page errors", errors.length === 0, errors.slice(0, 2).join(" | "));
+  await ctx.close();
+}
+
+// --- trailer ------------------------------------------------------------------------
+{
+  const errors = [];
+  const { ctx, page } = await newPage(errors);
+  await page.goto(URL_);
+  check("[trailer] hidden on the title screen until it passes the viewer panel", await page.locator('[data-testid="trailer"]').count() === 0);
+  await page.goto(URL_ + "?trailer");
+  const btn = page.locator('[data-testid="trailer"]');
+  check("[trailer] title screen offers the trailer with ?trailer", await btn.count() === 1);
+  await btn.click();
+  const v = page.locator('[data-testid="trailer-player"] video');
+  check("[trailer] player opens", await v.count() === 1);
+  const meta = await v.evaluate((el) => new Promise((ok) => {
+    const done = () => ok({ w: el.videoWidth, h: el.videoHeight, d: el.duration, src: el.currentSrc.split("/").pop() });
+    if (el.readyState >= 1) return done();
+    el.addEventListener("loadedmetadata", done, { once: true });
+    setTimeout(() => ok({ w: 0, h: 0, d: 0, src: el.currentSrc, err: el.error && el.error.code }), 8000);
+  }));
+  check("[trailer] the film loads in the browser", meta.w === 1280 && meta.h === 720, JSON.stringify(meta));
+  check("[trailer] runs about a minute and a half", meta.d > 85 && meta.d < 95, `${Math.round(meta.d)}s`);
+  await page.screenshot({ path: join(shots, "trailer.png") });
+  await page.locator('[data-testid="trailer-close"]').click();
+  check("[trailer] closes back to the title screen", await page.locator('[data-testid="trailer-player"]').count() === 0 && await page.locator('[data-testid="begin"]').isVisible());
+  check("[trailer] no console or page errors", errors.length === 0, errors.slice(0, 2).join(" | "));
   await ctx.close();
 }
 

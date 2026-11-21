@@ -13,7 +13,9 @@
     "test:e2e": "node tools/test-e2e.mjs",
     "test": "npm run build && npm run test:e2e",
     "panels:placeholder": "python3 tools/make-placeholders.py",
-    "tour": "npm run build && node tools/screen-tour.mjs"
+    "tour": "npm run build && node tools/screen-tour.mjs",
+    "promo": "python3 tools/promo/render.py video && python3 tools/promo/review.py",
+    "promo:stills": "python3 tools/promo/render.py stills"
   },
   "dependencies": {
     "inkjs": "^2.4.0"

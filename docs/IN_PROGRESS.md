@@ -12,4 +12,4 @@ One chat works on this repo at a time. This file is the lock.
 
 ## Current claim
 
-**CLAIMED** — 2026-11-21 18:35 (Asia/Ho_Chi_Minh) — Promo video, 90 seconds (owner's request; decisions log).
+**FREE**

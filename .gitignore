@@ -10,3 +10,12 @@ reports/story-paths.json
 .env
 android/
 ios/
+
+# promo: big or rebuildable outputs (the film is rebuilt by npm run promo)
+reports/promo/parts/
+reports/promo/stills/
+reports/promo/silent.mp4
+reports/promo/sound.wav
+reports/promo/deadweight-promo.mp4
+reports/promo/contact-sheet.jpg
+reports/promo/stills.json

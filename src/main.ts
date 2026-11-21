@@ -234,10 +234,37 @@ function showTitle() {
         ${saved ? '<button class="btn" data-testid="continue">Continue</button><button class="btn ghost" data-testid="begin">Start over</button>'
                 : '<button class="btn" data-testid="begin">Begin</button>'}
       </div>
+      ${TRAILER ? '<button class="trailer-btn" data-testid="trailer">▶ Watch the trailer · 1:30</button>' : ""}
       <p class="quiet">About 25 minutes: the prologue and the start of chapter 1. Placeholder art; final panels will be illustrated. Contains war, death and coarse language.</p>
     </div>`;
   layer.querySelector('[data-testid="begin"]')!.addEventListener("click", () => start(null));
   layer.querySelector('[data-testid="continue"]')?.addEventListener("click", () => start(saved));
+  layer.querySelector('[data-testid="trailer"]')?.addEventListener("click", showTrailer);
+}
+
+// The promo film (tools/promo). Not in the single-file build, which must stay one self-contained page.
+// Shown on the title screen only with ?trailer in the address until it passes the viewer panel (tests/promo-panel.md).
+const TRAILER = import.meta.env.MODE !== "single" && new URLSearchParams(location.search).has("trailer");
+
+function showTrailer() {
+  const box = document.createElement("div");
+  box.className = "trailer";
+  box.setAttribute("role", "dialog");
+  box.setAttribute("aria-label", "Trailer");
+  box.dataset.testid = "trailer-player";
+  box.innerHTML = `
+    <video controls autoplay playsinline preload="metadata" poster="promo-poster.jpg">
+      <source src="promo.webm" type="video/webm" />
+      <source src="promo.mp4" type="video/mp4" />
+    </video>
+    <button class="btn ghost" data-testid="trailer-close">Close</button>`;
+  const close = () => { box.querySelector("video")?.pause(); box.remove(); document.removeEventListener("keydown", onKey); };
+  const onKey = (e: KeyboardEvent) => { if (e.key === "Escape") close(); };
+  box.querySelector('[data-testid="trailer-close"]')!.addEventListener("click", close);
+  box.querySelector("video")!.addEventListener("ended", close);
+  document.addEventListener("keydown", onKey);
+  document.body.appendChild(box);
+  (box.querySelector('[data-testid="trailer-close"]') as HTMLElement).focus();
 }
 
 function start(saved: Save | null) {

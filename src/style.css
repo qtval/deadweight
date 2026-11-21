@@ -179,3 +179,11 @@ button { font: inherit; color: inherit; }
   *, *::before, *::after { animation: none !important; transition: none !important; }
   .panel img.on { opacity: 1; }
 }
+
+/* Trailer */
+.trailer-btn { background: none; border: 0; padding: 6px 0; margin-top: 4px; align-self: flex-start; font-family: var(--label); font-size: 0.85rem;
+  letter-spacing: 0.08em; color: var(--brass); cursor: pointer; }
+.trailer-btn:hover { color: var(--bone); }
+.trailer { position: fixed; inset: 0; z-index: 50; background: rgba(8, 8, 7, 0.96); display: flex; flex-direction: column;
+  align-items: center; justify-content: center; gap: 14px; padding: 16px; }
+.trailer video { width: 100%; max-width: 960px; max-height: 80vh; background: #000; }

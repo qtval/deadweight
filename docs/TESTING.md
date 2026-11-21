@@ -76,3 +76,14 @@ The reader panel is a stand-in, not a replacement. When real players are availab
 ## Panel on part of a chapter
 
 `node tools/make-transcripts.mjs --until <scene_id>` writes `reports/transcripts/begin-<route>.md`, stopping before that scene. Used from 2026-11-20 to get the opening (prologue scenes 1–4, `--until s05_dawn`) through the panel on its own, under the same pass rule.
+
+## Promo film
+
+The 90-second promo is built entirely by code (`tools/promo/`): procedural ink-and-charcoal drawings, synthesised sound, captions and choice buttons laid over the pictures in the game's own fonts. Nothing is drawn by hand and nothing is borrowed.
+
+- `npm run promo:stills` draws key frames and `reports/promo/contact-sheet.jpg` in about a minute; look at them before a full render.
+- `npm run promo` renders the film (`reports/promo/deadweight-promo.mp4`, 1080p), the game's copies (`public/promo.mp4`, `public/promo.webm`, `public/promo-poster.jpg`), then runs the checks. Only shots whose code or settings changed are re-rendered.
+- `python3 tools/promo/review.py` checks length, frame rate, loudness (-16 LUFS), true peak, file sizes, that every caption can be read in the time it is on screen, that every quoted line and every choice label is word for word in the game's ink, and writes the review packet (`reports/promo/review/`). Report: `reports/promo/checks.md`.
+- The film is then judged by the blind viewer panel (`tests/promo-panel.md`), three fresh viewers per round, at most three rounds per task; results in `reports/promo/panel-*.md`.
+- The browser test opens the trailer from the title screen and checks that the film loads and runs about 90 seconds.
+- When real panels replace the placeholders, the promo's shots can be redrawn from them; the captions, choices, sound and checks stay as they are.
