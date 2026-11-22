@@ -1,6 +1,6 @@
 # Art bible — style setup and rules
 
-**Hand (decided 2026-11-22):** a field sketch in charcoal and ink on rough paper, as if drawn on the road by someone who was there: fast, smudged, unfinished, uneven pressure, construction lines left in, but dark: heavy charcoal and deep blacks. Each panel is a moment from Wren's eye. Style reference: `art/style/field-sketch-sample.jpg` (attach it to every request). Every result goes through the finishing step so the blacks, grain and amber match. No thumbprints or signature scribbles.
+**Hand (decided 2026-11-22):** a field sketch in charcoal and ink on rough paper, as if drawn on the road by someone who was there: fast, smudged, unfinished, uneven pressure, construction lines left in, with the sample's own darkness and grey paper (the owner preferred it to a darker version). Each panel is a moment from Wren's eye. Style reference: `art/style/field-sketch-sample.jpg` (attach it to every request). Every result gets only the light palette step (`tools/process-panel.mjs`: amber kept only on light, levels, grain), not the heavier ink finish, so the look stays as in the sample. No signature scribbles.
 
 **Look (decided 2026-10-25):** black-and-white ink and charcoal, with **one accent colour: amber**, used only for real light sources. The Lantern's light is the visual motif of the game: amber is warm and alive while he is; after the Greywater, it only comes from other people's lamps, fires and dawns.
 

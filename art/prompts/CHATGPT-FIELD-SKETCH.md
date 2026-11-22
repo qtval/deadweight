@@ -5,7 +5,7 @@ Open a NEW ChatGPT chat, attach the chosen style sample (style test, image 3: `a
 ```
 I'm attaching the style sample (a charcoal field sketch of a knight riding into a river at night). I need 13 illustrations for a grim visual novel, ALL in exactly this hand.
 
-STYLE FOR EVERY IMAGE: Match the attached field sketch: charcoal and ink on rough paper, drawn fast by someone who was there, smudged, unfinished, uneven pressure, construction lines left in. But DARKER than the sample: heavy charcoal, deep blacks, little bare grey paper. NO thumbprints, NO signature or scribble that looks like writing, NO text of any kind. No faces. Black, white and grey only; amber only where the scene says. Tall portrait 2:3, everything important in the top two thirds (the bottom third sits under the game's text).
+STYLE FOR EVERY IMAGE: Match the attached field sketch: charcoal and ink on rough paper, drawn fast by someone who was there, smudged, unfinished, uneven pressure, construction lines left in. Same darkness and paper as the sample. NO signature or scribble that looks like writing, NO text of any kind. No faces. Black, white and grey only; amber only where the scene says. Tall portrait 2:3, everything important in the top two thirds (the bottom third sits under the game's text).
 
 The narrator is a squire, Wren; every picture is a moment as Wren saw it, often with Wren's own gloved hands in the foreground. Nobody looks heroic.
 
