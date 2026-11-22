@@ -20,3 +20,9 @@ reports/promo/deadweight-promo.mp4
 reports/promo/contact-sheet.jpg
 reports/promo/stills.json
 art/engraved/
+# films: big or rebuildable outputs (rebuilt by python3 tools/films/film.py <film> video)
+reports/films/*/parts/
+reports/films/*/silent.mp4
+reports/films/*/sound.wav
+reports/films/*/deadweight-*.mp4
+reports/films/*/still_*.jpg

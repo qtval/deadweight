@@ -271,28 +271,30 @@ function showTitle() {
         ${saved ? '<button class="btn" data-testid="continue">Continue</button><button class="btn ghost" data-testid="begin">Start over</button>'
                 : '<button class="btn" data-testid="begin">Begin</button>'}
       </div>
-      ${TRAILER ? '<button class="trailer-btn" data-testid="trailer">▶ Watch the trailer · 1:30</button>' : ""}
+      ${TRAILER ? '<button class="trailer-btn" data-testid="intro-film">▶ Before the Greywater · 1:00</button><button class="trailer-btn" data-testid="trailer">▶ Watch the trailer · 1:30</button>' : ""}
       <p class="quiet">About 25 minutes: the prologue and the start of chapter 1. Contains war, death and coarse language.</p>
     </div>`;
   layer.querySelector('[data-testid="begin"]')!.addEventListener("click", () => start(null));
   layer.querySelector('[data-testid="continue"]')?.addEventListener("click", () => start(saved));
-  layer.querySelector('[data-testid="trailer"]')?.addEventListener("click", showTrailer);
+  layer.querySelector('[data-testid="trailer"]')?.addEventListener("click", () => showFilm("promo", "Trailer"));
+  layer.querySelector('[data-testid="intro-film"]')?.addEventListener("click", () => showFilm("intro", "Before the Greywater"));
 }
 
 // The promo film (tools/promo). Not in the single-file build, which must stay one self-contained page.
 // Shown on the title screen only with ?trailer in the address until it passes the viewer panel (tests/promo-panel.md).
 const TRAILER = import.meta.env.MODE !== "single" && new URLSearchParams(location.search).has("trailer");
 
-function showTrailer() {
+// Films (tools/films): vertical, made from the game's own panels.
+function showFilm(name: string, label: string) {
   const box = document.createElement("div");
   box.className = "trailer";
   box.setAttribute("role", "dialog");
-  box.setAttribute("aria-label", "Trailer");
+  box.setAttribute("aria-label", label);
   box.dataset.testid = "trailer-player";
   box.innerHTML = `
-    <video controls autoplay playsinline preload="metadata" poster="promo-poster.jpg">
-      <source src="promo.webm" type="video/webm" />
-      <source src="promo.mp4" type="video/mp4" />
+    <video controls autoplay playsinline preload="metadata" poster="${name}-poster.jpg">
+      <source src="${name}.webm" type="video/webm" />
+      <source src="${name}.mp4" type="video/mp4" />
     </video>
     <button class="btn ghost" data-testid="trailer-close">Close</button>`;
   const close = () => { box.querySelector("video")?.pause(); box.remove(); document.removeEventListener("keydown", onKey); };

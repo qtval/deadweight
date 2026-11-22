@@ -248,11 +248,21 @@ async function tapOn(page) {
     el.addEventListener("loadedmetadata", done, { once: true });
     setTimeout(() => ok({ w: 0, h: 0, d: 0, src: el.currentSrc, err: el.error && el.error.code }), 8000);
   }));
-  check("[trailer] the film loads in the browser", meta.w === 1280 && meta.h === 720, JSON.stringify(meta));
+  check("[trailer] the film loads in the browser (vertical 720x1280)", meta.w === 720 && meta.h === 1280, JSON.stringify(meta));
   check("[trailer] runs about a minute and a half", meta.d > 85 && meta.d < 95, `${Math.round(meta.d)}s`);
   await page.screenshot({ path: join(shots, "trailer.png") });
   await page.locator('[data-testid="trailer-close"]').click();
   check("[trailer] closes back to the title screen", await page.locator('[data-testid="trailer-player"]').count() === 0 && await page.locator('[data-testid="begin"]').isVisible());
+  await page.locator('[data-testid="intro-film"]').click();
+  const iv = page.locator('[data-testid="trailer-player"] video');
+  const im = await iv.evaluate((el) => new Promise((ok) => {
+    const done = () => ok({ w: el.videoWidth, h: el.videoHeight, d: el.duration });
+    if (el.readyState >= 1) return done();
+    el.addEventListener("loadedmetadata", done, { once: true });
+    setTimeout(() => ok({ w: 0, h: 0, d: 0 }), 8000);
+  }));
+  check("[film] Before the Greywater loads (vertical, about a minute)", im.w === 720 && im.h === 1280 && im.d > 50 && im.d < 80, JSON.stringify(im));
+  await page.locator('[data-testid="trailer-close"]').click();
   check("[trailer] no console or page errors", errors.length === 0, errors.slice(0, 2).join(" | "));
   await ctx.close();
 }

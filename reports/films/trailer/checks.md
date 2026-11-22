@@ -1,0 +1,67 @@
+# Deadweight — trailer — checks
+
+**PASS** 63/63
+
+- ✅ length 85-95 s — 90.0s
+- ✅ 1080x1920 at 30 fps (vertical, phone)
+- ✅ loudness near -16 LUFS — -16.4
+- ✅ true peak below -1 dBFS — -3.7
+- ✅ game copy promo.mp4 under 15 MB — 8.3 MB
+- ✅ game copy promo.webm under 15 MB — 13.1 MB
+- ✅ panel exists: greywater_ford_night
+- ✅ readable in time (6 w / 3.5s): The songs called him the Lantern.… — 1.7 w/s
+- ✅ panel exists: greywater_ford_night
+- ✅ readable in time (11 w / 4.2s): He had talked a ten-year war to death … — 2.6 w/s
+- ✅ panel exists: greywater_ford_night
+- ✅ readable in time (8 w / 3.2s): I had been his squire six years, unpai… — 2.5 w/s
+- ✅ panel exists: greywater_ford_night
+- ✅ readable in time (6 w / 2.6s): He rode into the shallows, drunk.… — 2.3 w/s
+- ✅ choice word for word from the game: Grab his bridle. He’ll hate you for it.
+- ✅ choice word for word from the game: Shout for Marrow. Let her be the one he blames.
+- ✅ choice word for word from the game: Say nothing. Tomorrow he pays you.
+- ✅ choices up long enough to read — 2.6s
+- ✅ panel exists: greywater_water_churn
+- ✅ readable in time (10 w / 3.5s): A hand came out of the water, bare and… — 2.9 w/s
+- ✅ panel exists: greywater_water_churn
+- ✅ readable in time (7 w / 3.5s): I ran for the rope. Too late.… — 2.0 w/s
+- ✅ panel exists: greywater_bank_body
+- ✅ readable in time (8 w / 3.2s): The river came no higher than his belt… — 2.5 w/s
+- ✅ panel exists: greywater_bank_body
+- ✅ readable in time (16 w / 5.0s): It took longer to get him onto the sto… — 3.2 w/s
+- ✅ panel exists: greywater_bank_body
+- ✅ readable in time (9 w / 3.1s): On his belt: the surrender that ended … — 3.0 w/s
+- ✅ panel exists: greywater_bank_body
+- ✅ readable in time (11 w / 3.5s): The council would sign it for him and … — 3.2 w/s
+- ✅ panel exists: greywater_marrow_wading
+- ✅ readable in time (12 w / 3.9s): “Crown hero drowns at a ford,” said Ma… — 3.1 w/s
+- ✅ dialogue is in the game: “Crown hero drowns at a ford,”
+- ✅ dialogue is in the game: “Who hangs?”
+- ✅ panel exists: greywater_marrow_wading
+- ✅ readable in time (11 w / 3.5s): She picked the ford, and once fought f… — 3.2 w/s
+- ✅ panel exists: greywater_marrow_wading
+- ✅ readable in time (4 w / 2.5s): “Guide hangs,” she said.… — 1.6 w/s
+- ✅ dialogue is in the game: “Guide hangs,”
+- ✅ choice word for word from the game: Agree. An ambush, and nobody here hangs.
+- ✅ choice word for word from the game: Refuse, with her knife on your wrist
+- ✅ choice word for word from the game: Tell her you’ll decide by dawn
+- ✅ choices up long enough to read — 2.6s
+- ✅ panel exists: greywater_dawn_cart
+- ✅ readable in time (10 w / 3.5s): The chronicler had slept through it al… — 2.9 w/s
+- ✅ panel exists: greywater_dawn_cart
+- ✅ readable in time (11 w / 3.5s): “Then he is not dead,” she said. “He h… — 3.2 w/s
+- ✅ dialogue is in the game: “Then he is not dead,”
+- ✅ dialogue is in the game: “He has a fever.”
+- ✅ panel exists: greywater_dawn_cart
+- ✅ readable in time (7 w / 2.9s): “He’ll stink by day three,” said Marro… — 2.5 w/s
+- ✅ dialogue is in the game: “He’ll stink by day three,”
+- ✅ panel exists: greywater_breastplate_silver
+- ✅ readable in time (9 w / 3.2s): Then they worked out what killing me w… — 2.9 w/s
+- ✅ panel exists: greywater_breastplate_silver
+- ✅ readable in time (8 w / 2.9s): “Ten silver,” said Marrow. “Six,” said… — 2.8 w/s
+- ✅ dialogue is in the game: “Ten silver,”
+- ✅ dialogue is in the game: “Six,”
+- ✅ panel exists: road_to_stint_morning
+- ✅ readable in time (5 w / 2.5s): Eight days to the capital.… — 2.0 w/s
+- ✅ panel exists: road_to_stint_morning
+- ✅ readable in time (9 w / 3.1s): Carry the body. Carry the letter. Carr… — 3.0 w/s
+- ✅ panel exists: greywater_ford_night
