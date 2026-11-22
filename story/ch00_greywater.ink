@@ -18,7 +18,7 @@ I had been his squire six years.
 # know: aubric :: Sir Aubric Dane, called the Lantern. The only knight anyone has a ballad about. Drunk tonight.
 The hill towns had sent him off with two skins of their wine. He had drunk most of both.
 His escort had gone ahead to Stint, the next town, to get the ringers sober. That left him a squire, a guide, and a chronicler asleep in the cart, with wax in her ears against his singing. She was paid by the verse, and she had the last one written already: he died old, in a bed. He had wept at it and paid her double.
-He sat his grey horse in full armor, polished for the bells by me. The horse steamed. The air off the river smelled of cold stone and rotten leaves.
+He sat his grey horse in full armor, polished for the bells by me. The horse steamed.
 A light moved on the far bank, under the alders. That was Marrow, the guide. She had waded over to test the bottom and shouted back three words: "Wait for morning."
 # know: marrow :: The road-guide. A deserter from the hill towns' side, paid in silver to know the fords. Said the river should wait for morning.
 "Ten years of war, Wren, and I talked the hill towns out of it in an afternoon." He slapped the oilskin case on his belt. "Their surrender. All it cost was my word that no one hangs."
@@ -34,10 +34,10 @@ He had never once paid me, either. But he said it so warmly that I forgot to min
 - He sat up straight. "I shall be modest. 'Good people, I did nothing. A little talking.' Then I look at my boots. Do I look at my boots, or is that too much?"
 "The boots are good, Sir Aubric."
 "Then they shout 'The Lantern!' and I wave. Like this." He waved, and nearly came off the horse.
-"The council wants forty of those hill men on a rope, you know. They'll sign my peace all the same, with the whole country singing about me. Nine days to the capital, before the council goes home for the winter. From any other man's hand they'd wipe their arses on it."
-"The third verse of my song doesn't scan, mind. Have her mend it. And you'll be paid, the day we ride in. And the room. A room in my house in the capital, with a door on it. Remind me of the door. You wrote it all down, didn't you? Bring me the paper in Stint and I'll sign it."
+"The council wants forty of those hill men on a rope, you know." He belched. "They'll sign my peace anyway. Nine days to the capital. From any other man's hand they'd wipe their arses on it."
+Nine days of him being modest, I thought.
+"And you'll be paid, the day we ride in. And the room. A room in my house, with a door on it. You wrote it all down, didn't you? Bring me the paper in Stint and I'll sign it."
 He had been promising me that room four years. It had not had a door before.
-I had it written out, four winters running, in a fair copy. I wrote all his letters, and did his name better than he could.
 He saw me shaking.
 He pulled off his riding gloves, the fleece-lined ones, and dropped them into my hands. "Can't have you sneezing through my triumph. Your mother would never forgive me. How is her chest?"
 My mother washed shirts for the army and had spoken to him once. He had asked after her chest every winter since. I put the gloves on.
@@ -89,13 +89,16 @@ I shook him. I thumped his breastplate with both fists, then heaved him over on 
 "Get up," I said. "Get up, you stupid old bastard." I was crying. I was so cold my teeth hurt.
 And under the crying I thought, I won't have to be up before dawn to arm him.
 Then I sat back on my heels and did sums.
-Six years' wages, which he had always been about to pay. His purse hung on his belt. He gave silver to beggars where people could see, and owed it everywhere else.
+Six years' wages, which he had always been about to pay. His purse hung on his belt. He gave silver to beggars where people could see, and owed it everywhere else. And in my pack was my paper, the room and the wages, wanting his name.
 * [Take your wages. Somebody will.]
     ~ PURSE = true
     I pulled off the gloves he had given me to do it, and put them on again after. The purse didn't come to six weeks.
-* [Leave it on him.]
+* [Leave the purse. Forge his name on your paper instead.]
+    ~ FORGE = true
+    I let the purse hang. Six weeks of silver, against a room with a door and six years owed. I wrote all his letters. I could do his name better than he could, and now he could never say he hadn't. I would sign my paper for him before Stint.
+* [Leave it all on him.]
     I let it hang. I am not a thief. I weighed it in my hand first, only to be sure of that.
-- Then my paper, the one about the room. He was past signing it. But I could do his name, and now he could never say he hadn't. I left that thought where it lay. Without him I was a laundress's child who could read.
+- Without him I was a laundress's child who could read.
 Then there was the letter.
 It was still on his belt in its oilskin case: the surrender, for the council in the capital. And he was not going to carry it in.
 # know: letter :: The surrender, signed by the hill towns on Aubric's word. The council in the capital must sign it too within nine days, and must not learn he is dead first, or the war starts again.
@@ -113,7 +116,7 @@ The case was dry. That was her people's paper in it, and she was coming with a k
 = s04_marrow
 # scene: s04_marrow
 # panel: greywater_marrow_wading
-Marrow came up out of the river with her lantern, smelling of wet wool, and stopped when the light reached him.
+Marrow came up out of the river with her lantern, and stopped when the light reached him.
 She put her ear to his mouth and kept it there, too long. "Come on," she said, to him.
 Then she sat up. "That's my fee gone.{AT_FORD == "called": Heard you shout. Should've run back. Didn't.}{AT_FORD == "silent": Saw you stood there. Never said a word to stop him.}"
 { AT_FORD == "called":
@@ -136,13 +139,13 @@ She crouched across the body from me. There was a short knife on her belt. I had
 She reached over him and took my wrist, and laid the flat of the blade on the inside of it, above the glove. She didn't press. Her hand was shaking worse than mine.
 "Crown hero drowns at a ford," she said, in one breath. "Guide that picked the ford used to fight for the hill towns. Who hangs? Guide hangs."
 I didn't answer. I was the only other one who had seen it. I looked at the knife.
-She got her breath. "So he didn't drown. He was shot, in the dark, with his sword out. There's hill men still in the woods who wouldn't sign. Outlaws. They did it. The Crown hangs them when it catches them, peace or no peace."
+She got her breath. "So he didn't drown. He was shot, in the dark, with his sword out. There's hill men still in the woods who wouldn't sign. Outlaws. They did it." She looked at his breastplate as if she was measuring it. "There's arrows in the cart. The Crown hangs them when it catches them, peace or no peace."
 * [Agree. An ambush, and nobody here hangs.]
     ~ TOLD_MARROW = "ambush"
     ~ TRUST_MARROW += 1
     "An ambush," I said. "I saw it."
     The knife came off my wrist. She looked at it, and put it away.
-    "Good. You learn quicker than he did." She unstoppered her flask and passed it over the body. It was hot all the way down.
+    "Good. You learn quicker than the Lantern did." She unstoppered her flask and raised it to the black woods across the water. "To the outlaws. Poor bastards." Then she passed it over the body. It was hot all the way down.
 * [Refuse, with her knife on your wrist]
     ~ TOLD_MARROW = "truth"
     ~ TRUST_MARROW -= 1
@@ -162,7 +165,7 @@ She got her breath. "So he didn't drown. He was shot, in the dark, with his swor
     "You left it." She looked at me then, not at the case. "My people signed that paper. It gets where it's going. It stays on him. Go near that belt, I'll know what for."
     ~ MARROW_KNOWS_LETTER = true
 - else:
-    Her eyes went to his belt, and the empty buckle. "Where's his letter?"
+    Her eyes went to his belt. She had seen the case on it from the water. "Where's his letter?"
     -> marrow_asks_letter
   }
   -> s05_dawn
@@ -488,7 +491,7 @@ By full light we were on the road south to Stint and his bells, with the Lantern
 About noon she stopped over a lot of fresh hoofprints. "Marshal's riders. Same way as us." If one of them looked under that canvas, Sayle had his war back by supper.
 Vellmouth was eight days off by cart. We had eight left.
 Then Isolde went behind the hedge, and left her pen in the inkhorn on the tailboard.
-I had my promise out of the pack and unfolded. The room, the door, six years' wages, to his squire Wren. It wanted his name.{RING: His ring was no use without wax. A name only wants ink.}
+I had my promise out of the pack and unfolded. The room, the door, six years' wages, to his squire Wren. It wanted his name.{FORGE: I had settled that on the bank.}{RING: His ring was no use without wax. A name only wants ink.}
 He would have signed it. He had said so last night. And she would not leave a pen lying twice.
 * [Sign it now, in his hand]
     ~ DEED = "signed"

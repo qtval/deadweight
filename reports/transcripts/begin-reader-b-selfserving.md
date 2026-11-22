@@ -15,7 +15,7 @@ The hill towns had sent him off with two skins of their wine. He had drunk most 
 
 His escort had gone ahead to Stint, the next town, to get the ringers sober. That left him a squire, a guide, and a chronicler asleep in the cart, with wax in her ears against his singing. She was paid by the verse, and she had the last one written already: he died old, in a bed. He had wept at it and paid her double.
 
-He sat his grey horse in full armor, polished for the bells by me. The horse steamed. The air off the river smelled of cold stone and rotten leaves.
+He sat his grey horse in full armor, polished for the bells by me. The horse steamed.
 
 A light moved on the far bank, under the alders. That was Marrow, the guide. She had waded over to test the bottom and shouted back three words: "Wait for morning."
 
@@ -39,13 +39,13 @@ He sat up straight. "I shall be modest. 'Good people, I did nothing. A little ta
 
 "Then they shout 'The Lantern!' and I wave. Like this." He waved, and nearly came off the horse.
 
-"The council wants forty of those hill men on a rope, you know. They'll sign my peace all the same, with the whole country singing about me. Nine days to the capital, before the council goes home for the winter. From any other man's hand they'd wipe their arses on it."
+"The council wants forty of those hill men on a rope, you know." He belched. "They'll sign my peace anyway. Nine days to the capital. From any other man's hand they'd wipe their arses on it."
 
-"The third verse of my song doesn't scan, mind. Have her mend it. And you'll be paid, the day we ride in. And the room. A room in my house in the capital, with a door on it. Remind me of the door. You wrote it all down, didn't you? Bring me the paper in Stint and I'll sign it."
+Nine days of him being modest, I thought.
+
+"And you'll be paid, the day we ride in. And the room. A room in my house, with a door on it. You wrote it all down, didn't you? Bring me the paper in Stint and I'll sign it."
 
 He had been promising me that room four years. It had not had a door before.
-
-I had it written out, four winters running, in a fair copy. I wrote all his letters, and did his name better than he could.
 
 He saw me shaking.
 
@@ -104,15 +104,16 @@ And under the crying I thought, I won't have to be up before dawn to arm him.
 
 Then I sat back on my heels and did sums.
 
-Six years' wages, which he had always been about to pay. His purse hung on his belt. He gave silver to beggars where people could see, and owed it everywhere else.
+Six years' wages, which he had always been about to pay. His purse hung on his belt. He gave silver to beggars where people could see, and owed it everywhere else. And in my pack was my paper, the room and the wages, wanting his name.
 
 **The game offers:**
 - **▶ Take your wages. Somebody will.**  (chosen)
-- Leave it on him.
+- Leave the purse. Your paper pays better, in his hand.
+- Leave it all on him.
 
 I pulled off the gloves he had given me to do it, and put them on again after. The purse didn't come to six weeks.
 
-Then my paper, the one about the room. He was past signing it. But I could do his name, and now he could never say he hadn't. I left that thought where it lay. Without him I was a laundress's child who could read.
+Without him I was a laundress's child who could read.
 
 Then there was the letter.
 
@@ -131,7 +132,7 @@ The buckle was stiff with cold, and my hands were worse. I got it open and pushe
 
 * * *
 
-Marrow came up out of the river with her lantern, smelling of wet wool, and stopped when the light reached him.
+Marrow came up out of the river with her lantern, and stopped when the light reached him.
 
 She put her ear to his mouth and kept it there, too long. "Come on," she said, to him.
 
@@ -149,7 +150,7 @@ She reached over him and took my wrist, and laid the flat of the blade on the in
 
 I didn't answer. I was the only other one who had seen it. I looked at the knife.
 
-She got her breath. "So he didn't drown. He was shot, in the dark, with his sword out. There's hill men still in the woods who wouldn't sign. Outlaws. They did it. The Crown hangs them when it catches them, peace or no peace."
+She got her breath. "So he didn't drown. He was shot, in the dark, with his sword out. There's hill men still in the woods who wouldn't sign. Outlaws. They did it." She looked at his breastplate as if she was measuring it. "There's arrows in the cart. The Crown hangs them when it catches them, peace or no peace."
 
 **The game offers:**
 - **▶ Agree. An ambush, and nobody here hangs.**  (chosen)
@@ -160,9 +161,9 @@ She got her breath. "So he didn't drown. He was shot, in the dark, with his swor
 
 The knife came off my wrist. She looked at it, and put it away.
 
-"Good. You learn quicker than he did." She unstoppered her flask and passed it over the body. It was hot all the way down.
+"Good. You learn quicker than the Lantern did." She unstoppered her flask and raised it to the black woods across the water. "To the outlaws. Poor bastards." Then she passed it over the body. It was hot all the way down.
 
-Her eyes went to his belt, and the empty buckle. "Where's his letter?"
+Her eyes went to his belt. She had seen the case on it from the water. "Where's his letter?"
 
 **The game offers:**
 - Show her you have it

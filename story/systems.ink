@@ -35,6 +35,8 @@ VAR ELBOW = ""
 
 // Wren's own paper: the room and the wages, written out by Wren, wanting Aubric's name. "signed" (forged on the road, the day after he died) | "waiting" (to be done in Vellmouth, with seal and witness)
 VAR DEED = ""
+// On the bank, Wren left the purse and decided to forge the paper instead (shown again on the road).
+VAR FORGE = false
 
 // What Wren did with Marrow's knife under the jaw while Isolde counted out the price: "hand" (sold the forging hand) | "face" (his men know Wren) | "begged"
 VAR SOLD = ""
