@@ -12,4 +12,4 @@ One chat works on this repo at a time. This file is the lock.
 
 ## Current claim
 
-**CLAIMED** — 2026-11-22 16:08 (Asia/Ho_Chi_Minh) — Demo: scene sound, paced text, then panels (owner's request; decisions log).
+**FREE**
