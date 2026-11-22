@@ -12,4 +12,4 @@ One chat works on this repo at a time. This file is the lock.
 
 ## Current claim
 
-**FREE**
+**CLAIMED** — 2026-11-22 19:32 (Asia/Ho_Chi_Minh) — Films: trailer rebuilt from the real panels, and a world-prologue film; then demo work (owner away 3 h).
