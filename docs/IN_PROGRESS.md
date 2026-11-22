@@ -12,4 +12,4 @@ One chat works on this repo at a time. This file is the lock.
 
 ## Current claim
 
-**CLAIMED** — 2026-11-22 17:16 (Asia/Ho_Chi_Minh) — Panels: anti-polish finishing pass and style-test prompts (owner's request).
+**FREE**
