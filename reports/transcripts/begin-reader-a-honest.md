@@ -39,23 +39,19 @@ He sat up straight. "I shall be modest. 'Good people, I did nothing. A little ta
 
 "Then they shout 'The Lantern!' and I wave. Like this." He waved, and nearly came off the horse.
 
-"The council wants forty of those hill men on a rope, you know." He belched. "They'll sign my peace anyway. Nine days to the capital. From any other man's hand they'd wipe their arses on it."
+"The council wants forty of those hill men on a rope, you know." He belched. "They'll sign my peace anyway. Stint tomorrow, then nine days on to the capital. From any other man's hand they'd wipe their arses on it."
 
 Nine days of him being modest, I thought.
 
 "And you'll be paid, the day we ride in. And the room. A room in my house, with a door on it. You wrote it all down, didn't you? Bring me the paper in Stint and I'll sign it."
 
-He had been promising me that room four years. It had not had a door before.
-
-He saw me shaking.
+He had been promising me that room four years. It had not had a door before. He saw me shaking.
 
 He pulled off his riding gloves, the fleece-lined ones, and dropped them into my hands. "Can't have you sneezing through my triumph. Your mother would never forgive me. How is her chest?"
 
 My mother washed shirts for the army and had spoken to him once. He had asked after her chest every winter since. I put the gloves on.
 
 He gathered the reins.
-
-He was to sign my paper tomorrow. In six years I had not seen him sign a thing for anybody who had crossed him the night before.
 
 **The game offers:**
 - **▶ Grab his bridle. He'll hate you for it.**  (chosen)
@@ -73,11 +69,11 @@ Then he put his heels to the horse and rode into the Greywater, sitting very str
 
 The horse went in to its belly, snorting. Halfway over, it put a hoof in a hole.
 
-It went down on one shoulder. Aubric went off sideways in sixty pounds of steel, and the river shut over him.
+It went down on one shoulder. Aubric went off sideways in sixty pounds of steel, and was gone.
 
 I waited for him to stand up. The river came no higher than his belt. Any moment he would stand up roaring and blame the horse, and I would spend tomorrow drying armor.
 
-A hand came out of the water, bare and white, opened, closed on nothing, and went back in.
+A hand came out of the water, bare and white, and groped about the way he reached for a cup in his sleep, and went back in.
 
 **The game offers:**
 - **▶ Go into the river after him**  (chosen)
@@ -87,7 +83,7 @@ I went in. My legs were numb before I had gone three steps. I went down on my ha
 
 He got a hand in my collar. He pulled me down onto his breastplate and held me under. I don't think he knew it was me.
 
-I couldn't get his fingers open. My chest was going. So I hit him. I hit the Lantern in the face with my elbow, three times, four, and felt something in his nose give, and he let go.
+I couldn't get his fingers open. I had no breath left. So I hit him. I hit the Lantern in the face with my elbow, three times, four, and felt something in his nose give, and he let go.
 
 I came up and breathed and was sick down my own front. By the time I had a strap in my fist and had started to pull, he had stopped helping.
 
@@ -100,7 +96,7 @@ He lay on his back on the gravel with the river running out of him. He smelled o
 
 I shook him. I thumped his breastplate with both fists, then heaved him over on his side. A great deal of water came out of him, and most of the wine, and no breath.
 
-"Get up," I said. "Get up, you stupid old bastard." I was crying. I was so cold my teeth hurt.
+"Get up," I said. "Get up, you stupid old bastard, they're ringing the bells for you, you owe me six years and a door, get up." I was crying, and so cold my teeth hurt, and angry with him the way you are with a dog that has run under a cart.
 
 And under the crying I thought, I won't have to be up before dawn to arm him.
 
@@ -110,18 +106,16 @@ Six years' wages, which he had always been about to pay. His purse hung on his b
 
 **The game offers:**
 - Take your wages. Somebody will.
-- **▶ Leave the purse. Your paper pays better, in his hand.**  (chosen)
+- **▶ Leave the purse. Forge his name on your paper instead.**  (chosen)
 - Leave it all on him.
 
-I let the purse hang. Six weeks of silver, against a room with a door and six years owed. I wrote all his letters. I could do his name better than he could, and now he could never say he hadn't. I would sign my paper for him before Stint.
+I let the purse hang. It wouldn't come to six weeks. I wrote all his letters, and I could do his name better than he could, and now there was nobody left to say it wasn't his. I would sign my paper for him before Stint.
 
 Without him I was a laundress's child who could read.
 
-Then there was the letter.
+Then there was the letter, still on his belt in its oilskin case: the surrender, for the council in the capital. And he was not going to carry it in.
 
-It was still on his belt in its oilskin case: the surrender, for the council in the capital. And he was not going to carry it in.
-
-Out on the water, Marrow's light had turned.
+Out on the water, Marrow's lantern was coming back across to us.
 
 The case was dry. That was her people's paper in it, and she was coming with a knife on her belt.
 
