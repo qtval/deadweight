@@ -12,4 +12,4 @@ One chat works on this repo at a time. This file is the lock.
 
 ## Current claim
 
-**CLAIMED** — 2026-11-22 17:46 (Asia/Ho_Chi_Minh) — Panels: rewrite the 13 demo prompts for the chosen field-sketch style.
+**FREE**

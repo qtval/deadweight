@@ -51,8 +51,8 @@ def finish(src, seed=1, strength=1.0):
     hue = np.zeros_like(mx)
     d = np.maximum(mx - mn, 1e-6)
     hue = np.where(mx == r, ((g - b) / d) % 6, np.where(mx == g, (b - r) / d + 2, (r - g) / d + 4)) * 60
-    amber = smooth(8, 22, hue) * (1 - smooth(52, 66, hue)) * smooth(0.25, 0.5, sat) * smooth(0.35, 0.6, mx)
-    amber = gaussian_filter(amber, 2.0)
+    amber = smooth(8, 22, hue) * (1 - smooth(52, 66, hue)) * smooth(0.22, 0.45, sat) * smooth(0.25, 0.5, mx)
+    amber = np.maximum(gaussian_filter(amber, 1.0), amber * 0.9)  # keep small lights (a far lantern is a few pixels)
     lum = 0.2126 * r + 0.7152 * g + 0.0722 * b
 
     # levels
@@ -110,7 +110,7 @@ def finish(src, seed=1, strength=1.0):
     glow = np.clip(am * (0.35 + gaussian_filter(lum, 3) * 1.1), 0, 1.2)
     glow = np.maximum(glow, gaussian_filter(glow, 14) * 0.6)
     rgb = rgb * (1 - np.clip(glow, 0, 1)[..., None] * 0.85) + AMBER * (np.clip(glow, 0, 1) * 0.95)[..., None] + np.array([255, 230, 190]) * np.clip(glow - 0.9, 0, 0.3)[..., None]
-    return Image.fromarray(np.clip(rgb, 0, 255).astype(np.uint8)), float((amber > 0.2).mean())
+    return Image.fromarray(np.clip(rgb, 0, 255).astype(np.uint8)), float((amber > 0.15).mean())
 
 
 if __name__ == "__main__":
@@ -126,11 +126,11 @@ if __name__ == "__main__":
         img, share = finish(src, seed=sum(map(ord, pid)), strength=strength)
         if preview:
             img.save(preview, quality=90)
-            print(f"{pid}: preview -> {preview} (amber {share * 100:.1f}%)")
+            print(f"{pid}: preview -> {preview} (amber {share * 100:.2f}% of pixels)")
         else:
             dest = os.path.join(ROOT, "assets", "panels", pid + ".webp")
             img.save(dest, quality=84)
             svg = os.path.join(ROOT, "assets", "panels", pid + ".svg")
             if os.path.exists(svg):
                 os.remove(svg)
-            print(f"{pid} -> {os.path.relpath(dest, ROOT)} (amber {share * 100:.1f}%)")
+            print(f"{pid} -> {os.path.relpath(dest, ROOT)} (amber {share * 100:.2f}% of pixels)")
