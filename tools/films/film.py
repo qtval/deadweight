@@ -31,6 +31,7 @@ def font(name, size):
 
 F_NARR = font("alegreya-latin-400-italic.ttf", 54)
 F_SAY = font("alegreya-latin-400-normal.ttf", 54)
+F_SONG = font("grenze-latin-700-normal.ttf", 58)
 F_CHOICE = font("alegreya-latin-400-normal.ttf", 44)
 F_KEY = font("alegreya-sans-sc-latin-500-normal.ttf", 34)
 F_TITLE = font("grenze-latin-700-normal.ttf", 168)
@@ -40,12 +41,14 @@ F_SMALL = font("alegreya-sans-sc-latin-500-normal.ttf", 34)
 
 class Shot:
     def __init__(self, name, dur, panel=None, cam=((0.5, 0.5, 1.0), (0.5, 0.5, 1.06)), captions=(), choices=None, title=None,
-                 fade_in=0.4, fade_out=0.4, sound=None, events=(), review=(), flicker=0.14, dim=0.0):
+                 fade_in=0.4, fade_out=0.4, sound=None, events=(), review=(), flicker=0.14, dim=0.0, tear=None):
         self.name, self.dur, self.panel, self.cam = name, dur, panel, cam
         self.captions, self.choices, self.title = list(captions), choices, title
         self.fade_in, self.fade_out = fade_in, fade_out
         self.sound = sound or {}
         self.events, self.review, self.flicker, self.dim = list(events), list(review), flicker, dim
+        # tear = (panel, cam_a, cam_b, t0, t1): the picture rips open from left to right between t0 and t1, showing panel
+        self.tear = tear
 
 
 def cut(name, dur, panel, a, b, text=None, style="narr", **kw):
@@ -65,12 +68,21 @@ def smooth(x):
 _src = {}
 
 
+def panel_file(panel):
+    """A game panel (assets/panels/<id>) or a film-only picture (assets/films/<folder>/<id>)."""
+    for base in (os.path.join(ROOT, "assets", "panels"), os.path.join(ROOT, "assets", "films")):
+        hits = [f for f in glob.glob(os.path.join(base, panel + ".*")) if not f.endswith(".svg")]
+        if hits:
+            return hits[0]
+    return None
+
+
 def source(panel):
     if panel not in _src:
         if panel is None:
             a = np.zeros((1536, 1024, 3), np.float32) + INK * 0.6
         else:
-            fn = [f for f in glob.glob(os.path.join(ROOT, "assets", "panels", panel + ".*")) if not f.endswith(".svg")][0]
+            fn = panel_file(panel)
             a = np.asarray(Image.open(fn).convert("RGB"), np.float32)
         mx, mn = a.max(-1), a.min(-1)
         sat = (mx - mn) / np.maximum(mx, 1)
@@ -134,7 +146,7 @@ def caption_layer(text, style):
     key = (text, style)
     if key in _caps:
         return _caps[key]
-    f = F_NARR if style == "narr" else F_SAY
+    f = {"narr": F_NARR, "say": F_SAY, "song": F_SONG}[style]
     lines = wrap(text, f, 930)
     lh = 72
     y0 = H - 230 - lh * len(lines)
@@ -186,15 +198,49 @@ def title_layer(t, spec):
     return np.asarray(img, np.float32) / 255.0
 
 
-def frame(shot, t, fi):
-    img, amb = source(shot.panel)
-    p = smooth(t / shot.dur)
-    (a0, b0, z0), (a1, b1, z1) = shot.cam
+def picture(panel, cam, p, t, flicker, seed):
+    img, amb = source(panel)
+    (a0, b0, z0), (a1, b1, z1) = cam
     box = cam_box(img, a0 + (a1 - a0) * p, b0 + (b1 - b0) * p, z0 + (z1 - z0) * p)
     rgb = np.asarray(img.resize((W, H), Image.BICUBIC, box=box), np.float32)
     m = np.asarray(amb.resize((W, H), Image.BILINEAR, box=box), np.float32)[..., None]
-    fl = shot.flicker * (0.6 * math.sin(t * 11.3 + len(shot.name)) + 0.4 * math.sin(t * 23.1) + 0.3 * math.sin(t * 4.7))
-    rgb = rgb * (1 + m * fl) + AMBER * m * max(0.0, fl) * 0.25
+    fl = flicker * (0.6 * math.sin(t * 11.3 + seed) + 0.4 * math.sin(t * 23.1) + 0.3 * math.sin(t * 4.7))
+    return rgb * (1 + m * fl) + AMBER * m * max(0.0, fl) * 0.25
+
+
+_jag = None
+
+
+def tear_edge():
+    """A ragged rip line (one x offset per row), fixed so it is the same in every frame."""
+    global _jag
+    if _jag is None:
+        rng = np.random.default_rng(23)
+        steps = rng.standard_normal(H).astype(np.float32)
+        walk = np.cumsum(steps) * 3.0
+        walk -= np.linspace(walk[0], walk[-1], H)
+        fine = gaussian_filter(rng.standard_normal(H).astype(np.float32), 1.2) * 9
+        _jag = walk + fine + np.linspace(-140, 140, H)  # leans a little, like a real rip
+    return _jag
+
+
+def frame(shot, t, fi):
+    p = smooth(t / shot.dur)
+    rgb = picture(shot.panel, shot.cam, p, t, shot.flicker, len(shot.name))
+    if shot.tear:
+        tp, ta, tb, t0, t1 = shot.tear
+        q = min(max((t - t0) / (t1 - t0), 0.0), 1.0)
+        if q > 0:
+            q = 1 - (1 - q) ** 2.2  # fast start, like a hand ripping paper
+            under = picture(tp, (ta, tb), min(max((t - t0) / (shot.dur - t0), 0.0), 1.0), t, 0.14, 7)
+            edge = (q * (W + 420) - 210 + tear_edge())[:, None]
+            xx = np.arange(W, dtype=np.float32)[None, :]
+            d = edge - xx  # > 0: torn away, showing what is under
+            rgb = np.where((d > 0)[..., None], under, rgb)
+            fringe = np.clip(1 - np.abs(d + 9) / 9, 0, 1)[..., None]  # pale paper fibres along the rip
+            rgb = rgb * (1 - fringe * 0.85) + np.array([238, 230, 210], np.float32) * fringe * 0.85
+            shade = np.clip(1 - (d - 2) / 26, 0, 1)[..., None] * (d > 0)[..., None]  # shadow under the torn lip
+            rgb = rgb * (1 - shade * 0.45)
     if shot.dim:
         rgb = rgb * (1 - shot.dim)
     rgb = rgb + grain(fi // 2) * 9
@@ -260,6 +306,26 @@ def soundtrack(path, shots):
     for f, a in ((174.61, 0.12), (220.0, 0.10), (261.63, 0.05)):
         upper += a * np.sin(2 * np.pi * f * tt * (1 + 0.003 * np.sin(2 * np.pi * 5.1 * tt)))
     beds["strings"] = np.stack([S.lp(upper, 1500)] * 2)
+    # lute: a plain ballad tune, plucked (decaying harmonics), for the song
+    lute = np.zeros(n, np.float32)
+    tune = [62, 66, 69, 66, 64, 62, 64, 66, 67, 66, 64, 62, 61, 62, 64, 57,
+            62, 66, 69, 71, 69, 67, 66, 64, 66, 64, 62, 61, 62, 57, 62, 62]
+    beat, k, ln = 0.46, 0, int(1.6 * SR)
+    pt = np.arange(ln) / SR
+    while k * beat < total:
+        midi = tune[k % len(tune)]
+        f = 440.0 * 2 ** ((midi - 69) / 12)
+        y = np.zeros(ln, np.float32)
+        for h, a in ((1, 1.0), (2, 0.5), (3, 0.28), (4, 0.14), (5, 0.07)):
+            y += (a * np.sin(2 * np.pi * f * h * pt) * np.exp(-pt * (2.6 + 2.2 * h))).astype(np.float32)
+        y *= np.minimum(1, pt / 0.004).astype(np.float32)
+        i0 = int(k * beat * SR)
+        S.add(lute, i0, y * (0.9 if k % 4 == 0 else 0.6))
+        if k % 4 == 0:  # a low drone string under each bar
+            fb = f / 2 if midi > 60 else f
+            S.add(lute, i0, (0.35 * np.sin(2 * np.pi * fb / 2 * pt) * np.exp(-pt * 1.6)).astype(np.float32))
+        k += 1
+    beds["lute"] = np.stack([lute, lute * 0.92])
     for k in beds:
         pts = [(0.0, 0.0)]
         for s, st in zip(shots, starts):
@@ -288,6 +354,12 @@ def soundtrack(path, shots):
             elif kind == "coins":
                 for k in range(4):
                     y = S.clink(rng, 0.35); S.add(L, i + int(k * 0.5 * SR), y); S.add(R, i + int(k * 0.5 * SR), y * 0.8)
+            elif kind == "rip":  # paper tearing: crackle in a rising band
+                ln = int(1.0 * SR)
+                x = np.arange(ln) / SR
+                crack = (rng.random(ln) < 0.06).astype(np.float32) * rng.standard_normal(ln).astype(np.float32)
+                y = S.bp(rng.standard_normal(ln).astype(np.float32) * 0.5 + crack * 3, 900, 7000) * np.exp(-x * 2.0) * np.minimum(1, x / 0.02)
+                S.add(L, i, y * 1.2); S.add(R, i, y)
             elif kind.startswith("bell"):
                 f0 = float(kind.split(":")[1]) if ":" in kind else 196.0
                 j, y = S.bell(st + et, 6, f0, 8, 0.15, rng)
@@ -314,11 +386,13 @@ def outdir(film):
 
 
 def signature(shot):
-    src = [repr((shot.dur, shot.panel, shot.cam, shot.captions, shot.choices, shot.title, shot.fade_in, shot.fade_out, shot.flicker, shot.dim))]
-    src.append(inspect.getsource(frame) + inspect.getsource(caption_layer) + inspect.getsource(choice_layer) + inspect.getsource(title_layer))
-    if shot.panel:
-        fn = [f for f in glob.glob(os.path.join(ROOT, "assets", "panels", shot.panel + ".*")) if not f.endswith(".svg")][0]
-        src.append(str(os.path.getsize(fn)))
+    src = [repr((shot.dur, shot.panel, shot.cam, shot.captions, shot.choices, shot.title, shot.fade_in, shot.fade_out, shot.flicker, shot.dim, shot.tear))]
+    src.append(inspect.getsource(frame) + inspect.getsource(picture) + inspect.getsource(tear_edge) + inspect.getsource(caption_layer)
+               + inspect.getsource(choice_layer) + inspect.getsource(title_layer))
+    for pn in (shot.panel, shot.tear[0] if shot.tear else None):
+        if pn:
+            fn = panel_file(pn)
+            src.append(f"{pn}:{os.path.getsize(fn)}:{int(os.path.getmtime(fn))}")
     return hashlib.sha1("\n".join(src).encode()).hexdigest()
 
 
@@ -433,7 +507,9 @@ def check(film):
     st, script = 0.0, []
     for s in mod.SHOTS:
         if s.panel:
-            ok(f"panel exists: {s.panel}", any(not f.endswith(".svg") for f in glob.glob(os.path.join(ROOT, "assets", "panels", s.panel + ".*"))))
+            ok(f"picture exists: {s.panel}", panel_file(s.panel) is not None)
+        if s.tear:
+            ok(f"picture exists: {s.tear[0]}", panel_file(s.tear[0]) is not None)
         for (t0, t1, text, style) in s.captions:
             words = len(text.split())
             ok(f"readable in time ({words} w / {t1 - t0:.1f}s): {text[:38]}…", words / (t1 - t0) <= 3.4 and t1 - t0 >= 2.4, f"{words / (t1 - t0):.1f} w/s")

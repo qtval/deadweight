@@ -1,37 +1,41 @@
-# Deadweight — Before the Greywater — checks
+# Deadweight — Before the Greywater (the ballad) — checks
 
-**PASS** 33/33
+**PASS** 37/37
 
-- ✅ length 54-80 s — 59.5s
+- ✅ length 54-70 s — 67.2s
 - ✅ 1080x1920 at 30 fps (vertical, phone)
-- ✅ loudness near -16 LUFS — -15.4
-- ✅ true peak below -1 dBFS — -5.5
-- ✅ game copy intro.mp4 under 15 MB — 5.0 MB
-- ✅ game copy intro.webm under 15 MB — 7.9 MB
-- ✅ panel exists: road_beech_wood_noon
-- ✅ readable in time (11 w / 3.9s): Ten years ago the hill towns refused a… — 2.9 w/s
-- ✅ panel exists: road_beech_wood_noon
-- ✅ readable in time (8 w / 3.1s): They hanged the men sent to collect it… — 2.6 w/s
-- ✅ panel exists: road_beech_wood_noon
-- ✅ readable in time (12 w / 4.5s): The Crown hanged some of theirs back, … — 2.7 w/s
-- ✅ panel exists: stint_square_bells
-- ✅ readable in time (13 w / 4.2s): It went on for ten years. Nobody could… — 3.1 w/s
-- ✅ panel exists: stint_bridge_dusk
-- ✅ readable in time (6 w / 2.7s): Then the songs found a hero.… — 2.3 w/s
-- ✅ panel exists: stint_bridge_dusk
-- ✅ readable in time (8 w / 3.2s): Sir Aubric Dane. They called him the L… — 2.5 w/s
-- ✅ panel exists: stint_bridge_dusk
-- ✅ readable in time (12 w / 4.0s): He went up into the hills with one pro… — 3.0 w/s
-- ✅ panel exists: stint_tollhouse
-- ✅ readable in time (6 w / 2.7s): The hill towns signed their surrender.… — 2.3 w/s
-- ✅ panel exists: stint_tollhouse
-- ✅ readable in time (15 w / 4.7s): The council in the capital would sign … — 3.2 w/s
-- ✅ panel exists: greywater_ford_night
-- ✅ readable in time (13 w / 4.2s): I was his squire. I carried his boots,… — 3.1 w/s
-- ✅ panel exists: greywater_ford_night
-- ✅ readable in time (13 w / 4.0s): A day short of the bells of Stint, we … — 3.2 w/s
-- ✅ panel exists: greywater_ford_night
-- ✅ readable in time (8 w / 3.1s): The songs will tell you how he died.… — 2.6 w/s
-- ✅ panel exists: greywater_ford_night
-- ✅ readable in time (3 w / 2.7s): I was there.… — 1.1 w/s
-- ✅ panel exists: greywater_ford_night
+- ✅ loudness near -16 LUFS — -16.2
+- ✅ true peak below -1 dBFS — -4.7
+- ✅ game copy intro.mp4 under 15 MB — 6.6 MB
+- ✅ game copy intro.webm under 15 MB — 12.5 MB
+- ✅ picture exists: ballad/standin/lantern
+- ✅ readable in time (8 w / 3.1s): This is the song they sing about him.… — 2.6 w/s
+- ✅ picture exists: ballad/standin/lantern
+- ✅ readable in time (6 w / 3.1s): Sir Aubric Dane, the Lantern bright,… — 1.9 w/s
+- ✅ readable in time (6 w / 3.1s): who never lost a single fight.… — 1.9 w/s
+- ✅ picture exists: ballad/standin/war
+- ✅ readable in time (8 w / 3.1s): Ten years the hill towns burned and bl… — 2.6 w/s
+- ✅ readable in time (7 w / 3.1s): ten years our sons came home dead.… — 2.3 w/s
+- ✅ picture exists: ballad/standin/ride
+- ✅ readable in time (8 w / 3.1s): He rode up to them with no sword,… — 2.6 w/s
+- ✅ readable in time (7 w / 3.1s): and ended it with one kind word.… — 2.3 w/s
+- ✅ picture exists: ballad/standin/surrender
+- ✅ readable in time (8 w / 3.1s): The hill towns knelt, and signed, and … — 2.6 w/s
+- ✅ readable in time (8 w / 3.1s): He gave his word. His word was kept.… — 2.6 w/s
+- ✅ picture exists: ballad/standin/bells
+- ✅ readable in time (8 w / 3.1s): So ring the bells in Stint for him,… — 2.6 w/s
+- ✅ readable in time (8 w / 3.1s): and fill his cup up to the brim.… — 2.6 w/s
+- ✅ picture exists: ballad/standin/deathbed
+- ✅ readable in time (8 w / 3.1s): He died in bed, grown old and grey,… — 2.6 w/s
+- ✅ readable in time (6 w / 3.1s): with every debt he owed repaid.… — 1.9 w/s
+- ✅ picture exists: ballad/standin/deathbed
+- ✅ picture exists: greywater_water_churn
+- ✅ picture exists: greywater_water_churn
+- ✅ readable in time (3 w / 2.5s): That's the song.… — 1.2 w/s
+- ✅ picture exists: greywater_ford_night
+- ✅ readable in time (12 w / 3.8s): He died drunk, in a river, a day short… — 3.2 w/s
+- ✅ picture exists: greywater_ford_night
+- ✅ readable in time (3 w / 2.5s): I was there.… — 1.2 w/s
+- ✅ picture exists: greywater_ford_night
+- ✅ readable in time (10 w / 3.5s): Nine days to the capital, with him and… — 2.9 w/s
+- ✅ picture exists: greywater_ford_night
