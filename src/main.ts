@@ -272,7 +272,7 @@ function showTitle() {
                 : '<button class="btn" data-testid="begin">Begin</button>'}
       </div>
       ${TRAILER ? '<button class="trailer-btn" data-testid="trailer">▶ Watch the trailer · 1:30</button>' : ""}
-      <p class="quiet">About 25 minutes: the prologue and the start of chapter 1. Placeholder art; final panels will be illustrated. Contains war, death and coarse language.</p>
+      <p class="quiet">About 25 minutes: the prologue and the start of chapter 1. Contains war, death and coarse language.</p>
     </div>`;
   layer.querySelector('[data-testid="begin"]')!.addEventListener("click", () => start(null));
   layer.querySelector('[data-testid="continue"]')?.addEventListener("click", () => start(saved));

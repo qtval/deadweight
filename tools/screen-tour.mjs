@@ -26,6 +26,8 @@ const browser = await chromium.launch();
 const errors = [];
 async function page(viewport) {
   const ctx = await browser.newContext({ viewport, deviceScaleFactor: 2, isMobile: true, hasTouch: true });
+  // Text "all at once" (a player setting) so the tour moves quickly; the reveal has its own browser test.
+  await ctx.addInitScript(() => { try { if (!localStorage.getItem("deadweight.prefs.v1")) localStorage.setItem("deadweight.prefs.v1", JSON.stringify({ reveal: false })); } catch {} });
   await ctx.route(/fonts\.(googleapis|gstatic)\.com/, (r) => r.fulfill({ status: 200, body: "", contentType: "text/css" }));
   const p = await ctx.newPage();
   p.on("pageerror", (e) => errors.push(String(e)));

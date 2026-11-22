@@ -12,4 +12,4 @@ One chat works on this repo at a time. This file is the lock.
 
 ## Current claim
 
-**CLAIMED** — 2026-11-22 18:33 (Asia/Ho_Chi_Minh) — Panels: the 13 Gemini field-sketch panels into the demo.
+**FREE**
