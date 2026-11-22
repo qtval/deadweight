@@ -35,8 +35,10 @@ const ROUTES = {
 const browser = await chromium.launch();
 const ctxOpts = { viewport: { width: 390, height: 844 }, deviceScaleFactor: 2, isMobile: true, hasTouch: true };
 
-async function newPage(errors) {
+async function newPage(errors, { reveal = false } = {}) {
   const ctx = await browser.newContext(ctxOpts);
+  // The route playthroughs read with text "all at once" (a player setting) so they stay fast; the reveal has its own test.
+  if (!reveal) await ctx.addInitScript(() => { try { if (!localStorage.getItem("deadweight.prefs.v1")) localStorage.setItem("deadweight.prefs.v1", JSON.stringify({ reveal: false })); } catch {} });
   // Web fonts come from Google Fonts, which CI sandboxes may block; stub them so only app errors count.
   await ctx.route(/fonts\.(googleapis|gstatic)\.com/, (r) => r.fulfill({ status: 200, body: "", contentType: "text/css" }));
   const page = await ctx.newPage();
@@ -167,6 +169,64 @@ for (const [name, r] of Object.entries(ROUTES)) {
     await page.screenshot({ path: join(shots, "bank-choice.png") });
   }
   check("[save] no console or page errors", errors.length === 0, errors.slice(0, 2).join(" | "));
+  await ctx.close();
+}
+
+// --- scene sound and paced text ------------------------------------------------------
+async function tapOn(page) {
+  if (await page.locator('[data-testid="chapter-card"]').count()) return page.locator('[data-testid="chapter-card"]').click();
+  if (await page.locator(".choice").count()) return page.locator(".choice").first().click();
+  return page.locator('[data-testid="stage"]').click({ position: { x: 195, y: 500 } });
+}
+{
+  const errors = [];
+  const { ctx, page } = await newPage(errors, { reveal: true });
+  await page.goto(URL_);
+  await page.locator('[data-testid="begin"]').click();
+  await page.waitForTimeout(400);
+  let snd = await page.evaluate(() => window.__sound());
+  check("[sound] starts after the first tap", snd.state === "running", JSON.stringify(snd));
+  check("[sound] the opening plays the ford at night", snd.scene === "greywater_ford_night", snd.scene);
+  await page.waitForTimeout(2500);
+  snd = await page.evaluate(() => window.__sound());
+  check("[sound] the river is up at the ford", snd.layers.river > 0.2 && snd.layers.crowd < 0.05, JSON.stringify(snd.layers));
+  // paced text: a paragraph of several sentences arrives one sentence at a time; a tap shows the rest, without moving on
+  let caught = null;
+  for (let i = 0; i < 40 && !caught; i++) {
+    await tapOn(page);
+    await page.waitForTimeout(80);
+    const n = await page.locator(".box .line .s").count();
+    if (n >= 3 && !(await page.locator(".box.shown").count())) {
+      const op = await page.locator(".box .line .s").last().evaluate((el) => +getComputedStyle(el).opacity);
+      caught = { op, text: (await page.locator(".box .line").innerText()).slice(0, 40) };
+    }
+  }
+  check("[reveal] long paragraphs arrive sentence by sentence", caught && caught.op < 0.5, JSON.stringify(caught));
+  if (caught) {
+    await page.locator('[data-testid="stage"]').click({ position: { x: 195, y: 500 } });
+    await page.waitForTimeout(80);
+    const after = (await page.locator(".box .line").innerText()).slice(0, 40);
+    const op2 = await page.locator(".box .line .s").last().evaluate((el) => +getComputedStyle(el).opacity);
+    check("[reveal] a tap shows the whole paragraph and stays on it", op2 > 0.99 && caught.text === after, `${op2} ${caught.text === after}`);
+  }
+  // the sound button mutes, and the choice is remembered
+  await page.locator('[data-testid="sound"]').click();
+  snd = await page.evaluate(() => window.__sound());
+  check("[sound] the button mutes", snd.muted === true && (await page.locator('[data-testid="sound"]').getAttribute("aria-pressed")) === "false");
+  await page.reload();
+  snd = await page.evaluate(() => window.__sound());
+  check("[sound] muting is remembered", snd.muted === true);
+  await page.locator('[data-testid="continue"], [data-testid="begin"]').first().click();
+  await page.waitForTimeout(300);
+  if (await page.locator('[data-testid="chapter-card"]').count()) await page.locator('[data-testid="chapter-card"]').click();
+  // settings: text all at once
+  await page.locator('[data-testid="journal"]').click();
+  await page.locator('.tab[data-tab="settings"]').click();
+  await page.locator('[data-reveal="off"]').click();
+  await page.locator(".sheet .close").click();
+  for (let i = 0; i < 6; i++) await tapOn(page);
+  check("[reveal] 'All at once' turns it off", (await page.locator(".box .line .s").count()) <= 1);
+  check("[sound] no console or page errors", errors.length === 0, errors.slice(0, 2).join(" | "));
   await ctx.close();
 }
 

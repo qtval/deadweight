@@ -97,3 +97,11 @@ See `docs/TESTING.md`. In short: `tools/test-story.mjs` plays every path exhaust
 - Target Android 10+ (the floor Capacitor 8 supports is higher than the game needs; verify at M7).
 - Store build: AAB, signed; closed test track first.
 - iOS is the same codebase plus a Mac and a developer account; decide at M7.
+
+## Sound (src/sound.ts)
+
+Scene sound is synthesised with WebAudio at run time: no audio files. A looping noise buffer feeds filtered layers (river, wind, leaves, crowd) and three detuned low oscillators make the drone; bells, birds, fire crackle, cart creaks and drips are scheduled at random from a 250 ms tick. Each panel id has a preset in `PRESETS` (layer levels and event rates); `showPanel` calls `sound.scene(id)` and the levels crossfade over about two seconds. Audio starts on the first tap (browser autoplay rule), suspends when the tab is hidden, and the mute choice is stored with the other preferences. A new panel needs a preset line, or it falls back to wind and drone. `window.__sound()` reports the state for the browser test.
+
+## Paced text
+
+`renderBeat` splits a paragraph into sentences and fades them in one after another (about 0.2–0.85 s each, by length); the tap hint and choices appear after the last. A tap while it is revealing shows the rest and does not advance. Preference `reveal` (Settings: line by line / all at once); off under `prefers-reduced-motion`. The browser test's route playthroughs run with it off for speed; a dedicated test covers it.

@@ -2,6 +2,7 @@ import { Story } from "inkjs";
 import storyJson from "./generated/story.json";
 import stats from "./generated/story-stats.json";
 import "./style.css";
+import { sound } from "./sound";
 
 // ---------------------------------------------------------------------------
 // Assets
@@ -69,7 +70,8 @@ app.innerHTML = `
   <div class="panel" aria-hidden="true"><img alt=""><img alt=""></div>
   <div class="bar" hidden>
     <span class="days" data-testid="days"></span>
-    <button class="journal-btn" data-testid="journal" aria-label="Open journal">Journal</button>
+    <span class="bar-btns"><button class="sound-btn" data-testid="sound" aria-label="Sound"></button>
+    <button class="journal-btn" data-testid="journal" aria-label="Open journal">Journal</button></span>
   </div>
   <div class="stage" data-testid="stage" hidden>
     <div class="box" aria-live="polite"></div>
@@ -82,9 +84,22 @@ const box = app.querySelector<HTMLElement>(".box")!;
 const layer = app.querySelector<HTMLElement>(".layer")!;
 const daysEl = app.querySelector<HTMLElement>(".days")!;
 const journalBtn = app.querySelector<HTMLButtonElement>(".journal-btn")!;
+const soundBtn = app.querySelector<HTMLButtonElement>(".sound-btn")!;
 
-const prefs = store.get<{ size?: string }>(PREF_KEY) ?? {};
+type Prefs = { size?: string; sound?: boolean; reveal?: boolean };
+const prefs: Prefs = store.get<Prefs>(PREF_KEY) ?? {};
+const setPref = (p: Prefs) => { Object.assign(prefs, p); store.set(PREF_KEY, prefs); };
 if (prefs.size) document.documentElement.dataset.size = prefs.size;
+sound.setMuted(prefs.sound === false);
+const reducedMotion = () => window.matchMedia?.("(prefers-reduced-motion: reduce)").matches ?? false;
+const gradual = () => prefs.reveal !== false && !reducedMotion();
+function updateSoundBtn() {
+  const on = !sound.muted;
+  soundBtn.setAttribute("aria-pressed", String(on));
+  soundBtn.setAttribute("aria-label", on ? "Sound on" : "Sound off");
+  soundBtn.innerHTML = on ? "&#9835;" : '<s>&#9835;</s>';
+}
+updateSoundBtn();
 
 const vars = (): Vars => {
   const o: Vars = {};
@@ -101,6 +116,7 @@ let front = 0;
 function showPanel(id: string | null) {
   if (!id || id === panel && imgs[front].classList.contains("on")) return;
   panel = id;
+  sound.scene(id);
   const url = panels[id];
   const next = imgs[1 - front];
   next.onload = () => { next.classList.add("on"); imgs[front].classList.remove("on"); front = 1 - front; };
@@ -171,10 +187,31 @@ function advance() {
   if (!queue.length && !story.canContinue && story.currentChoices.length) renderChoices(true);
 }
 
+// Paced reading: a paragraph appears sentence by sentence; a tap shows the rest at once.
+let revealing = false, revealTimer = 0, revealMs = 0;
+const sentences = (t: string) => t.match(/[^.!?…]+(?:[.!?…]+["”’)]*|$)\s*/g)?.filter((x) => x.trim()) ?? [t];
+function finishReveal() {
+  clearTimeout(revealTimer);
+  revealing = false;
+  box.classList.add("shown");
+}
 function renderBeat(b: Beat) {
   if (b.kind === "title") return;
   const cls = b.kind === "remember" ? "remember" : "line";
-  box.innerHTML = `<p class="${cls}">${fmt(b.text)}</p><span class="tap" aria-hidden="true">tap to continue</span>`;
+  clearTimeout(revealTimer);
+  box.classList.remove("shown");
+  const parts = b.kind === "text" && gradual() ? sentences(b.text) : [b.text];
+  let t = 0;
+  const html = parts.map((p, i) => {
+    const d = t;
+    t += Math.min(850, 160 + p.length * 9);
+    return i === 0 ? `<span class="s">${fmt(p)}</span>` : `<span class="s" style="animation-delay:${d}ms">${fmt(p)}</span>`;
+  }).join("");
+  revealMs = parts.length > 1 ? t - Math.min(850, 160 + parts[parts.length - 1].length * 9) + 450 : 0;
+  box.innerHTML = `<p class="${cls}">${html}</p><span class="tap" aria-hidden="true" style="animation-delay:${revealMs}ms">tap to continue</span>`;
+  box.style.setProperty("--after", `${revealMs}ms`);
+  revealing = revealMs > 0;
+  if (revealing) revealTimer = window.setTimeout(() => { revealing = false; }, revealMs);
 }
 
 function renderChoices(keepLine = false) {
@@ -279,6 +316,8 @@ function start(saved: Save | null) {
   } else store.del(SAVE_KEY);
   layer.innerHTML = "";
   bar.hidden = false; stage.hidden = false;
+  sound.unlock();
+  if (!panel) sound.scene("title");
   updateBar();
   advance();
 }
@@ -372,11 +411,24 @@ function openJournal(tab: Tab = "travelers") {
       const size = document.documentElement.dataset.size ?? "m";
       body.innerHTML = `<div><p class="note">Text size</p><div class="seg">${[["s", "Small"], ["m", "Medium"], ["l", "Large"]].map(([k, l]) =>
         `<button data-size="${k}" aria-pressed="${size === k}">${l}</button>`).join("")}</div></div>
+        <div><p class="note">Sound</p><div class="seg">${[["on", "On"], ["off", "Off"]].map(([k, l]) =>
+        `<button data-sound="${k}" aria-pressed="${(k === "on") === !sound.muted}">${l}</button>`).join("")}</div></div>
+        <div><p class="note">Text appears</p><div class="seg">${[["on", "Line by line"], ["off", "All at once"]].map(([k, l]) =>
+        `<button data-reveal="${k}" aria-pressed="${(k === "on") === (prefs.reveal !== false)}">${l}</button>`).join("")}</div></div>
         <button class="danger" data-testid="restart">Restart from the beginning</button>
         <p class="note">Your place is saved in this browser after every choice.</p>`;
       body.querySelectorAll<HTMLButtonElement>("[data-size]").forEach((b) => b.addEventListener("click", () => {
         document.documentElement.dataset.size = b.dataset.size!;
-        store.set(PREF_KEY, { size: b.dataset.size });
+        setPref({ size: b.dataset.size });
+        render("settings");
+      }));
+      body.querySelectorAll<HTMLButtonElement>("[data-sound]").forEach((b) => b.addEventListener("click", () => {
+        const on = b.dataset.sound === "on";
+        setPref({ sound: on }); sound.setMuted(!on); if (on) sound.unlock(); updateSoundBtn();
+        render("settings");
+      }));
+      body.querySelectorAll<HTMLButtonElement>("[data-reveal]").forEach((b) => b.addEventListener("click", () => {
+        setPref({ reveal: b.dataset.reveal === "on" });
         render("settings");
       }));
       const r = body.querySelector<HTMLButtonElement>('[data-testid="restart"]')!;
@@ -395,15 +447,25 @@ function openJournal(tab: Tab = "travelers") {
 
 // ---------------------------------------------------------------------------
 // Input
-stage.addEventListener("click", () => { if (!story?.currentChoices.length || queue.length) advance(); });
+stage.addEventListener("click", () => {
+  sound.unlock();
+  if (revealing) return finishReveal();
+  if (!story?.currentChoices.length || queue.length) advance();
+});
 journalBtn.addEventListener("click", (e) => { e.stopPropagation(); openJournal(); });
+soundBtn.addEventListener("click", (e) => {
+  e.stopPropagation();
+  const on = sound.muted;
+  setPref({ sound: on }); sound.setMuted(!on); if (on) sound.unlock(); updateSoundBtn();
+});
+(window as any).__sound = () => sound.debug();
 document.addEventListener("keydown", (e) => {
   if (app.querySelector(".sheet")) { if (e.key === "Escape") app.querySelector(".sheet")!.remove(); return; }
   if (stage.hidden || layer.innerHTML) return;
   if (story.currentChoices.length && !queue.length) {
     const n = Number(e.key);
     if (n >= 1 && n <= story.currentChoices.length) choose(n - 1);
-  } else if (e.key === " " || e.key === "Enter") { e.preventDefault(); advance(); }
+  } else if (e.key === " " || e.key === "Enter") { e.preventDefault(); sound.unlock(); if (revealing) finishReveal(); else advance(); }
 });
 
 // Keep a game in progress across a live republish of the page (artifact viewers only).

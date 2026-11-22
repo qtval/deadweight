@@ -82,6 +82,11 @@ button { font: inherit; color: inherit; }
   display: flex; flex-direction: column; justify-content: flex-end; gap: 14px;
 }
 .line { font-size: var(--text-size); line-height: 1.55; max-width: 34rem; margin: 0; text-wrap: pretty; animation: rise 0.45s ease both; }
+.line .s { animation: ink-in 0.55s ease both; }
+.box .tap, .box .choices { animation: ink-in 0.4s ease both; animation-delay: var(--after, 0ms); }
+.box.shown .s, .box.shown .tap, .box.shown .choices { animation: none; opacity: 1; filter: none; }
+@keyframes ink-in { from { opacity: 0; filter: blur(2px); } to { opacity: 1; filter: none; } }
+@media (prefers-reduced-motion: reduce) { .line .s, .box .tap, .box .choices { animation: none; } }
 .line em { font-style: italic; }
 .remember {
   font-style: italic; color: var(--brass); font-size: calc(var(--text-size) * 0.95);
@@ -187,3 +192,9 @@ button { font: inherit; color: inherit; }
 .trailer { position: fixed; inset: 0; z-index: 50; background: rgba(8, 8, 7, 0.96); display: flex; flex-direction: column;
   align-items: center; justify-content: center; gap: 14px; padding: 16px; }
 .trailer video { width: 100%; max-width: 960px; max-height: 80vh; background: #000; }
+
+/* Sound toggle */
+.bar-btns { display: flex; align-items: center; gap: 4px; flex: none; }
+.sound-btn { background: none; border: 0; color: var(--ash); font-size: 1.05rem; padding: 6px 10px; cursor: pointer; line-height: 1; }
+.sound-btn[aria-pressed="true"] { color: var(--brass); }
+.sound-btn s { text-decoration-thickness: 2px; }
